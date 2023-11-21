@@ -1,3 +1,9 @@
-*.dat text
-*.haz text
-*.w text
+**/*.dat text
+**/*.haz text
+**/*.w text
+**/*.rdb text
+**/*.ref text
+**/*.tdb text
+**/*.trk text
+**/*.rit text
+**/*.tit text
