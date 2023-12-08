@@ -1,12 +1,12 @@
 Goal:
-- Include full danish rail network as it was in 2024
+- Include full danish rail network as it is in 2024
 - Include railway lines under construction in 2024 as if they were finished
 	- The new high speed railway across western funen
 	- The new fehmern tunnel railway
 	- The new storstrøms bridge
 - Include international connections
 	- Padborg - Flensburg (Germany)
-	- Rødby - Oldenburg (Germany)
+	- Rødby - Lübeck (Germany)
 	- Kastrup - Malmö (Sweden)
 
 Project Plan:
