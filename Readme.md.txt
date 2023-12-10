@@ -1,10 +1,23 @@
 Goal:
-- Include full danish rail network as it is in 2024
+
+Include full danish rail network as it is in
+2024, albeit with some of the planned future
+changes cherry-picked (see below)
+
+Differences from the real DK2024 rail network:
 - Include railway lines under construction in 2024 as if they were finished
 	- The new high speed railway across western funen
 	- The new fehmern tunnel railway
 	- The new storstrøms bridge
-- Include international connections
+- Include some of the planned changes to the danish railway network
+	- Electrification from Fredericia to Aalborg
+	- Electrification from Næstved to the fehmern tunnel
+	- Planned max speed increase to 200 km/h between Odense and Nyborg
+	- Planned max speed increase to 200 km/h between Korsør and Slagelse
+	- Planned max speed increase to 200 km/h between Slagelse and Ringsted
+	- Max speed 250 on the new high speed rail lines
+
+Also include international connections:
 	- Padborg - Flensburg (Germany)
 	- Rødby - Lübeck (Germany)
 	- Kastrup - Malmö (Sweden)
