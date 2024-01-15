@@ -70,3 +70,38 @@ Expansion Steps:
 - v1.4.2: S-trains, Valby - Frederikssund
 - v1.4.3: S-trains, Ryparken - Farum
 - v1.4.4: S-trains, Jægersborg - Hillerød
+
+
+
+
+
+TODO's on existing track layout:
+- Fredericia rail yard
+	- Connect the northern end of the railyard
+	- Southern railyard and harbour tracks
+	- Tracks to Carlsberg underneath the mainline tracks
+- Taulov
+	- Last bit of the Kombiterminal
+- Between Fredericia and Snoghøj
+	- Adjust elevation
+- Tommerup
+	- Adjust the piece of track between the two mainline track switches at the southern end of the station area
+- West of Nyborg
+	- Adjust elevation so that embankments dont cut into the other track at the start of dronningebakken
+- Nyborg
+	- Southern end of the sidetracks needs to be sharper corners like the northern end
+- Great Belt tunnel
+	- Southern track has some elevation problems at the bottom part of the tunnel
+- High speed track across western funen
+	- Adjust elevation, needs to follow landscape more instead of having these deep cuts into the landscape
+
+
+
+
+Things I should do 3d modeling for:
+- Signs
+- Gantries
+- Stations
+- Recognisable buildings and other landmarks
+
+
