@@ -87,9 +87,6 @@ TODO's on existing track layout:
 	- Adjust the piece of track between the two mainline track switches at the southern end of the station area
 - Nyborg
 	- Southern end of the sidetracks needs to be sharper corners like the northern end
-- Great Belt tunnel
-	- Southern track has some elevation problems at the bottom part of the tunnel
-	- Create seperate shapes using the new texture, rename old texture back
 - High speed track across western funen
 	- Adjust elevation, needs to follow landscape more instead of having these deep cuts into the landscape
 
