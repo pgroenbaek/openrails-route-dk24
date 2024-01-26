@@ -24,31 +24,38 @@ Also include international connections:
 	- Kastrup - Malmö (Sweden)
 
 Project Plan:
-- Add all mainlines in version 1.0
-- Add branchlines with trains heading to Copenhagen in version 1.1
-- Add Jylland branchlines in version 1.2
-- Add Fyn/Sjælland other branchlines in version 1.3
-- Add Copenhagen S-trains in version 1.4
+- Add all mainlines in version 1.0 to 1.4
+- Add branchlines with trains heading to Copenhagen in version 1.5
+- Add Jylland branchlines in version 1.6
+- Add Fyn/Sjælland branchlines in version 1.7
+- Add Copenhagen S-trains in version 1.8
 
 Expansion Steps:
-- v0.1: Mainlines, Fredericia - Korsør
-- v0.2: Mainlines, Fredericia - Østerport/Kastrup
-- v0.3: Mainlines, Århus - Fredericia - Østerport/Kastrup
-- v0.4: Mainlines, Aalborg - Fredericia - Østerport/Kastrup
-- v0.5: Mainlines, Fredericia - Flensburg
-- v0.6: Mainlines, Kastrup - Malmö
-- v0.7: Mainlines, Ringsted - Nykøbing F.
-- v0.8: Mainlines, Esbjerg - Lunderskov
-- v0.9: Mainlines, Østerport - Helsingør
-- v1.0: Mainlines, Nykøbing F. - Lübeck
+- v1.0: Base
+	- Fredericia - Østerport/Kastrup
 
-- v1.1: Branchlines,
+- v1.1: Mainlines,
+	- Århus - Fredericia
+	- Tinglev - Taulov
+	- Esbjerg - Lunderskov
+	- Nykøbing F. - Ringsted
+
+- v1.3: International Mainlines,
+	- Tinglev - Flensburg
+	- Kastrup - Malmö
+	- Nykøbing F. - Lübeck
+
+- v1.4: Mainlines,
+	- Aalborg - Århus
+	- Østerport - Helsingør
+
+- v1.5: Branchlines,
 	Tinglev - Sønderborg
 	Struer - Vejle
 	Kalundborg - Roskilde
 	Næstved - Køge - Roskilde
 
-- v1.2: Branchlines,
+- v1.6: Branchlines,
 	Bramming - Tønder - Niebüll
 	Herning - Skanderborg
 	Struer - Langå
@@ -61,7 +68,7 @@ Expansion Steps:
 	Frederikshavn - Skagen
 	Hjørring - Hirtshals
 
-- v1.3: Branchlines,
+- v1.7: Branchlines,
 	Odense - Svendborg
 	Slagelse - Tølløse
 	Holbæk - Nykøbing Sj.
@@ -72,7 +79,7 @@ Expansion Steps:
 	Hillerød - Tisvildeleje
 	Hellerup - Jægersborg - Nærum
 
-- v1.4: S-trains,
+- v1.8: S-trains,
 	Ny Ellebjerg - Køge
 	Vigerslev - Svanemøllen
 	Valby - Frederikssund
@@ -96,14 +103,23 @@ TODO's on existing track layout:
 - Nyborg
 	- Southern end of the sidetracks needs to be sharper corners like the northern end
 
+TODO's on textures:
+- Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
+- Remove bushes from BAB roads (make it transparent)
+- Create alternative BAB bridge pier in same color as the BAB bridges themselves
 
-
-
-Things I should do 3d modeling for:
-- Signs
-- Gantries
-- Stations
+3d model wishlist:
+- ATC baliser
+- ERTMS baliser
+- Station platforms
+- Station signs
+- Station buildings
 - Støjmure af stål
-- Recognisable buildings and other landmarks
-
-
+- Gantries
+	- 2t portal gantry
+	- 3t portal gantry
+	- 4t portal gantry
+	- gantry pole
+	- gantry pole with transformer
+	- gantry pole with weights
+	- gantry pole end
