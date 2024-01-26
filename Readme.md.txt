@@ -89,20 +89,12 @@ TODO's on existing track layout:
 	- Add tracks to Carlsberg going underneath the mainline tracks
 - Taulov
 	- Add remaining bit of the Kombiterminal
-- Between Fredericia and Snoghøj
-	- Adjust elevation
 - Between Taulovand Snoghøj
-	- Adjust elevation
-- Between Aarup and Gelsted
-	- Adjust elevation
-- Between Gelsted and Ejby
 	- Adjust elevation
 - Tommerup
 	- Adjust the piece of track between the two mainline track switches at the southern end of the station area
 - Nyborg
 	- Southern end of the sidetracks needs to be sharper corners like the northern end
-- High speed track across western funen
-	- Adjust elevation, needs to follow landscape more instead of having these long deep cuts into the landscape
 
 
 
