@@ -96,12 +96,8 @@ TODO's on existing track layout:
 	- Add tracks to Carlsberg going underneath the mainline tracks
 - Taulov
 	- Add remaining bit of the Kombiterminal
-- Between Taulovand Snoghøj
+- Between Taulov and Snoghøj
 	- Adjust elevation
-- Tommerup
-	- Adjust the piece of track between the two mainline track switches at the southern end of the station area
-- Nyborg
-	- Southern end of the sidetracks needs to be sharper corners like the northern end
 
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
@@ -123,3 +119,40 @@ TODO's on textures:
 	- gantry pole with transformer
 	- gantry pole with weights
 	- gantry pole end
+
+
+
+
+
+
+
+
+
+Special thanks to:
+- Creators of the following routes for the inspiration to create this
+	- Mannheim-Karlsruhe
+		- Rogue
+	- Nürnberg-Ingolstadt-(München)
+		- Ronny Tao
+		- Oliver Nallaweg 
+	- DK2000 H
+		- Erich Falensteen
+- The Open Rails development team and contributors
+- Piotr Gadecki (TSRE5 route editor)
+- Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
+- Stig Christensen (Danish signals)
+- Bruce Bridges (Newroads 4.0)
+- Ted Curphey (Newroads 4.0)
+- Martyn T. Griffin (Newroads 4.0)
+- Steven Masters (Newroads 4.0)
+- Jeff Rice (Newroads 4.0)
+- Okrasa Ghia (Xtracks 3.20)
+
+Objects and textures in route by:
+- Peter Grønbæk Andersen
+- Norbert Rieger (tracks, embankments, motorways, bridges, and more)
+- Stig Christensen (some signs, some station objects, and more)
+- Henrik Fredborg (Fredericia station roof, many danish buildings, and more)
+- Manuel Mader (vegetation)
+- Kuju / Microsoft (default MSTS objects)
+- Anyone who I forgot to add to this list
