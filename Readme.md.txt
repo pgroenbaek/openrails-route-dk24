@@ -21,72 +21,92 @@ Also include international connections:
 	- Padborg - Flensburg (Germany)
 	- Tønder - Niebüll (Germany)
 	- Rødby - Lübeck (Germany)
-	- Kastrup - Malmö (Sweden)
+	- Kastrup - Malmö - Lund (Sweden)
+
+Signalling used:
+- ECTS L2:
+  - Ringsted - Køge Nord - Vigerslev
+  - Næstved - Køge - Roskilde
+  - Mogenstrup - Nykøbing F.
+  - Nykøbing F. - Rødby
+  - Parts of Rødby - Lübeck that are not PZB
+  - Kauslunde - Elmelund
+  - Vejle - Thisted
+  - Langå - Struer
+  - Herning - Skanderborg
+  - Esbjerg - Holstebro
+  - Skjern - Herning
+  - Lindholm - Frederikshavn
+- ATC:
+  - All other non S-train lines
+- CBTC:
+  - All S-train lines
+- Swedish ATC:
+  - Peberholm - Malmö - Lund
+- PZB:
+  - Parts of Rødby - Lübeck that are not ECTS L2
+  - Padborg - Flensburg
 
 Project Plan:
-- Add all mainlines in version 1.0 to 1.4
-- Add branchlines with trains heading to Copenhagen in version 1.5
-- Add Jylland branchlines in version 1.6
-- Add Fyn/Sjælland branchlines in version 1.7
-- Add Copenhagen S-trains in version 1.8
+- Add all mainlines in version 1.0 to 1.6
+- Add branchlines with trains heading to Copenhagen in version 0.8
+- Add S-trains in version 0.9
 
 Expansion Steps:
-- v1.0: Base
+- v1.0: Base,
 	- Fredericia - Østerport/Kastrup
-
 - v1.1: Mainlines,
 	- Århus - Fredericia
-	- Tinglev - Taulov
-	- Esbjerg - Lunderskov
-	- Nykøbing F. - Ringsted
-
-- v1.3: International Mainlines,
-	- Tinglev - Flensburg
-	- Kastrup - Malmö
-	- Nykøbing F. - Lübeck
-
-- v1.4: Mainlines,
+	- Padborg - Taulov
+- v1.2: Mainlines,
+	- Flensburg - Padborg
+	- Lund - Malmö - Kastrup
+- v1.3: Mainlines,
 	- Aalborg - Århus
+	- Esbjerg - Lunderskov
+- v1.4: Mainlines,
+	- Nykøbing F. - Ringsted
 	- Østerport - Helsingør
-
-- v1.5: Branchlines,
-	Tinglev - Sønderborg
-	Struer - Vejle
-	Kalundborg - Roskilde
-	Næstved - Køge - Roskilde
-
-- v1.6: Branchlines,
-	Bramming - Tønder - Niebüll
-	Herning - Skanderborg
-	Struer - Langå
-	Esbjerg - Nørre Nebel - Skjern
-	Skjern - Herning
-	Skjern - Holstebro
-	Struer - Thisted
-	Vemb - Lemvig - Thyborøn
-	Aalborg - Frederikshavn
-	Frederikshavn - Skagen
-	Hjørring - Hirtshals
-
-- v1.7: Branchlines,
-	Odense - Svendborg
-	Slagelse - Tølløse
-	Holbæk - Nykøbing Sj.
-	Køge - Faxe Ladeplads - Rødvig
-	Helsingør - Hillerød
-	Hillerød - Snekkersten
-	Hillerød - Hundested
-	Hillerød - Tisvildeleje
-	Hellerup - Jægersborg - Nærum
-
-- v1.8: S-trains,
-	Ny Ellebjerg - Køge
-	Vigerslev - Svanemøllen
-	Valby - Frederikssund
-	Ryparken - Farum
-	Jægersborg - Hillerød
-
-
+- v1.5: Mainlines,
+	- Nykøbing F. - Lübeck
+- v1.6: Mainlines,
+	- Lübeck - Hamburg
+	- Flensburg - Hamburg
+	- Hamburg - Maschen
+	- Helsingborg - Lund
+	- Hässleholm - Lund
+- v1.7: Extra additions,
+	Branchlines:
+		Tinglev - Sønderborg
+		Odense - Svendborg
+		Struer - Vejle
+		Kalundborg - Roskilde
+		Næstved - Køge - Roskilde
+		Slagelse - Tølløse
+		Holbæk - Nykøbing Sj.
+		Køge - Faxe Ladeplads - Rødvig
+		Helsingør - Hillerød
+		Hillerød - Snekkersten
+		Hillerød - Hundested
+		Hillerød - Tisvildeleje
+		Bramming - Tønder - Niebüll
+		Herning - Skanderborg
+		Struer - Langå
+		Esbjerg - Nørre Nebel - Skjern
+		Skjern - Herning
+		Skjern - Holstebro
+		Struer - Thisted
+		Vemb - Lemvig - Thyborøn
+		Aalborg - Frederikshavn
+		Frederikshavn - Skagen
+		Hjørring - Hirtshals
+	Copenhagen S-train lines:
+		Hellerup - Jægersborg - Nærum
+		Ny Ellebjerg - Køge
+		Vigerslev - Svanemøllen
+		Valby - Frederikssund
+		Ryparken - Farum
+		Jægersborg - Hillerød
 
 
 
