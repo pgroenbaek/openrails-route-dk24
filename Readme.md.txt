@@ -29,7 +29,7 @@ Signalling used:
   - Næstved - Køge - Roskilde
   - Mogenstrup - Nykøbing F.
   - Nykøbing F. - Rødby
-  - Parts of Rødby - Lübeck that are not PZB
+  - Parts of Rødby - Lübeck that are not PZB/LZB
   - Kauslunde - Elmelund
   - Vejle - Thisted
   - Langå - Struer
@@ -43,9 +43,9 @@ Signalling used:
   - All S-train lines
 - Swedish ATC:
   - Peberholm - Malmö - Lund
-- PZB:
+- PZB/LZB:
   - Parts of Rødby - Lübeck that are not ECTS L2
-  - Padborg - Flensburg
+  - Padborg - Flensburg - Hamburg
 
 Project Plan:
 - Add all mainlines in version 1.0 to 1.6
@@ -124,21 +124,52 @@ TODO's on textures:
 - Remove bushes from BAB roads (make it transparent)
 - Create alternative BAB bridge pier in same color as the BAB bridges themselves
 
-3d model wishlist:
-- ATC baliser
-- ERTMS baliser
-- Station platforms
-- Station signs
+TODO's sound:
+- Make use of the "ORTSCurveSwitchSMSNumber (  )" option in the trk file. Combine the switch and curve sounds and put into an sms file.
+
+TODO's 3d models:
+- ATC balise
+- EURO balise
+- sign ATC begins
+- sign ATC ends
+- sign ECTS L2 begins
+- sign ECTS L2 ends
+- sign ECTS marker
+- sign lower pantograph
+- sign raise pantograph
+- sign operate circuit breaker
+- sign reset circuit breaker
+- sign eltog stop
+- sign eltog stop arrow
+- Station platform straight
+- Station platform curved
+- Station platform start
+- Station platform end
+- Station platform inner
+- Station name signpost large
+- Station name signpost small
+- Station section signpost
+- Station tracknumber signpost
+- Station stopmarker signpost (80, 160, 240, 320, 120, 180, 240, 300)
+- Station lamp
+- Station elevator
+- Station waiting shelter
+- Station standard platform roof
 - Station buildings
-- Støjmure af stål
-- Gantries
-	- 2t portal gantry
-	- 3t portal gantry
-	- 4t portal gantry
-	- gantry pole
-	- gantry pole with transformer
-	- gantry pole with weights
-	- gantry pole end
+- Station platform roofs
+- Special bridges
+- Special buildings
+- Steel noise walls
+- Moderne sort sporovergang
+- I-signal location signs
+- portal gantry top
+- portal gantry side
+- portal gantry middle
+- gantry pole short
+- gantry pole long
+- gantry pole weight old
+- gantry pole weight new
+- gantry pole transformer
 
 
 
@@ -149,14 +180,10 @@ TODO's on textures:
 
 
 Special thanks to:
-- Creators of the following routes for the inspiration to create this
-	- Mannheim-Karlsruhe
-		- Rogue
-	- Nürnberg-Ingolstadt-(München)
-		- Ronny Tao
-		- Oliver Nallaweg 
-	- DK2000 H
-		- Erich Falensteen
+- Creators of the following routes for the inspiration to create this:
+	- Mannheim-Karlsruhe (Rogue)
+	- Nürnberg-Ingolstadt-München (Ronny Tao & Oliver Nallaweg) 
+	- DK2000 H (Erich Falensteen)
 - The Open Rails development team and contributors
 - Piotr Gadecki (TSRE5 route editor)
 - Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
@@ -176,3 +203,6 @@ Objects and textures in route by:
 - Manuel Mader (vegetation)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone who I forgot to add to this list
+
+Sounds by:
+- Jan Riffel
