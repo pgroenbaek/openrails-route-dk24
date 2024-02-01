@@ -195,6 +195,8 @@ Special thanks to:
 - Piotr Gadecki (TSRE5 route editor)
 - Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
 - Stig Christensen (Danish signals)
+- Mats Abramson (Swedish signals)
+- Dennis Kunz (German signals)
 - Bruce Bridges (Newroads 4.0)
 - Ted Curphey (Newroads 4.0)
 - Martyn T. Griffin (Newroads 4.0)
