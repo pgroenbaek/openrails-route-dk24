@@ -118,14 +118,18 @@ TODO's on existing track layout:
 	- Add remaining bit of the Kombiterminal
 - Between Taulov and Snoghøj
 	- Adjust elevation
+- Traxks from Slagelse towards Copenhagen.
 
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
 - Remove bushes from BAB roads (make it transparent)
 - Create alternative BAB bridge pier in same color as the BAB bridges themselves
+- Try changing white concrete textutes of BAB and V4hs bridges to the gray NR_Bridge texture
 
 TODO's sound:
-- Make use of the "ORTSCurveSwitchSMSNumber (  )" option in the trk file. Combine the switch and curve sounds and put into an sms file.
+- Configure switch sounds correctly, does not seem to do anything.
+- Make use of the "ORTSCurveSMSNumber (  )" option in the trk file.
+- Make use of the "ORTSCurveSwitchSMSNumber (  )" option in the trk file.
 
 TODO's 3d models:
 - ATC balise
@@ -160,7 +164,8 @@ TODO's 3d models:
 - Special bridges
 - Special buildings
 - Steel noise walls
-- Moderne sort sporovergang
+- Moderne sort spor overgang
+- Rejsekortstander
 - I-signal location signs
 - portal gantry top
 - portal gantry side
@@ -178,6 +183,8 @@ TODO's 3d models:
 
 
 
+Route created by:
+- Peter Grønbæk Andersen
 
 Special thanks to:
 - Creators of the following routes for the inspiration to create this:
@@ -195,7 +202,7 @@ Special thanks to:
 - Jeff Rice (Newroads 4.0)
 - Okrasa Ghia (Xtracks 3.20)
 
-Objects and textures in route by:
+Objects and textures by:
 - Peter Grønbæk Andersen
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
 - Stig Christensen (some signs, some station objects, and more)

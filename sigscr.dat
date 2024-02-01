@@ -4162,3 +4162,1797 @@ SCRIPT dkprivper2
 
 // Get draw state
 	draw_state = def_draw_state (state);
+
+
+
+
+
+
+
+////////////////////////////////////////    SWEDISH SIGNALS //////////////////////////////////////////
+
+
+
+// ****************************************************************************
+SCRIPT PriWarn5Light
+// Infart / Forsignal, 5 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT PriWarn5LightS
+// Infart / Forsignal, 5 lampor, stolpe
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn5LightK70
+// Infart / Forsignal, 5 lampor, K70
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+
+// ****************************************************************************
+SCRIPT PriWarn5LightK40kf
+// Infart / Forsignal, 5 lampor, K40 istället för Kör-nästa stopp
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 									// Show Stop, block occupied
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 							// Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; 						// Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; 						// Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_1; 						// Show Clear40 (normally S C N stop)
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn5LightK40ks
+// Infart / Forsignal, 5 lampor, K40 istället för Kör-nästa stopp, stolpe
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 									// Show Stop, block occupied
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 							// Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; 						// Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; 						// Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_1; 						// Show Clear40 (normally S C N stop)
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT PriWarn5LightK70kf
+// Infart / Forsignal, 5 lampor, K70 istället för Kör-nästa stopp
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 									// Show Stop, block occupied
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 							// Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; 						// Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; 						// Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_1; 						// Show Clear40 (normally S C N stop)
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn5LightK70ks
+// Infart / Forsignal, 5 lampor, K70 istället för Kör-nästa stopp, stolpe
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 									// Show Stop, block occupied
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 							// Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; 						// Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; 						// Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_1; 						// Show Clear40 (normally S C N stop)
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+
+
+// ****************************************************************************
+SCRIPT PriMiddleWarn5Light
+// Infart-Mellan / Forsignal, 5 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+
+		if (next_state ==# SIGASP_STOP)
+		{
+			state = SIGASP_STOP; // Show Stop
+		}
+		else
+		{
+			if (!route_set())
+			{
+				state = SIGASP_APPROACH_1; // Show Clear40
+			}
+			else
+			{
+				if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+				{
+					state = SIGASP_CLEAR_1; // Show Clear next clear
+				}
+				else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+				{
+					state = SIGASP_APPROACH_3; // Show Clear next clear40
+				}
+				else 
+				{
+					state = SIGASP_APPROACH_2; // Show Clear next stop
+				}
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn5SLight
+// Infart / Forsignal, kort vag, 5 lampor
+// ****************************************************************************
+
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_RESTRICTING; // Show Clear40 short
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn5ScLight
+// Infart / Forsignal, kort vag, 5 lampor, Kor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (route_set())
+		{
+			state = SIGASP_RESTRICTING; // Show Clear40 Short
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+// ****************************************************************************
+SCRIPT PriWarn5ScLightS
+// Infart / Forsignal, kort vag, 5 lampor, Kor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_RESTRICTING; // Show Clear40 Short
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT PriWarn4Light
+// Infart / Forsignal, 4 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn4LightK40Kf
+// Infart / Forsignal, 4 lampor, visa K40 vid Clear_Next_Stop
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 						// Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 				// Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; 			// Show Clear next clear
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_1; 			// Show Clear 40 (clear next stop normally)
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT PriWarn4LightK70Kf
+// Infart / Forsignal, 4 lampor, visa K70 vid Clear_Next_Stop
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 						// Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 				// Show Clear70
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; 			// Show Clear next clear
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_1; 			// Show Clear70 (clear next stop normally)
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+
+// ****************************************************************************
+SCRIPT Pri3Light
+// Infartssignal, 3 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 				// Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 		// Show Clear40
+		}
+		else
+		{
+			state = SIGASP_CLEAR_2; 		// Show Clear
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Pri3LightK70
+// Infartssignal, 3 lampor, kör70
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			state = SIGASP_CLEAR_2; // Show Clear
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT InfDwarf7Light
+// Infartssignal, Dvarg, 7 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+			
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear careful
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT InfDwarf4Loc
+// Infartssignal, Dvarg, 7 lampor, Kor40 eller Lokal, for utfarter fran bang.
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled)
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		if (!route_set())
+		{
+			state = SIGASP_APPROACH_2; // Show Local
+		}
+		else
+		{
+			next_state = next_sig_lr (SIGFN_NORMAL);
+
+			if (block_state() !=# BLOCK_CLEAR || next_state ==# SIGASP_STOP) {
+				state = SIGASP_STOP; // Show Stop
+			}
+			else	
+			{
+				state = SIGASP_APPROACH_1; // Show Clear 40
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT Block5Light
+// Block / Forsignal, 5 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+		{
+			state = SIGASP_CLEAR_1; // Show Clear next clear
+		}
+		else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+		{
+			state = SIGASP_APPROACH_3; // Show Clear next clear40
+		}
+		else 
+		{
+			state = SIGASP_APPROACH_2; // Show Clear next stop
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block5SLight
+// Block / Forsignal, 5 lampor, kort vag
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+		{
+			state = SIGASP_CLEAR_1; // Show Clear next clear
+		}
+		else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+		{
+			state = SIGASP_APPROACH_3; // Show Clear next clear40
+		}
+		else 
+		{
+			state = SIGASP_RESTRICTING; // Show Clear40 Short
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block4Light
+// Block / Forsignal, 4 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+		{
+			state = SIGASP_CLEAR_1; // Show Clear next clear
+		}
+		else 
+		{
+			state = SIGASP_APPROACH_2; // Show Clear next stop
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block2Light
+// Blocksignal, 2 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		state = SIGASP_CLEAR_2; // Show Clear
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block3LightK40
+// Blocksignal, 3 lampor. kör 40
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 				// Show Stop
+	}
+	else 
+	{
+		state = SIGASP_APPROACH_1; 			// Show Clear 40
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block3LightK70
+// Blocksignal, 3 lampor. kör 70
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		state = SIGASP_APPROACH_1; // Show Clear 40/70
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+
+
+// ****************************************************************************
+SCRIPT PriDwarf7Light
+// Huvuddvargsignal, 7 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state ==# SIGASP_APPROACH_1)
+		{
+			state = SIGASP_APPROACH_1; 								// Show Clear40 careful
+		}
+		else if (next_state ==# SIGASP_APPROACH_3)
+		{
+			state = SIGASP_APPROACH_3; 								// Show Clear next clear40
+		}
+		else if (next_state ==# SIGASP_CLEAR_2 || next_state ==# SIGASP_CLEAR_1 )
+		{
+			state = SIGASP_CLEAR_2; 								// Show Clear
+		}
+		else if (next_state ==# SIGASP_STOP )
+		{
+			state = SIGASP_STOP;	 								// Show Clear
+		}
+		else 
+		{
+			state = SIGASP_APPROACH_2; 								// Show Clear careful
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block40_5Light
+// Blocksignal, 5 lampor, Kor 40
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		state = SIGASP_APPROACH_1; // Show Clear40
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Block40_Dwarf7Light
+// Blocksignal, 7 lampor, Dwarf, Kor 40
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		state = SIGASP_APPROACH_1; // Show Clear40
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Middle5Light
+// Mellansignal, 5 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+
+		if (next_state ==# SIGASP_STOP)
+		{
+			state = SIGASP_STOP; // Show Stop
+		}
+		else
+		{
+			if (next_state ==# SIGASP_APPROACH_2 || next_state ==# SIGASP_APPROACH_3 || next_state ==# SIGASP_CLEAR_1 || next_state ==# SIGASP_CLEAR_2)
+			{
+				state = SIGASP_CLEAR_1; // Show Clear next clear
+			}
+			else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+			{
+				state = SIGASP_APPROACH_3; // Show Clear next clear40
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2; // Show Clear next stop
+			}
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Middle40_5Light
+// Mellansignal, 5 lampor, Kor 40
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+
+		if (next_state ==# SIGASP_STOP)
+		{
+			state = SIGASP_STOP; // Show Stop
+		}
+		else
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Middle3Light
+// Mellansignal, 3 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state !=# SIGASP_STOP)
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Middle3LightLn
+// Mellansignal, 3 lampor, K70 linked
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 				// Show Stop, block occupied
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state ==# SIGASP_STOP)
+		{
+			state = SIGASP_STOP; 			// Show Stop, next in stop
+		}
+		else if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 		// Show Clear40
+		}
+		else
+		{
+			state = SIGASP_CLEAR_1; 		// Show Clear
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+// ****************************************************************************
+SCRIPT Middle3LightLnK70
+// Mellansignal, 3 lampor, K70 linked
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; 				// Show Stop, block occupied
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state ==# SIGASP_STOP)
+		{
+			state = SIGASP_STOP; 			// Show Stop, next in stop
+		}
+		else if (!route_set())
+		{
+			state = SIGASP_APPROACH_1; 		// Show Clear40
+		}
+		else
+		{
+			state = SIGASP_CLEAR_1; 		// Show Clear
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+
+// ****************************************************************************
+SCRIPT Middle3LightK70
+// Mellansignal, 3 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state !=# SIGASP_STOP)
+		{
+			state = SIGASP_APPROACH_1; // Show Clear40
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Middle3LightDv4
+// Mellansignal med 3 lampor, dvärgsignal, K40 i huvudspår
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	route_set ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!route_set())
+	{
+		if (!enabled || block_state() !=# BLOCK_CLEAR )
+		{
+			state = SIGASP_RESTRICTING; 			// Show Move carefully
+		}
+		else
+		{
+			state = SIGASP_APPROACH_1; 			// Show Move
+		}
+	}
+	else
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+		if (!enabled || block_state() !=# BLOCK_CLEAR )
+		{
+			state = SIGASP_STOP; 				// Show Stop
+		}
+		else if (next_state ==# SIGASP_STOP)
+		{
+			state = SIGASP_STOP; 				// Show Stop
+		}
+		else 
+		{
+			state = SIGASP_APPROACH_2; 			// Show Clear K40
+		}
+	}
+	
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT Middle2Light
+// Mellansignal, 2 lampor
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state !=# SIGASP_STOP)
+		{
+			state = SIGASP_CLEAR_2; // Show Clear
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+// ****************************************************************************
+SCRIPT V_Pri_1Light
+// V-signal, 1 lampa, försignalfunktion
+// ****************************************************************************
+
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	next_state = next_sig_lr (SIGFN_NORMAL);
+			
+	if (next_state ==# SIGASP_STOP)
+	{
+		state = SIGASP_STOP; // Show stop
+	}
+	else
+	{
+		state = SIGASP_CLEAR_2; // Show clear
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT V_Blo_1Light
+// V-signal, 1 lampa, blocksignalfunktion
+// ****************************************************************************
+
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		state = SIGASP_CLEAR_2; // Show Clear
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+
+// ****************************************************************************
+SCRIPT Warn3Light
+// Forsignal, 3 lampor
+// ****************************************************************************
+
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+	
+		next_state = next_sig_lr (SIGFN_NORMAL);
+
+		if (next_state ==# SIGASP_STOP) 			//Nasta stopp, visa "vanta stopp"
+		{
+			state = SIGASP_APPROACH_2;
+		}
+		else if (next_state ==# SIGASP_APPROACH_1 ||
+		         next_state ==# SIGASP_RESTRICTING) 	//Nasta K40 (avkortad), visa "vanta K40"
+		{
+			state = SIGASP_APPROACH_3;
+		}
+		else if (next_state ==# SIGASP_CLEAR_1) 		//Nasta kor, visa "vanta kor"
+		{
+			state = SIGASP_CLEAR_1;
+		}
+
+		else 								//Nasta kor, visa "vanta kor"
+		{
+			state = SIGASP_CLEAR_1;
+		}
+	
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Warn1Light
+// Forsignal, 1 lampor
+// ****************************************************************************
+
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	next_state = next_sig_lr (SIGFN_NORMAL);
+			
+	if (next_state ==# SIGASP_STOP)
+	{
+		state = SIGASP_APPROACH_2; // Show Next stop
+	}
+	else
+	{
+		state = SIGASP_CLEAR_1; // Show Next clear/clear40
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Cross1Light
+// V-signal, 1 lampa
+// ****************************************************************************
+
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+
+	state = SIGASP_CLEAR_2;
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT WarnCross3Light
+// V-forsignal, 3 lampor
+// ****************************************************************************
+
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	next_state = next_sig_lr (SIGFN_INFO);
+			
+	if (next_state ==# SIGASP_STOP)
+	{
+		state = SIGASP_STOP; // Show Next stop
+	}
+	else
+	{
+		state = SIGASP_CLEAR_2; // Show Next clear
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT Bridge1Light
+// Brosignal, 1 lampa
+// ****************************************************************************
+
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+
+	state = SIGASP_CLEAR_2;
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+///////////////////////////////////////////////////////////////////////////////
+SCRIPT Dwarf4Light
+////////////////////////////////////
+// Dvargsignal, 4 lampor
+////////////////////////////////////
+
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+	float		next_sh_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+		next_sh_state = next_sig_lr (SIGFN_SHUNTING);
+
+		if (next_state !=# SIGASP_STOP || next_sh_state !=# SIGASP_STOP)
+		{
+			state = SIGASP_CLEAR_2; // Show Move
+		}
+		else 
+		{
+			state = SIGASP_APPROACH_2; // Show Move Obstruction
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+///////////////////////////////////////////////////////////////////////////////
+SCRIPT Dwarf4Light_Local
+////////////////////////////////////
+// Dvargsignal, 4 lampor, Lokal
+////////////////////////////////////
+
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+
+	state = SIGASP_APPROACH_1;
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+///////////////////////////////////////////////////////////////////////////////
+SCRIPT Dwarf4Light_Shunt
+////////////////////////////////////
+// Dvargsignal, 4 lampor, Ej Forsignalering
+////////////////////////////////////
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+	float		next_sh_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+		next_sh_state = next_sig_lr (SIGFN_SHUNTING);
+
+		if (next_state !=# SIGASP_STOP || next_sh_state !=# SIGASP_STOP)
+		{
+			state = SIGASP_CLEAR_2; // Show Move
+		}
+		else 
+		{
+			state = SIGASP_APPROACH_2; // Show Move Obstruction
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+///////////////////////////////////////////////////////////////////////////////
+SCRIPT Dwarf4Light_Under
+////////////////////////////////////
+// Dvargsignal, 4 lampor, Undersignal
+////////////////////////////////////
+
+	extern float	block_state ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		state = SIGASP_CLEAR_2; // Show Move
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT Dwarf4Light_Middle_INF
+// Dvargsignal, 4 lampor, INFO-signal i kombination med huvudsignal
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{
+		state = SIGASP_STOP; // Show Stop
+	}
+	else 
+	{
+		next_state = next_sig_lr (SIGFN_NORMAL);
+			
+		if (next_state !=# SIGASP_STOP)
+		{
+			state = SIGASP_CLEAR_2; // Show Clear
+		}
+	}
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT Middle_Dwarf7Light
+// Mellandvärgsignal, 7 lampor, INFO
+// ****************************************************************************
+
+	extern float	block_state ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+
+	float		next_state;
+
+	
+	next_state = next_sig_lr (SIGFN_NORMAL);
+
+	if (next_state ==# SIGASP_STOP)
+	{
+		state = SIGASP_STOP; 				// Show Stop
+	}
+	else if (next_state ==# SIGASP_RESTRICTING || next_state ==# SIGASP_APPROACH_1)
+	{
+		state = SIGASP_APPROACH_1; 			// Show Clear40
+	}
+	else if (next_state ==# SIGASP_APPROACH_2)
+	{
+		state = SIGASP_APPROACH_2; 			// Show Clear40 careful
+	}
+	else if (next_state ==# SIGASP_APPROACH_3)
+	{
+		state = SIGASP_APPROACH_3; 			// Show Clear careful
+	}
+	else if (next_state ==# SIGASP_CLEAR_2 || next_state ==# SIGASP_CLEAR_1 )
+	{
+		state = SIGASP_CLEAR_2; 			// Show Clear
+	}
+	
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+
+// ****************************************************************************
+SCRIPT Stop1Light
+// Stoppsignal, 1 lampa
+// ****************************************************************************
+
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+
+	state = SIGASP_STOP;
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
+// ****************************************************************************
+SCRIPT SSign
+// S-Skylt
+// ****************************************************************************
+
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+
+	state = SIGASP_APPROACH_1; // Show "local"
+
+	// Get draw state
+	draw_state = def_draw_state (state);
+
