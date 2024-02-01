@@ -10139,3 +10139,147 @@ SCRIPT VMAX_CONFIG
 	
 	draw_state = def_draw_state (state);
 	return;
+	
+	
+////////////////////////////////////////////////////////////////////////////////
+//         SCRIPTS CHE ETCS2-Signale			                              //
+///////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
+SCRIPT CHEKennungETCS2Normal
+
+	extern float	state;
+		
+		state = SIGASP_CLEAR_1;
+
+
+SCRIPT ChEMerktafelHauptsignal_LN-ETCS2
+// CHE Merktafel Hauptsignal LN-ETCS2
+// Steht immer als erstes Signal einer ETCS2-Strecke
+// Nach vorn erlaubt es höchsten Vmax 140 damit die Warnfunktion des dahinterstehenden Signal korrekt funktioniert
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+	extern float	sig_feature();
+	float			next_state;
+	float			next_kenn;
+
+		next_state = next_sig_lr (SIGFN_NORMAL);
+		next_kenn  = next_sig_lr (SIGFN_REPEATER);
+
+	if (!enabled ||								// Not enabled/cleared to show natural state?
+		block_state() !=# BLOCK_CLEAR ||				// Block ahead not clear?
+		!route_set())							// Switch not set as per link?
+	{
+		state = SIGASP_STOP;				// Stop, Warnung am davostehenden N-Signal
+	}
+	else if ( next_kenn ==# SIGASP_CLEAR_1 ) 		// es folgt eine ETCS2_Signal 
+	{
+		if (next_state ==# SIGASP_STOP )		// nächstes ETCS2-Signal zeigt Stop
+		{
+			state = SIGASP_APPROACH_3;		// dieses zeigt 90 km/h, Warnung 90 am davorstehenden N-Signal
+		}
+		else if (next_state ==# SIGASP_APPROACH_1 )	// Nächstes ETCS2-Signal zeigt 100km/h
+		{
+			state = SIGASP_CLEAR_1;			// dieses zeigt 140 km/h, freie Fahrt am davorstehnden N-Signal
+		}
+		else if (next_state ==# SIGASP_APPROACH_2 )	// Nächstes ETCS2-Signal zeigt 140km/h
+		{
+			state = SIGASP_CLEAR_1;			// dieses zeigt 140 km/h, freie Fahrt am davorstehnden N-Signal
+		}
+		else							// Nächstes ETCS2-Signal zeigt 160km/h, 170km/h oder 200 km/h
+		{
+			state = SIGASP_CLEAR_2;				// dieses zeigt 200, freie Fahrt am davorstehnden N-Signal
+		}
+	}
+	else 
+	{								
+			state = SIGASP_CLEAR_2;			// soll nicht vorkommen
+	}
+	
+///////////////////////////////////////////////////////////////////////////////
+SCRIPT ChEMerktafelHauptsignal
+// CHE Merktafel Hauptsignal
+	extern float	block_state ();
+	extern float	route_set ();
+	extern float	next_sig_lr ();
+	extern float	def_draw_state ();
+	extern float	state;
+	extern float	draw_state;
+	extern float	enabled;
+	extern float	sig_feature();
+	float			next_state;
+	float			next_kenn;
+
+		next_state = next_sig_lr (SIGFN_NORMAL);
+		next_kenn  = next_sig_lr (SIGFN_REPEATER);
+
+	if (!route_set())
+	{
+		state = SIGASP_STOP;
+	}
+	else if (!enabled || block_state() !=# BLOCK_CLEAR )
+	{								
+		if (block_state() ==# BLOCK_CLEAR )		//Wenn dieses Signal noch nicht "enabled" ist, aber der Block voraus frei ist, 	
+		{							//wird "STOP_AND_PROCEED" gesetzt
+			state = SIGASP_STOP_AND_PROCEED;	//damit das davorstehende "APPROACH_3 statt "APPROACH_2 setzen kann
+		}							//So kann 	"SignalNumClearAhead ( 3 )" unverändert bleiben 
+		else
+		{
+			state = SIGASP_STOP;
+		}
+	}
+// Signal is enabled and the block ahead is clear
+	else if ( next_kenn ==# SIGASP_CLEAR_1 ) 			//es folgt eine ETCS2_Signal 
+	{
+		if (next_state ==# SIGASP_STOP )			// nächstes zeigt Stop und strecke dahinter ist belegt
+		{
+			state = SIGASP_APPROACH_1;			// dieses zeigt Vmax 100
+		}
+		else if (next_state ==# SIGASP_APPROACH_1 || next_state ==# SIGASP_STOP_AND_PROCEED ) // nächstes zeigt 100 od. Stop mit Strecke dahinter frei
+		{
+			state = SIGASP_APPROACH_2;			// dieses zeigt Vmax 140
+		}
+		else if (next_state ==# SIGASP_APPROACH_2 ) 	// nächstes zeigt Vmax 140 
+		{
+			state = SIGASP_CLEAR_1;	 			// dieses zeigt Vmax 170
+		}
+		else								// nächstes zeigt 160 APPROACH_3, 170 CLEAR_1 oder 200 CLEAR_2
+		{
+		state = SIGASP_CLEAR_2;					// dieses zeigt Vmax 200
+		}
+	}
+	else if ( next_kenn ==# SIGASP_APPROACH_3 ) 			//es folgt ein L/N-Vorsignal oder eine Signalfolgeende Marke
+	{								
+			if (sig_feature(SIGFEAT_USER2)  )
+			{
+				state = SIGASP_APPROACH_3;		// dieses zeigt Vmax 160 Streckengeschwindigkeit
+			}
+			else 
+			{
+				state = SIGASP_APPROACH_2;		// dieses zeigt Vmax 140 Streckengeschwindigkeit
+			}
+	}
+	else 									//es folgt ein L/N-SignalHauptsignal
+	{								
+		if (next_state >=# SIGASP_STOP && next_state <=# SIGASP_APPROACH_2  ) 	// nächstes zeigt Stop bis Vmax 60 km/h
+		{
+			state = SIGASP_APPROACH_1;							// Dieses zeigt 100 km/h
+		}
+		else if (next_state ==# SIGASP_APPROACH_3 )					// Nächstes zeigt 90 km/h
+		{
+			state = SIGASP_APPROACH_2;							// Dieses zeigt 140 km/h
+		}
+		else	if (sig_feature(SIGFEAT_USER2)  )						// Vmax LN ist auf 160 km/h erhöht
+		{
+			state = SIGASP_APPROACH_3;							// dieses zeigt Vmax 160 km/h
+		}
+		else
+		{
+			state = SIGASP_APPROACH_2;							// dieses zeigt 140 km/h
+		}
+
+	}

@@ -208,8 +208,9 @@ Objects and textures by:
 - Peter Grønbæk Andersen
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
 - Stig Christensen (some signs, some station objects, and more)
-- Henrik Fredborg (Fredericia station roof, many danish buildings, and more)
+- Henrik Fredborg (Fredericia station roof, same danish buildings, and more)
 - Manuel Mader (vegetation)
+- mhvg220 (Lf6/Lf7 tafln)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone who I forgot to add to this list
 
