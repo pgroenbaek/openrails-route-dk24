@@ -127,7 +127,6 @@ TODO's on textures:
 - Try changing white concrete textutes of BAB and V4hs bridges to the gray NR_Bridge texture
 
 TODO's sound:
-- Configure switch sounds correctly, does not seem to do anything.
 - Make use of the "ORTSCurveSMSNumber (  )" option in the trk file.
 - Make use of the "ORTSCurveSwitchSMSNumber (  )" option in the trk file.
 
@@ -208,7 +207,7 @@ Objects and textures by:
 - Peter Grønbæk Andersen
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
 - Stig Christensen (some signs, some station objects, and more)
-- Henrik Fredborg (Fredericia station roof, same danish buildings, and more)
+- Henrik Fredborg (Fredericia station roof, some danish buildings, and more)
 - Manuel Mader (vegetation)
 - mhvg220 (Lf6/Lf7 tafln)
 - Kuju / Microsoft (default MSTS objects)
