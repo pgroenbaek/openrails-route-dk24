@@ -7,7 +7,7 @@ changes and additions cherry-picked (see below)
 Differences from the real DK2024 rail network:
 - Include railway lines under construction in 2024 as if they were finished
 	- The new high speed railway across western funen
-	- The new fehmern tunnel railway
+	- The new fehmern tunnel railway line
 	- The new storstrøms bridge
 - Include some of the planned changes to the danish railway network
 	- Electrification from Fredericia to Aalborg
@@ -115,70 +115,117 @@ TODO's on existing track layout:
 	- Add southern railyard and harbour tracks
 	- Add tracks to Carlsberg going underneath the mainline tracks
 - Taulov
-	- Add remaining bit of the Kombiterminal
+	- Add remaining part of the Kombiterminal
 - Between Taulov and Snoghøj
 	- Adjust elevation
-- Traxks from Slagelse towards Copenhagen.
+- Tracks from Ringsted towards Copenhagen.
 
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
 - Remove bushes from BAB roads (make it transparent)
 - Create alternative BAB bridge pier in same color as the BAB bridges themselves
 - Try changing white concrete textutes of BAB and V4hs bridges to the gray NR_Bridge texture
+- Redo signnumbers.ace with better font
 
 TODO's sound:
 - Make use of the "ORTSCurveSMSNumber (  )" option in the trk file.
-- Make use of the "ORTSCurveSwitchSMSNumber (  )" option in the trk file.
+- Add random track squeal sounds at 120+ km/h speeds
 
 TODO's 3d models:
-- ATC balise
-- EURO balise
-- sign ATC begins
-- sign ATC ends
-- sign ECTS L2 begins
-- sign ECTS L2 ends
-- sign ECTS marker
-- sign lower pantograph
-- sign raise pantograph
-- sign operate circuit breaker
-- sign reset circuit breaker
-- sign eltog stop
-- sign eltog stop arrow
-- Station platform straight
-- Station platform curved
-- Station platform start
-- Station platform end
-- Station platform inner
-- Station name signpost large
-- Station name signpost small
-- Station section signpost
-- Station tracknumber signpost
-- Station stopmarker signpost (80, 160, 240, 320, 120, 180, 240, 300)
-- Station lamp
-- Station elevator
-- Station waiting shelter
-- Station standard platform roof
-- Station buildings
-- Station platform roofs
-- Special bridges
-- Special buildings
-- Steel noise walls
-- Moderne sort spor overgang
-- Rejsekortstander
-- I-signal location signs
-- portal gantry top
-- portal gantry side
-- portal gantry middle
-- gantry pole short
-- gantry pole long
-- gantry pole weight old
-- gantry pole weight new
-- gantry pole transformer
-
-
-
-
-
+- PGA Track Objects:
+	- ATC balise
+	- EURO balise
+	- Steel noise walls
+	- Moderne sort spor overgang
+	- Andre?
+- PGA Track Signs:
+	- sign ATC begins
+	- sign ATC ends
+	- sign ECTSL2 begins
+	- sign ECTSL2 ends
+	- sign ECTSL2 marker
+	- sign CBTC marker
+	- sign lower pantograph
+	- sign raise pantograph
+	- sign operate circuit breaker
+	- sign reset circuit breaker
+	- sign eltog stop
+	- sign eltog stop arrow
+	- sign stopmarker (80, 160, 240, 320, 120, 180, 240, 300)
+	- I-signal location signs
+- PGA Station Objects:
+	- platform 10m broad
+	- platform 10m narrow
+	- platform start
+	- platform end
+	- platform inner
+	- platform lamp
+	- platform section signpost
+	- station name sign
+	- station name sign small
+	- tracknumber sign
+	- elevator
+	- waiting shelter
+	- bench
+	- bench with commercial
+	- rejsekortstander ud
+	- rejsekortstander ind
+- PGA Station Buildings:
+	- Station standard platform roof
+	- Station standard building
+	- Station buildings
+		- Østerport
+		- København H
+		- København H Perrontag
+		- Høje Taastrup
+		- Køge Nord Gangbro
+		- Slagelse Gangbro
+		- Odense Byens Bro
+		- Odense Banegårdscenter Top
+		- Odense Banegårdscenter North
+		- Odense Banegårdscenter South
+		- Odense Perrontag
+	- More?
+- PGA Buildings:
+	- Odense:
+		- TBT Tower
+	- More?
+- PGA Bridges:
+	- PGA Gl. Lillebæltsbro
+	- PGA Ny Lillebæltsbro
+	- PGA Storebælt Højbro
+	- PGA Storebælt Lavbro Bropille Vej
+	- PGA Storebælt Lavbro Bropille Bane
+	- PGA Øresundsbro Lavbro
+	- PGA Øresundsbro Højbro
+	- PGA Gl. Storstrømsbro
+	- PGA Ny Storstrømsbro Højbro
+	- PGA Ny Storstrømsbro Lavbro
+- PGA Gantry:
+	- 1t gantry  KL / KR / LL / LR
+	- 1t gantry  KL / KR / LL / LR
+	- 1t double gantry KL / KR / LL / LR
+	- 1t ballast gantry KL / KR / LL / LR
+	- 1t transformer gantry  KL / KR / LL / LR
+	- 1t mast gantry K / L / U
+	- 1t mounted gantry KL / KR / LL / LR / ZR / ZL
+	- 1t mounted gantry signal
+	- 1t end gantry
+	- 2t gantry K / L / LC / KC
+	- 2t double gantry K / L
+	- 2t ballast gantry K / L
+	- 2t transformer gantry K / L
+	- 2t mast gantry K / L / U
+	- 2t portal gantry K / L / ZL / ZR / U
+	- 3t portal gantry K / L / ZL / ZR / U
+	- 4t portal gantry K / L / ZL / ZR / U
+	- 5t portal gantry K / L / ZL / ZR / U
+	- 6t portal gantry K / L / ZL / ZR / U
+	- 7t hanging gantry
+	- 8t hanging gantry
+	- 9t hanging gantry
+	- 10t hanging gantry
+	- SicatSX?
 
 
 
@@ -204,14 +251,20 @@ Special thanks to:
 - Okrasa Ghia (Xtracks 3.20)
 
 Objects and textures by:
-- Peter Grønbæk Andersen
+- Peter Grønbæk Andersen (everything named PGA_*)
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
-- Stig Christensen (some signs, some station objects, and more)
-- Henrik Fredborg (Fredericia station roof, some danish buildings, and more)
+- Stig Christensen (danish level crossings, some danish signs, some danish station objects, and more)
+- Henrik Fredborg (Fredericia station roof, many danish buildings, and more)
 - Manuel Mader (vegetation)
+- Anders Svensson (swedish gantry)
+- Daniel Harms (german level crossings, road signs)
+- Andreas Rosenau (road signs)
+- DQ (road signs)
 - mhvg220 (Lf6/Lf7 tafln)
+- Spike (german track objects)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone who I forgot to add to this list
 
 Sounds by:
 - Jan Riffel
+- Icki81
