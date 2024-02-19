@@ -137,6 +137,7 @@ TODO's 3d models:
 	- EURO balise
 	- Steel noise walls
 	- Moderne sort spor overgang
+	- Strømbeskytter på broer
 	- Andre?
 - PGA Track Signs:
 	- sign ATC begins
@@ -151,7 +152,7 @@ TODO's 3d models:
 	- sign reset circuit breaker
 	- sign eltog stop
 	- sign eltog stop arrow
-	- sign stopmarker (80, 160, 240, 320, 120, 180, 240, 300)
+	- sign stopmærker (80, 160, 240, 320, 120, 180, 240, 300)
 	- I-signal location signs
 - PGA Station Objects:
 	- platform 10m broad
@@ -171,21 +172,34 @@ TODO's 3d models:
 	- rejsekortstander ud
 	- rejsekortstander ind
 - PGA Station Buildings:
-	- Station standard platform roof
-	- Station standard building
 	- Station buildings
 		- Østerport
 		- København H
-		- København H Perrontag
 		- Høje Taastrup
-		- Køge Nord Gangbro
-		- Slagelse Gangbro
-		- Odense Byens Bro
+		- Roskilde
+		- Ringsted
+		- Sorø
+		- Sorø Water Tower
+		- Slagelse
+		- Korsør
+		- Nyborg
+		- Odense Gl. banegårdsbygning
 		- Odense Banegårdscenter Top
 		- Odense Banegårdscenter North
 		- Odense Banegårdscenter South
+		- Middelfart
+		- Fredericia
+	- Station platform roofs:
+		- Generic danish platform roof
+		- Østerport Perrontag
+		- København H Perrontag
 		- Odense Perrontag
 	- More?
+- PGA Walkways:
+	- Generic danish walkway
+	- Køge Nord Gangbro
+	- Slagelse Gangbro
+	- Odense Byens Bro
 - PGA Buildings:
 	- Odense:
 		- TBT Tower
@@ -194,13 +208,10 @@ TODO's 3d models:
 	- PGA Gl. Lillebæltsbro
 	- PGA Ny Lillebæltsbro
 	- PGA Storebælt Højbro
-	- PGA Storebælt Lavbro Bropille Vej
-	- PGA Storebælt Lavbro Bropille Bane
-	- PGA Øresundsbro Lavbro
-	- PGA Øresundsbro Højbro
-	- PGA Gl. Storstrømsbro
-	- PGA Ny Storstrømsbro Højbro
-	- PGA Ny Storstrømsbro Lavbro
+	- PGA Storebælt Lavbro Bropille Vej strt
+	- PGA Storebælt Lavbro Bropille Bane strt
+	- PGA Storebælt Lavbro Bropille Vej 8000r1d
+	- PGA Storebælt Lavbro Bropille Bane 8000r1d
 - PGA Gantry:
 	- 1t gantry  KL / KR / LL / LR
 	- 1t gantry  KL / KR / LL / LR
@@ -249,6 +260,9 @@ Special thanks to:
 - Steven Masters (Newroads 4.0)
 - Jeff Rice (Newroads 4.0)
 - Okrasa Ghia (Xtracks 3.20)
+
+Loading image by:
+- Falk2 (CC BY-SA 3.0: https://commons.wikimedia.org/wiki/User:Mattbuck/Railways/2014_January_1-10#/media/File:I12_225_Gro%C3%9Fe-Belt-Br%C3%BCcke,_MA_5046.jpg)
 
 Objects and textures by:
 - Peter Grønbæk Andersen (everything named PGA_*)
