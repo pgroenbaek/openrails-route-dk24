@@ -119,6 +119,7 @@ TODO's on existing track layout:
 - Between Taulov and Snoghøj
 	- Adjust elevation
 - Tracks from Ringsted towards Copenhagen.
+- Translate all DB2f embankments by -0.07 on the Y-axis
 
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
@@ -137,7 +138,8 @@ TODO's 3d models:
 	- EURO balise
 	- Steel noise walls
 	- Moderne sort spor overgang
-	- Strømbeskytter på broer
+	- Strømbeskytter gammel på siden af broer
+	- Strømbeskytter ny på siden af broer
 	- Andre?
 - PGA Track Signs:
 	- sign ATC begins
