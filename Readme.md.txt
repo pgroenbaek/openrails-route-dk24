@@ -1,4 +1,88 @@
-Goal:
+
+LICENSE:
+
+The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
+
+I would appreciate that you let me know via email if you use those objects/textures in other routes, etc.
+
+I am not going to tell you no (as long as you follow the terms of the CC BY-NC-SA 4.0 license).
+
+I would simply just like to know. That is all. :-)
+
+Details about CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+
+
+
+Rights to all other objects/textures in this route belong to their respective authors under terms specified by them.
+
+These objects/textures are available from various freeware packs that are distributed via the following websites:
+- https://www.trainsim.com
+- https://www.elvastower.com
+- https://www.dbtracks.com
+- https://www.tog-sim.dk
+- https://www.routebuilders.dk
+- https://www.the-train.de
+- https://www.banbyggarna.se
+- https://www.e-buzz.se
+
+
+
+
+CREDITS:
+
+Route created by:
+- Peter Grønbæk Andersen
+
+Special thanks to:
+- Creators of the following routes for inspiring me to create this:
+	- Mannheim-Karlsruhe (Rogue)
+	- Nürnberg-Ingolstadt-München (Ronny Tao & Oliver Nallaweg) 
+	- DK2000 H (Erich Falensteen)
+- Piotr Gadecki (TSRE5 route editor)
+- Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
+- Stig Christensen (Danish signals)
+- Mats Abramson (Swedish signals)
+- Dennis Kunz (German signals)
+
+Loading image by:
+- Falk2 (CC BY-SA 3.0: https://commons.wikimedia.org/wiki/User:Mattbuck/Railways/2014_January_1-10#/media/File:I12_225_Gro%C3%9Fe-Belt-Br%C3%BCcke,_MA_5046.jpg)
+
+Objects and textures by:
+- Peter Grønbæk Andersen (everything named "PGA_*")
+- Norbert Rieger (tracks, embankments, motorways, bridges, and more)
+- Stig Christensen (danish level crossings, some danish signs, some danish station objects, and more)
+- Henrik Fredborg (Fredericia station roof, many danish buildings, and more)
+- Manuel Mader (vegetation)
+- Anders Svensson (swedish gantry)
+- Daniel Harms (german level crossings, road signs)
+- Andreas Rosenau (road signs)
+- DQ (road signs)
+- mhvg220 (Lf6/Lf7 tafln)
+- Spike (german track objects)
+- Kuju / Microsoft (default MSTS objects)
+- Anyone who I forgot to add to this list
+
+Sounds by:
+- Jan Riffel
+- Icki81
+
+
+
+
+INSTALLATION INSTRUCTIONS:
+
+Requirements to run the route:
+- Newroads 4.0 and Xtracks 3.20.
+- Open Rails
+
+To Install:
+- Drop the DK24 folder from the zip file into your /Routes/ folder.
+- Done!
+
+
+
+
+GOAL:
 
 Include full danish rail network as it is in
 2024, albeit with some of the future
@@ -136,7 +220,7 @@ TODO's 3d models:
 - PGA Track Objects:
 	- ATC balise
 	- EURO balise
-	- Steel noise walls
+	- Noise walls
 	- Moderne sort spor overgang
 	- Strømbeskytter gammel på siden af broer
 	- Strømbeskytter ny på siden af broer
