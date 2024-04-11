@@ -202,9 +202,36 @@ TODO's on existing track layout:
 	- Add remaining part of the Kombiterminal
 - Between Taulov and Snoghøj
 	- Adjust elevation
-- Tracks from Ringsted towards Copenhagen.
-- Translate all DB2f embankments by -0.07 on the Y-axis
-
+- Translate all NR Embankments by -0.07 on the Y-axis
+- Slagelse
+	- Add yard
+	- Add connection to Tølløse
+- Ringsted
+	- Add yard
+- Køge Nord
+	- Add connection to Køge
+	- Add connection to Roskilde
+	- Add S-tog to Køge
+- Roskilde
+	- Add connection to Køge
+	- Add connection to Holbæk
+- Høje Taastrup
+	- Add kombiterminal
+	- Add yard
+	- Add S-tog
+- Trekroner
+	- Separate the tracks into 2x2, there should be the same space between the tracks at the station like there is before and after the station
+- Glostrup
+	- Add yard
+	- Add S-tog
+- Copenhagen area:
+	- Place tunnels again to prevent the train jumping from side to side
+	- Lay track between København Syd and Amagerbroen
+	- Lay track between Amagerbroen and Kastrup/KAC/Øresundstunellen
+	- Lay track north of Østerport
+	- Lay S-train tracks
+	- Fix connection between København H and Øresundsbanen/Ringstedbanen
+ 
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
 - Remove bushes from BAB roads (make it transparent)
