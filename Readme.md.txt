@@ -138,7 +138,7 @@ Project Plan:
 
 Expansion Steps:
 - v1.0: Base,
-	- Fredericia - Østerport/Kastrup
+	- Fredericia/Taulov - Østerport/Kastrup
 - v1.1: Mainlines,
 	- Århus - Fredericia
 	- Padborg - Taulov
@@ -196,8 +196,11 @@ Expansion Steps:
 
 TODO's on existing track layout:
 - Fredericia rail yard
-	- Add southern railyard and harbour tracks
-	- Add tracks to Carlsberg going underneath the mainline tracks
+	- Add southern railyard and harbour tracks.
+	- Add tracks to Carlsberg going underneath the mainline tracks.
+	- Straighten the track at switch 613 and switch 596 south of the station.
+	- Make the section between switch 975 and switch 792 less sharp, and redo the 3-track to 4-track switches.
+	- Redo the area from switches 942/982 to switches 775/922.
 - Taulov
 	- Add remaining part of the Kombiterminal
 - Between Taulov and Snoghøj
@@ -220,7 +223,7 @@ TODO's on existing track layout:
 	- Add yard
 	- Add S-tog
 - Trekroner
-	- Separate the tracks into 2x2, there should be the same space between the tracks at the station like there is before and after the station
+	- Separate the tracks into 2x2t, there should be the same space between the tracks at the station like there is before and after the station
 - Glostrup
 	- Add yard
 	- Add S-tog
@@ -231,6 +234,7 @@ TODO's on existing track layout:
 	- Lay track north of Østerport
 	- Lay S-train tracks
 	- Fix connection between København H and Øresundsbanen/Ringstedbanen
+	- There are some small straight sections at switch 2695, remove them or make them longer.
  
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
