@@ -3,14 +3,13 @@ LICENSE:
 
 The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
 
-I would appreciate that you let me know via email if you use those objects/textures in other routes, etc.
+I would appreciate you let me know via email if you these objects/textures in other routes, or for something else.
 
-I am not going to tell you no (as long as you follow the terms of the CC BY-NC-SA 4.0 license).
+I will not tell you no (as long as you follow the terms of the CC BY-NC-SA 4.0 license).
 
-I would simply just like to know. That is all. :-)
+I would simply just appreciate knowing. That is all. :-)
 
-Details about CC BY-NC-SA 4.0: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
-
+Details about CC BY-NC-SA 4.0 here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
 
 Rights to all other objects/textures in this route belong to their respective authors under terms specified by them.
@@ -24,7 +23,7 @@ These objects/textures are available from various freeware packs that are distri
 - https://www.the-train.de
 - https://www.banbyggarna.se
 - https://www.e-buzz.se
-
+- https://www.msts-rw.cz
 
 
 
@@ -131,11 +130,6 @@ Signalling used:
   - Parts of Rødby - Lübeck that are not ECTS L2
   - Padborg - Flensburg - Hamburg
 
-Project Plan:
-- Add all mainlines in version 1.0 to 1.6
-- Add branchlines with trains heading to Copenhagen in version 0.8
-- Add S-trains in version 0.9
-
 Expansion Steps:
 - v1.0: Base,
 	- Fredericia/Taulov - Østerport/Kastrup
@@ -207,31 +201,31 @@ TODO's on existing track layout:
 - Between Taulov and Snoghøj
 	- Adjust elevation
 - Translate all NR Embankments by -0.07 on the Y-axis
-- Slagelse
-	- Add yard
-	- Add connection to Tølløse
 - Ringsted
 	- Add yard
+	- Adjust track east of switch 1658 to only turn once, rather than twice. 
 - Køge Nord
 	- Add connection to Køge
 	- Add connection to Roskilde
 	- Add S-tog to Køge
 - Roskilde
+	- Add yard
 	- Add connection to Køge
 	- Add connection to Holbæk
 - Høje Taastrup
 	- Add kombiterminal
+	- Make the two main tracks through the station slightly further apart to make more space for the pillars.
 	- Add yard
-	- Add S-tog
+	- Add S-tog tracks
 - Trekroner
 	- Separate the tracks into 2x2t, there should be the same space between the tracks at the station like there is before and after the station
 - Glostrup
 	- Add yard
-	- Add S-tog
+	- Add S-tog tracks
 - Copenhagen area:
 	- Place tunnels again to prevent the train jumping from side to side
 	- Lay track between København Syd and Amagerbroen
-	- Lay track between Amagerbroen and Kastrup/KAC/Øresundstunellen
+	- Lay remaining track at KAC
 	- Lay track north of Østerport
 	- Lay S-train tracks
 	- Fix connection between København H and Øresundsbanen/Ringstedbanen
@@ -323,13 +317,13 @@ TODO's 3d models:
 		- TBT Tower
 	- More?
 - PGA Bridges:
-	- PGA Gl. Lillebæltsbro
-	- PGA Ny Lillebæltsbro
-	- PGA Storebælt Højbro
-	- PGA Storebælt Lavbro Bropille Vej strt
-	- PGA Storebælt Lavbro Bropille Bane strt
-	- PGA Storebælt Lavbro Bropille Vej 8000r1d
-	- PGA Storebælt Lavbro Bropille Bane 8000r1d
+	- Gl. Lillebæltsbro
+	- Ny Lillebæltsbro
+	- Storebælt Højbro
+	- Storebælt Lavbro Bropille Vej strt
+	- Storebælt Lavbro Bropille Bane strt
+	- Storebælt Lavbro Bropille Vej 8000r1d
+	- Storebælt Lavbro Bropille Bane 8000r1d
 - PGA Gantry:
 	- 1t gantry  KL / KR / LL / LR
 	- 1t gantry  KL / KR / LL / LR
