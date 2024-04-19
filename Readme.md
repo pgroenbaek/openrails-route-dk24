@@ -132,10 +132,9 @@ Signalling used:
 
 Expansion Steps:
 - v1.0: Base,
-	- Fredericia/Taulov - Østerport/Kastrup
+	- Fredericia/Taulov - Klampenborg/Kastrup
 - v1.1: Additional Mainlines,
 	- Århus - Fredericia
-	- Klampenborg - Svanemøllen
 	- Padborg - Taulov
 - v1.2: Additional Mainlines,
 	- Flensburg - Padborg
@@ -230,6 +229,7 @@ TODO's on existing track layout:
 	- Lay S-train tracks
 	- Fix connection between København H and Øresundsbanen/Ringstedbanen
 	- There are some small straight sections at switch 2695, remove them or make them longer.
+	- Electric line missing over the XOver7_5d's (take an a1t25m and remove everything form the model except the electric line, place it on top of the xover7_5d)
  
 TODO's on textures:
 - Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
