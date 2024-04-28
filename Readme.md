@@ -186,7 +186,17 @@ Expansion Steps:
 		Ryparken - Farum
 		Jægersborg - Hillerød
 
-
+Order in which to do things:
+- Place all remaining track
+- Place all remaining embankments/viaducts/bridges/Rwalls
+	- Adjust tracks as needed
+- Place all stations
+	- Adjust tracks as needed
+- Place all roads
+- Place gantries and other static track objects
+- Place static objects in vicinity of track
+- Place track items
+- Place remaining scenery
 
 TODO's on existing track layout:
 - Fredericia rail yard
@@ -203,14 +213,8 @@ TODO's on existing track layout:
 - Ringsted
 	- Add yard
 	- Adjust track east of switch 1658 to only turn once, rather than twice. 
-- Køge Nord
-	- Add connection to Køge
-	- Add connection to Roskilde
-	- Add S-tog to Køge
 - Roskilde
 	- Add yard
-	- Add connection to Køge
-	- Add connection to Holbæk
 - Høje Taastrup
 	- Add kombiterminal
 	- Make the two main tracks through the station slightly further apart to make more space for the pillars.
@@ -222,17 +226,12 @@ TODO's on existing track layout:
 	- Add yard
 	- Add S-tog tracks
 - Copenhagen area:
-	- Place tunnels again to prevent the train jumping from side to side
-	- Lay track between København Syd and Amagerbroen
-	- Lay remaining track at KAC
-	- Lay track north of Østerport
 	- Lay S-train tracks
-	- Fix connection between København H and Øresundsbanen/Ringstedbanen
 	- There are some small straight sections at switch 2695, remove them or make them longer.
 	- Electric line missing over the XOver7_5d's (take an a1t25m and remove everything form the model except the electric line, place it on top of the xover7_5d)
  
 TODO's on textures:
-- Change texture of V4 SFS bridge railing to be the same as the railing on BAB bridges
+- Change railing color of V4 SFS bridge and NR rail bridge, make it gray-ish or same as BAB bridge railing 
 - Remove bushes from BAB roads (make it transparent)
 - Create alternative BAB bridge pier in same color as the BAB bridges themselves
 - Try changing white concrete textutes of BAB and V4hs bridges to the gray NR_Bridge texture
@@ -241,6 +240,7 @@ TODO's on textures:
 TODO's sound:
 - Make use of the "ORTSCurveSMSNumber (  )" option in the trk file.
 - Add random track squeal sounds at 120+ km/h speeds
+- Change it so speed must be more than 2 km/h for switch sound to occur
 
 TODO's 3d models:
 - PGA Track Objects:
@@ -255,7 +255,6 @@ TODO's 3d models:
 	- sign ATC begins
 	- sign ATC ends
 	- sign ECTSL2 begins
-	- sign ECTSL2 ends
 	- sign ECTSL2 marker
 	- sign CBTC marker
 	- sign lower pantograph
