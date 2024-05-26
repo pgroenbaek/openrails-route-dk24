@@ -212,7 +212,6 @@ TODO's on existing track layout:
 - Translate all NR Embankments by -0.07 on the Y-axis
 - Ringsted
 	- Add yard
-	- Adjust track east of switch 1658 to only turn once, rather than twice. 
 - Roskilde
 	- Add yard
 - Høje Taastrup
