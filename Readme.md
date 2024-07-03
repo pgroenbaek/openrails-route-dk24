@@ -199,6 +199,7 @@ Order in which to do things:
 - Place remaining scenery
 
 TODO's on existing track layout:
+- Translate all NR Embankments by -0.07 on the Y-axis
 - Fredericia rail yard
 	- Add southern railyard and harbour tracks.
 	- Add tracks to Carlsberg going underneath the mainline tracks.
@@ -209,7 +210,6 @@ TODO's on existing track layout:
 	- Add remaining part of the Kombiterminal
 - Between Taulov and Snoghøj
 	- Adjust elevation
-- Translate all NR Embankments by -0.07 on the Y-axis
 - Ringsted
 	- Add yard
 - Roskilde
@@ -228,6 +228,19 @@ TODO's on existing track layout:
 - Copenhagen area:
 	- There are some small straight sections at switch 2695, remove them or make them longer.
 	- Electric line missing over the XOver7_5d's (take an a1t25m and remove everything form the model except the electric line, place it on top of the xover7_5d)
+	- Add IC5 klargøringsarea yard
+	- Add S-train track siding
+	- Add København G yard
+	- Add Lokomotivværkstedet + yard
+- Østerport
+	- Add yard
+- Helgoland
+	- Add yard
+- Hellerup
+	- Add S-train yard
+- Klampenborg
+	- Add S-train yard
+ 
  
 TODO's on textures:
 - Change railing color of V4 SFS bridge and NR rail bridge, make it gray-ish or same as BAB bridge railing 
