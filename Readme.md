@@ -190,7 +190,7 @@ Order in which to do things:
 - Place all remaining track
 - Place all remaining embankments/viaducts/bridges/Rwalls
 	- Adjust tracks as needed
-- Place all stations
+- Place all station platforms
 	- Adjust tracks as needed
 - Place all roads
 - Place gantries and other static track objects
@@ -223,9 +223,9 @@ TODO's on existing track layout:
 	- Separate the tracks into 2x2t, there should be the same space between the tracks at the station like there is before and after the station
 - Glostrup
 	- Add yard
-	- Add S-tog tracks
+- Valby
+    - Adjust flyover
 - Copenhagen area:
-	- Lay S-train tracks
 	- There are some small straight sections at switch 2695, remove them or make them longer.
 	- Electric line missing over the XOver7_5d's (take an a1t25m and remove everything form the model except the electric line, place it on top of the xover7_5d)
  
