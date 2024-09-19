@@ -44,7 +44,8 @@ Special thanks to:
 - Dennis Kunz (German signals)
 
 Loading image by:
-- Falk2 (CC BY-SA 3.0: https://commons.wikimedia.org/wiki/User:Mattbuck/Railways/2014_January_1-10#/media/File:I12_225_Gro%C3%9Fe-Belt-Br%C3%BCcke,_MA_5046.jpg)
+- Falk2 @ Wikimedia (CC BY-SA 3.0)
+	https://commons.wikimedia.org/wiki/User:Mattbuck/Railways/2014_January_1-10#/media/File:I12_225_Gro%C3%9Fe-Belt-Br%C3%BCcke,_MA_5046.jpg
 
 Objects and textures by:
 - Peter Grønbæk Andersen (everything named "PGA_*")
