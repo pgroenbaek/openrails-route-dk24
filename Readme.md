@@ -84,22 +84,19 @@ To Install:
 
 GOAL:
 
-Include full danish rail network as it is in
+Include full danish rail network as it was in
 2024, albeit with some of the future
 additions and changes cherry-picked (see below)
 
 Differences from the real DK2024 rail network:
-- Include railway lines under construction in 2024 as if they were finished
+- Include projects under construction in 2024 as if they were finished
 	- The new high speed railway across western funen
 	- The new fehmern tunnel railway line
 	- The new storstrøms bridge
-- Include some of the planned changes to the danish railway network
 	- Electrification from Fredericia to Aalborg
-	- Electrification from Næstved through the fehmern tunnel
-	- Speed upgrade to 200 km/h between Odense and Nyborg
-	- Speed upgrade to 200 km/h between Korsør and Slagelse
-	- Speed upgrade to 200 km/h between Slagelse and Ringsted
-	- Max speed 250 km/h on the high speed rail lines
+	- Electrification from Næstved through to the fehmern tunnel
+	- The new DJM Depot in Marslev
+	- The new IC5 Depot in Copenhagen
 
 Also include international connections:
 	- Padborg - Flensburg (Germany)
@@ -204,13 +201,8 @@ TODO's on existing track layout:
 - Fredericia rail yard
 	- Add southern railyard and harbour tracks.
 	- Add tracks to Carlsberg going underneath the mainline tracks.
-	- Straighten the track at switch 613 and switch 596 south of the station.
-	- Make the section between switch 975 and switch 792 less sharp, and redo the 3-track to 4-track switches.
-	- Redo the area from switches 942/982 to switches 775/922.
 - Taulov
 	- Add remaining part of the Kombiterminal
-- Between Taulov and Snoghøj
-	- Adjust elevation
 - Ringsted
 	- Add yard
 - Roskilde
@@ -248,113 +240,335 @@ TODO's sound:
 - Add random track squeal sounds at 120+ km/h speeds
 - Change it so speed must be more than 2 km/h for switch sound to occur
 
-TODO's 3d models:
-- PGA Track Objects:
-	- ATC balise
-	- EURO balise
-	- Noise walls
-	- Moderne sort spor overgang
-	- Strømbeskytter gammel på siden af broer
-	- Strømbeskytter ny på siden af broer
-	- Andre?
-- PGA Track Signs:
-	- sign ATC begins
-	- sign ATC ends
-	- sign ECTSL2 begins
-	- sign ECTSL2 marker
-	- sign CBTC marker
-	- sign lower pantograph
-	- sign raise pantograph
-	- sign operate circuit breaker
-	- sign reset circuit breaker
-	- sign eltog stop
-	- sign eltog stop arrow
-	- sign stopmærker (80, 160, 240, 320, 120, 180, 240, 300)
-	- I-signal location signs
-- PGA Station Objects:
-	- platform 10m broad
-	- platform 10m narrow
-	- platform start
-	- platform end
-	- platform inner
-	- platform lamp
-	- platform section signpost
-	- station name sign
-	- station name sign small
-	- tracknumber sign
-	- elevator
-	- waiting shelter
-	- bench
-	- bench with commercial
-	- rejsekortstander ud
-	- rejsekortstander ind
-- PGA Station Buildings:
-	- Station buildings
-		- Østerport
-		- København H
-		- Høje Taastrup
-		- Roskilde
-		- Ringsted
-		- Sorø
-		- Sorø Water Tower
-		- Slagelse
-		- Korsør
-		- Nyborg
-		- Odense Gl. banegårdsbygning
-		- Odense Banegårdscenter Top
-		- Odense Banegårdscenter North
-		- Odense Banegårdscenter South
-		- Middelfart
-		- Fredericia
-	- Station platform roofs:
-		- Generic danish platform roof
-		- Østerport Perrontag
-		- København H Perrontag
-		- Odense Perrontag
-	- More?
-- PGA Walkways:
-	- Generic danish walkway
-	- Køge Nord Gangbro
-	- Slagelse Gangbro
-	- Odense Byens Bro
-- PGA Buildings:
-	- Odense:
-		- TBT Tower
-	- More?
-- PGA Bridges:
-	- Gl. Lillebæltsbro
-	- Ny Lillebæltsbro
-	- Storebælt Højbro
-	- Storebælt Lavbro Bropille Vej strt
-	- Storebælt Lavbro Bropille Bane strt
-	- Storebælt Lavbro Bropille Vej 8000r1d
-	- Storebælt Lavbro Bropille Bane 8000r1d
-- PGA Gantry:
-	- 1t gantry  KL / KR / LL / LR
-	- 1t gantry  KL / KR / LL / LR
-	- 1t double gantry KL / KR / LL / LR
-	- 1t ballast gantry KL / KR / LL / LR
-	- 1t transformer gantry  KL / KR / LL / LR
-	- 1t mast gantry K / L / U
-	- 1t mounted gantry KL / KR / LL / LR / ZR / ZL
-	- 1t mounted gantry signal
-	- 1t end gantry
-	- 2t gantry K / L / LC / KC
-	- 2t double gantry K / L
-	- 2t ballast gantry K / L
-	- 2t transformer gantry K / L
-	- 2t mast gantry K / L / U
-	- 2t portal gantry K / L / ZL / ZR / U
-	- 3t portal gantry K / L / ZL / ZR / U
-	- 4t portal gantry K / L / ZL / ZR / U
-	- 5t portal gantry K / L / ZL / ZR / U
-	- 6t portal gantry K / L / ZL / ZR / U
-	- 7t hanging gantry
-	- 8t hanging gantry
-	- 9t hanging gantry
-	- 10t hanging gantry
-	- SicatSX?
+Gantry explanation:
+	gantry types:
+		G = gallows gantry
+		Ge = gallows gantry (empty)
+		H = hanging gantry
+		N = normal gantry
+		M = mast gantry
+		Me = mast gantry (empty)
+		P = portal gantry
+		Pe = portal gantry (empty)
+		Pz = portal gantry (Z mount)
+		Pze = portal gantry (Z mount empty)
+		Sx = SicatSX gantry
+		Uh = Unmounted gantry (overhead mount)
+		Uhp = Unmounted gantry (portal overhead mount)
+		UhpSx = Unmounted SicatSX gantry (portal overhead mount)
+		Us = Unmounted gantry (side mount)
+		Uz = Unmounted gantry (Z mount)
+		Uzp = Unmounted gantry (portal Z mount)
 
+	gantry subtypes:
+		b = ballast
+		d = double
+		g = galvanised steel
+		w = weathered galvanised steel
+		r = reflective band for bridges
+		t = transformer
+		
+	gantry naming:
+		{type}{numtracks}{trackdist}{subtypes}_{variant}
+	
+	next gantry steps:
+	- 
+	
+TODO's 3d models:
+	- PGA_DK_Bridge_LittleBeltPylon
+	- PGA_DK_Bridge_GreatBeltPylon
+	- PGA_DK_Bridge_OldLittleBelt
+	- PGA_DK_Bridge_Walkway
+	- PGA_DK_Bridge_WalkwayOdense
+	- PGA_DK_Bridge_WalkwaySlagelse
+	- PGA_DK_Bridge_WalkwayKoegeNord
+	- PGA_DK_Building_OdenseTBTTower
+	- PGA_DK_Crossing_Workway
+	x PGA_DK_Gantry_Common_5m
+	- PGA_DK_Gantry_Common_5m_Sx
+	x PGA_DK_Gantry_Common_5m_Z
+	x PGA_DK_Gantry_Common_6m
+	- PGA_DK_Gantry_Common_6m_Sx
+	- PGA_DK_Gantry_Common_8m
+	- PGA_DK_Gantry_Common_ReflectiveBand
+	x PGA_DK_Gantry_Common_Insulator
+	x PGA_DK_Gantry_Common_PoleFoundation
+	x PGA_DK_Gantry_Common_SupportFoundation
+	x PGA_DK_Gantry_Common_Wire
+	- PGA_DK_Gantry_G2t6m_KR
+	- PGA_DK_Gantry_G2t6m_KL
+	- PGA_DK_Gantry_G2t6m_LL
+	- PGA_DK_Gantry_G2t6m_LR
+	- PGA_DK_Gantry_Ge2t6m_C
+	- PGA_DK_Gantry_Ge2t6m_L
+	- PGA_DK_Gantry_Ge2t6m_R
+	- PGA_DK_Gantry_H7t6m
+	- PGA_DK_Gantry_H8t6m
+	- PGA_DK_Gantry_H9t6m
+	- PGA_DK_Gantry_H10t6m
+	- PGA_DK_Gantry_M7t6m
+	- PGA_DK_Gantry_M8t6m
+	- PGA_DK_Gantry_M9t6m
+	- PGA_DK_Gantry_M10t6m
+	- PGA_DK_Gantry_Me7t6m
+	- PGA_DK_Gantry_Me8t6m
+	- PGA_DK_Gantry_Me9t6m
+	- PGA_DK_Gantry_Me10t6m
+	- PGA_DK_Gantry_N1t0mb
+	x PGA_DK_Gantry_N1t6m_KR
+	x PGA_DK_Gantry_N1t6m_KL
+	x PGA_DK_Gantry_N1t6m_LL
+	x PGA_DK_Gantry_N1t6m_LR
+	- PGA_DK_Gantry_N1t6mb_KR
+	- PGA_DK_Gantry_N1t6mb_KL
+	- PGA_DK_Gantry_N1t6mb_LL
+	- PGA_DK_Gantry_N1t6mb_LR
+	- PGA_DK_Gantry_N1t6md_KR
+	- PGA_DK_Gantry_N1t6md_KL
+	- PGA_DK_Gantry_N1t6md_LL
+	- PGA_DK_Gantry_N1t6md_LR
+	- PGA_DK_Gantry_N1t6mt_KR
+	- PGA_DK_Gantry_N1t6mt_KL
+	- PGA_DK_Gantry_N1t6mt_LL
+	- PGA_DK_Gantry_N1t6mt_LR
+	- PGA_DK_Gantry_N1t8m_KR
+	- PGA_DK_Gantry_N1t8m_KL
+	- PGA_DK_Gantry_N1t8m_LL
+	- PGA_DK_Gantry_N1t8m_LR
+	x PGA_DK_Gantry_N2t6m_KC
+	- PGA_DK_Gantry_N2t6mr_KC
+	- PGA_DK_Gantry_N2t6m_L
+	- PGA_DK_Gantry_N2t6mr_L
+	- PGA_DK_Gantry_N2t6mb_L
+	- PGA_DK_Gantry_N2t6mbgr_L
+	- PGA_DK_Gantry_N2t6md_L
+	- PGA_DK_Gantry_N2t6mdgr_L
+	- PGA_DK_Gantry_N2t6mgr_L
+	- PGA_DK_Gantry_N2t6mt_L
+	x PGA_DK_Gantry_N2t6mg_L
+	- PGA_DK_Gantry_N2t6mgr_L
+	x PGA_DK_Gantry_N2t6m_LC
+	- PGA_DK_Gantry_N2t6mr_LC
+	x PGA_DK_Gantry_N2t6m_R
+	- PGA_DK_Gantry_N2t6mr_R
+	- PGA_DK_Gantry_N2t6mb_R
+	- PGA_DK_Gantry_N2t6mbgr_R
+	- PGA_DK_Gantry_N2t6md_R
+	- PGA_DK_Gantry_N2t6mdgr_R
+	x PGA_DK_Gantry_N2t6mg_R
+	- PGA_DK_Gantry_N2t6mgr_R
+	- PGA_DK_Gantry_N2t6mt_R
+	- PGA_DK_Gantry_N2t6mtgr_R
+	- PGA_DK_Gantry_N2t8m_L
+	- PGA_DK_Gantry_N2t8m_R
+	x PGA_DK_Gantry_P2t6m_L
+	x PGA_DK_Gantry_P2t6m_R
+	x PGA_DK_Gantry_P3t6m_L
+	x PGA_DK_Gantry_P3t6m_R
+	x PGA_DK_Gantry_P4t6m_L
+	x PGA_DK_Gantry_P4t6m_R
+	- PGA_DK_Gantry_P5t6m_L
+	- PGA_DK_Gantry_P5t6m_R
+	- PGA_DK_Gantry_P6t6m_L
+	- PGA_DK_Gantry_P6t6m_R
+	x PGA_DK_Gantry_Pe1t6m_C
+	x PGA_DK_Gantry_Pe2t6m
+	x PGA_DK_Gantry_Pe3t6m
+	x PGA_DK_Gantry_Pe4t6m
+	x PGA_DK_Gantry_Pe5t6m
+	x PGA_DK_Gantry_Pe6t6m
+	- PGA_DK_Gantry_Pe7t6m
+	- PGA_DK_Gantry_Pe8t6m
+	- PGA_DK_Gantry_Pe9t6m
+	x PGA_DK_Gantry_Pz2t6m_L
+	x PGA_DK_Gantry_Pz2t6m_R
+	x PGA_DK_Gantry_Pz3t6m_L
+	x PGA_DK_Gantry_Pz3t6m_R
+	x PGA_DK_Gantry_Pz4t6m_L
+	x PGA_DK_Gantry_Pz4t6m_R
+	x PGA_DK_Gantry_Pz5t6m_L
+	x PGA_DK_Gantry_Pz5t6m_R
+	x PGA_DK_Gantry_Pz6t6m_L
+	x PGA_DK_Gantry_Pz6t6m_R
+	x PGA_DK_Gantry_Pze2t6m
+	x PGA_DK_Gantry_Pze3t6m
+	x PGA_DK_Gantry_Pze4t6m
+	x PGA_DK_Gantry_Pze5t6m
+	x PGA_DK_Gantry_Pze6t6m
+	- PGA_DK_Gantry_Pze7t6m
+	- PGA_DK_Gantry_Pze8t6m
+	- PGA_DK_Gantry_Pze9t6m
+	- PGA_DK_Gantry_Sx1t0mb
+	- PGA_DK_Gantry_Sx1t6m_KR
+	- PGA_DK_Gantry_Sx1t6m_KL
+	- PGA_DK_Gantry_Sx1t6m_LL
+	- PGA_DK_Gantry_Sx1t6m_LR
+	- PGA_DK_Gantry_Sx1t6mb_KR
+	- PGA_DK_Gantry_Sx1t6mb_KL
+	- PGA_DK_Gantry_Sx1t6mb_LL
+	- PGA_DK_Gantry_Sx1t6mb_LR
+	- PGA_DK_Gantry_Sx1t6md_KR
+	- PGA_DK_Gantry_Sx1t6md_KL
+	- PGA_DK_Gantry_Sx1t6md_LL
+	- PGA_DK_Gantry_Sx1t6md_LR
+	- PGA_DK_Gantry_Sx1t6mt_KR
+	- PGA_DK_Gantry_Sx1t6mt_KL
+	- PGA_DK_Gantry_Sx1t6mt_LL
+	- PGA_DK_Gantry_Sx1t6mt_LR
+	- PGA_DK_Gantry_Sx2t6m_K
+	- PGA_DK_Gantry_Sx2t6mb_K
+	- PGA_DK_Gantry_Sx2t6md_K
+	- PGA_DK_Gantry_Sx2t6mt_K
+	- PGA_DK_Gantry_Sx2t6m_KC
+	- PGA_DK_Gantry_Sx2t6m_L
+	- PGA_DK_Gantry_Sx2t6mb_L
+	- PGA_DK_Gantry_Sx2t6md_L
+	- PGA_DK_Gantry_Sx2t6mt_L
+	- PGA_DK_Gantry_Sx2t6m_LC
+	x PGA_DK_Gantry_Uh1t5m_KR
+	x PGA_DK_Gantry_Uh1t5m_KL
+	x PGA_DK_Gantry_Uh1t5m_LL
+	x PGA_DK_Gantry_Uh1t5m_LR
+	x PGA_DK_Gantry_Uh2t5m_LC
+	x PGA_DK_Gantry_Uh2t5m_KC
+	x PGA_DK_Gantry_Uhl1t5m_KR
+	x PGA_DK_Gantry_Uhl1t5m_KL
+	x PGA_DK_Gantry_Uhl1t5m_LL
+	x PGA_DK_Gantry_Uhl1t5m_LR
+	x PGA_DK_Gantry_Uhl2t5m_LC
+	x PGA_DK_Gantry_Uhl2t5m_KC
+	x PGA_DK_Gantry_Uhp1t5m_KR
+	x PGA_DK_Gantry_Uhp1t5m_KL
+	x PGA_DK_Gantry_Uhp1t5m_LL
+	x PGA_DK_Gantry_Uhp1t5m_LR
+	x PGA_DK_Gantry_Uhp2t5m_KC
+	x PGA_DK_Gantry_Uhp2t5m_LC
+	- PGA_DK_Gantry_UhpSx1t5m_KR
+	- PGA_DK_Gantry_UhpSx1t5m_KL
+	- PGA_DK_Gantry_UhpSx1t5m_LL
+	- PGA_DK_Gantry_UhpSx1t5m_LR
+	- PGA_DK_Gantry_UhSx1t5m_KR
+	- PGA_DK_Gantry_UhSx1t5m_KL
+	- PGA_DK_Gantry_UhSx1t5m_LL
+	- PGA_DK_Gantry_UhSx1t5m_LR
+	- PGA_DK_Gantry_UhSx2t5m_KC
+	- PGA_DK_Gantry_UhSx2t5m_LC
+	x PGA_DK_Gantry_Uhw1t5m_L
+	x PGA_DK_Gantry_Uhw1t5m_R
+	x PGA_DK_Gantry_Uhwp1t5m_L
+	x PGA_DK_Gantry_Uhwp1t5m_R
+	x PGA_DK_Gantry_Us1t6m_KR
+	x PGA_DK_Gantry_Us1t6m_KL
+	x PGA_DK_Gantry_Us1t6m_LL
+	x PGA_DK_Gantry_Us1t6m_LR
+	- PGA_DK_Gantry_UsSx1t6m_KR
+	- PGA_DK_Gantry_UsSx1t6m_KL
+	- PGA_DK_Gantry_UsSx1t6m_LL
+	- PGA_DK_Gantry_UsSx1t6m_LR
+	x PGA_DK_Gantry_Usw1t6m_L
+	x PGA_DK_Gantry_Usw1t6m_R
+	x PGA_DK_Gantry_Uz1t5m_L
+	x PGA_DK_Gantry_Uz1t5m_R
+	x PGA_DK_Gantry_Uzp1t5m_L
+	x PGA_DK_Gantry_Uzp1t5m_R
+	- PGA_DK_Sign_Arrow_Left
+	- PGA_DK_Sign_Arrow_Right
+	- PGA_DK_Sign_ApproachMarker1200m
+	- PGA_DK_Sign_ApproachMarker800m
+	- PGA_DK_Sign_ApproachMarker400m
+	- PGA_DK_Sign_ApproachMarkerCompact1200m
+	- PGA_DK_Sign_ApproachMarkerCompact800m
+	- PGA_DK_Sign_ApproachMarkerCompact400m
+	- PGA_DK_Sign_ApproachMarkerExpectISignal
+	- PGA_DK_Sign_ApproachMarkerGround
+	- PGA_DK_Sign_ApproachMarkerGroundExpectISignal
+	- PGA_DK_Sign_ATCBeginsGround
+	- PGA_DK_Sign_ATCEndsGround
+	- PGA_DK_Sign_CBTCBeginsGround
+	- PGA_DK_Sign_CBTCEndsGround
+	- PGA_DK_Sign_CBTCMarker_Left
+	- PGA_DK_Sign_CBTCMarker_Right
+	- PGA_DK_Sign_CBTCMarkerSpeed_Left
+	- PGA_DK_Sign_CBTCMarkerSpeed_Right
+	- PGA_DK_Sign_CircuitBreakerOperate
+	- PGA_DK_Sign_CircuitBreakerReset
+	- PGA_DK_Sign_ElectricTrainStop
+	- PGA_DK_Sign_ElectricTrainStopArrow_Left
+	- PGA_DK_Sign_ElectricTrainStopArrow_Right
+	- PGA_DK_Sign_FMarker
+	- PGA_DK_Sign_PantographRaise
+	- PGA_DK_Sign_DJMBeginsGround
+	- PGA_DK_Sign_DJMEndsGround
+	- PGA_DK_Sign_ETCSL2MarkerGround
+	- PGA_DK_Sign_OMarker
+	- PGA_DK_Sign_PantographLower
+	- PGA_DK_Sign_PantographRaise
+	- PGA_DK_Sign_RadioA64
+	- PGA_DK_Sign_RadioA73
+	- PGA_DK_Sign_RadioA87
+	- PGA_DK_Sign_Platform
+	- PGA_DK_Sign_ShuntingLimit
+	- PGA_DK_Sign_SpeedlimitClear
+	- PGA_DK_Sign_SpeedlimitIncrease
+	- PGA_DK_Sign_SpeedlimitSet
+	- PGA_DK_Sign_SpeedlimitWarning
+	- PGA_DK_Sign_Speedboard40
+	- PGA_DK_Sign_Speedboard60
+	- PGA_DK_Sign_Speedboard80
+	- PGA_DK_Sign_Speedboard100
+	- PGA_DK_Sign_Speedboard120
+	- PGA_DK_Sign_Speedboard130
+	- PGA_DK_Sign_StationWithoutMainSignal
+	- PGA_DK_Sign_StopMarker
+	- PGA_DK_Sign_StopMarkerBuffer
+	- PGA_DK_Sign_StopMarkerPlatform80
+	- PGA_DK_Sign_StopMarkerPlatform120
+	- PGA_DK_Sign_StopMarkerPlatform160
+	- PGA_DK_Sign_StopMarkerPlatform180
+	- PGA_DK_Sign_StopMarkerPlatform240
+	- PGA_DK_Sign_StopMarkerPlatform300
+	- PGA_DK_Sign_StopMarkerPlatform320
+	- PGA_DK_Sign_StopMarkerPlatformS
+	- PGA_DK_Sign_WhistleAlways
+	- PGA_DK_Sign_WhistlePoorVisibility
+	- PGA_DK_StationBuilding_OdenseNorth
+	- PGA_DK_StationBuilding_OdenseSouth
+	- PGA_DK_StationBuilding_OdenseTop
+	- PGA_DK_StationObject_Bench
+	- PGA_DK_StationObject_BenchCommercial
+	- PGA_DK_StationObject_Elevator
+	- PGA_DK_StationObject_Lamp
+	- PGA_DK_StationObject_LampSign
+	- PGA_DK_StationObject_LampTrackNumber
+	- PGA_DK_StationObject_NoAccessSign
+	- PGA_DK_StationObject_PlatformOldBroad
+	- PGA_DK_StationObject_PlatformOldNarrow
+	- PGA_DK_StationObject_PlatformOldStart
+	- PGA_DK_StationObject_PlatformOldEnd
+	- PGA_DK_StationObject_PlatformModernBroad
+	- PGA_DK_StationObject_PlatformModernNarrow
+	- PGA_DK_StationObject_PlatformModernStart
+	- PGA_DK_StationObject_PlatformModernEnd
+	- PGA_DK_StationObject_PlatformKoebenhavnH
+	- PGA_DK_StationObject_PlatformKoegeNord
+	- PGA_DK_StationObject_ShelterSmall
+	- PGA_DK_StationObject_ShelterLarge
+	- PGA_DK_StationObject_TravelCardPoint
+	- PGA_DK_TrackObject_ATCBalise
+	- PGA_DK_TrackObject_EUROBalise
+	- PGA_DK_TrackObject_NoiseWallMetal
+	- PGA_DK_TrackObject_NoiseWallMetalWithEdge
+	- PGA_DK_TrackObject_CrossingModern
+	- PGA_DK_TrackObject_ProtectiveBridgeShieldOld
+	- PGA_DK_TrackObject_ProtectiveBridgeShieldNew
+	- PGA_DK_TrackObject_ProtectiveSideShield
+	- PGA_DK_TrackObject_ParkingMetalWalkway
+	- PGA_DK_Embankment_Half
+	- PGA_DK_RWall_RustMetalEnd
+	- PGA_DK_RWall_RustMetalHalfEnd
+	- PGA_DK_RWall_RustMetalStart
+	- PGA_DK_RWall_RustMetalHalfStart
+	- PGA_DK_RWall_RustMetal
 
 
 Route created by:
@@ -399,3 +613,56 @@ Objects and textures by:
 Sounds by:
 - Jan Riffel
 - Icki81
+
+
+
+
+
+Average terrain color:
+
+rgb(85, 85, 26)
+#55551a
+
+
+Adjust green color:
+
+hue/lightness/saturation
+
+0
+-40,2
+24,4
+
+
+signs:
+	bevel EDGE:
+		width 0.4
+		shape 0.5
+	inset FRONT/BACK:
+		thickness: 0.03
+	extrude FRONT:
+		-0.003
+	extrude BACK:
+		-0.008
+		
+signaltype signs:
+	- textsize 240, Bahnschrift Semi-Bold
+	
+gammel PU-White Light:
+-   255 255 248 190
+
+
+
+
+UV Smartproject parameters:
+- angle limit: 66 degrees
+- margin method: scaled
+- island margin: 0.010
+- area weight: 0.000
+- [x] correct aspect
+- [x] scale to bounds
+
+
+rør: #838383
+clamps: #757575
+
+portal bevel width: 0.18
