@@ -25,6 +25,23 @@ These objects/textures are from the following freeware packs:
 - Perrontag til Fredericia banegård: https://www.routebuilders.dk/download/msts/bygninger/
 
 
+to run included activities install the following into the "Denmark 2024/TRAINS/TRAINSET" folder:
+- DSB IR4 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62938
+- DSB IC3 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62942
+- MSTS Swedish GC Litt Re: https://www.trainsim.com/forums/filelib-search-fileid?fid=78222
+- CFL BR 185 519-6 V3.0: https://the-train.de/downloads/entry/5861-cfl-br-185-519-6-v3-0/
+- DB BR 185 087-4: https://the-train.de/downloads/entry/3374-db-br-185-087-4/?highlight=BR%20185
+- CFL MY 1146: https://tog-sim.dk/downloads.php?did=1365
+- Alias (Common) Cab & Sound til MY version 3: https://tog-sim.dk/downloads.php?did=1358
+- Contec MX 1008: https://tog-sim.dk/downloads.php?did=1053
+- Alias (Common) Cab & Sound til MX version 3: https://tog-sim.dk/downloads.php?did=1359
+- DSB MZ 1401: https://tog-sim.dk/downloads.php?did=202
+- Alias (Common) Cab & Sound til MZ Serie II Version 2: https://tog-sim.dk/downloads.php?did=1360
+- DB Hbbins: https://tog-sim.dk/downloads.php?did=1034
+- TWA Habiis https://tog-sim.dk/downloads.php?did=1035
+- MMP2: https://sites.google.com/site/btsim02/orts/mmp2
+
+
 
 
 CREDITS:
