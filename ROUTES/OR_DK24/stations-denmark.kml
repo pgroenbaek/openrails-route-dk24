@@ -1,0 +1,4801 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>All the danish stations</name>
+    <Style id="icon-1899-3949AB-nodesc-normal">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-3949AB-nodesc-highlight">
+      <IconStyle>
+        <color>ffab4939</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-3949AB-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-3949AB-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-3949AB-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Odense st.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.3817213,55.401733,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holmstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2720746,55.3621304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tommerup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1826463,55.3497197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skalbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1413822,55.3661008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bred St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1056654,55.3731939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aarup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.0515737,55.3830988,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gelsted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9744744,55.3959842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ejby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9299043,55.4285262,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørre Aaby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8716407,55.459952,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kauslunde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8108159,55.4759637,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Middelfart St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7342246,55.5017059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Langeskov St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.586879,55.3615678,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nyborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.802822,55.3138651,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Odense Sygehus St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.3668817,55.3812453,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fruens Bøge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.377542,55.3697794,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hjallese St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.3925975,55.3581284,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Højby Fyn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4340653,55.3299717,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Årslev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4657087,55.3014938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pederstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.48596,55.2832265,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ringe St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4820124,55.2389185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rudme St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4871748,55.1983511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kværndrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5195729,55.1775498,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stenstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5089982,55.1314869,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stenstrup Syd St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5151948,55.1200745,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svendborg Vest
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5818625,55.0561115,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svendborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.6122588,55.0597569,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fredericia St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7393878,55.5683605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Børkop St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.652288,55.6421057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brejning St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.6590604,55.6666078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vejle St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.5368517,55.7062424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hedensted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.6991159,55.7683118,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horsens St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8356611,55.8627102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skanderborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9248953,56.0435327,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hørning St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.0361818,56.081664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viby Jylland St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1599023,56.1220052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aarhus H.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2044578,56.1500097,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taulov St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.6149674,55.5449224,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kolding St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.4828446,55.490816,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lunderskov St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.3042798,55.4805854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vamdrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.2876276,55.4287862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vojens St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.3052672,55.248026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rødekro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.333181,55.0699111,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tinglev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.258484,54.9364161,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Padborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.3593838,54.8233108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kliplev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.3988917,54.9351025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gråsten St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.5945249,54.9188302,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sønderborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7793348,54.9121143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tønder St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8606377,54.9335205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tønder Nord St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8610929,54.9390692,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Visby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8019918,55.0096864,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bredebro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8232828,55.0572082,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Døstrup Sønderjylland St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8076957,55.1177356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skærbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7715439,55.1587375,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brøns St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7409118,55.1944762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rejsby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7323451,55.2304664,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hviding St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7302986,55.2745151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ribe St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7705495,55.3279401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ribe Nørremark St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7759708,55.3395978,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gredstedbro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7411728,55.3977058,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sejstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7333272,55.4353605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Esbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4589118,55.4675815,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tjæreborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5799661,55.4663042,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bramming St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7059732,55.4643399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gørding St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8013575,55.4694761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holsted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.9151786,55.4849938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brørup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.017591,55.4825256,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vejen St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.1359471,55.4755078,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Spangsbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.460745,55.4925962,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gjesing St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4571604,55.5099052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Guldager St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4402287,55.5361629,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varde Kaserne
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4722536,55.612063,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4844632,55.6160854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frisvadvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4875181,55.6276778,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varde Vest St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4763172,55.6246854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Boulevarden St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4606531,55.6238979,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hyllerslev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4006284,55.6262688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Janderup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3736838,55.622757,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Billum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3309584,55.6170148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oksbøl St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.283798,55.625971,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Baunhøj St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2831156,55.6359559,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vrøgum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2923701,55.6540394,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jegum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3018269,55.6648006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dyreby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2982967,55.6998605,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Henne St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3046227,55.7103905,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Outrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3450613,55.7172225,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Løftgård St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3531901,55.7296352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lunde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3642953,55.755957,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørre Nebel St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2907021,55.7773177,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varde Nord
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5001752,55.6308931,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sig St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5775733,55.6656857,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tistrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5981726,55.7163094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gårde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.6115498,55.7652505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ølgod St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.6226638,55.8108124,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tarm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5206025,55.9098092,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skjern St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.492259,55.9474633,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lem St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3858696,56.0251291,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ringkjøbing St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2504935,56.0926297,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hee St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2866885,56.1436187,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tim St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3058738,56.1951067,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ulfborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3250516,56.2715584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vemb St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.345638,56.3436448,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bur St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4286543,56.3677706,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holstebro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.620791,56.3646235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hjerm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.6403194,56.4384183,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Struer St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.6023328,56.4916536,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Humlum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5524567,56.5396117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Oddesund Nord St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5469536,56.5825188,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Uglev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.541722,56.6123808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hvidbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5267716,56.6499089,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lyngs St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4517749,56.6643219,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ydby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3988286,56.7143104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hurup Thy St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4181054,56.7512205,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bedsted Thy St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4080228,56.8065937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hørdum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.4908048,56.8509191,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Snedsted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5272211,56.8922917,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sjørring St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.5880402,56.9517094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thisted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.6871898,56.9525559,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Amstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3295034,56.3911095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bækmarksbro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.3083316,56.4120376,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sinkbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2845136,56.4374325,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fåre St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2620821,56.4538535,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ramme St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2107355,56.4889556,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bonnet St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2225183,56.5208615,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Armose St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2659601,56.5293477,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lemvig St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.299831,56.5470356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Balleby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2410445,56.5475051,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klinkby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.220238,56.5650443,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nejrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.1882181,56.5655278,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Strande St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.1609776,56.568903,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Victoria Street Station
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.1433249,56.5772551,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vrist St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.1485545,56.6013695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Harboøre St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.1797978,56.6210542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rønland St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.194908,56.6565612,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sprogøvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2094992,56.692505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thyborøn Kirke St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2068981,56.6982076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thyborøn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.2147516,56.7038504,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Borris</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.6442376,55.9582385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Troldhede St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.745486,55.9907848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kibæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.8519372,56.0321369,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Studsgård St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.9102641,56.0912698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herning Messecenter St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.9446357,56.1234668,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herning St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.9778085,56.1324973,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brande St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.130086,55.9444157,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Thyregod St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.2527149,55.9085011,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Give St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.236638,55.8429591,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jelling St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.4202963,55.7540329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vejle Sygehus St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.5374428,55.7147025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aulum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7885402,56.2649305,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vildbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.769033,56.1982052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birk Centerpark St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.0301877,56.1253209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hammerum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.0630375,56.1316627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ikast St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.1547632,56.1447584,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bording St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.2786169,56.1466112,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Engesvang St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.3517609,56.167688,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Silkeborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.544261,56.164005,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svejbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.6367221,56.1326645,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laven St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7177751,56.1246883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ry St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7585833,56.0909401,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Alken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8453796,56.0524445,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hinnerup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.0596747,56.2629515,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hadsten St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.0478113,56.3273143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Langå St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8969917,56.3864399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Randers St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.0218189,56.4616806,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Handest St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8268112,56.569054,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hobro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7827321,56.6433632,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Arden St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8602119,56.769543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skørping St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8876247,56.8358073,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Støvring St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8437974,56.8917934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svenstrup St. (Jylland)
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8564376,56.9728689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skalborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.8987092,57.0081242,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aalborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9171726,57.0429501,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Aalborg Vestby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9090401,57.0526842,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lindholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9050711,57.0667381,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brønderslev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9428531,57.270232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vrå St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9421504,57.3542762,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hjørring St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9859897,57.4564714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sindal St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2021447,57.4700727,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tolne St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.3121857,57.4856721,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kvissel St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4128657,57.4719803,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frederikshavn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5402312,57.441354,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ulstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.7935592,56.3953835,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bjerringbro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.6581361,56.3739335,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rødkærsbro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.5005166,56.3526189,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.398604,56.447311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stoholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.1505447,56.487231,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Højslev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.1105771,56.5490896,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skive St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.0261141,56.5614505,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vinderup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          8.7819294,56.4821665,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kvægtorvet St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9760339,57.4545541,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Teglgårdsvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9637256,57.4594965,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herregårdsparken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9662597,57.4732068,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vellingshøj St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9686629,57.4801403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vidstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9476586,57.5008868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sønderby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9511504,57.5246959,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tornby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9497968,57.5337586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horne St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9725766,57.5591798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emmersbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9778083,57.5719625,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lilleheden St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9763707,57.5852126,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hirtshals St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          9.9629002,57.5917714,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Strandby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.490539,57.4897503,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rimmen St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4452651,57.5050056,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jerup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4173905,57.5321852,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Napstjært St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4085072,57.554596,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ålbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4083499,57.5923488,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bunken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4394924,57.6297311,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hulsig St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.4635679,57.65937,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frederikshavnsvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5636198,57.7245627,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skagen St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.5901414,57.7242074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kongsvang</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1742457,56.1350876,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rosenhøj
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1475889,56.1170882,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Øllegårdsvej</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1345655,56.1147263,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gunnar Clausens Vej
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1264253,56.1119206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tranbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1358762,56.0966143,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørrevænget</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1514282,56.0921001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mølleparken</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1545949,56.0725592,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mårslet St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1643591,56.0688103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vilhelmsborg
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1789994,56.0640896,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Beder St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1983362,56.0564197,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Egelund St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1926391,56.0500058,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malling St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1917417,56.0373681,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Assedrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1826032,56.0039544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rude Havvej
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1543025,55.9835981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Odder St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.1505236,55.9718458,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dokk1</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.213161,56.1539074,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skolebakken</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2130669,56.1569644,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Østbanetorvet St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2165336,56.1632059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Torsøvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.228704,56.2052647,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lystrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2348593,56.2309015,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hovmarken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2553192,56.2339845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hjortshøj St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2687517,56.2446988,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skødstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.3036436,56.2619671,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Løgten St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.3177866,56.2760232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Korsør St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.13514,55.3571502,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Slagelse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.3478993,55.4073734,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sorø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5700365,55.419407,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ringsted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7865519,55.4380232,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Borup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9725775,55.4945135,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Viby Sjælland St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0244032,55.5494151,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roskilde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0886697,55.6386825,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Trekroner St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1320842,55.6477586,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hedehusene St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1980622,55.6484854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Høje Taastrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2694733,55.6483644,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5137966,55.6639057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>København H.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5650348,55.6725328,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørreport St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5718475,55.6835522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Østerport St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5876618,55.6924788,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hellerup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5672851,55.7308226,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klampenborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5888923,55.7766495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skodsborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5718846,55.823467,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vedbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5626278,55.8526478,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rungsted Kyst St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5317038,55.8820317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kokkedal St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.502457,55.9030041,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nivå St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5067223,55.9335695,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Humlebæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.533066,55.9632277,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espergærde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5499317,55.9955221,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Snekkersten St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5836592,56.0090846,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helsingør St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6137773,56.0333385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ny Ellebjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5169683,55.6525925,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ørestad St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5787235,55.6284929,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tårnby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6022411,55.6295105,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>CPH Lufthavn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6494051,55.6300677,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Køge Nord St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1727488,55.4992848,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Køge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1865171,55.457667,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lille Skensved St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1408168,55.511139,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Havdrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1174779,55.5432616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gadstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0997599,55.5725555,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Roskilde Festivalplads St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0702633,55.621909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Egøje St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1900598,55.4234885,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vallø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1920124,55.4000309,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grubberholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2022087,55.3797486,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Himlingøje St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2160235,55.3722227,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hårlev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2273873,55.351344,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Li.Linde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2190151,55.3362454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karise St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1954541,55.3068095,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tokkerup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1428185,55.2831819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faxe Syd St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1372331,55.2419385,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Faxe Ladeplads St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1625035,55.2168366,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Varpelev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2804168,55.3523915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Klippinge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3258649,55.3458522,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Heddinge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3860264,55.3092362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rødvig St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3785656,55.254689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herfølge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.137479,55.4178298,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tureby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0762596,55.373482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Haslev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9613868,55.3294275,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holme-Olstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8491805,55.2610883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Næstved Nord St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.786336,55.2481884,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glumsø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6958691,55.3535299,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Næstved St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7676145,55.2314289,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lundby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8698426,55.1103542,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vordingborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9000196,55.012353,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Orehoved St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8681344,54.9383879,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørre Alslev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8856912,54.8963454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Eskilstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8854197,54.8558001,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nykøbing F St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8773987,54.7669859,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rødby Færgehavn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.3565809,54.6552076,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Øster Toreby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8363027,54.7596938,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grænge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7656823,54.774108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sakskøbing St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6355012,54.7966383,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Maribo St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5015135,54.7768166,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ryde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.37265,54.7849473,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Søllested St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.2703354,54.8109317,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avnede St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.2155754,54.828932,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nakskov St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.138818,54.833388,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Høng St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.2859455,55.5065209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ruds Vedby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.3751793,55.5397798,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skellebjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.4491224,55.5380814,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dianalund St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.4997105,55.5340053,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vedde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5477971,55.5325117,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stenlille St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5919356,55.5390444,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nyrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6526013,55.5421526,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagmarken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6844231,55.5441315,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>St. Merløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.712082,55.5449934,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kr. Eskilstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7653826,55.5737839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tølløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7732666,55.6117993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lejre St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9716271,55.604552,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hvalsø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8603691,55.5952174,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vipperød St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7391861,55.666412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.7091142,55.7156698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stenhus St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6883861,55.7152104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Regstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6129233,55.6777104,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Knapstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5540376,55.6647824,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mørkøv St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5020741,55.654454,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jyderup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.3984407,55.6601495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svebølle St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.2925282,55.6520819,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalundborg Øst St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.1215435,55.6764871,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kalundborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.0900007,55.6778543,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ny Hagested St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5942811,55.7285057,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gislinge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5473259,55.729424,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svinninge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.4677237,55.7231198,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hørve St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.4566817,55.7522465,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fårevejle St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.469681,55.787601,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Asnæs St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5009233,55.8085399,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grevinge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.5516296,55.8029947,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vig St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.582367,55.8524883,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nr. Asmindrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6071721,55.8824563,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Højby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6040688,55.9111119,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nyled St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6558247,55.9220495,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nykøbing Sj. St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.6747504,55.9221457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jægersborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5215636,55.7617251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørgaardsvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5136775,55.7703352,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lyngby Lokal St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5061061,55.7739466,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuglevad St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4973871,55.7848361,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brede St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5008815,55.7937975,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ørholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5091963,55.7995928,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ravnholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5200002,55.8021195,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nærum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5283908,55.8137235,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mørdrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5329771,56.0020838,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kvistgård St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5028389,55.9902258,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Langerød St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4517804,55.9812108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fredensborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4072953,55.9772997,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kratbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3920063,55.9663304,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grønholt St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3698998,55.9532288,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hillerød St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3116743,55.9278723,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brødeskov St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2798216,55.893482,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gørløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2025311,55.8867026,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skævringe St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1494729,55.9074246,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grimstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1023071,55.9156862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ølsted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0732798,55.9230412,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kregme St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0472624,55.9344252,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lille Kregme St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0347891,55.9462081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frederiksværk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0193275,55.9685185,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hanehoved St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0016235,55.9749362,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Melby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9716405,55.9914753,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dyssekilde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9424366,55.9851854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Østerbjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.9137104,55.9768493,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vibehus St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8734844,55.9603813,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hundested St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          11.8530321,55.9635476,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Slotspavillionen St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3116048,55.9417391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gribsø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3024318,55.9871276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kagerup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2859738,55.9972808,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mårum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3173637,56.0307629,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saltrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.322299,56.0542881,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Græsted Syd St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2958202,56.0632377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Græsted St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2869153,56.0725924,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Pårup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3015107,56.100845,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fjellenstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.298571,56.1162084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gilleleje St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3023798,56.1237084,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gilleleje Øst St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3092462,56.1226558,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stæremosen St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3188812,56.112202,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Søborg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3338986,56.1005939,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Firhøj St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.356158,56.0982391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dronningmølle St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3873644,56.0976511,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kildekrog St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4238129,56.0926154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Horneby Sand St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4354926,56.0898981,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hornbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4596754,56.089108,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karinebæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4684161,56.0830516,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Saunte St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4850529,56.0769209,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skibstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5131127,56.0783623,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ålsgårde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5385293,56.0750421,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hellebæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5542578,56.066554,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Højstrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5945255,56.0469993,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Marienlyst St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6025936,56.0431281,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grønnehave St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.6111445,56.0403114,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Duemose St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2628325,56.0095617,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Helsinge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2057088,56.0228616,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Laugø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.182853,56.039131,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ørby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1630593,56.0557261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vejby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1364089,56.0625729,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1168754,56.0593508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Godhavn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0980817,56.059911,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Tisvildeleje St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.078169,56.059348,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dybbølsbro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5596504,55.6650527,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sydhavn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5378645,55.6550164,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sjælør St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5267304,55.6515107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Åmarken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4999683,55.6398046,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Friheden St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4827042,55.6291847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Avedøre St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4555365,55.6256689,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brøndby Strand St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4222557,55.6210165,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vallensbæk St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3881809,55.6234276,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ishøj St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3580455,55.6134035,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hundige St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3336749,55.5976847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Greve St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2961078,55.5813391,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Karlslunde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2694906,55.5662081,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Solrød Strand St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2182822,55.5332728,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jersie St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2086937,55.5207544,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ølby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1758534,55.4796982,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vesterport St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5625298,55.6763175,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nordhavn St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5909601,55.705126,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Svanemøllen St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5790649,55.7154964,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bernstorffsvej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5580711,55.7427532,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gentofte St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.541628,55.7536206,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lyngby St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5035085,55.7682954,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sorgenfri St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4835264,55.7813995,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Virum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4732745,55.7956784,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Holte St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4687645,55.807508,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Birkerød St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4238467,55.8405091,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Høvelte St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3880982,55.8509597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Allerød St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3574245,55.87107,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Farum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3737469,55.8119109,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Værløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3733985,55.7819064,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hareskov St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4076932,55.7655457,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skovbrynet St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4341826,55.7651941,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bagsværd St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4541383,55.7615241,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stengården St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.473536,55.7563324,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Buddinge St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4937772,55.7471469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kildebakke St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5081753,55.7446469,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vangede St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5233458,55.739622,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Dyssegård St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5363921,55.7319386,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Emdrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5415838,55.7198926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ryparken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5590249,55.7151568,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Bispebjerg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5417512,55.7066683,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nørrebro St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5379103,55.7011266,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Fuglebakken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5276394,55.6954636,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Grøndal St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5156016,55.690578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Flintholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4989311,55.6859103,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>KB Hallen
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4925117,55.6774208,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ålholm St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4934396,55.6721123,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Danshøj St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4939637,55.6645154,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vigerslev Alle St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4995909,55.6595867,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Carlsberg St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5357079,55.6634868,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hvidovre St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.473942,55.6645519,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rødovre St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.458722,55.6648774,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brøndbyøster St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4405259,55.665059,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Glostrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3980355,55.663072,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Albertslund St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3540044,55.6581214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Taastrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3025489,55.6526132,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Charlottenlund St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5723538,55.7515052,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ordrup St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5838122,55.7626377,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Langgade St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5042869,55.6671148,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Peter Bangs Vej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.5037626,55.6777008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vanløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4918942,55.6872033,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Jyllingevej St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4779897,55.6904449,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Islev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4694379,55.6987356,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Husum St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4639849,55.7095811,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Herlev St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4437472,55.7188008,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Skovlunde St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.4035062,55.7229597,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Malmparken St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3858894,55.7245669,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ballerup Centret St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3585213,55.7298257,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Måløv St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.3187388,55.7471847,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Kildedal St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2875822,55.7518101,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Veksø St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.2399677,55.7500832,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Stenløse St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1905292,55.7666996,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Egedal St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.185814,55.7793436,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Ølstykke St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.1596695,55.7957403,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Frederikssund St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          12.0660207,55.8355783,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Vestre Strandballe St.
+</name>
+      <styleUrl>#icon-1899-3949AB-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          10.2371413,56.1945405,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
