@@ -1,6 +1,40 @@
 
 
-# Denmark 2024 Open Rails Freeware Route
+# Denmark 2024 - An OpenRails Freeware Route
+
+![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
+
+Include full danish rail network as it was in 2024, with some of the future additions and changes cherry-picked (see below)
+
+Differences from the real danish rail network:
+- Include projects under construction in 2024 as if they were finished, i.e:
+	- The new high speed railway across western funen
+	- The new fehmern tunnel railway line
+	- The new storstrøms bridge
+	- Electrification from Fredericia to Aalborg
+	- Electrification from Næstved through to the fehmern tunnel
+	- The new DJM depot in Marslev
+	- The new IC5 depot in Copenhagen
+	- The new depot in Næstved
+
+## V1.0 Next steps:
+
+- Phase 1:
+	- Lay remaining track
+	- Bridges
+	- Viaducts
+	- Embankments
+	- Gantry
+	- Station platforms
+	- Tunnels
+- Phase 2:
+	- Signals
+	- Signs
+	- Station scenery
+- Phase 3:
+	- Scenery close to the tracks
+- Phase 4:
+	- Scenery further away from the tracks
 
 
 ## Installing:
@@ -45,8 +79,7 @@ The route itself and all objects/textures named "PGA_*" are licensed under CC BY
 
 Details about CC BY-NC-SA 4.0 here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
 
-
-Rights to all other objects/textures in this route belong to their respective authors under terms specified by them.
+All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
 These objects/textures are from the following freeware packs:
 - XTracks 3.20: https://the-train.de/downloads/entry/7920-msts-xtracks-v3-20-files-edition/
@@ -78,6 +111,7 @@ Special thanks to:
 - Stig Christensen (Danish signals)
 - Mats Abramson (Swedish signals)
 - Dennis Kunz (German signals)
+- All the other XTracks 3.20 and Newroads 4.0 authors
 
 Objects and textures by:
 - Peter Grønbæk Andersen (everything named "PGA_*")
@@ -95,98 +129,21 @@ Sounds by:
 - Icki81
 
 
-## Next steps:
 
-- Phase 1:
-	- Lay remaining track
-	- Bridges
-	- Viaducts
-	- Embankments
-	- Gantry
-	- Station platforms
-	- Tunnels
-- Phase 2:
-	- Signals
-	- Signs
-	- Station scenery
-- Phase 3:
-	- Scenery close to the tracks
-- Phase 4:
-	- Scenery further away from the tracks
-
-
-
-
-## Future Goal:
-
-Include full danish rail network as it was in
-2024, with some of the future additions and changes cherry-picked (see below)
-
-Differences from the real DK2024 rail network:
-- Include projects under construction in 2024 as if they were finished
-	- The new high speed railway across western funen
-	- The new fehmern tunnel railway line
-	- The new storstrøms bridge
-	- Electrification from Fredericia to Aalborg
-	- Electrification from Næstved through to the fehmern tunnel
-	- The new DJM depot in Marslev
-	- The new IC5 depot in Copenhagen
-	- The new depot in Næstved
-
-Also include international connections:
-	- Padborg - Flensburg (Germany)
-	- Tønder - Niebüll (Germany)
-	- Rødby - Lübeck (Germany)
-	- Kastrup - Malmö - Lund (Sweden)
-
-Signalling used:
-- ECTS L2:
-  - Ringsted - Køge Nord - Vigerslev
-  - Næstved - Køge - Roskilde
-  - Mogenstrup - Nykøbing F.
-  - Nykøbing F. - Rødby
-  - Parts of Rødby - Lübeck that are not PZB/LZB
-  - Kauslunde - Elmelund
-  - Vejle - Thisted
-  - Langå - Struer
-  - Herning - Skanderborg
-  - Esbjerg - Holstebro
-  - Skjern - Herning
-  - Lindholm - Frederikshavn
-- ATC:
-  - All other non S-train lines
-- CBTC:
-  - All S-train lines
-- Swedish ATC:
-  - Peberholm - Malmö - Lund
-- PZB/LZB:
-  - Parts of Rødby - Lübeck that are not ECTS L2
-  - Padborg - Flensburg - Hamburg
+## Potential future expansions:
 
 Expansion Steps:
-- v1.0: Base,
-	- Fredericia/Taulov - Klampenborg/Kastrup
-- v1.1: Additional Mainlines,
+- v2.0: Additional Mainlines,
 	- Århus - Fredericia
 	- Padborg - Taulov
-- v1.2: Additional Mainlines,
 	- Flensburg - Padborg
 	- Lund - Malmö - Kastrup
-- v1.3: Additional Mainlines,
 	- Aalborg - Århus
 	- Esbjerg - Lunderskov
-- v1.4: Additional Mainlines,
 	- Nykøbing F. - Ringsted
 	- Helsingør - Klampenborg
-- v1.5: Additional Mainlines,
 	- Lübeck - Nykøbing F.
-- v1.6: Additional Mainlines,
-	- Hamburg - Lübeck
-	- Hamburg - Flensburg
-	- Maschen - Hamburg
-	- Helsingborg - Lund
-	- Hässleholm - Lund
-- v1.7: Extra additions,
+- v3.0+: Potential branchline and s-tog additions,
 	Branchlines:
 		Tinglev - Sønderborg
 		Odense - Svendborg
