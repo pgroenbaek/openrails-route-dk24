@@ -4,9 +4,9 @@
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
-A freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some exceptions).
+A freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
 
-The aim in the first version is to build the mainline between Fredericia and Copenhagen.
+The aim in v1.0 is to build the mainline between Fredericia and Copenhagen.
 Including the new high speed railway line between Ringsted and Vigerslev.
 
 The route also contains railway projects under construction in 2024 as if they were already finished, this includes:
@@ -18,7 +18,7 @@ The route also contains railway projects under construction in 2024 as if they w
 ## Development of v1.0:
 - Phase 1:
 	- Lay mainline tracks between Fredericia and Copenhagen
-- Phase 2: **(<- currently at this stage)**
+- Phase 2: **_(<- currently at this stage)_**
 	- Lay track of yards
 	- Bridges
 	- Viaducts
