@@ -1,88 +1,9 @@
 
-Next steps:
 
-- Phase 1:
-	- Lay remaining track
-	- Bridges
-	- Viaducts
-	- Embankments
-	- Gantry
-	- Station platforms
-	- Tunnels
-- Phase 2:
-	- Signals
-	- Signs
-	- Station scenery
-- Phase 3:
-	- Scenery close to the tracks
-- Phase 4:
-	- Scenery further away from the tracks
+# Denmark 2024 Open Rails Freeware Route
 
 
-
-
-
-
-
-LICENSE:
-
-The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
-
-Details about CC BY-NC-SA 4.0 here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
-
-
-Rights to all other objects/textures in this route belong to their respective authors under terms specified by them.
-
-These objects/textures are from the following freeware packs:
-- XTracks 3.20: https://the-train.de/downloads/entry/7920-msts-xtracks-v3-20-files-edition/
-- XTracks 3.20 RouteBuilders: https://the-train.de/downloads/entry/7917-msts-xtracks-v3-20-routebuilders/
-- NewRoads 4.0: https://the-train.de/downloads/entry/7912-newroads-v4-0-grundversion/?highlight=newroads
-- NewRoads 4.0 Autobahn Texturen: https://the-train.de/downloads/entry/7887-newroads-v4-0-autobahn-texturen-update-f%C3%BCr-streckenbauer/
-- DBTracks: https://the-train.de/downloads/entry/11252-dbtracks/
-- Danske Signaler: https://www.routebuilders.dk/download/msts/signaler/
-- New swedish signals version 0.2: https://www.banbyggarna.se/msts/Signaler.htm
-- Swedish Gantrys with Lod version 1.1: https://www.banbyggarna.se/msts/Objekt_1.html
-- Deutsches Eisenbahnsignalpaket: https://the-train.de/downloads/entry/8282-deutsches-eisenbahnsignalpaket/
-- Signalsystem DennisK. 1.1b im OpenRails: https://the-train.de/downloads/entry/210-signalsystem-dennisk-1-1b-im-openrails/
-- MM Vegetation 7.1: https://the-train.de/downloads/entry/9534-mm-vegetation-v7-1/
-- Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
-- Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
-- Perrontag til Fredericia banegård: https://www.routebuilders.dk/download/msts/bygninger/
-
-
-
-CREDITS:
-
-Route created by:
-- Peter Grønbæk Andersen
-
-Special thanks to:
-- Piotr Gadecki (TSRE5 route editor)
-- Eric (maintaining the TSRE5 route editor fork)
-- Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
-- Stig Christensen (Danish signals)
-- Mats Abramson (Swedish signals)
-- Dennis Kunz (German signals)
-
-Objects and textures by:
-- Peter Grønbæk Andersen (everything named "PGA_*")
-- Norbert Rieger (tracks, embankments, motorways, bridges, and more)
-- Stig Christensen (danish level crossings)
-- Henrik Fredborg (Fredericia station roof, some danish buildings)
-- Manuel Mader (vegetation)
-- Anders Svensson (swedish gantry)
-- Daniel Harms (german level crossings)
-- Kuju / Microsoft (default MSTS objects)
-- Anyone who I forgot to add to this list
-
-Sounds by:
-- Jan Riffel
-- Icki81
-
-
-
-
-INSTALLATION INSTRUCTIONS:
+## Installing:
 
 Requirements to run the route:
 - Open Rails 1.4+
@@ -114,7 +35,89 @@ https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
 - CFL BR 185 519-6 V3.0: https://the-train.de/downloads/entry/5861-cfl-br-185-519-6-v3-0/
 - TRAXX-Sammelpaket: https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
 
-GOAL:
+
+
+
+
+## License:
+
+The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
+
+Details about CC BY-NC-SA 4.0 here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+
+
+Rights to all other objects/textures in this route belong to their respective authors under terms specified by them.
+
+These objects/textures are from the following freeware packs:
+- XTracks 3.20: https://the-train.de/downloads/entry/7920-msts-xtracks-v3-20-files-edition/
+- XTracks 3.20 RouteBuilders: https://the-train.de/downloads/entry/7917-msts-xtracks-v3-20-routebuilders/
+- NewRoads 4.0: https://the-train.de/downloads/entry/7912-newroads-v4-0-grundversion/?highlight=newroads
+- NewRoads 4.0 Autobahn Texturen: https://the-train.de/downloads/entry/7887-newroads-v4-0-autobahn-texturen-update-f%C3%BCr-streckenbauer/
+- DBTracks: https://the-train.de/downloads/entry/11252-dbtracks/
+- Danske Signaler: https://www.routebuilders.dk/download/msts/signaler/
+- New swedish signals version 0.2: https://www.banbyggarna.se/msts/Signaler.htm
+- Swedish Gantrys with Lod version 1.1: https://www.banbyggarna.se/msts/Objekt_1.html
+- Deutsches Eisenbahnsignalpaket: https://the-train.de/downloads/entry/8282-deutsches-eisenbahnsignalpaket/
+- Signalsystem DennisK. 1.1b im OpenRails: https://the-train.de/downloads/entry/210-signalsystem-dennisk-1-1b-im-openrails/
+- MM Vegetation 7.1: https://the-train.de/downloads/entry/9534-mm-vegetation-v7-1/
+- Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
+- Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
+- Perrontag til Fredericia banegård: https://www.routebuilders.dk/download/msts/bygninger/
+
+
+
+## Credits:
+
+Route created by:
+- Peter Grønbæk Andersen
+
+Special thanks to:
+- Piotr Gadecki (TSRE5 route editor)
+- Eric (maintaining the TSRE5 route editor fork)
+- Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
+- Stig Christensen (Danish signals)
+- Mats Abramson (Swedish signals)
+- Dennis Kunz (German signals)
+
+Objects and textures by:
+- Peter Grønbæk Andersen (everything named "PGA_*")
+- Norbert Rieger (tracks, embankments, motorways, bridges, and more)
+- Stig Christensen (danish level crossings)
+- Henrik Fredborg (Fredericia station roof, some danish buildings)
+- Manuel Mader (vegetation)
+- Anders Svensson (swedish gantry)
+- Daniel Harms (german level crossings)
+- Kuju / Microsoft (default MSTS objects)
+- Anyone who I forgot to add to this list
+
+Sounds by:
+- Jan Riffel
+- Icki81
+
+
+## Next steps:
+
+- Phase 1:
+	- Lay remaining track
+	- Bridges
+	- Viaducts
+	- Embankments
+	- Gantry
+	- Station platforms
+	- Tunnels
+- Phase 2:
+	- Signals
+	- Signs
+	- Station scenery
+- Phase 3:
+	- Scenery close to the tracks
+- Phase 4:
+	- Scenery further away from the tracks
+
+
+
+
+## Future Goal:
 
 Include full danish rail network as it was in
 2024, with some of the future additions and changes cherry-picked (see below)
