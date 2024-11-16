@@ -4,38 +4,36 @@
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
-Include full danish rail network as it was in 2024, with some of the future additions and changes cherry-picked (see below)
+A freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some exceptions).
 
-Differences from the real danish rail network:
-- Include projects under construction in 2024 as if they were finished, i.e:
-	- The new high speed railway across western funen
-	- The new fehmern tunnel railway line
-	- The new storstrøms bridge
-	- Electrification from Fredericia to Aalborg
-	- Electrification from Næstved through to the fehmern tunnel
-	- The new DJM depot in Marslev
-	- The new IC5 depot in Copenhagen
-	- The new depot in Næstved
+The aim in the first version is to build the mainline between Fredericia and Copenhagen.
+Including the new high speed railway line between Ringsted and Vigerslev.
 
-## V1.0 Next steps:
+The route also contains railway projects under construction in 2024 as if they were already finished, this includes:
+- The new high speed railway line between Odense and Kauslunde.
+- Electrification north of Fredericia.
+- The new DJM depot in Marslev.
+- The new IC5 depot in Copenhagen.
 
+## Development of v1.0:
 - Phase 1:
-	- Lay remaining track
+	- Lay mainline tracks between Fredericia and Copenhagen
+- Phase 2: **(<- currently at this stage)**
+	- Lay track of yards
 	- Bridges
 	- Viaducts
 	- Embankments
 	- Gantry
 	- Station platforms
 	- Tunnels
-- Phase 2:
-	- Signals
-	- Signs
-	- Station scenery
 - Phase 3:
-	- Scenery close to the tracks
+	- Place signals
+	- Place signs
+	- Place station scenery
 - Phase 4:
+	- Scenery close to the tracks
+- Phase 5:
 	- Scenery further away from the tracks
-
 
 ## Installing:
 
@@ -62,17 +60,6 @@ To run the included activities install the following into the "Denmark 2024/TRAI
 - MMP2: https://sites.google.com/site/btsim02/orts/mmp2
 
 
-https://the-train.de/downloads/entry/322-db-br-642-repaintpaket/?highlight=br%20642
-https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
-
-- MSTS Swedish GC Litt Re: https://www.trainsim.com/forums/filelib-search-fileid?fid=78222
-- CFL BR 185 519-6 V3.0: https://the-train.de/downloads/entry/5861-cfl-br-185-519-6-v3-0/
-- TRAXX-Sammelpaket: https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
-
-
-
-
-
 ## License:
 
 The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
@@ -96,7 +83,6 @@ These objects/textures are from the following freeware packs:
 - Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
 - Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
 - Perrontag til Fredericia banegård: https://www.routebuilders.dk/download/msts/bygninger/
-
 
 
 ## Credits:
@@ -129,22 +115,30 @@ Sounds by:
 - Icki81
 
 
-
 ## Potential future expansions:
+
+Eventually more of the danish rail network might be added. In particular the mainlines.
+
+Although, with some future additions and changes cherry-picked.
+In particular projects under construction in 2024, i.e:
+	- The new fehmern tunnel railway line
+	- The new storstrøms bridge
+	- Electrification from Næstved through to the fehmern tunnel
+	- The new depot in Næstved
 
 Expansion Steps:
 - v2.0: Additional Mainlines,
-	- Århus - Fredericia
-	- Padborg - Taulov
-	- Flensburg - Padborg
-	- Lund - Malmö - Kastrup
-	- Aalborg - Århus
-	- Esbjerg - Lunderskov
-	- Nykøbing F. - Ringsted
-	- Helsingør - Klampenborg
-	- Lübeck - Nykøbing F.
+	- Fredericia - Århus
+	- Århus - Aalborg
+	- Taulov - Padborg
+	- Padborg - Flensburg
+	- Kastrup - Malmö - Lund
+	- Klampenborg - Helsingør
+	- Lunderskov - Esbjerg
+	- Ringsted - Nykøbing F.
+	- Nykøbing F. - Lübeck
 - v3.0+: Potential branchline and s-tog additions,
-	Branchlines:
+	- Branchlines:
 		Tinglev - Sønderborg
 		Odense - Svendborg
 		Struer - Vejle
@@ -168,7 +162,7 @@ Expansion Steps:
 		Aalborg - Frederikshavn
 		Frederikshavn - Skagen
 		Hjørring - Hirtshals
-	Copenhagen S-train lines:
+	- Copenhagen S-train lines:
 		Hellerup - Jægersborg - Nærum
 		Ny Ellebjerg - Køge
 		Vigerslev - Svanemøllen
