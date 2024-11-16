@@ -1,4 +1,29 @@
 
+Next steps:
+
+- Phase 1:
+	- Lay remaining track
+	- Bridges
+	- Viaducts
+	- Embankments
+	- Gantry
+	- Station platforms
+	- Tunnels
+- Phase 2:
+	- Signals
+	- Signs
+	- Station scenery
+- Phase 3:
+	- Scenery close to the tracks
+- Phase 4:
+	- Scenery further away from the tracks
+
+
+
+
+
+
+
 LICENSE:
 
 The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
@@ -23,24 +48,6 @@ These objects/textures are from the following freeware packs:
 - Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
 - Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
 - Perrontag til Fredericia banegård: https://www.routebuilders.dk/download/msts/bygninger/
-
-
-to run included activities install the following into the "Denmark 2024/TRAINS/TRAINSET" folder:
-- DSB IR4 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62938
-- DSB IC3 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62942
-- MSTS Swedish GC Litt Re: https://www.trainsim.com/forums/filelib-search-fileid?fid=78222
-- CFL BR 185 519-6 V3.0: https://the-train.de/downloads/entry/5861-cfl-br-185-519-6-v3-0/
-- DB BR 185 087-4: https://the-train.de/downloads/entry/3374-db-br-185-087-4/?highlight=BR%20185
-- CFL MY 1146: https://tog-sim.dk/downloads.php?did=1365
-- Alias (Common) Cab & Sound til MY version 3: https://tog-sim.dk/downloads.php?did=1358
-- Contec MX 1008: https://tog-sim.dk/downloads.php?did=1053
-- Alias (Common) Cab & Sound til MX version 3: https://tog-sim.dk/downloads.php?did=1359
-- DSB MZ 1401: https://tog-sim.dk/downloads.php?did=202
-- Alias (Common) Cab & Sound til MZ Serie II Version 2: https://tog-sim.dk/downloads.php?did=1360
-- DB Hbbins: https://tog-sim.dk/downloads.php?did=1034
-- TWA Habiis https://tog-sim.dk/downloads.php?did=1035
-- MMP2: https://sites.google.com/site/btsim02/orts/mmp2
-
 
 
 
@@ -84,15 +91,32 @@ INSTALLATION INSTRUCTIONS:
 Requirements to run the route:
 - Open Rails 1.4+
 
-Requirements to run the route:
-- Open Rails 1.4+
-
 To Install:
-- Drop the DK24 folder from the zip file into your /Routes/ folder.
+- Extract the "Denmark 2024" folder from the route zip file into your filesystem.
+- Extract the "Denmark 2024" folder from the shapes/textures zip file into the same place.
+- Add it as an installation profile in Open Rails.
 - Done!
 
+To run the included activities install the following into the "Denmark 2024/TRAINS/TRAINSET" folder:
+- DSB IR4 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62938
+- DSB IC3 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62942
+- CFL MY 1146: https://tog-sim.dk/downloads.php?did=1365
+- Alias (Common) Cab & Sound til MY version 3: https://tog-sim.dk/downloads.php?did=1358
+- Contec MX 1008: https://tog-sim.dk/downloads.php?did=1053
+- Alias (Common) Cab & Sound til MX version 3: https://tog-sim.dk/downloads.php?did=1359
+- DSB MZ 1401: https://tog-sim.dk/downloads.php?did=202
+- Alias (Common) Cab & Sound til MZ Serie II Version 2: https://tog-sim.dk/downloads.php?did=1360
+- DB Hbbins: https://tog-sim.dk/downloads.php?did=1034
+- TWA Habiis https://tog-sim.dk/downloads.php?did=1035
+- MMP2: https://sites.google.com/site/btsim02/orts/mmp2
 
 
+https://the-train.de/downloads/entry/322-db-br-642-repaintpaket/?highlight=br%20642
+https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
+
+- MSTS Swedish GC Litt Re: https://www.trainsim.com/forums/filelib-search-fileid?fid=78222
+- CFL BR 185 519-6 V3.0: https://the-train.de/downloads/entry/5861-cfl-br-185-519-6-v3-0/
+- TRAXX-Sammelpaket: https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
 
 GOAL:
 
