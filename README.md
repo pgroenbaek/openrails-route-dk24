@@ -57,10 +57,6 @@ Route created by:
 - Peter Grønbæk Andersen
 
 Special thanks to:
-- Creators of the following routes for inspiring me to create this:
-	- Mannheim-Karlsruhe (Rogue)
-	- Nürnberg-Ingolstadt-München (Ronny Tao & Oliver Nallaweg) 
-	- DK2000 H (Erich Falensteen)
 - Piotr Gadecki (TSRE5 route editor)
 - Eric (maintaining the TSRE5 route editor fork)
 - Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
@@ -121,8 +117,7 @@ https://the-train.de/downloads/entry/10995-traxx-sammelpaket/
 GOAL:
 
 Include full danish rail network as it was in
-2024, albeit with some of the future
-additions and changes cherry-picked (see below)
+2024, with some of the future additions and changes cherry-picked (see below)
 
 Differences from the real DK2024 rail network:
 - Include projects under construction in 2024 as if they were finished
@@ -220,60 +215,3 @@ Expansion Steps:
 		Valby - Frederikssund
 		Ryparken - Farum
 		Jægersborg - Hillerød
-
-Order in which to do things:
-- Place all remaining track
-- Place all remaining embankments/viaducts/bridges/Rwalls
-	- Adjust tracks as needed
-- Place all station platforms
-	- Adjust tracks as needed
-- Place all roads
-- Place gantries and other static track objects
-- Place static objects in vicinity of track
-- Place track items
-- Place remaining scenery
-
-
-Route created by:
-- Peter Grønbæk Andersen
-
-Special thanks to:
-- Creators of the following routes for the inspiration to create this:
-	- Mannheim-Karlsruhe (Rogue)
-	- Nürnberg-Ingolstadt-München (Ronny Tao & Oliver Nallaweg) 
-	- DK2000 H (Erich Falensteen)
-- The Open Rails development team and contributors
-- Piotr Gadecki (TSRE5 route editor)
-- Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
-- Stig Christensen (Danish signals)
-- Mats Abramson (Swedish signals)
-- Dennis Kunz (German signals)
-- Bruce Bridges (Newroads 4.0)
-- Ted Curphey (Newroads 4.0)
-- Martyn T. Griffin (Newroads 4.0)
-- Steven Masters (Newroads 4.0)
-- Jeff Rice (Newroads 4.0)
-- Okrasa Ghia (Xtracks 3.20)
-
-Loading image by:
-- Falk2 (CC BY-SA 3.0: https://commons.wikimedia.org/wiki/User:Mattbuck/Railways/2014_January_1-10#/media/File:I12_225_Gro%C3%9Fe-Belt-Br%C3%BCcke,_MA_5046.jpg)
-
-Objects and textures by:
-- Peter Grønbæk Andersen (everything named PGA_*)
-- Norbert Rieger (tracks, embankments, motorways, bridges, and more)
-- Stig Christensen (danish level crossings, some danish signs, some danish station objects, and more)
-- Henrik Fredborg (Fredericia station roof, many danish buildings, and more)
-- Manuel Mader (vegetation)
-- Anders Svensson (swedish gantry)
-- Daniel Harms (german level crossings, road signs)
-- Andreas Rosenau (road signs)
-- DQ (road signs)
-- mhvg220 (Lf6/Lf7 tafln)
-- Spike (german track objects)
-- Kuju / Microsoft (default MSTS objects)
-- Anyone who I forgot to add to this list
-
-Sounds by:
-- Jan Riffel
-- Icki81
-
