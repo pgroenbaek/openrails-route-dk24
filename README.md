@@ -1,13 +1,12 @@
 
 
-# Denmark 2024 - A Freeware Route for OpenRails
+# Denmark 2024 - A freeware route for OpenRails
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
 A freeware route for the [OpenRails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
 
-The aim in v1.0 is to build the mainline between Fredericia and Copenhagen.
-Including the new high speed railway line between Ringsted and Vigerslev.
+The aim in v1.0 is to build the mainline between Fredericia and Copenhagen. Including the new Ringsted-Vigerslev high speed railway line, the great belt fixed link and the old little belt bridge.
 
 The route also contains the following railway projects under construction in 2024 as if they were already finished:
 - The new high speed railway line between Odense and Kauslunde.
@@ -15,11 +14,12 @@ The route also contains the following railway projects under construction in 202
 - The new DJM depot in Marslev.
 - The new IC5 depot in Copenhagen.
 
+## Development of v1.0:
+
 Map of the v1.0 track layout:
 
 ![Denmark 2024 v1.0 Map](./ROUTES/OR_DK24/Map_whitebg.png)
 
-## Development of v1.0:
 - Phase 1:
 	- Lay mainline tracks between Fredericia and Copenhagen
 - Phase 2: **_(<- currently at this stage)_**
@@ -44,13 +44,13 @@ Map of the v1.0 track layout:
 Requirements to run the route:
 - Open Rails 1.4+
 
-To Install:
-- Extract the "Denmark 2024" folder from the route zip file into your filesystem.
-- Extract the "Denmark 2024" folder from the shapes/textures zip file into the same place.
-- Add it as an installation profile in Open Rails.
+Installation instructions:
+- Download and extract the route zip file into your filesystem.
+- Download the shapes/textures zip file and extract it into the same place.
+- Start OpenRails and the folder you extracted these xip files into as an installation profile.
 - Done!
 
-To run the included activities install the following into the "Denmark 2024/TRAINS/TRAINSET" folder:
+To run the included activities install the following into the "TRAINS/TRAINSET" folder:
 - DSB IR4 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62938
 - DSB IC3 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62942
 - CFL MY 1146: https://tog-sim.dk/downloads.php?did=1365
