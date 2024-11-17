@@ -1,6 +1,6 @@
 
 
-# Denmark 2024 - An OpenRails Freeware Route
+# Denmark 2024 - A Freeware Route for OpenRails
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
@@ -66,11 +66,13 @@ To run the included activities install the following into the "Denmark 2024/TRAI
 
 ## License:
 
-The route itself and all objects/textures named "PGA_*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
+The route itself and all objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Blender files and textures for these objects are available in the Denmark 2024 Objects repository.
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
-These objects/textures have been obtained from the following freeware packs:
+Those objects/textures were obtained from the following freeware packs:
 - XTracks 3.20: https://the-train.de/downloads/entry/7920-msts-xtracks-v3-20-files-edition/
 - XTracks 3.20 RouteBuilders: https://the-train.de/downloads/entry/7917-msts-xtracks-v3-20-routebuilders/
 - NewRoads 4.0: https://the-train.de/downloads/entry/7912-newroads-v4-0-grundversion/?highlight=newroads
@@ -84,6 +86,8 @@ These objects/textures have been obtained from the following freeware packs:
 - Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
 - Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
 - Perrontag til Fredericia banegård: https://www.routebuilders.dk/download/msts/bygninger/
+
+Furthermore some objects/textures are from the default MSTS routes by Kuju / Microsoft.
 
 
 ## Credits:
