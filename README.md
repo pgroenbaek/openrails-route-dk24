@@ -4,19 +4,20 @@
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
-A freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
+A freeware route for the [OpenRails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
 
 The aim in v1.0 is to build the mainline between Fredericia and Copenhagen.
 Including the new high speed railway line between Ringsted and Vigerslev.
 
-![Denmark 2024 v1.0 Map](./ROUTES/OR_DK24/Map_whitebg.png)
-
-The route also contains railway projects under construction in 2024 as if they were already finished, this includes:
+The route also contains the following railway projects under construction in 2024 as if they were already finished:
 - The new high speed railway line between Odense and Kauslunde.
 - Electrification north of Fredericia.
 - The new DJM depot in Marslev.
 - The new IC5 depot in Copenhagen.
 
+Map of the v1.0 track layout:
+
+![Denmark 2024 v1.0 Map](./ROUTES/OR_DK24/Map_whitebg.png)
 
 ## Development of v1.0:
 - Phase 1:
@@ -119,7 +120,6 @@ Sounds by:
 
 Eventually more of the danish rail network might be added. In particular the remaining mainlines.
 
-Expansion Steps:
 - v2.0: Potential mainline additions,
 	- Fredericia - Århus (including electrification)
 	- Århus - Aalborg (including electrification)
