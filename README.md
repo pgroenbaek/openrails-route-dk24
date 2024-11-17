@@ -9,11 +9,14 @@ A freeware route for the [Open Rails simulator](https://www.openrails.org/) base
 The aim in v1.0 is to build the mainline between Fredericia and Copenhagen.
 Including the new high speed railway line between Ringsted and Vigerslev.
 
+![Denmark 2024 v1.0 Map](./ROUTES/OR_DK24/Map_whitebg.png)
+
 The route also contains railway projects under construction in 2024 as if they were already finished, this includes:
 - The new high speed railway line between Odense and Kauslunde.
 - Electrification north of Fredericia.
 - The new DJM depot in Marslev.
 - The new IC5 depot in Copenhagen.
+
 
 ## Development of v1.0:
 - Phase 1:
@@ -62,13 +65,11 @@ To run the included activities install the following into the "Denmark 2024/TRAI
 
 ## License:
 
-The route itself and all objects/textures named "PGA_*" are licensed under CC BY-NC-SA 4.0.
-
-Details about CC BY-NC-SA 4.0 here: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en
+The route itself and all objects/textures named "PGA_*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
-These objects/textures are from the following freeware packs:
+These objects/textures have been obtained from the following freeware packs:
 - XTracks 3.20: https://the-train.de/downloads/entry/7920-msts-xtracks-v3-20-files-edition/
 - XTracks 3.20 RouteBuilders: https://the-train.de/downloads/entry/7917-msts-xtracks-v3-20-routebuilders/
 - NewRoads 4.0: https://the-train.de/downloads/entry/7912-newroads-v4-0-grundversion/?highlight=newroads
@@ -78,7 +79,6 @@ These objects/textures are from the following freeware packs:
 - New swedish signals version 0.2: https://www.banbyggarna.se/msts/Signaler.htm
 - Swedish Gantrys with Lod version 1.1: https://www.banbyggarna.se/msts/Objekt_1.html
 - Deutsches Eisenbahnsignalpaket: https://the-train.de/downloads/entry/8282-deutsches-eisenbahnsignalpaket/
-- Signalsystem DennisK. 1.1b im OpenRails: https://the-train.de/downloads/entry/210-signalsystem-dennisk-1-1b-im-openrails/
 - MM Vegetation 7.1: https://the-train.de/downloads/entry/9534-mm-vegetation-v7-1/
 - Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
 - Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
@@ -117,55 +117,48 @@ Sounds by:
 
 ## Potential future expansions:
 
-Eventually more of the danish rail network might be added. In particular the mainlines.
-
-Although, with some future additions and changes cherry-picked.
-In particular projects under construction in 2024, i.e:
-	- The new fehmern tunnel railway line
-	- The new storstrøms bridge
-	- Electrification from Næstved through to the fehmern tunnel
-	- The new depot in Næstved
+Eventually more of the danish rail network might be added. In particular the remaining mainlines.
 
 Expansion Steps:
-- v2.0: Additional Mainlines,
-	- Fredericia - Århus
-	- Århus - Aalborg
+- v2.0: Potential mainline additions,
+	- Fredericia - Århus (including electrification)
+	- Århus - Aalborg (including electrification)
 	- Taulov - Padborg
 	- Padborg - Flensburg
 	- Kastrup - Malmö - Lund
 	- Klampenborg - Helsingør
 	- Lunderskov - Esbjerg
-	- Ringsted - Nykøbing F.
-	- Nykøbing F. - Lübeck
-- v3.0+: Potential branchline and s-tog additions,
+	- Ringsted - Nykøbing F. (including electrification and the new storstrøms bridge)
+	- Nykøbing F. - Lübeck (including the new fehmarn tunnel)
+- v3.0+: Potential branchline and S-train additions,
 	- Branchlines:
-		Tinglev - Sønderborg
-		Odense - Svendborg
-		Struer - Vejle
-		Kalundborg - Roskilde
-		Næstved - Køge - Roskilde
-		Slagelse - Tølløse
-		Holbæk - Nykøbing Sj.
-		Køge - Faxe Ladeplads - Rødvig
-		Helsingør - Hillerød
-		Hillerød - Snekkersten
-		Hillerød - Hundested
-		Hillerød - Tisvildeleje
-		Bramming - Tønder - Niebüll
-		Herning - Skanderborg
-		Struer - Langå
-		Esbjerg - Nørre Nebel - Skjern
-		Skjern - Herning
-		Skjern - Holstebro
-		Struer - Thisted
-		Vemb - Lemvig - Thyborøn
-		Aalborg - Frederikshavn
-		Frederikshavn - Skagen
-		Hjørring - Hirtshals
+		- Tinglev - Sønderborg
+		- Odense - Svendborg
+		- Struer - Vejle
+		- Kalundborg - Roskilde
+		- Næstved - Køge - Roskilde
+		- Slagelse - Tølløse
+		- Holbæk - Nykøbing Sj.
+		- Køge - Faxe Ladeplads - Rødvig
+		- Helsingør - Hillerød
+		- Hillerød - Snekkersten
+		- Hillerød - Hundested
+		- Hillerød - Tisvildeleje
+		- Bramming - Tønder - Niebüll
+		- Herning - Skanderborg
+		- Struer - Langå
+		- Esbjerg - Nørre Nebel - Skjern
+		- Skjern - Herning
+		- Skjern - Holstebro
+		- Struer - Thisted
+		- Vemb - Lemvig - Thyborøn
+		- Aalborg - Frederikshavn
+		- Frederikshavn - Skagen
+		- Hjørring - Hirtshals
 	- Copenhagen S-train lines:
-		Hellerup - Jægersborg - Nærum
-		Ny Ellebjerg - Køge
-		Vigerslev - Svanemøllen
-		Valby - Frederikssund
-		Ryparken - Farum
-		Jægersborg - Hillerød
+		- Hellerup - Jægersborg - Nærum
+		- Ny Ellebjerg - Køge
+		- Vigerslev - Svanemøllen
+		- Valby - Frederikssund
+		- Ryparken - Farum
+		- Jægersborg - Hillerød

@@ -4,8 +4,8 @@ import bpy
 import fileinput
 import sys
 
-from_km = 0
-to_km = 230
+from_km = 231
+to_km = 249
 material = "PGA_DKMilepost_x_y"
 texture_path = "D:\\Games\\Open Rails\\3D Models\\DK24\\DKMilepost"
 export_path = "D:\\Games\\Open Rails\\3D Models\\DK24\\DKMilepost\\Export"
