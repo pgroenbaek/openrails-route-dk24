@@ -1,5 +1,4 @@
 
-
 # Denmark 2024 - A freeware route for OpenRails
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
@@ -29,7 +28,7 @@ Map of the v1.0 track layout:
 	- Embankments
 	- Gantry
 	- Station platforms
-	- Tunnels
+	- Tunnel entrances
 - Phase 3:
 	- Place signals
 	- Place signs
@@ -47,7 +46,7 @@ Requirements to run the route:
 Installation instructions:
 - Download and extract the route zip file into your filesystem.
 - Download the shapes/textures zip file and extract it into the same place.
-- Start OpenRails and the folder you extracted these xip files into as an installation profile.
+- Start OpenRails and add the folder you extracted these zip files into as an installation profile.
 - Done!
 
 To run the included activities install the following into the "TRAINS/TRAINSET" folder:
@@ -66,9 +65,9 @@ To run the included activities install the following into the "TRAINS/TRAINSET" 
 
 ## License:
 
-The route itself and all objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+The route itself and objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Blender files and textures for these objects are available in the Denmark 2024 Objects repository.
+Blender files and textures for the objects named "PGA_\*" are available in the Denmark 2024 Objects repository.
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
