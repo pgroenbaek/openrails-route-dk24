@@ -67,7 +67,7 @@ To run the included activities install the following into the "TRAINS/TRAINSET" 
 
 The route itself and objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Blender files and textures for the objects named "PGA_\*" are available in the Denmark 2024 Objects repository.
+Blender files and textures for the objects named "PGA_\*" are available in the [Denmark 2024 Objects repository](https://github.com/pgroenbaek/openrails-route-dk24-objects).
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
@@ -95,24 +95,26 @@ Route created by:
 - Peter Grønbæk Andersen
 
 Special thanks to:
-- Piotr Gadecki (TSRE5 route editor)
-- Eric (maintaining the TSRE5 route editor fork)
 - Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
-- Stig Christensen (Danish signals)
-- Mats Abramson (Swedish signals)
-- Dennis Kunz (German signals)
-- All the other XTracks 3.20 and Newroads 4.0 authors
+- Piotr Gadecki (developing the TSRE5 route editor)
+- Eric (maintaining the TSRE5 route editor fork)
+- Stig Christensen (danish signals)
+- Mats Abramson (swedish signals)
+- Dennis Kunz (german signals)
+- All other XTracks 3.20 and Newroads 4.0 authors
 
 Objects and textures by:
 - Peter Grønbæk Andersen (everything named "PGA_*")
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
-- Stig Christensen (danish level crossings)
+- Stig Christensen (danish signals, danish level crossings)
+- Mats Abramson (swedish signals)
+- Dennis Kunz (german signals)
 - Henrik Fredborg (Fredericia station roof, some danish buildings)
-- Manuel Mader (vegetation)
+- Manuel Mader (vegetation and trees)
 - Anders Svensson (swedish gantry)
 - Daniel Harms (german level crossings)
 - Kuju / Microsoft (default MSTS objects)
-- Anyone who I forgot to add to this list
+- Anyone else who I might have missed
 
 Sounds by:
 - Jan Riffel
