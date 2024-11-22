@@ -1,13 +1,13 @@
 
-# Denmark 2024 - A freeware route for OpenRails
+# Denmark 2024 - A freeware route for Open Rails
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
-A freeware route for the [OpenRails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
+A work in progress freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
 
-The aim in v1.0 is to build the mainline between Fredericia and Copenhagen. Including the new Ringsted-Vigerslev high speed railway line, the great belt fixed link and the old little belt bridge.
+The aim for v1.0 is to build the mainline between Fredericia and Copenhagen. Including the new Ringsted-Vigerslev high speed railway line, the great belt fixed link and the old little belt bridge.
 
-The route also contains the following railway projects under construction in 2024 as if they were already finished:
+The route will also contain the following railway projects under construction in 2024 as if they were already finished:
 - The new high speed railway line between Odense and Kauslunde.
 - Electrification north of Fredericia.
 - The new DJM depot in Marslev.
@@ -21,46 +21,20 @@ Map of the v1.0 track layout:
 
 - Phase 1:
 	- Lay mainline tracks between Fredericia and Copenhagen
-- Phase 2: **_(<- currently at this stage)_**
+- Phase 2:   **_(<- currently at this stage)_**
 	- Lay track of yards
-	- Bridges
-	- Viaducts
-	- Embankments
-	- Gantry
-	- Station platforms
-	- Tunnel entrances
+	- Place bridges/viaducts/embankments
+	- Place gantry
+	- Place station platforms
+	- Finish tunnel entrances
 - Phase 3:
 	- Place signals
 	- Place signs
 	- Place station scenery
 - Phase 4:
-	- Scenery close to the tracks
+	- Place scenery close to the tracks
 - Phase 5:
-	- Scenery further away from the tracks
-
-## Installing:
-
-Requirements to run the route:
-- Open Rails 1.4+
-
-Installation instructions:
-- Download and extract the route zip file into your filesystem.
-- Download the shapes/textures zip file and extract it into the same place.
-- Start OpenRails and add the folder you extracted these zip files into as an installation profile.
-- Done!
-
-To run the included activities install the following into the "TRAINS/TRAINSET" folder:
-- DSB IR4 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62938
-- DSB IC3 VIA: https://www.trainsim.com/forums/filelib-search-fileid?fid=62942
-- CFL MY 1146: https://tog-sim.dk/downloads.php?did=1365
-- Alias (Common) Cab & Sound til MY version 3: https://tog-sim.dk/downloads.php?did=1358
-- Contec MX 1008: https://tog-sim.dk/downloads.php?did=1053
-- Alias (Common) Cab & Sound til MX version 3: https://tog-sim.dk/downloads.php?did=1359
-- DSB MZ 1401: https://tog-sim.dk/downloads.php?did=202
-- Alias (Common) Cab & Sound til MZ Serie II Version 2: https://tog-sim.dk/downloads.php?did=1360
-- DB Hbbins: https://tog-sim.dk/downloads.php?did=1034
-- TWA Habiis https://tog-sim.dk/downloads.php?did=1035
-- MMP2: https://sites.google.com/site/btsim02/orts/mmp2
+	- Place scenery further away from the tracks
 
 
 ## License:
@@ -125,7 +99,7 @@ Sounds by:
 
 Eventually more of the danish rail network might be added. In particular the remaining mainlines.
 
-- v2.0: Potential mainline additions,
+- v2.0+: Potential mainline additions,
 	- Fredericia - Århus (including electrification)
 	- Århus - Aalborg (including electrification)
 	- Taulov - Padborg
