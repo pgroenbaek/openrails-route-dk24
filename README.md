@@ -43,7 +43,7 @@ Map of the v1.0 track layout:
 
 The route itself and objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Blender model files and textures for the objects named "PGA_\*" are available in the [Denmark 2024 Objects repository](https://github.com/pgroenbaek/openrails-route-dk24-objects).
+Blender model files and textures for the objects named "PGA_\*" are available in the [Denmark 2024 objects repository](https://github.com/pgroenbaek/openrails-route-dk24-objects).
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
