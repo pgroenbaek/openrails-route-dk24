@@ -7,6 +7,8 @@ A work in progress freeware route for the [Open Rails simulator](https://www.ope
 
 The aim for v1.0 is to build the mainline between Fredericia and Copenhagen. Including the new Ringsted-Vigerslev high speed railway line, the great belt fixed link and the old little belt bridge.
 
+The route is currently in a state where it has tracks from one end to the other, but otherwise it is very unfinished.
+
 The route will also contain the following railway projects under construction in 2024 as if they were already finished:
 - The new high speed railway line between Odense and Kauslunde.
 - Electrification north of Fredericia.
@@ -73,71 +75,17 @@ Special thanks to:
 - Piotr Gadecki (developing the TSRE5 route editor)
 - Eric (maintaining the TSRE5 route editor fork)
 - Stig Christensen (danish signals)
-- Mats Abramson (swedish signals)
-- Dennis Kunz (german signals)
 - All other XTracks 3.20 and Newroads 4.0 authors
 
 Objects and textures by:
 - Peter Grønbæk Andersen (everything named "PGA_*")
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
 - Stig Christensen (danish signals, danish level crossings)
-- Mats Abramson (swedish signals)
-- Dennis Kunz (german signals)
 - Henrik Fredborg (Fredericia station roof, some danish buildings)
 - Manuel Mader (vegetation and trees)
-- Anders Svensson (swedish gantry)
-- Daniel Harms (german level crossings)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone else who I might have missed
 
 Sounds by:
 - Jan Riffel
 - Icki81
-
-
-## Potential future expansions:
-
-Eventually more of the danish rail network might be added. In particular the remaining mainlines.
-
-- v2.0+: Potential mainline additions,
-	- Fredericia - Århus (including electrification)
-	- Århus - Aalborg (including electrification)
-	- Taulov - Padborg
-	- Padborg - Flensburg
-	- Kastrup - Malmö - Lund
-	- Klampenborg - Helsingør
-	- Lunderskov - Esbjerg
-	- Ringsted - Nykøbing F. (including electrification and the new storstrøms bridge)
-	- Nykøbing F. - Lübeck (including the new fehmarn tunnel)
-- v3.0+: Potential branchline and S-train additions,
-	- Branchlines:
-		- Tinglev - Sønderborg
-		- Odense - Svendborg
-		- Struer - Vejle
-		- Kalundborg - Roskilde
-		- Næstved - Køge - Roskilde
-		- Slagelse - Tølløse
-		- Holbæk - Nykøbing Sj.
-		- Køge - Faxe Ladeplads - Rødvig
-		- Helsingør - Hillerød
-		- Hillerød - Snekkersten
-		- Hillerød - Hundested
-		- Hillerød - Tisvildeleje
-		- Bramming - Tønder - Niebüll
-		- Herning - Skanderborg
-		- Struer - Langå
-		- Esbjerg - Nørre Nebel - Skjern
-		- Skjern - Herning
-		- Skjern - Holstebro
-		- Struer - Thisted
-		- Vemb - Lemvig - Thyborøn
-		- Aalborg - Frederikshavn
-		- Frederikshavn - Skagen
-		- Hjørring - Hirtshals
-	- Copenhagen S-train lines:
-		- Hellerup - Jægersborg - Nærum
-		- Ny Ellebjerg - Køge
-		- Vigerslev - Svanemøllen
-		- Valby - Frederikssund
-		- Ryparken - Farum
-		- Jægersborg - Hillerød
