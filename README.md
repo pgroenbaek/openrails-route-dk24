@@ -43,7 +43,7 @@ Map of the v1.0 track layout:
 
 The route itself and objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Blender files and textures for the objects named "PGA_\*" are available in the [Denmark 2024 Objects repository](https://github.com/pgroenbaek/openrails-route-dk24-objects).
+Blender model files and textures for the objects named "PGA_\*" are available in the [Denmark 2024 Objects repository](https://github.com/pgroenbaek/openrails-route-dk24-objects).
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
 
@@ -54,9 +54,6 @@ Those objects/textures were obtained from the following freeware packs:
 - NewRoads 4.0 Autobahn Texturen: https://the-train.de/downloads/entry/7887-newroads-v4-0-autobahn-texturen-update-f%C3%BCr-streckenbauer/
 - DBTracks: https://the-train.de/downloads/entry/11252-dbtracks/
 - Danske Signaler: https://www.routebuilders.dk/download/msts/signaler/
-- New swedish signals version 0.2: https://www.banbyggarna.se/msts/Signaler.htm
-- Swedish Gantrys with Lod version 1.1: https://www.banbyggarna.se/msts/Objekt_1.html
-- Deutsches Eisenbahnsignalpaket: https://the-train.de/downloads/entry/8282-deutsches-eisenbahnsignalpaket/
 - MM Vegetation 7.1: https://the-train.de/downloads/entry/9534-mm-vegetation-v7-1/
 - Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
 - Dansk overkørsel: https://www.routebuilders.dk/download/msts/signaler/
