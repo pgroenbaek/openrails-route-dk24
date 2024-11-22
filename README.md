@@ -82,7 +82,3 @@ Objects and textures by:
 - Manuel Mader (vegetation and trees)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone else who I might have missed
-
-Sounds by:
-- Jan Riffel
-- Icki81
