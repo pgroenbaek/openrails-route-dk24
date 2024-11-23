@@ -10,3 +10,4 @@
 *.tit diff linguist-detectable=false
 *.sms diff linguist-detectable=false
 *.pat diff linguist-detectable=false
+*.py linguist-detectable=false
