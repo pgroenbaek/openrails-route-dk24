@@ -66,8 +66,8 @@ def pack_assets(assets_to_pack)
 
 if __name__ == "__main__":
     version = "v0_1"
-    search_path = "D:\\D"
-    export_path = "D:\\D"
+    search_path = "D:\\Games\\Open Rails\\Content\\Denmark"
+    export_path = "D:\\Games\\Open Rails\\Content\\Denmark"
     export_filename = "DK24_Assets_%s.zip" % (version)
     export_file = "%s\\%s" % (export_path, export_filename)
 
