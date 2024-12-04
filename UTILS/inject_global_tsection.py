@@ -182,7 +182,7 @@ if __name__ == "__main__":
     custom_sections = read_lines(custom_sections_file)
 
     print("Writing %d custom sections..." % (sum('TrackSection' in s for s in custom_sections)))
-    print("Writing %d custom shapes..." % (sum('TrackShape' in s for s in custom_sections)))
+    print("Writing %d custom shapes..." % (sum('TrackShape' in s for s in custom_shapes)))
 
     dsections, dpaths = read_local_tsection(local_tsection_file)
 
