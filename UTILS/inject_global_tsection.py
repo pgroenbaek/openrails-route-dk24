@@ -83,7 +83,7 @@ def find_dynatrax_section_idxs(world_files):
   return list(set(dynatrax_section_idxs))
 
 
-def generate_dynatrack_entries(world_files, dyntrack_sections, dyntrack_paths):
+def generate_dynatrax_entries(world_files, dyntrack_sections, dyntrack_paths):
   track_sections = []
   track_shapes = []
   section_idxs_created = []
@@ -147,7 +147,7 @@ def get_max_idx(track_sections, track_shapes):
 def write_modified_global_tsection(output_tsection_file, original_tsection_file, track_sections, track_shapes):
   lines = read_lines(original_tsection_file)
 
-  max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
+  #max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
   
   #lines = [x.replace("TrackSections ( 40000", "TrackSections ( %d" % (max_section_idx)) for x in lines]
   #lines = [x.replace("TrackShapes ( 40000", "TrackShapes ( %d" % (max_shape_idx)) for x in lines]
@@ -187,12 +187,12 @@ if __name__ == "__main__":
     dsections, dpaths = read_local_tsection(local_tsection_file)
 
     world_files = find_world_files(world_file_path)
-    dynatrack_sections, dynatrack_shapes = generate_dynatrack_entries(world_files, dsections, dpaths)
+    dynatrax_sections, dynatrax_shapes = generate_dynatrax_entries(world_files, dsections, dpaths)
 
-    print("Writing %d dynatrax sections..." % (sum('TrackSection' in s for s in dynatrack_sections)))
-    print("Writing %d dynatrax shapes..." % (sum('TrackShape' in s for s in dynatrack_shapes)))
+    print("Writing %d dynatrax sections..." % (sum('TrackSection' in s for s in dynatrax_sections)))
+    print("Writing %d dynatrax shapes..." % (sum('TrackShape' in s for s in dynatrax_shapes)))
 
-    custom_sections = custom_sections + dynatrack_sections
-    custom_shapes = custom_shapes + dynatrack_shapes
+    custom_sections = custom_sections + dynatrax_sections
+    custom_shapes = custom_shapes + dynatrax_shapes
 
     write_modified_global_tsection(output_tsection_file, original_tsection_file, custom_sections, custom_shapes)
