@@ -1,13 +1,13 @@
-*.dat diff linguist-detectable=false
-*.haz diff linguist-detectable=false
-*.w diff linguist-detectable=false
-*.ws diff linguist-detectable=false
-*.rdb diff linguist-detectable=false
-*.ref diff linguist-detectable=false
-*.tdb diff linguist-detectable=false
-*.trk diff linguist-detectable=false
-*.rit diff linguist-detectable=false
-*.tit diff linguist-detectable=false
-*.sms diff linguist-detectable=false
-*.pat diff linguist-detectable=false
+*.dat diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.haz diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.w diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.ws diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.rdb diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.ref diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.tdb diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.trk diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.rit diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.tit diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.sms diff working-tree-encoding=UTF-16 linguist-detectable=false
+*.pat diff working-tree-encoding=UTF-16 linguist-detectable=false
 *.py linguist-detectable=false

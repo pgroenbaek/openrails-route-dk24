@@ -22,7 +22,7 @@ def translate_heights(world_file, shape_name_regex, delta_height):
     if "Static (" in line:
       from_idx = line_idx + 1
       to_idx = line_idx + 5
-      next_lines = lines[from_idx:to_idx]
+      next_lines = lines[from_idx : to_idx]
 
       should_replace = False
       original_height = 0.0
