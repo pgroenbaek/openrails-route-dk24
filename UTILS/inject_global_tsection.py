@@ -83,6 +83,28 @@ def find_dynatrax_section_idxs(world_files):
   return list(set(dynatrax_section_idxs))
 
 
+def generate_tracksection_entry(section_idx, section_type, length, radius):
+  track_section = []
+  track_section.append("TrackSection ( %d" % (section_idx))
+  if section_type == 0:
+    track_section.append(" SectionSize ( 1.5 %f )" % (length))
+  elif section_type == 1:
+    track_section.append(" SectionSize ( 1.5 0 )")
+    track_section.append(" SectionCurve ( %f %f )" % (radius, length / 0.01745))
+  track_section.append(")")
+  return track_section
+
+
+def generate_trackshape_entry(section_idx, shape_name, path_section_idxs):
+  track_shape = []
+  track_shape.append("TrackShape ( %d" % (section_idx))
+  track_shape.append(" FileName ( %s )" % (shape_name))
+  track_shape.append(" NumPaths ( 1 )")
+  track_shape.append(" SectionIdx ( %d 0 0 0 0 %s )" % (len(dyntrack_path[1]), " ".join(["%d" % (x) for x in dyntrack_path[1]])))
+  track_shape.append(")")
+  return track_shape
+
+
 def generate_dynatrax_entries(world_files, dyntrack_sections, dyntrack_paths):
   track_sections = []
   track_shapes = []
@@ -101,34 +123,15 @@ def generate_dynatrax_entries(world_files, dyntrack_sections, dyntrack_paths):
       radius = dyntrack_path_section[3]
 
       if path_section_idx not in section_idxs_created:
-        track_sections.append("TrackSection ( %d" % (path_section_idx))
-        if section_type == 0:
-          track_sections.append(" SectionSize ( 1.5 %f )" % (length))
-        elif section_type == 1:
-          track_sections.append(" SectionSize ( 1.5 0 )")
-          track_sections.append(" SectionCurve ( %f %f )" % (radius, length / 0.01745))
-        track_sections.append(")")
-
+        track_sections.extend(generate_tracksection_entry(path_section_idx, section_type, length, radius))
         section_idxs_created.append(path_section_idx)
 
     if path_section_idx not in section_idxs_created:
-      track_sections.append("TrackSection ( %d" % (section_idx))
-      if section_type == 0:
-        track_sections.append(" SectionSize ( 1.5 %f )" % (length))
-      elif section_type == 1:
-        track_sections.append(" SectionSize ( 1.5 0 )")
-        track_sections.append(" SectionCurve ( %f %f )" % (radius, length / 0.01745))
-      track_sections.append(")")
-
+      track_sections.extend(generate_tracksection_entry(section_idx, section_type, length, radius))
       section_idxs_created.append(section_idx)
 
     if section_idx not in shape_idxs_created:
-      track_shapes.append("TrackShape ( %d" % (section_idx))
-      track_shapes.append(" FileName ( %s )" % (shape_name))
-      track_shapes.append(" NumPaths ( 1 )")
-      track_shapes.append(" SectionIdx ( %d 0 0 0 0 %s )" % (len(dyntrack_path[1]), " ".join(["%d" % (x) for x in dyntrack_path[1]])))
-      track_shapes.append(")")
-      
+      track_shapes.extend(generate_trackshape_entry(section_idx, shape_name, dyntrack_path[1]))
       shape_idxs_created.append(section_idx)
   
   return track_sections, track_shapes
@@ -147,22 +150,23 @@ def get_max_idx(track_sections, track_shapes):
 def write_modified_global_tsection(output_tsection_file, original_tsection_file, track_sections, track_shapes):
   lines = read_lines(original_tsection_file)
 
+  # Disable this, TSRE5 will try to increase section indexes of dyntrack in the local tsection.dat if these numbers are increased. And if so, the workaround will not work.
   #max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
   
   #lines = [x.replace("TrackSections ( 40000", "TrackSections ( %d" % (max_section_idx)) for x in lines]
   #lines = [x.replace("TrackShapes ( 40000", "TrackShapes ( %d" % (max_shape_idx)) for x in lines]
 
-  shapes_injection_idx = 29253
-  lines[shapes_injection_idx:shapes_injection_idx] = [' ']
-  lines[shapes_injection_idx:shapes_injection_idx] = track_shapes
-  lines[shapes_injection_idx:shapes_injection_idx] = [' ']
-  lines[shapes_injection_idx:shapes_injection_idx] = ['_INFO(Custom DK24 shapes)']
+  shapes_injection_line = 29253
+  lines[shapes_injection_line : shapes_injection_line] = [' ']
+  lines[shapes_injection_line : shapes_injection_line] = track_shapes
+  lines[shapes_injection_line : shapes_injection_line] = [' ']
+  lines[shapes_injection_line : shapes_injection_line] = ['_INFO(Custom DK24 shapes)']
 
-  sections_injection_idx = 1730
-  lines[sections_injection_idx:sections_injection_idx] = [' ']
-  lines[sections_injection_idx:sections_injection_idx] = track_sections
-  lines[sections_injection_idx:sections_injection_idx] = [' ']
-  lines[sections_injection_idx:sections_injection_idx] = ['_INFO(Custom DK24 track sections)']
+  sections_injection_line = 1730
+  lines[sections_injection_line : sections_injection_line] = [' ']
+  lines[sections_injection_line : sections_injection_line] = track_sections
+  lines[sections_injection_line : sections_injection_line] = [' ']
+  lines[sections_injection_line : sections_injection_line] = ['_INFO(Custom DK24 track sections)']
 
   output_text = "\n".join(lines)
   
