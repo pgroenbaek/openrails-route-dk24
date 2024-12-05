@@ -100,7 +100,7 @@ def generate_trackshape_entry(section_idx, shape_name, path_section_idxs):
   track_shape.append("TrackShape ( %d" % (section_idx))
   track_shape.append(" FileName ( %s )" % (shape_name))
   track_shape.append(" NumPaths ( 1 )")
-  track_shape.append(" SectionIdx ( %d 0 0 0 0 %s )" % (len(dyntrack_path[1]), " ".join(["%d" % (x) for x in dyntrack_path[1]])))
+  track_shape.append(" SectionIdx ( %d 0 0 0 0 %s )" % (len(path_section_idxs), " ".join(["%d" % (x) for x in path_section_idxs])))
   track_shape.append(")")
   return track_shape
 

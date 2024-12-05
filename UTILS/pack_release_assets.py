@@ -50,7 +50,7 @@ def remove_file_if_exists(file_path):
     if os.path.exists(file_path): 
         os.remove(file_path)
 
-def pack_assets(assets_to_pack)
+def pack_assets(assets_to_pack):
     assets_to_pack = list(set(assets_to_pack))
 
     with zipfile.ZipFile(export_file, "a", compression=zipfile.ZIP_DEFLATED, allowZip64=True) as zipf:
