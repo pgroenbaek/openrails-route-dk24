@@ -1,7 +1,20 @@
 import os
 import fnmatch
 
-# Inject the original global tsection.dat with dynatrax/custom shapes and track sections.
+"""
+Injects the original global tsection.dat with dynatrax super-elevation workaround entries as well as custom trackshape and tracksection entries.
+
+Explanation:
+The script reads the local tsection.dat and looks for .w files in the world folder.
+Then finds any TrackObj with shape names matching '*Dynatrax-*' in the world files.
+Then generates the workaround entries needed to make super-elevation work properly for Dynatrax track sections.
+Then reads any custom entries defined in customtrackshapes.txt and customtracksections.txt.
+Then reads the original unmodified global tsection.dat.
+Then injects the trackshape entries into line 29253.
+Then injects the tracksection entries into line 1730.
+And finally saves the modified global tsection.dat.
+
+"""
 
 def read_lines(file):
   lines = []
@@ -182,19 +195,19 @@ if __name__ == "__main__":
     custom_sections_file = "D:\\Games\\Open Rails\\Content\\Denmark\\GLOBAL\\customtracksections.txt"
     world_file_path = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\WORLD"
 
+    dsections, dpaths = read_local_tsection(local_tsection_file)
+    world_files = find_world_files(world_file_path)
+
+    dynatrax_sections, dynatrax_shapes = generate_dynatrax_entries(world_files, dsections, dpaths)
+
+    print("Writing %d dynatrax sections..." % (sum('TrackSection' in s for s in dynatrax_sections)))
+    print("Writing %d dynatrax shapes..." % (sum('TrackShape' in s for s in dynatrax_shapes)))
+
     custom_shapes = read_lines(custom_shapes_file)
     custom_sections = read_lines(custom_sections_file)
 
     print("Writing %d custom sections..." % (sum('TrackSection' in s for s in custom_sections)))
     print("Writing %d custom shapes..." % (sum('TrackShape' in s for s in custom_shapes)))
-
-    dsections, dpaths = read_local_tsection(local_tsection_file)
-
-    world_files = find_world_files(world_file_path)
-    dynatrax_sections, dynatrax_shapes = generate_dynatrax_entries(world_files, dsections, dpaths)
-
-    print("Writing %d dynatrax sections..." % (sum('TrackSection' in s for s in dynatrax_sections)))
-    print("Writing %d dynatrax shapes..." % (sum('TrackShape' in s for s in dynatrax_shapes)))
 
     custom_sections = custom_sections + dynatrax_sections
     custom_shapes = custom_shapes + dynatrax_shapes
