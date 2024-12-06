@@ -1,8 +1,6 @@
-import os
-import fnmatch
 
 """
-Injects the original global tsection.dat with dynatrax super-elevation workaround entries as well as custom trackshape and tracksection entries.
+Injects the original global tsection.dat with super-elevation workaround entries for dynatrax sections, as well as custom trackshape and tracksection entries.
 
 Explanation:
 The script reads the local tsection.dat and looks for .w files in the world folder.
@@ -14,10 +12,13 @@ Then injects the trackshape entries into line 29253.
 Then injects the tracksection entries into line 1730.
 And finally saves the modified global tsection.dat.
 
+Expect the line numbers to be different if you use a standardised global tsection other than version 38.
 """
+import os
+import fnmatch
 
-def read_lines(file):
-  with open(file, 'r', encoding='utf-16') as f:
+def read_lines(file, encoding='utf-16'):
+  with open(file, 'r', encoding=encoding) as f:
     return f.read().split("\n")
 
 
@@ -61,9 +62,9 @@ def find_world_files(search_directory):
   return world_files
 
 
-def find_dynatrax_section_idxs(world_files):
-  dynatrax_section_idxs = []
-  shape_name_regex = "*Dynatrax-*"
+def find_dynatrax_trackobjs(world_files):
+  dynatrax_trackobjs = []
+  match_shape_name = "*Dynatrax-*"
 
   for world_file in world_files:
     lines = read_lines(world_file)
@@ -81,15 +82,15 @@ def find_dynatrax_section_idxs(world_files):
         for next_line in next_lines:
           if "FileName (" in next_line:
             name = next_line.split(" ")[2]
-            if fnmatch.fnmatch(name, shape_name_regex):
+            if fnmatch.fnmatch(name, match_shape_name):
               shape_name = name.split("\\")[-1].replace("\"", "")
           if "SectionIdx (" in next_line:
             section_idx = int(next_line.split(" ")[2])
 
         if shape_name is not None:
-          dynatrax_section_idxs.append((shape_name, section_idx))
+          dynatrax_trackobjs.append((shape_name, section_idx))
 
-  return list(set(dynatrax_section_idxs))
+  return list(set(dynatrax_trackobjs))
 
 
 def generate_tracksection_entry(section_idx, section_type, length, radius):
@@ -120,9 +121,9 @@ def generate_dynatrax_entries(world_files, dyntrack_sections, dyntrack_paths):
   section_idxs_created = []
   shape_idxs_created = []
 
-  dynatrax_sections_idxs = find_dynatrax_section_idxs(world_files)
+  dynatrax_trackobjs = find_dynatrax_trackobjs(world_files)
 
-  for shape_name, section_idx in dynatrax_sections_idxs:
+  for shape_name, section_idx in dynatrax_trackobjs:
     dyntrack_section = next((t for t in dyntrack_sections if t[0] == section_idx), None)
     dyntrack_path = next((t for t in dyntrack_paths if t[0] == section_idx), None)
     for path_section_idx in dyntrack_path[1]:
@@ -161,7 +162,6 @@ def write_modified_global_tsection(output_tsection_file, original_tsection_file,
 
   # Disable this, TSRE5 will try to increase section indexes of dyntrack in the local tsection.dat if these numbers are increased. And if so, the workaround will not work.
   #max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
-  
   #lines = [x.replace("TrackSections ( 40000", "TrackSections ( %d" % (max_section_idx)) for x in lines]
   #lines = [x.replace("TrackShapes ( 40000", "TrackShapes ( %d" % (max_shape_idx)) for x in lines]
 
