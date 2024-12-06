@@ -17,12 +17,8 @@ And finally saves the modified global tsection.dat.
 """
 
 def read_lines(file):
-  lines = []
-
   with open(file, 'r', encoding='utf-16') as f:
-    lines = f.read().split("\n")
-  
-  return lines
+    return f.read().split("\n")
 
 
 def read_local_tsection(local_tsection_file):
@@ -139,7 +135,7 @@ def generate_dynatrax_entries(world_files, dyntrack_sections, dyntrack_paths):
         track_sections.extend(generate_tracksection_entry(path_section_idx, section_type, length, radius))
         section_idxs_created.append(path_section_idx)
 
-    if path_section_idx not in section_idxs_created:
+    if section_idx not in section_idxs_created:
       track_sections.extend(generate_tracksection_entry(section_idx, section_type, length, radius))
       section_idxs_created.append(section_idx)
 
