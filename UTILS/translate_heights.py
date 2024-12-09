@@ -8,7 +8,7 @@ def find_world_files(search_directory):
           world_files.append("%s\\%s" % (search_directory, file_name))
   return world_files
 
-def translate_heights(world_file, shape_name_regex, delta_height):
+def translate_heights(world_file, shape_name_match, delta_height):
   file_text = ""
   was_changed = False
 
@@ -29,7 +29,7 @@ def translate_heights(world_file, shape_name_regex, delta_height):
 
       for next_line in next_lines:
         if "FileName (" in next_line:
-          if fnmatch.fnmatch(next_line.split(" ")[2], shape_name_regex):
+          if fnmatch.fnmatch(next_line.split(" ")[2], shape_name_match):
             should_replace = True
         if "Position (" in next_line:
           original_height = float(next_line.split(" ")[3])
@@ -53,10 +53,10 @@ def translate_heights(world_file, shape_name_regex, delta_height):
 
 if __name__ == "__main__":
     search_path = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\WORLD"
-    shape_name_regex = "NR_*"
+    shape_name_match = "NR_*"
     delta_height = -0.07
     
     world_files = find_world_files(search_path)
 
     for world_file in world_files:
-      translate_heights(world_file, shape_name_regex, delta_height)
+      translate_heights(world_file, shape_name_match, delta_height)

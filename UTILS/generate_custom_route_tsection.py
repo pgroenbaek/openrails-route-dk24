@@ -1,26 +1,29 @@
 
 """
-Injects the original global tsection.dat with super-elevation workaround entries for dynatrax sections, as well as custom trackshape and tracksection entries.
+Generates a custom route tsection.dat with entries to make super-elevation work for dynatrax sections, as well as custom trackshape and tracksection entries.
+It does not modify the existing local or global tsection but extends the global tsection by using the '<route folder>/openrails/tsection.dat' file.
 
 Explanation:
 The script reads the local tsection.dat and looks for .w files in the world folder.
 Then finds any TrackObj with shape names matching '*Dynatrax-*' in the world files.
-Then generates the workaround entries needed to make super-elevation work properly for Dynatrax track sections.
+Then generates the entries needed to make super-elevation work properly for Dynatrax track sections.
 Then reads any custom entries defined in customtrackshapes.txt and customtracksections.txt.
-Then reads the original unmodified global tsection.dat.
-Then injects the trackshape entries into line 29253.
-Then injects the tracksection entries into line 1730.
-And finally saves the modified global tsection.dat.
-
-Expect the line numbers to be different if you use a standardised global tsection other than version 38.
+Then generates the custom tsection.dat content.
+And finally saves the tsection.dat in '<route folder>/openrails/tsection.dat'.
 """
 import os
 import fnmatch
 
-def read_lines(file, encoding='utf-16'):
-  with open(file, 'r', encoding=encoding) as f:
-    return f.read().split("\n")
-
+def read_lines(file, encoding='utf-16', skip_if_not_exists=False):
+  try:
+    with open(file, 'r', encoding=encoding) as f:
+      return f.read().split("\n")
+  except FileNotFoundError as e:
+    if skip_if_not_exists:
+      print("Warning: File \"%s\" does not exist, skipping." % (file))
+      return []
+    raise e
+      
 
 def read_local_tsection(local_tsection_file):
   sections = []
@@ -95,23 +98,23 @@ def find_dynatrax_trackobjs(world_files):
 
 def generate_tracksection_entry(section_idx, section_type, length, radius):
   track_section = []
-  track_section.append("TrackSection ( %d" % (section_idx))
+  track_section.append(" TrackSection ( %d" % (section_idx))
   if section_type == 0:
-    track_section.append(" SectionSize ( 1.5 %f )" % (length))
+    track_section.append("  SectionSize ( 1.5 %f )" % (length))
   elif section_type == 1:
-    track_section.append(" SectionSize ( 1.5 0 )")
-    track_section.append(" SectionCurve ( %f %f )" % (radius, length / 0.01745))
-  track_section.append(")")
+    track_section.append("  SectionSize ( 1.5 0 )")
+    track_section.append("  SectionCurve ( %f %f )" % (radius, length / 0.01745))
+  track_section.append(" )")
   return track_section
 
 
 def generate_trackshape_entry(section_idx, shape_name, path_section_idxs):
   track_shape = []
-  track_shape.append("TrackShape ( %d" % (section_idx))
-  track_shape.append(" FileName ( %s )" % (shape_name))
-  track_shape.append(" NumPaths ( 1 )")
-  track_shape.append(" SectionIdx ( %d 0 0 0 0 %s )" % (len(path_section_idxs), " ".join(["%d" % (x) for x in path_section_idxs])))
-  track_shape.append(")")
+  track_shape.append(" TrackShape ( %d" % (section_idx))
+  track_shape.append("  FileName ( %s )" % (shape_name))
+  track_shape.append("  NumPaths ( 1 )")
+  track_shape.append("  SectionIdx ( %d 0 0 0 0 %s )" % (len(path_section_idxs), " ".join(["%d" % (x) for x in path_section_idxs])))
+  track_shape.append(" )")
   return track_shape
 
 
@@ -157,25 +160,23 @@ def get_max_idx(track_sections, track_shapes):
   return max_section_idx, max_shape_idx
 
 
-def write_modified_global_tsection(output_tsection_file, original_tsection_file, track_sections, track_shapes):
-  lines = read_lines(original_tsection_file)
+def write_custom_route_tsection(output_tsection_file, global_tsection_file, track_sections, track_shapes):
+  lines = []
 
   # Disable this, TSRE5 will try to increase section indexes of dyntrack in the local tsection.dat if these numbers are increased. And if so, the workaround will not work.
   #max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
   #lines = [x.replace("TrackSections ( 40000", "TrackSections ( %d" % (max_section_idx)) for x in lines]
   #lines = [x.replace("TrackShapes ( 40000", "TrackShapes ( %d" % (max_shape_idx)) for x in lines]
 
-  shapes_injection_line = 29253
-  lines[shapes_injection_line : shapes_injection_line] = [' ']
-  lines[shapes_injection_line : shapes_injection_line] = track_shapes
-  lines[shapes_injection_line : shapes_injection_line] = [' ']
-  lines[shapes_injection_line : shapes_injection_line] = ['_INFO(Custom DK24 shapes)']
-
-  sections_injection_line = 1730
-  lines[sections_injection_line : sections_injection_line] = [' ']
-  lines[sections_injection_line : sections_injection_line] = track_sections
-  lines[sections_injection_line : sections_injection_line] = [' ']
-  lines[sections_injection_line : sections_injection_line] = ['_INFO(Custom DK24 track sections)']
+  lines.append("")
+  lines.append("include ( \"%s\" )" % (global_tsection_file))
+  lines.append("_INFO ( Track sections and shapes specific for DK24 )")
+  lines.append("TrackSections ( 40000")
+  lines.extend(track_sections)
+  lines.append(")")
+  lines.append("TrackShapes ( 40000")
+  lines.extend(track_shapes)
+  lines.append(")")
 
   output_text = "\n".join(lines)
   
@@ -185,10 +186,10 @@ def write_modified_global_tsection(output_tsection_file, original_tsection_file,
 
 if __name__ == "__main__":
     local_tsection_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\tsection.dat"
-    original_tsection_file = "D:\\Games\\Open Rails\\Content\\Denmark\\GLOBAL\\tsection_v38.dat"
-    output_tsection_file = "D:\\Games\\Open Rails\\Content\\Denmark\\GLOBAL\\tsection.dat"
-    custom_shapes_file = "D:\\Games\\Open Rails\\Content\\Denmark\\GLOBAL\\customtrackshapes.txt"
-    custom_sections_file = "D:\\Games\\Open Rails\\Content\\Denmark\\GLOBAL\\customtracksections.txt"
+    global_tsection_file = "../../../GLOBAL/tsection.dat"
+    output_tsection_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\OPENRAILS\\tsection.dat"
+    custom_shapes_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\OPENRAILS\\customtrackshapes.txt"
+    custom_sections_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\OPENRAILS\\customtracksections.txt"
     world_file_path = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\WORLD"
 
     dsections, dpaths = read_local_tsection(local_tsection_file)
@@ -199,8 +200,8 @@ if __name__ == "__main__":
     print("Writing %d dynatrax sections..." % (sum('TrackSection' in s for s in dynatrax_sections)))
     print("Writing %d dynatrax shapes..." % (sum('TrackShape' in s for s in dynatrax_shapes)))
 
-    custom_shapes = read_lines(custom_shapes_file)
-    custom_sections = read_lines(custom_sections_file)
+    custom_shapes = read_lines(custom_shapes_file, skip_if_not_exists=True)
+    custom_sections = read_lines(custom_sections_file, skip_if_not_exists=True)
 
     print("Writing %d custom sections..." % (sum('TrackSection' in s for s in custom_sections)))
     print("Writing %d custom shapes..." % (sum('TrackShape' in s for s in custom_shapes)))
@@ -208,4 +209,4 @@ if __name__ == "__main__":
     custom_sections = custom_sections + dynatrax_sections
     custom_shapes = custom_shapes + dynatrax_shapes
 
-    write_modified_global_tsection(output_tsection_file, original_tsection_file, custom_sections, custom_shapes)
+    write_custom_route_tsection(output_tsection_file, global_tsection_file, custom_sections, custom_shapes)

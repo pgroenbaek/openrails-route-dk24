@@ -34,11 +34,11 @@ import zipfile
 #       - ROUTES/OR_DK24/SHAPES
 #   Also copy the texture from all environmant subfolders
 #   Warn if anything is missing
-def find_assets_to_pack(file_regexes):
-    for file_path, file_regex in file_regexes:
+def find_assets_to_pack(files_to_pack):
+    for file_path, file_match in files_to_pack:
         for directory in [x[0] for x in os.walk("%s\\%s" % (search_path, file_path))]:
             for file_name in os.listdir(directory):
-                if fnmatch.fnmatch(file_name, file_regex):
+                if fnmatch.fnmatch(file_name, file_match):
                     pack_files.append((file_path, file_name))
                     print('Found %d assets.' % (len(pack_files)), end='\r')
 
@@ -65,13 +65,13 @@ def pack_assets(assets_to_pack):
 
 
 if __name__ == "__main__":
-    version = "v0_1"
+    version = "v0.1"
     search_path = "D:\\Games\\Open Rails\\Content\\Denmark"
     export_path = "D:\\Games\\Open Rails\\Content\\Denmark"
     export_filename = "DK24_Assets_%s.zip" % (version)
     export_file = "%s\\%s" % (export_path, export_filename)
 
-    file_regexes = [
+    files_to_pack = [
         ("ROUTES\\OR_DK24\\SOUND", "*.sms"),
         ("ROUTES\\OR_DK24\\SOUND", "*.wav"),
         ("ROUTES\\OR_DK24\\TERRTEX", "*.ace"),
@@ -86,5 +86,5 @@ if __name__ == "__main__":
     ensure_directory_exists(export_path)
     remove_file_if_exists(export_file)
     
-    assets_to_pack = find_assets_to_pack(file_regexes)
+    assets_to_pack = find_assets_to_pack(files_to_pack)
     pack_assets(assets_to_pack)
