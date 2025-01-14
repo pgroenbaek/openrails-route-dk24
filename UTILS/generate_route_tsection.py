@@ -1,28 +1,13 @@
 
 """
-Generates a custom route tsection.dat with entries to make super-elevation work for dynatrax sections, as well as custom trackshape and tracksection entries.
-It does not modify the existing local or global tsection but extends the global tsection by using the '<route folder>/openrails/tsection.dat' file.
-
-Explanation:
-The script reads the local tsection.dat and looks for .w files in the world folder.
-Then finds any TrackObj with shape names matching '*Dynatrax-*' in the world files.
-Then generates the entries needed to make super-elevation work properly for Dynatrax track sections.
-Then reads any custom entries defined in customtrackshapes.txt and customtracksections.txt.
-Then generates the custom tsection.dat content.
-And finally saves the tsection.dat in '<route folder>/openrails/tsection.dat'.
+Generates a route-specific tsection.dat with entries to make super-elevation work for Dynatrax sections, and adds custom trackshape and tracksection entries from the .txt files.
 """
 import os
 import fnmatch
 
-def read_lines(file, encoding='utf-16', skip_if_not_exists=False):
-  try:
-    with open(file, 'r', encoding=encoding) as f:
-      return f.read().split("\n")
-  except FileNotFoundError as e:
-    if skip_if_not_exists:
-      print("Warning: File \"%s\" does not exist, skipping." % (file))
-      return []
-    raise e
+def read_lines(file, encoding='utf-16'):
+  with open(file, 'r', encoding=encoding) as f:
+    return f.read().split("\n")
       
 
 def read_local_tsection(local_tsection_file):
@@ -56,6 +41,14 @@ def read_local_tsection(local_tsection_file):
 
   return sections, paths
 
+def ensure_directory_exists(directory_path):
+  if not os.path.exists(directory_path): 
+      os.makedirs(directory_path)
+
+def ensure_file_exists(path):
+  if not os.path.exists(path):
+    with open(path, 'w') as f:
+        pass
 
 def find_world_files(search_directory):
   world_files = []
@@ -160,16 +153,11 @@ def get_max_idx(track_sections, track_shapes):
   return max_section_idx, max_shape_idx
 
 
-def write_custom_route_tsection(output_tsection_file, global_tsection_file, track_sections, track_shapes):
+def write_route_tsection(output_tsection_file, track_sections, track_shapes):
   lines = []
 
-  # Disable this, TSRE5 will try to increase section indexes of dyntrack in the local tsection.dat if these numbers are increased. And if so, the workaround will not work.
-  #max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
-  #lines = [x.replace("TrackSections ( 40000", "TrackSections ( %d" % (max_section_idx)) for x in lines]
-  #lines = [x.replace("TrackShapes ( 40000", "TrackShapes ( %d" % (max_shape_idx)) for x in lines]
-
   lines.append("")
-  lines.append("include ( \"%s\" )" % (global_tsection_file))
+  lines.append("include ( \"../../../GLOBAL/tsection.dat\" )")
   lines.append("_INFO ( Track sections and shapes specific for DK24 )")
   lines.append("TrackSections ( 40000")
   lines.extend(track_sections)
@@ -178,6 +166,11 @@ def write_custom_route_tsection(output_tsection_file, global_tsection_file, trac
   lines.extend(track_shapes)
   lines.append(")")
 
+  # Disable this, TSRE5 will try to increase section indexes of dyntrack in the local tsection.dat if these numbers are increased. And if so, the generated dynatrax entries will not work.
+  #max_section_idx, max_shape_idx = get_max_idx(track_sections, track_shapes)
+  #lines = [x.replace("TrackSections ( 40000", "TrackSections ( %d" % (max_section_idx)) for x in lines]
+  #lines = [x.replace("TrackShapes ( 40000", "TrackShapes ( %d" % (max_shape_idx)) for x in lines]
+
   output_text = "\n".join(lines)
   
   with open(output_tsection_file, 'w', encoding='utf-16') as file:
@@ -185,23 +178,31 @@ def write_custom_route_tsection(output_tsection_file, global_tsection_file, trac
 
 
 if __name__ == "__main__":
-    local_tsection_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\tsection.dat"
-    global_tsection_file = "../../../GLOBAL/tsection.dat"
-    output_tsection_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\OPENRAILS\\tsection.dat"
-    custom_shapes_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\OPENRAILS\\customtrackshapes.txt"
-    custom_sections_file = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\OPENRAILS\\customtracksections.txt"
-    world_file_path = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\WORLD"
+    route_path = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24"
+    local_tsection_file = "%s\\tsection.dat" % (route_path)
+    output_tsection_file = "%s\\OPENRAILS\\tsection.dat" % (route_path)
+    custom_shapes_file = "%s\\OPENRAILS\\customtrackshapes.txt" % (route_path)
+    custom_sections_file = "%s\\OPENRAILS\\customtracksections.txt" % (route_path)
+    world_file_path = "%s\\WORLD" % (route_path)
 
+    ensure_directory_exists("%s\\OPENRAILS" % (route_path))
+    ensure_file_exists(custom_shapes_file)
+    ensure_file_exists(custom_sections_file)
+
+    print("Reading local tsection...")
     dsections, dpaths = read_local_tsection(local_tsection_file)
+
+    print("Finding world files...")
     world_files = find_world_files(world_file_path)
 
+    print("Generating dynatrax entries...")
     dynatrax_sections, dynatrax_shapes = generate_dynatrax_entries(world_files, dsections, dpaths)
 
     print("Writing %d dynatrax sections..." % (sum('TrackSection' in s for s in dynatrax_sections)))
     print("Writing %d dynatrax shapes..." % (sum('TrackShape' in s for s in dynatrax_shapes)))
 
-    custom_shapes = read_lines(custom_shapes_file, skip_if_not_exists=True)
-    custom_sections = read_lines(custom_sections_file, skip_if_not_exists=True)
+    custom_shapes = read_lines(custom_shapes_file)
+    custom_sections = read_lines(custom_sections_file)
 
     print("Writing %d custom sections..." % (sum('TrackSection' in s for s in custom_sections)))
     print("Writing %d custom shapes..." % (sum('TrackShape' in s for s in custom_shapes)))
@@ -209,4 +210,6 @@ if __name__ == "__main__":
     custom_sections = custom_sections + dynatrax_sections
     custom_shapes = custom_shapes + dynatrax_shapes
 
-    write_custom_route_tsection(output_tsection_file, global_tsection_file, custom_sections, custom_shapes)
+    write_route_tsection(output_tsection_file, custom_sections, custom_shapes)
+
+    print("The route-specific tsection.dat was written to: \"%s\"" % (output_tsection_file))

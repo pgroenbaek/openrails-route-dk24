@@ -1465,7 +1465,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 384 )
 		FileName ( NR_Emb3t_End.s )
-		Position ( -8.74164 14.8903 38.8276 )
+		Position ( -8.74164 13.3903 38.8276 )
 		QDirection ( 0 -0.66217 0 0.749354 )
 	)
 	Static (
@@ -2679,25 +2679,25 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 1156 )
-		FileName ( PGA_DK_Gantry_Uzp1t5m_L.s )
+		FileName ( PGA_DKGantry_UZhp1t5m_L.s )
 		Position ( -973.43 14.9603 -60.3832 )
 		QDirection ( 0 -0.695 0 0.719 )
 	)
 	Static (
 		UiD ( 1158 )
-		FileName ( PGA_DK_Gantry_Uzp1t5m_R.s )
+		FileName ( PGA_DKGantry_UZhp1t5m_R.s )
 		Position ( -973.6 14.9603 -55.3862 )
 		QDirection ( 0 -0.695 0 0.719 )
 	)
 	Static (
 		UiD ( 1159 )
-		FileName ( PGA_DK_Gantry_Uhwp1t5m_L.s )
+		FileName ( PGA_DKGantry_UWhp1t5m_L.s )
 		Position ( -973.61 14.9603 -55.0863 )
 		QDirection ( 0 -0.695 0 0.719 )
 	)
 	Static (
 		UiD ( 1160 )
-		FileName ( PGA_DK_Gantry_Uhwp1t5m_R.s )
+		FileName ( PGA_DKGantry_UWhp1t5m_R.s )
 		Position ( -973.414 14.9603 -60.883 )
 		QDirection ( 0 -0.695 0 0.719 )
 	)
@@ -3593,15 +3593,21 @@ Tr_Worldfile (
 		Position ( -19.9968 14.9602 42.4407 )
 		QDirection ( 0 -0.750239 0 -0.661166 )
 	)
+	Static (
+		UiD ( 2145 )
+		FileName ( PGA_DKGantry_Uhwp1t5m_L.s )
+		Position ( -269.422 14.9603 10.8326 )
+		QDirection ( 0 0.750239 0 0.661166 )
+	)
 	TrackObj (
-		UiD ( 2142 )
+		UiD ( 2148 )
 		SectionIdx ( 5 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -19.0567 14.9603 35.0223 )
-		QDirection ( 0 -0.75024 0 -0.661165 )
+		Position ( -28.9774 14.9603 33.7651 )
+		QDirection ( 0 -0.661165 0 0.75024 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (

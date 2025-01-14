@@ -77,6 +77,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40038 0.339333 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40039 69.9996 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40040 -0.0602349 2197.52 
 	)
 	TrackSection ( 
@@ -86,6 +89,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40042 1.13734 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40043 -0.5301 606 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40044 -0.0602334 2202.46 
 	)
 	TrackSection ( 
@@ -93,6 +99,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40046 0.366783 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40047 7.86499 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40048 -0.060232 2207.33 
@@ -116,6 +125,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40056 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40057 18.7514 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40058 -0.0523594 318.226 
 	)
 	TrackSection ( 
@@ -125,7 +137,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40060 7.89238 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40061 27.8381 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40062 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40063 48.5886 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40064 -0.0523594 324.917 
@@ -164,6 +182,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40080 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40081 -0.0636544 4672.94 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40082 -0.162663 341.792 
 	)
 	TrackSection ( 
@@ -174,6 +195,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40086 8.15422 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40087 2.49976 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40088 -0.0991376 341.621 
@@ -192,6 +216,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40094 13.0384 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40095 61.0397 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40096 -0.0317629 1467.3 
@@ -224,6 +251,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40108 7.62675 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40109 2.51953 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40110 -0.162662 179.961 
 	)
 	TrackSection ( 
@@ -248,6 +278,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40120 20 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40121 2.86517 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40122 -0.023 3000 
 	)
 	TrackSection ( 
@@ -267,6 +300,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40130 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40131 248.45 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40132 2.86512 0 
@@ -297,6 +333,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40146 10.0005 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40147 20 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40148 67.9571 0 
@@ -335,6 +374,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40164 69.9955 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40165 -0.209479 506.352 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40166 0 0 
 	)
 	TrackSection ( 
@@ -356,10 +398,16 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40176 69.9994 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40177 12.8652 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40178 0 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40180 69.9996 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40181 2.86517 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40182 116.556 0 
@@ -431,7 +479,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40210 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40211 -0.163932 1140.64 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40212 31.933 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40213 5 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40214 0 0 
@@ -467,6 +521,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40228 29.9997 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40229 4.99999 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40230 0 0 
 	)
 	TrackSection ( 
@@ -476,7 +533,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40234 46.2482 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40235 -0.0411001 4516.84 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40236 18.7514 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40237 -0.0424804 1693.75 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40238 0 0 
@@ -489,6 +552,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40242 1.60227 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40243 12.865 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40244 -0.1 100 
@@ -527,6 +593,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40258 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40259 47.7539 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40260 -0.0270573 1610.73 
 	)
 	TrackSection ( 
@@ -534,6 +603,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40262 48.5886 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40263 13.0423 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40264 392.59 0 
@@ -546,6 +618,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40268 461.924 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40269 -0.0436408 1091.35 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40270 -0.296661 2430.61 
@@ -566,6 +641,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40276 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40277 13.192 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40278 -0.139592 4868.64 
 	)
 	TrackSection ( 
@@ -575,7 +653,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40280 353.191 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40281 10.916 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40282 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40283 1.11816 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40284 -0.139614 1249.71 
@@ -594,6 +678,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40290 318.348 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40291 1.76987 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40292 0 0 
@@ -623,6 +710,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40304 19.9998 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40305 12.8652 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40306 0 0 
 	)
 	TrackSection ( 
@@ -638,13 +728,22 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40314 49.9987 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40315 4.75073 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40316 0 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40318 49.9984 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40319 25.3434 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40320 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40321 -0.0538553 735.172 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40322 -0.0174562 4000.04 
@@ -659,6 +758,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40326 249.991 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40327 5 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40328 -0.034907 3002.3 
 	)
 	TrackSection ( 
@@ -666,6 +768,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40330 288.619 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40331 14.9998 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40332 -0.0636417 1846.01 
@@ -677,6 +782,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40334 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40335 -0.0613545 1055.27 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40336 -0.0636424 4824.96 
 	)
 	TrackSection ( 
@@ -686,7 +794,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40338 193.636 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40339 20.0054 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40340 168.632 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40341 22.2296 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40342 -0.0636424 4672.94 
@@ -708,6 +822,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40350 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40351 12.8651 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40352 -0.139601 5150.55 
@@ -737,7 +854,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40364 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40365 2.18 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40366 2.49976 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40367 1.80347 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40368 84.058 0 
@@ -854,7 +977,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40420 574.645 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40421 -0.0609111 631.109 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40422 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40423 14.2038 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40424 -0.28058 742.242 
@@ -905,6 +1034,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40446 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40447 2.4704 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40448 200 0 
 	)
 	TrackSection ( 
@@ -915,6 +1047,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40454 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40455 -0.200038 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40456 2.51953 0 
@@ -942,6 +1077,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40470 6.80999 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40471 12.8652 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40472 0 0 
@@ -1103,6 +1241,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40552 33.7412 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40553 -0.130925 224.518 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40554 -0.0349039 4502.02 
 	)
 	TrackSection ( 
@@ -1169,6 +1310,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40586 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40587 12.3463 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40588 -0.226859 3088.37 
 	)
 	TrackSection ( 
@@ -1203,6 +1347,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40604 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40605 4.99993 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40606 -0.279211 2229.44 
@@ -1328,6 +1475,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40670 65.0078 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40671 -0.12824 3482.31 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40672 -0.031767 1630.17 
 	)
 	TrackSection ( 
@@ -1335,6 +1485,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40674 54.9999 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40675 35.4519 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40676 -0.0317625 2260.27 
@@ -1346,6 +1499,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40678 48.5005 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40679 78.1939 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40680 -0.031762 2265.53 
 	)
 	TrackSection ( 
@@ -1353,6 +1509,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40682 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40683 43.7967 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40684 -0.118947 1543.23 
@@ -1364,7 +1523,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40686 168.217 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40687 -0.436417 729.738 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40688 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40689 -0.118969 1548.37 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40690 -0.118947 1548.22 
@@ -1388,6 +1553,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40698 111.207 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40699 -0.0602448 2190.07 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40700 -0.209439 506.352 
 	)
 	TrackSection ( 
@@ -1395,6 +1563,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40702 19.9981 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40703 50.5354 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40704 -0.174534 1002.49 
@@ -1406,6 +1577,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40706 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40707 -0.0500086 1000 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40708 -0.174534 1017.98 
 	)
 	TrackSection ( 
@@ -1415,10 +1589,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40710 21.4896 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40711 -0.0500086 999.963 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40712 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40713 -0.0500117 999.921 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40714 39.9996 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40715 -0.0500064 999.996 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40716 99.9973 0 
@@ -1427,7 +1610,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40718 39.9986 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40719 -0.0230006 1351.33 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40720 41.43 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40721 -0.315829 1408.87 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40722 8.56976 0 
@@ -1451,7 +1640,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40732 25.2473 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40733 -0.0499702 741.295 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40734 55.2467 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40735 -0.0499559 1399.29 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40736 -0.0830308 294.169 
@@ -1463,6 +1658,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40738 7.09981 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40739 -0.0873171 3979.4 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40740 -0.0830308 874.703 
 	)
 	TrackSection ( 
@@ -1472,7 +1670,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40742 12.8652 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40743 -0.139659 1202.04 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40744 15.8276 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40745 3.21201 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40746 -0.0349058 803.888 
@@ -1484,6 +1688,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40748 1.2947 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40749 0.101845 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40750 -0.0349053 545.848 
 	)
 	TrackSection ( 
@@ -1491,6 +1698,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40752 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40753 -0.130925 240.741 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40754 -0.174534 1531.44 
@@ -1502,7 +1712,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40756 10.0229 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40757 -0.193308 3331.33 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40758 2.86517 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40759 -0.0218183 3070.15 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40760 13.6094 0 
@@ -1523,6 +1739,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40768 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40769 -0.567425 283.986 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40770 -0.001 100 
 	)
 	TrackSection ( 
@@ -1532,7 +1751,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40772 62.2188 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40773 59.3041 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40774 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40775 -0.150733 1539.54 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40776 -0.086268 422.454 
@@ -1544,7 +1769,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40778 20.643 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40779 59.4866 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40780 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40781 -0.174567 1531.41 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40782 -0.1299 190.084 
@@ -1556,7 +1787,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40784 10.3714 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40785 -0.129926 190.08 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40786 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40787 -0.0830461 1160.89 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40788 -0.279251 952.4 
@@ -1568,7 +1805,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40790 2.25401 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40791 12.997 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40792 12.8621 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40793 0.015839 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40794 -0.1309 190.736 
@@ -1580,6 +1823,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40796 27.1187 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40797 -0.0150159 3909.09 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40798 -0.0513603 431.209 
 	)
 	TrackSection ( 
@@ -1587,6 +1833,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40800 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40801 1.07143 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40802 13.1919 0 
@@ -1604,6 +1853,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40808 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40809 -0.487783 977.752 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40810 -0.0862678 430.008 
 	)
 	TrackSection ( 
@@ -1613,7 +1865,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40812 20.3177 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40813 13.1919 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 40814 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40815 11.8081 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40816 13.1919 0 
@@ -1634,6 +1892,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40824 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40825 12.8652 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40826 -0.0830298 1160.9 
 	)
 	TrackSection ( 
@@ -1646,6 +1907,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40830 156.912 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40831 95.682 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40832 -0.0830294 1165.86 
 	)
 	TrackSection ( 
@@ -1653,6 +1917,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40834 194.775 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40835 5.2567 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40836 -0.0830298 1170.88 
@@ -1664,6 +1931,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40838 186.478 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40839 -0.130924 195.689 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40840 -0.0830294 1341.81 
 	)
 	TrackSection ( 
@@ -1673,6 +1943,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40842 148.613 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40843 24.7389 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40844 -0.0830289 1346.8 
 	)
 	TrackSection ( 
@@ -1680,6 +1953,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40846 110.746 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40847 99.1859 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40848 -0.0830289 1351.8 
@@ -1700,6 +1976,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40854 186.48 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40855 -0.333003 1457.94 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40856 -0.008 1341.81 
 	)
 	TrackSection ( 
@@ -1718,6 +1997,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40862 7.86275 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40863 33.9985 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40864 -0.130899 262.033 
 	)
 	TrackSection ( 
@@ -1725,6 +2007,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40866 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40867 -0.101013 571.335 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40868 -0.0830294 762.839 
@@ -1769,6 +2054,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40886 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40887 -0.100004 2299.93 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40888 -0.148353 175.897 
 	)
 	TrackSection ( 
@@ -1781,6 +2069,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40892 18.2312 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 40893 -0.0600113 190 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40894 -0.181354 1432.09 
 	)
 	TrackSection ( 
@@ -1788,6 +2079,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40896 27.6719 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40897 -0.124661 1841.53 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40898 -0.163901 1140.64 
@@ -1815,6 +2109,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40910 4.99995 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40911 7.50537 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40912 68.4765 0 
@@ -1896,6 +2193,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 40948 235.522 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40949 25 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 40950 -0.179615 936.124 
@@ -1985,6 +2285,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40992 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40993 3.99994 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 40994 -0.0410737 147.468 
 	)
 	TrackSection ( 
@@ -1997,6 +2300,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 40998 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 40999 5.00008 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41000 -0.0410735 3068.99 
 	)
 	TrackSection ( 
@@ -2006,7 +2312,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41002 200.669 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41003 -0.26185 244.239 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41004 80.7562 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41005 14.3294 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41006 -0.0410923 4516.84 
@@ -2081,6 +2393,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41038 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41039 189.289 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41040 12.865 0 
 	)
 	TrackSection ( 
@@ -2111,6 +2426,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41054 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41055 -0.130925 382.13 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41056 -0.0626904 4546.77 
 	)
 	TrackSection ( 
@@ -2121,6 +2439,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41060 78.2189 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41061 78.7817 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41062 -0.0452375 5776.1 
@@ -2144,6 +2465,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41070 71.2617 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41071 -0.227122 121.818 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41072 -0.130506 821.006 
 	)
 	TrackSection ( 
@@ -2162,6 +2486,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41078 129.334 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41079 0.193993 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41080 -2.66655 7.7895 
 	)
 	TrackSection ( 
@@ -2169,6 +2496,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41082 22.7353 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41083 -0.0873708 810.416 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41084 -0.130548 933.788 
@@ -2189,7 +2519,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41090 11.4864 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41091 -0.0174524 5362.94 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41092 43.7903 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41093 49.4998 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41094 -0.192839 2108.01 
@@ -2201,6 +2537,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41096 67.1983 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41097 49.8548 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41098 -0.192839 2199.63 
 	)
 	TrackSection ( 
@@ -2210,10 +2549,16 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41100 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41101 -0.113466 3027.15 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41102 2.86517 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41104 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41105 14 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41106 -0.0206951 8153.07 
@@ -2223,6 +2568,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41108 63.4383 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41109 11.7335 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41110 0 0 
@@ -2240,6 +2588,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41116 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41117 0.771509 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41118 -0.214942 1280.66 
 	)
 	TrackSection ( 
@@ -2247,6 +2598,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41120 98.0136 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41121 2.86487 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41122 0 0 
@@ -2261,6 +2615,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41126 8.90179 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41127 -0.0872817 2083.29 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41128 0 0 
 	)
 	TrackSection ( 
@@ -2271,6 +2628,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41132 15.1779 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41133 -0.10474 771.993 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41134 0 0 
@@ -2297,6 +2657,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41144 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41145 7.13489 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41146 -0.349066 669.83 
 	)
 	TrackSection ( 
@@ -2304,6 +2667,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41148 28.2718 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41149 142.569 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41150 3.24927 0 
@@ -2354,7 +2720,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41172 20.0022 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41173 15.6976 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41174 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41175 -0.150028 744.5 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41176 -0.436334 729.744 
@@ -2367,6 +2739,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41180 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41181 -0.0306671 920.582 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41182 -0.436334 734.729 
@@ -2390,10 +2765,16 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41190 64.3148 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41191 -0.0174557 1999.12 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41192 0 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41194 23.7811 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41195 19.9997 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41196 0 0 
@@ -2408,10 +2789,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41202 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41203 -0.0349108 1852.98 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41204 13.192 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41205 -0.0261944 2687.94 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41206 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41207 79.0804 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41208 10.7509 0 
@@ -2486,7 +2876,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41246 83.128 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41247 -0.0100019 8000 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41248 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41249 79.3018 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41250 -0.567319 290.316 
@@ -2499,6 +2895,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41254 59.3203 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41255 -0.0174563 50973.2 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41256 -0.0412835 1534.11 
@@ -2561,6 +2960,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41282 152.859 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41283 10 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41284 -0.0499961 1090.57 
 	)
 	TrackSection ( 
@@ -2568,6 +2970,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41286 1.8015 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41287 -0.0152689 6346.31 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41288 -0.10385 642.559 
@@ -2589,6 +2994,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41296 145.8 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41297 89.3819 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41298 -0.0499851 380.095 
@@ -2666,7 +3074,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41332 127.063 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41333 -0.110021 2499.98 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41334 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41335 -0.11002 2490.02 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41336 -0.0499841 740.747 
@@ -2702,6 +3116,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41350 89.275 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41351 19.2697 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41352 0 0 
 	)
 	TrackSection ( 
@@ -2714,10 +3131,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41356 97.5466 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41357 -0.113466 917.958 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41358 24.9997 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41359 32.8637 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41360 4.75073 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41361 -0.127477 2301.74 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41362 13.4645 0 
@@ -2780,6 +3206,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41388 7.61513 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41389 -0.0523703 3520.86 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41390 0 0 
 	)
 	TrackSection ( 
@@ -2790,6 +3219,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41394 41.9217 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41395 16.1467 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41396 0 0 
@@ -2819,6 +3251,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41408 171.942 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41409 26.2466 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41410 5 0 
 	)
 	TrackSection ( 
@@ -2826,6 +3261,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41414 54.0142 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41415 -0.00981186 15000 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41416 -0.0781482 1188.78 
@@ -2891,6 +3329,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41444 25 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41445 -0.0610926 3265.41 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41446 0 0 
 	)
 	TrackSection ( 
@@ -2907,6 +3348,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41454 20.0054 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41455 12.0669 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41456 9.99985 0 
@@ -3020,6 +3464,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41510 2.13483 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41511 39.9999 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41512 0 0 
 	)
 	TrackSection ( 
@@ -3027,6 +3474,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41516 207.294 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41517 -0.070013 465.397 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41518 -2.74751 0.350628 
@@ -3074,13 +3524,22 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41536 5.24273 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41537 21.5 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41538 0 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41540 221 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41541 2.11 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41542 2.3 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41543 22.937 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41544 2.2 0 
@@ -3089,7 +3548,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41546 2.15 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41547 12.87 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41548 2.18 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41549 -0.0200038 800 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41550 0 0 
@@ -3137,6 +3602,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41570 37.1115 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41571 -0.0600071 238.793 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41572 -0.1309 195.823 
 	)
 	TrackSection ( 
@@ -3176,7 +3644,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41590 26.1133 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41591 6.89056 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41592 1.30805 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41593 32.1348 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41594 -0.0872668 236.214 
@@ -3200,6 +3674,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41604 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41605 -0.170032 500 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41606 -0.1309 362.954 
 	)
 	TrackSection ( 
@@ -3212,6 +3689,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41610 30 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41611 -0.257279 505.248 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41612 -0.05 1000 
 	)
 	TrackSection ( 
@@ -3219,6 +3699,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41614 30 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41615 12.8 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41616 -0.09 800 
@@ -3263,6 +3746,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41630 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41631 -0.0500094 190 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41632 -0.07 1002.37 
 	)
 	TrackSection ( 
@@ -3272,7 +3758,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41634 2.84877 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41635 -0.104551 187.414 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41636 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41637 -0.0909171 300.372 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41638 -0.130901 168.022 
@@ -3284,7 +3776,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41640 29.2421 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41641 -0.0400076 390.98 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41642 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41643 26.1888 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41644 -0.1309 244.303 
@@ -3309,6 +3807,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41654 24.9992 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41655 -0.0500094 300 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41656 -0.1309 185.734 
@@ -3359,6 +3860,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41678 36.9139 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41679 13.1906 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41680 -0.11 250 
 	)
 	TrackSection ( 
@@ -3398,6 +3902,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41694 168.844 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41695 -0.0800173 386.303 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41696 -0.0830308 1181.78 
 	)
 	TrackSection ( 
@@ -3405,6 +3912,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41698 130.964 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41699 -0.0200038 500.006 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41700 -0.0830308 1186.94 
@@ -3426,6 +3936,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41708 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41709 -0.0300057 600 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41710 -0.305433 1082.95 
@@ -3458,7 +3971,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41722 27.3507 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41723 -0.0321161 698.137 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41724 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41725 5.90021 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41726 61.7732 0 
@@ -3476,6 +3995,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41732 250 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41733 27.1348 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41734 -0.088 500 
 	)
 	TrackSection ( 
@@ -3491,6 +4013,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41738 7.10067 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41739 -0.100019 200 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41740 -0.0608996 1213.76 
 	)
 	TrackSection ( 
@@ -3498,6 +4023,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41742 17.8987 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41743 -0.0175174 1505.81 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41744 -0.0608996 631.109 
@@ -3527,7 +4055,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41754 14.2038 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41755 -0.015903 665.323 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41756 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41757 -0.0818154 260.979 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41758 -0.261799 99.9245 
@@ -3548,6 +4082,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41764 12.8654 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41765 25 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41766 37.1293 0 
 	)
 	TrackSection ( 
@@ -3558,6 +4095,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41770 36.8051 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41771 50.8062 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41772 -0.1309 391.955 
@@ -3710,7 +4250,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41842 21.2973 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41843 6.80808 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41844 13.1943 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41845 13.1919 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41846 -0.1309 185.711 
@@ -3720,6 +4266,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41848 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41849 -0.171832 607.655 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41850 69.5 0 
@@ -3744,6 +4293,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41862 32.2503 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41863 5.99999 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41864 -0.165807 547.018 
@@ -3845,6 +4397,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41906 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41907 12.33 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41908 -0.1309 190.712 
 	)
 	TrackSection ( 
@@ -3867,6 +4422,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41918 32.5387 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41919 0.38982 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41920 -0.28798 275.16 
@@ -3917,6 +4475,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41940 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41941 -0.0698258 2245.26 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41942 -0.406146 239.258 
 	)
 	TrackSection ( 
@@ -3929,6 +4490,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41946 10.6604 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41947 -0.0130025 1994.83 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 41948 -0.549778 266.064 
 	)
 	TrackSection ( 
@@ -3936,6 +4500,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41950 55.5902 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41951 -0.0190036 1994.82 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41952 -0.418879 232.312 
@@ -3947,7 +4514,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41954 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 41955 -0.0175233 1994.8 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41956 12.8652 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41957 -0.0175433 1994.91 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41958 0 0 
@@ -3956,7 +4529,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 41960 12.8652 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 41961 61.1927 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 41962 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41963 148.589 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41964 -0.174533 300.478 
@@ -3966,6 +4545,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41966 21.0768 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 41967 -0.122196 2156.06 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41968 38.8009 0 
@@ -3978,6 +4560,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41972 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41973 0.227051 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41974 -0.174533 620.392 
@@ -4014,6 +4599,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 41990 1.93124 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 41991 117.843 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 41992 -0.0940847 144.852 
@@ -4148,10 +4736,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42052 66.9388 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42053 -0.0150028 1200.04 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42054 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42055 -0.0200038 1200.05 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42056 20 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42057 44.9618 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42058 -0.14 200 
@@ -4163,10 +4760,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42060 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42061 -0.016003 1391.65 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42062 5.00006 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42063 -0.0150028 1391.49 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42064 5.8858 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42065 -0.0200038 1391.18 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42066 -0.1309 553.969 
@@ -4176,6 +4782,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42068 38.0518 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42069 -0.0290131 2086.75 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42070 -0.2 467.476 
@@ -4250,6 +4859,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42102 71.5612 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42103 -0.00702132 2146.29 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42104 -0.174533 889.946 
 	)
 	TrackSection ( 
@@ -4277,7 +4889,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42114 18.0543 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42115 -0.00709134 2141.41 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42116 0.573277 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42117 -0.0326067 2141.1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42118 -0.200714 241.646 
@@ -4289,6 +4907,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42120 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42121 -0.00706134 2146.18 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42122 -0.200714 214.444 
 	)
 	TrackSection ( 
@@ -4298,7 +4919,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42124 42.5534 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42125 -0.00709134 2146.1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42126 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42127 -0.00600114 2152.11 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42128 -0.436331 299.108 
@@ -4313,6 +4940,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42132 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42133 -0.0349069 1000.86 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42134 -0.296707 116.769 
 	)
 	TrackSection ( 
@@ -4320,6 +4950,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42136 15.2843 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42137 0.030174 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42138 22.5449 0 
@@ -4355,7 +4988,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42152 21.5882 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42153 -0.541532 720.543 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42154 24.974 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42155 37.1676 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42156 -0.157081 150.48 
@@ -4365,6 +5004,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42158 4.87743 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42159 49.9952 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42160 -0.130901 248.097 
@@ -4418,6 +5060,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42182 2.97464 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42183 -0.005301 2001.41 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42184 -0.174533 794.453 
 	)
 	TrackSection ( 
@@ -4434,6 +5079,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42190 0.257828 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42191 19.9641 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42192 0 0 
@@ -4514,6 +5162,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42228 91.5638 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42229 -0.0872829 747.506 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42230 58.8 0 
 	)
 	TrackSection ( 
@@ -4535,13 +5186,25 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42238 5.36523 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42239 87.4852 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42240 3.23059 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42241 -0.110021 2195.47 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42242 12.8653 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42243 -0.300057 400 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42244 0.328253 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42245 39.7106 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42246 -0.1309 386.987 
@@ -4562,13 +5225,25 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42252 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42253 -0.16003 565.871 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42254 9.26959 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42255 121.03 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42256 4.26959 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42257 52.4995 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42258 4.26965 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42259 52.4999 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42260 3.19187 0 
@@ -4586,6 +5261,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42268 11.3125 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42269 6.5 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42270 0 0 
 	)
 	TrackSection ( 
@@ -4596,6 +5274,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42276 33.7811 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42277 55.161 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42278 6.80812 0 
@@ -4625,7 +5306,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42290 55.4877 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42291 -0.0174528 6491.49 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42292 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42293 48.3986 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42294 -0.1309 370.898 
@@ -4635,6 +5322,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42296 5.49 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42297 1.55787 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42298 0 0 
@@ -4700,6 +5390,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42332 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42333 17.4206 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42334 -0.130901 195.695 
 	)
 	TrackSection ( 
@@ -4727,6 +5420,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42346 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42347 -0.00901169 2000 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42348 -0.1309 211.834 
 	)
 	TrackSection ( 
@@ -4736,7 +5432,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42350 33.6152 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42351 -0.0753684 1044.96 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42352 319.124 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42353 124.24 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42354 -0.600971 1079.07 
@@ -4781,7 +5483,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42372 39.9771 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42373 -0.0100119 1499.34 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42374 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42375 -0.0100319 1499.34 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42376 -0.600968 1079.07 
@@ -4808,6 +5516,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42386 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42387 48.0256 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42388 -0.600967 1079.05 
 	)
 	TrackSection ( 
@@ -4817,7 +5528,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42390 139.134 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42391 -0.0150128 845.73 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42392 29.983 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42393 -0.0150328 845.73 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42394 -0.62705 1215.44 
@@ -4868,6 +5585,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42414 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42415 -0.150028 400 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42416 24.9995 0 
 	)
 	TrackSection ( 
@@ -4895,6 +5615,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42428 5.79795 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42429 78.6137 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42430 0 0 
 	)
 	TrackSection ( 
@@ -4907,6 +5630,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42434 29.1635 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42435 -0.192022 502.495 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42436 0 0 
 	)
 	TrackSection ( 
@@ -4917,6 +5643,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42440 41.3237 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42441 -0.192022 318.692 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42442 0 0 
@@ -4952,6 +5681,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42456 27.1362 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42457 50.7302 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42458 12.3467 0 
 	)
 	TrackSection ( 
@@ -4964,6 +5696,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42462 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42463 -0.0174563 2834.17 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42464 -0.130898 290.052 
 	)
 	TrackSection ( 
@@ -4971,6 +5706,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42466 12.3463 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42467 12.8652 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42468 -0.205 1515.44 
@@ -5009,6 +5747,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42482 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42483 -0.20948 1157.96 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42484 -0.524562 780.049 
 	)
 	TrackSection ( 
@@ -5036,7 +5777,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42496 74.9844 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42497 -0.200038 508.457 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42498 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42499 -0.150028 508.391 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42500 -0.0513548 257.732 
@@ -5048,7 +5795,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42502 2.86756 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42503 -0.150028 516.986 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42504 9.90505 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42505 -0.0800156 516.857 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42506 -0.0174507 736.982 
@@ -5060,6 +5813,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42508 49.8459 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42509 -0.0610877 8613.12 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42510 -0.129898 753.509 
 	)
 	TrackSection ( 
@@ -5069,16 +5825,31 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42512 9.99994 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42513 13.5029 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42514 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42515 -0.0230002 4742.14 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42516 20 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42517 -0.034914 2430.25 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42518 10 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42519 -0.0349191 2425.85 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42520 25.4646 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42521 -0.991098 222.714 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42522 -0.4 1050.53 
@@ -5204,6 +5975,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42582 52.8596 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42583 -0.300057 190 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42584 0 0 
 	)
 	TrackSection ( 
@@ -5214,6 +5988,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42588 25.3973 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42589 -0.0500094 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42590 0 0 
@@ -5243,6 +6020,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42602 14.015 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42603 50.3452 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42604 -0.0603283 477.243 
 	)
 	TrackSection ( 
@@ -5270,10 +6050,16 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42614 29.0059 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42615 -0.0575357 3992.3 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42616 0 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42618 15 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42619 -0.200038 1103.25 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42620 0 0 
@@ -5288,7 +6074,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42624 71.8262 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42625 -0.0130425 1103.66 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42626 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42627 -0.100019 1103.66 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42628 -0.156991 300.893 
@@ -5315,6 +6107,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42638 4.07288 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42639 69.2787 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42640 -0.130989 365.391 
 	)
 	TrackSection ( 
@@ -5331,6 +6126,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42646 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42647 13.2676 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42648 -0.517 1184.6 
@@ -5366,6 +6164,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42662 21.3671 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42663 -0.00503095 2312.56 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42664 -0.174632 226.961 
 	)
 	TrackSection ( 
@@ -5373,6 +6174,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42666 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42667 11.86 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42668 -0.104818 286.73 
@@ -5396,13 +6200,25 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42676 0.434082 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42677 -0.101019 431.244 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42678 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42679 -0.0600113 431.465 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42680 89.9998 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42681 24.2212 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42682 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42683 -0.100019 426.15 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42684 -0.122174 2951.23 
@@ -5414,7 +6230,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42686 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42687 164.941 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42688 38.2724 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42689 -0.00501094 2431.58 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42690 145.877 0 
@@ -5438,6 +6260,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42698 60.0349 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42699 -0.00503095 2431.37 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42700 -0.0349073 2564.03 
 	)
 	TrackSection ( 
@@ -5456,7 +6281,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42706 11.1106 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42707 -0.00504095 2431.37 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42708 76.6808 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42709 -0.00504095 2312.56 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42710 -0.128213 3491.19 
@@ -5466,6 +6297,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42712 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42713 39.3807 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42714 -0.128213 3482.26 
@@ -5501,6 +6335,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42728 99.1671 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42729 -0.0100419 1001 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42730 -0.305434 2406.29 
 	)
 	TrackSection ( 
@@ -5519,6 +6356,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42736 50.8279 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42737 30.5699 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42738 -0.305434 3050.58 
 	)
 	TrackSection ( 
@@ -5528,6 +6368,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42740 50.8297 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42741 19.3097 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42742 -0.265 3050.58 
 	)
 	TrackSection ( 
@@ -5535,6 +6378,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42744 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42745 52.4999 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42746 -0.040434 3016 
@@ -5547,6 +6393,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42750 50.8297 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42751 -0.0698273 3447.25 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42752 -0.215 3050.58 
@@ -5565,6 +6414,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42758 50.8297 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42759 13.12 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42760 -0.135 3050.58 
@@ -5594,6 +6446,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42770 0.214172 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42771 5.27588 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42772 -0.0499994 3046.55 
 	)
 	TrackSection ( 
@@ -5612,6 +6467,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42778 0.114956 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42779 -0.205032 1132.13 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42780 -0.0400001 3047.79 
 	)
 	TrackSection ( 
@@ -5619,6 +6477,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42782 100.326 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42783 -0.140026 190 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42784 11.9687 0 
@@ -5651,6 +6512,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42796 16.2977 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42797 23.3619 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42798 0 0 
 	)
 	TrackSection ( 
@@ -5681,6 +6545,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42814 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42815 -0.0700133 371.514 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42816 -0.0174617 3994.92 
 	)
 	TrackSection ( 
@@ -5703,6 +6570,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42826 60.041 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42827 -0.0400034 706.555 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42828 -0.0349062 2563.93 
@@ -5741,6 +6611,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42842 16.2984 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42843 -0.500654 252.444 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42844 -0.0174479 3083.02 
 	)
 	TrackSection ( 
@@ -5748,6 +6621,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42846 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42847 -0.220041 607.655 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42848 -0.122171 2951.23 
@@ -5759,6 +6635,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42850 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42851 -0.230043 550 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42852 -0.061087 238.579 
 	)
 	TrackSection ( 
@@ -5768,7 +6647,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42854 35.4519 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42855 9.49149 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42856 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42857 -0.0960115 706.914 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42858 -0.130509 821.001 
@@ -5813,7 +6698,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42876 78.1939 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42877 -0.152145 281.869 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42878 28.3417 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42879 11.808 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42880 -0.0452811 7146.14 
@@ -5846,7 +6737,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42892 67.2051 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 42893 9.18 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42894 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42895 -0.0100219 931.184 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42896 -0.192839 2107.98 
@@ -5858,7 +6755,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42898 43.7967 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42899 -0.0100619 931.184 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42900 10.7678 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42901 -0.0100719 931.184 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42902 -0.0872675 2742.23 
@@ -5868,6 +6771,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42904 98.0135 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42905 -0.0101119 931.184 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42906 -0.214943 1280.66 
@@ -5897,6 +6803,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42916 74.9809 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42917 -0.0101319 931.184 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42918 -0.436335 734.724 
 	)
 	TrackSection ( 
@@ -5904,6 +6813,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42920 168.197 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42921 -0.0101719 931.184 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42922 -0.118947 1548.37 
@@ -5924,6 +6836,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42928 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42929 -0.00803152 1497.05 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42930 -0.0499991 1548.24 
 	)
 	TrackSection ( 
@@ -5933,6 +6848,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42932 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42933 -0.00800151 1501.77 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42934 -0.218165 401.169 
 	)
 	TrackSection ( 
@@ -5940,6 +6858,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42936 3.72761 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42937 -0.00804152 1501.77 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42938 54.9961 0 
@@ -5954,6 +6875,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42942 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42943 -0.00803152 1302.2 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42944 -0.0317629 2265.63 
 	)
 	TrackSection ( 
@@ -5963,7 +6887,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42946 48.4954 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42947 -0.00807152 1302.2 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42948 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42949 -0.00808152 1302.2 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42950 -0.0317623 2260.44 
@@ -5975,7 +6905,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42952 54.9953 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42953 -0.00809152 1302.2 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42954 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42955 80.29 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42956 -0.0317623 919.546 
@@ -5987,7 +6923,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42958 12.6758 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42959 -0.0350066 800 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42960 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42961 -0.0120023 800 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42962 -0.0602333 2192.46 
@@ -5999,7 +6941,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42964 0.366966 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42965 -0.0120323 800 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 42966 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42967 -0.0120423 800 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42968 -0.060233 2197.66 
@@ -6009,6 +6957,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42970 0.334839 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42971 -0.0120823 800 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42972 0.373245 0 
@@ -6021,6 +6972,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42976 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 42977 36.14 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42978 -0.060232 2207.34 
@@ -6044,6 +6998,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 42986 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 42987 -0.0872845 1497.46 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 42988 -0.0399993 299.919 
 	)
 	TrackSection ( 
@@ -6051,6 +7008,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 42990 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 42991 -0.00601114 2000 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 42992 -0.0271098 1618.75 
@@ -6077,6 +7037,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43002 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43003 -0.016013 520.376 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43004 -0.103858 642.49 
 	)
 	TrackSection ( 
@@ -6086,7 +7049,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43006 1.80228 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43007 -0.100019 520.371 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43008 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43009 -0.110021 520.363 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43010 -0.0499992 999.98 
@@ -6096,6 +7065,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43012 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43013 -0.0800151 1100 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43014 -0.0499992 1000 
@@ -6114,6 +7086,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43020 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43021 -0.0700132 1040.66 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43022 -0.0499992 1000.01 
@@ -6143,6 +7118,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43032 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43033 -0.0100019 900.799 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43034 -0.0500023 999.933 
 	)
 	TrackSection ( 
@@ -6150,6 +7128,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43036 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43037 -0.0534338 1620.83 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43038 -0.0500023 999.921 
@@ -6161,6 +7142,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43040 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43041 -0.090024 689.353 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43042 -0.050007 999.733 
 	)
 	TrackSection ( 
@@ -6168,6 +7152,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43044 2.0065 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43045 -0.0900237 813.549 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43046 0 0 
@@ -6189,6 +7176,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43054 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43055 -0.0150028 602.75 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43056 -0.0229885 2997.36 
@@ -6215,6 +7205,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43066 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43067 18.7455 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43068 -0.0229963 1351.33 
 	)
 	TrackSection ( 
@@ -6231,6 +7224,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43074 88.1887 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43075 9.7 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43076 -0.315769 1408.87 
@@ -6251,6 +7247,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43082 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43083 40.7 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43084 -0.180885 289.754 
 	)
 	TrackSection ( 
@@ -6258,6 +7257,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43086 27.06 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43087 -0.0120223 868.948 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43088 0 0 
@@ -6272,7 +7274,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43092 10.46 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43093 41.2 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43094 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43095 -0.0100219 1040.65 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43096 -0.180884 262.702 
@@ -6296,6 +7304,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43104 39.27 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43105 -0.0240045 998.967 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43106 0 0 
 	)
 	TrackSection ( 
@@ -6308,7 +7319,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43110 47.55 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43111 12.8031 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43112 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43113 -0.0250047 998.61 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43114 -0.311784 201.705 
@@ -6344,6 +7361,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43128 9.27758 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43129 -0.0200027 1462.58 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43130 -0.180889 387.649 
 	)
 	TrackSection ( 
@@ -6353,6 +7373,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43132 0.403101 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43133 -0.109546 487.437 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43134 -0.180889 262.675 
 	)
 	TrackSection ( 
@@ -6360,6 +7383,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43136 10.4503 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43137 25.8553 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43138 -0.0499608 741.295 
@@ -6398,6 +7424,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43152 63.4116 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43153 -0.220041 900 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43154 -0.0206939 8154.87 
 	)
 	TrackSection ( 
@@ -6405,6 +7434,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43156 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43157 -0.0399957 559.55 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43158 -0.024999 6615.16 
@@ -6416,7 +7448,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43160 52.0139 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43161 26 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43162 0.68425 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43163 25.06 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43164 -0.0873006 3979.4 
@@ -6467,6 +7505,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43184 31.5051 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43185 -0.00301057 3050.83 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43186 -0.101435 2279.36 
 	)
 	TrackSection ( 
@@ -6485,7 +7526,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43192 3.21201 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43193 -0.0100019 750 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43194 9.03241 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43195 -0.0102019 750 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43196 -0.148352 175.89 
@@ -6497,6 +7544,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43198 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43199 -0.010502 750 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43200 -0.0399998 3047.93 
 	)
 	TrackSection ( 
@@ -6506,7 +7556,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43202 0.0950127 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43203 -0.0100319 750 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43204 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43205 -0.00935177 747.136 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43206 -0.0499996 3047.6 
@@ -6543,6 +7599,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43222 1.57954 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43223 -0.400075 228 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43224 -0.0404323 3014.22 
@@ -6599,6 +7658,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43248 26.728 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43249 -0.0600113 870 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43250 -0.193269 2304.79 
 	)
 	TrackSection ( 
@@ -6644,6 +7706,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43268 83.8672 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43269 -0.045823 1159.29 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43270 -0.0871831 595.185 
 	)
 	TrackSection ( 
@@ -6671,6 +7736,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43280 38.4513 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43281 73.8459 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43282 38.452 0 
 	)
 	TrackSection ( 
@@ -6692,7 +7760,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43290 16.1146 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43291 -0.455086 738 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43292 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43293 -0.460087 740 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43294 -0.281 742.235 
@@ -6722,6 +7796,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43304 83.1282 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43305 -0.344265 550.88 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43306 -0.567319 280.614 
 	)
 	TrackSection ( 
@@ -6729,6 +7806,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43308 78.9279 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43309 -0.130924 185.162 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43310 -0.567319 290.315 
@@ -6740,6 +7820,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43312 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43313 29.6979 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43314 -0.0412858 1534.41 
 	)
 	TrackSection ( 
@@ -6747,6 +7830,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43316 59.3041 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43317 -0.0523686 415.052 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43318 168.626 0 
@@ -6782,6 +7868,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43332 21.4896 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43333 -0.0400085 494.804 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43334 -0.174534 1017.98 
 	)
 	TrackSection ( 
@@ -6789,6 +7878,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43336 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43337 -0.0174564 999.71 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43338 -0.0872639 826.821 
@@ -6800,7 +7892,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43340 87.8244 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43341 -0.0349122 1084.02 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43342 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43343 -0.140026 556.312 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43344 -0.101398 1396.22 
@@ -6810,6 +7908,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43346 59.4866 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43347 -0.0872747 792.83 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43348 0 0 
@@ -6824,6 +7925,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43352 10.0295 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43353 -0.42631 757.461 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43354 -0.174534 1531.41 
 	)
 	TrackSection ( 
@@ -6831,6 +7935,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43356 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43357 -0.139795 1614.59 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43358 -0.129897 753.521 
@@ -6852,6 +7959,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43366 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43367 -0.122226 1013.68 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43368 -0.0349067 803.846 
@@ -6887,6 +7997,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43382 119.045 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43383 -0.0960081 527.226 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43384 -0.0830304 1160.89 
 	)
 	TrackSection ( 
@@ -6903,6 +8016,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43390 7.09834 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43391 -0.456086 620 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43392 0 0 
@@ -6932,6 +8048,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43404 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43405 -0.0250147 320 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43406 -0.1309 798.093 
 	)
 	TrackSection ( 
@@ -6956,6 +8075,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43416 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43417 -0.0523732 498.26 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43418 -0.069984 499.886 
 	)
 	TrackSection ( 
@@ -6968,6 +8090,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43422 2.22654 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43423 -0.0120123 610.947 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43424 -0.130886 363.068 
 	)
 	TrackSection ( 
@@ -6975,6 +8100,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43426 32.5841 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43427 14.8589 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43428 -0.130914 640.475 
@@ -7004,6 +8132,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43438 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43439 -0.506842 298.616 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43440 -0.049987 799.832 
 	)
 	TrackSection ( 
@@ -7011,6 +8142,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43442 0.0186291 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43443 -0.108054 1079.66 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43444 27.3552 0 
@@ -7025,6 +8159,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43448 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43449 -0.0305558 273.518 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43450 -0.0872694 379.491 
 	)
 	TrackSection ( 
@@ -7034,7 +8171,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43452 1.62285 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43453 -0.0300057 278.4 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43454 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43455 -0.0300057 278.401 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43456 -0.130902 169.375 
@@ -7046,7 +8189,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43458 1.07143 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43459 -0.0300057 278.414 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43460 66.8696 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43461 -0.0300057 278.425 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43462 -0.0349058 962.533 
@@ -7058,6 +8207,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43464 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43465 -0.0300057 278.477 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43466 -0.026179 305.642 
 	)
 	TrackSection ( 
@@ -7067,7 +8219,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43468 142.447 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43469 -0.0300057 278.669 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43470 42.1575 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43471 -0.0300057 273.505 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43472 -0.0261809 4136.65 
@@ -7088,7 +8246,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43478 51.8277 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43479 -0.00600114 1507.83 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43480 51.8279 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43481 -0.00600114 1507.79 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43482 -0.487691 978.159 
@@ -7100,6 +8264,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43484 51.8279 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43485 -0.00600114 1507.81 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43486 -0.487691 983.144 
 	)
 	TrackSection ( 
@@ -7107,6 +8274,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43488 51.6296 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43489 -0.00600114 1508.04 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43490 -0.487691 983.889 
@@ -7118,6 +8288,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43492 51.543 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43493 -0.0300027 278.649 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43494 -0.487691 977.752 
 	)
 	TrackSection ( 
@@ -7127,10 +8300,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43496 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43497 -0.00500094 1521.96 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43498 2.13485 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43499 -0.00500094 1522.35 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43500 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43501 -0.00500094 1522.55 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43502 2.78503 0 
@@ -7142,7 +8324,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43506 13.1919 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43507 9.67 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43508 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43509 -0.017455 1755.94 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43510 -0.130897 380.812 
@@ -7196,6 +8384,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43532 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43533 -0.494768 620.345 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43534 -0.100997 571.362 
 	)
 	TrackSection ( 
@@ -7203,6 +8394,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43536 91.1166 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43537 -0.023402 496.742 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43538 0.399345 0 
@@ -7241,7 +8435,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43554 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43555 26.6759 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43556 12.8652 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43557 64.9962 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43558 5.12296 0 
@@ -7262,6 +8462,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43564 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43565 -0.00680129 1073.17 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43566 -0.0609974 551.487 
 	)
 	TrackSection ( 
@@ -7271,7 +8474,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43568 21.8223 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43569 -0.00685129 1073.8 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43570 2 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43571 -0.00500094 1447.59 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43572 -0.04 500 
@@ -7283,7 +8492,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43574 21.428 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43575 -0.00472089 1525.87 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43576 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43577 28.6007 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43578 95.682 0 
@@ -7313,6 +8528,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43590 46.2711 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43591 -0.192022 747.502 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43592 0 0 
 	)
 	TrackSection ( 
@@ -7325,7 +8543,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43596 74.4551 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43597 8.55896 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43598 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43599 52.4978 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43600 -0.130899 644.511 
@@ -7352,7 +8576,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43608 1.01563 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43609 -0.00700132 1497.3 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43610 0.343513 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43611 -0.00701132 1497.3 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43612 -0.130899 195.689 
@@ -7364,6 +8594,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43614 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43615 -0.00704132 1497.3 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43616 -0.0799989 726.897 
 	)
 	TrackSection ( 
@@ -7373,10 +8606,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43618 2.03567 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43619 -0.0170132 556.653 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43620 13.1919 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43621 -0.0170232 556.659 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43622 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43623 -0.0170332 556.665 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43624 -0.165807 351.826 
@@ -7415,6 +8657,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43640 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43641 -0.0170532 551.573 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43642 -0.126851 1961.07 
 	)
 	TrackSection ( 
@@ -7422,6 +8667,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43644 105.61 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43645 -0.0500094 551.091 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43646 0 0 
@@ -7460,7 +8708,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43662 123.882 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43663 -0.0500094 556.444 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43664 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43665 78.8679 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43666 -0.126851 1765.21 
@@ -7484,6 +8738,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43674 120.649 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43675 -0.0250247 327.186 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43676 0 0 
 	)
 	TrackSection ( 
@@ -7496,7 +8753,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43680 89.7651 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43681 -0.0250647 324.663 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43682 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43683 -0.0250147 320.523 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43684 -0.33294 1462.92 
@@ -7506,6 +8769,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43686 129.765 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43687 -0.0250547 312.634 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43688 0 0 
@@ -7520,7 +8786,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43692 129.765 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43693 -0.386087 560.111 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43694 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43695 -0.100019 327.456 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43696 -0.33294 1462.92 
@@ -7577,6 +8849,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43724 214.419 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43725 -0.0250147 250.198 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43726 144.414 0 
 	)
 	TrackSection ( 
@@ -7622,7 +8897,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43746 42.1433 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43747 -0.0180034 287.868 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43748 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43749 -0.0180134 287.871 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43750 -0.08 189.932 
@@ -7646,10 +8927,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43756 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43757 -0.15777 287.913 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43758 50.0861 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43759 -0.0120023 400 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43760 40.171 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43761 -0.016003 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43762 10 0 
@@ -7694,6 +8984,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43780 57 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43781 -0.0120323 450 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43782 -0.09 2500 
 	)
 	TrackSection ( 
@@ -7701,6 +8994,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43784 57 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43785 -0.0140126 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43786 -0.085 2500 
@@ -7712,6 +9008,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43788 57 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43789 -0.0140527 400 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43790 -0.095 2500 
 	)
 	TrackSection ( 
@@ -7719,6 +9018,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43792 59.1042 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43793 -0.0140927 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43794 -0.200725 1734.4 
@@ -7730,6 +9032,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43796 57 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43797 -0.0140326 433.655 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43798 -0.1 2300 
 	)
 	TrackSection ( 
@@ -7737,6 +9042,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43800 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43801 -0.132111 433.748 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43802 -0.028484 152.83 
@@ -7751,6 +9059,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43806 27.5174 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43807 57.15 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43808 -0.0326026 687.804 
 	)
 	TrackSection ( 
@@ -7758,6 +9069,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43810 57.1799 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43811 -0.0524087 1343.16 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43812 -0.128469 2037.5 
@@ -7769,6 +9083,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43814 57.0407 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43815 -0.00500094 2087.35 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43816 -0.099985 2299.93 
 	)
 	TrackSection ( 
@@ -7776,6 +9093,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43818 25.6453 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43819 11.858 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43820 -0.113462 2204.13 
@@ -7787,6 +9107,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43822 59.1042 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43823 -0.0611002 3969.53 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43824 -0.081 1734.4 
 	)
 	TrackSection ( 
@@ -7794,6 +9117,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43826 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43827 11.7665 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43828 -0.119728 1102.56 
@@ -7805,6 +9131,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43830 37.8692 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43831 -0.0140526 7945.31 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43832 -0.04 300 
 	)
 	TrackSection ( 
@@ -7812,6 +9141,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43834 5 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43835 -0.0100619 1001 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43836 -0.05 300 
@@ -7823,6 +9155,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43838 5 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43839 -0.0200038 2716.45 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43840 -0.06 190 
 	)
 	TrackSection ( 
@@ -7830,6 +9165,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43842 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43843 -0.00501094 1793.81 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43844 -0.0273973 1021.22 
@@ -7841,7 +9179,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43846 15.5243 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43847 -0.0500094 250.204 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43848 23.7009 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43849 -0.0523723 299.856 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43850 -0.0872671 932.331 
@@ -7853,6 +9197,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43852 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43853 1.54328 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43854 -0.0872671 922.385 
 	)
 	TrackSection ( 
@@ -7862,7 +9209,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43856 25.0006 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43857 -0.100016 189.901 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43858 27.6546 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43859 -0.0436409 299.967 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43860 -0.124637 1841.53 
@@ -7874,6 +9227,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43862 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43863 52.0258 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43864 -0.0643791 5588.15 
 	)
 	TrackSection ( 
@@ -7883,7 +9239,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43866 268.797 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43867 -0.180034 599.996 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43868 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43869 -0.200037 449.999 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43870 -0.0643791 5002.01 
@@ -7895,7 +9257,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43872 279.857 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43873 -0.0174533 6585.67 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43874 25.0008 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43875 -0.0872831 247.486 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43876 -0.0872661 922.393 
@@ -7913,6 +9281,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43880 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43881 10.6221 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43882 -0.29341 969.849 
 	)
 	TrackSection ( 
@@ -7922,6 +9293,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43884 68.2931 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43885 0.035423 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43886 -0.02 100 
 	)
 	TrackSection ( 
@@ -7929,6 +9303,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43888 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43889 -0.170032 217.268 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43890 -0.0347196 164.226 
@@ -7943,7 +9320,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43894 27.4997 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43895 -0.0569021 472.223 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43896 30.9181 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43897 0.87946 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43898 -0.16562 109.56 
@@ -7964,6 +9347,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43904 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43905 -0.152759 190.949 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43906 -0.1309 195.69 
 	)
 	TrackSection ( 
@@ -7973,10 +9359,16 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43908 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43909 15.15 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43910 165.365 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43912 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43913 0.13 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43914 -0.16562 323.129 
@@ -7988,13 +9380,22 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43916 5.27354 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43917 -0.0600113 258.609 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43918 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43919 -0.0640121 456.554 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43920 7.50537 0 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43922 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43923 -0.05301 500 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43924 -0.036 323.13 
@@ -8015,6 +9416,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43930 5.26969 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43931 -0.0260049 190.877 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43932 0 0 
 	)
 	TrackSection ( 
@@ -8027,6 +9431,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43936 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43937 -0.037277 299.964 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43938 -0.0696196 227.11 
 	)
 	TrackSection ( 
@@ -8036,7 +9443,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43940 10.5393 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43941 4.95546 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43942 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43943 -0.0300057 351.419 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43944 -0.03 227.11 
@@ -8057,7 +9470,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43950 10.5393 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43951 11.0407 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43952 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43953 11.3906 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43954 -0.0396193 227.113 
@@ -8069,10 +9488,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43956 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43957 -0.0500094 391.987 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43958 10.5394 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43959 -0.170035 735.649 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43960 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43961 -0.202578 881.088 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43962 -0.261802 168.815 
@@ -8085,6 +9513,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43966 9.9955 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43967 -0.0872821 497.444 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43968 -0.130902 190.749 
@@ -8105,7 +9536,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43974 29.9997 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 43975 2.52 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43976 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 43977 0.67 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43978 -0.130902 190.758 
@@ -8115,6 +9552,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43980 29.9946 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43981 -0.0800151 213.469 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43982 0 0 
@@ -8129,10 +9569,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43986 7.13451 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43987 -0.0171032 551.556 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43988 10.5392 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43989 -0.0170832 551.563 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 43990 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43991 -0.0170632 551.565 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 43992 -0.0396195 227.089 
@@ -8144,6 +9593,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 43994 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 43995 -0.0170232 551.568 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 43996 -0.0300005 226.985 
 	)
 	TrackSection ( 
@@ -8151,6 +9603,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 43998 0.0115595 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 43999 -0.0171232 556.741 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44000 -0.0400005 226.936 
@@ -8162,6 +9617,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44002 5.26782 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44003 -0.0170732 556.686 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44004 -0.0200001 323.248 
 	)
 	TrackSection ( 
@@ -8169,6 +9627,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44006 5.26921 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44007 -0.0170432 556.67 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44008 -0.0560001 323.144 
@@ -8180,6 +9641,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44010 15.27 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44011 0.9 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44012 -0.165621 323.143 
 	)
 	TrackSection ( 
@@ -8187,6 +9651,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44014 15.2707 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44015 -0.0600113 297.143 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44016 -0.165621 323.139 
@@ -8198,7 +9665,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44018 10.27 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44019 -0.0500094 340 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44020 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44021 -0.0500094 399.995 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44022 -0.209253 357.238 
@@ -8210,7 +9683,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44024 50.3455 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44025 -0.0600113 380.935 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44026 13.1906 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44027 -0.0700132 260.775 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44028 -0.1309 190.723 
@@ -8220,6 +9699,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44030 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44031 20 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44032 -0.0347206 1181.39 
@@ -8234,6 +9716,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44036 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44037 27.39 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44038 -0.16562 175.911 
 	)
 	TrackSection ( 
@@ -8243,7 +9728,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44040 15.7167 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44041 -0.261832 153.952 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44042 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44043 9.97437 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44044 -0.0347198 388.154 
@@ -8255,7 +9746,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44046 27.9629 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44047 -0.0100019 1001.57 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44048 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44049 -0.00650123 1416.85 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44050 -0.0347198 1142.95 
@@ -8267,7 +9764,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44052 14.7729 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44053 -0.00506095 1500 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44054 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44055 -0.00504095 1500 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44056 -0.1309 190.727 
@@ -8279,7 +9782,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44058 36.8888 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44059 -0.00500094 1500 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44060 18.7225 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44061 -0.360068 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44062 -0.1309 66.6329 
@@ -8291,6 +9800,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44064 5.7781 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44065 -0.0150128 826.852 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44066 -0.165621 170.438 
 	)
 	TrackSection ( 
@@ -8298,6 +9810,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44068 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44069 -0.10474 524.198 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44070 -0.1309 310.719 
@@ -8309,7 +9824,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44072 15.8325 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44073 -0.0500094 306.145 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44074 4.99977 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44075 11.6626 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44076 -0.1309 190.715 
@@ -8321,6 +9842,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44078 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44079 -0.887437 403.615 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44080 -0.1309 266.994 
 	)
 	TrackSection ( 
@@ -8328,6 +9852,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44082 9.49377 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44083 -0.0150028 908.012 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44084 -0.06 190 
@@ -8339,6 +9866,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44086 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44087 -0.110021 1083.75 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44088 -0.0599998 293.4 
 	)
 	TrackSection ( 
@@ -8348,7 +9878,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44090 6.94512 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44091 -0.0150528 1083.64 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44092 12.8641 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44093 -0.0150328 1083.63 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44094 -0.1309 185.736 
@@ -8360,10 +9896,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44096 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44097 -0.110021 1091.28 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44098 25 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44099 -0.0150528 1039.74 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44100 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44101 -0.0150328 1039.74 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44102 -0.130899 178.305 
@@ -8375,7 +9920,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44104 21.1407 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44105 -0.0190036 1044.28 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44106 8.36119 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44107 -0.0510796 2500.11 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44108 -0.130899 348.283 
@@ -8396,7 +9947,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44114 10.3278 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44115 -0.230043 599.508 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44116 29.9996 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44117 -0.0100019 1903.03 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44118 -0.130899 190.716 
@@ -8417,6 +9974,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44124 0.724569 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44125 -0.0100019 2000 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44126 0 0 
 	)
 	TrackSection ( 
@@ -8432,6 +9992,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44132 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44133 -0.0245046 250 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44134 -0.0523604 656.825 
 	)
 	TrackSection ( 
@@ -8439,6 +10002,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44136 38.5354 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44137 -0.0120023 2734.69 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44138 0 0 
@@ -8453,7 +10019,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44142 22.3982 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44143 59.8307 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44144 2 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44145 -0.0174581 5457.9 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44146 1 0 
@@ -8555,6 +10127,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44192 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44193 9.11862 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44194 -0.130899 60.4266 
 	)
 	TrackSection ( 
@@ -8562,6 +10137,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44196 17.7149 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44197 1.02307 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44198 0 0 
@@ -8579,6 +10157,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44204 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44205 -0.0500094 472.736 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44206 -0.0610855 300.3 
 	)
 	TrackSection ( 
@@ -8588,7 +10169,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44208 8.31392 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44209 72.8686 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44210 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44211 33.7147 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44212 -0.191989 213.578 
@@ -8621,6 +10208,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44222 10.0753 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44223 -0.0600118 319.513 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44224 -0.1309 99.5118 
 	)
 	TrackSection ( 
@@ -8645,10 +10235,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44232 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44233 -0.440083 520 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44234 12.1343 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44235 36.2664 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44236 96.3835 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44237 -0.00502095 1314.24 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44238 -0.0872637 2121.29 
@@ -8684,6 +10283,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44250 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44251 15.72 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44252 -0.131 170.58 
 	)
 	TrackSection ( 
@@ -8691,6 +10293,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44254 1.72202 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44255 15.73 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44256 1.72 0 
@@ -8717,6 +10322,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44266 1.72 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44267 13.65 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44268 -0.131 170.58 
 	)
 	TrackSection ( 
@@ -8741,13 +10349,25 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44276 5.12 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44277 -0.255856 367.223 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44278 5.00003 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44279 33.13 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44280 3.99994 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44281 31.09 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44282 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44283 23.92 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44284 -0.130899 193.633 
@@ -8759,10 +10379,19 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44286 0.350291 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44287 0.74 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44288 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44289 55.59 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44290 3.99999 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44291 -0.0436382 526.837 
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44292 0 0 
@@ -8804,6 +10433,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44310 4.97939 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44311 20.3954 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44312 5.00017 0 
 	)
 	TrackSection ( 
@@ -8817,6 +10449,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44318 4.35803 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44319 -0.420084 267.962 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44320 -0.130898 409.337 
@@ -8837,6 +10472,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44326 14.3294 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44327 26.7516 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44328 -0.06 250 
 	)
 	TrackSection ( 
@@ -8844,6 +10482,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44330 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44331 -0.0400076 400 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44332 -0.0709001 152.009 
@@ -8855,7 +10496,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44334 7.4608 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44335 -0.0350066 359.458 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44336 92.3847 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44337 14.82 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44338 -0.0872633 1314.75 
@@ -8876,7 +10523,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44344 4.99108 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44345 5.83 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44346 77.4874 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44347 38.6985 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44348 -0.122171 422.433 
@@ -8888,6 +10541,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44350 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 0 ) 44351 10.08 1 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44352 -0.122171 422.459 
 	)
 	TrackSection ( 
@@ -8897,7 +10553,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44354 77.4899 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44355 -0.0620017 213.578 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44356 5.3609 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44357 -0.061097 300.3 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44358 -0.0610839 1141.86 
@@ -8909,6 +10571,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44360 5.36065 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44361 -0.165651 175.911 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44362 -0.0610841 1141.86 
 	)
 	TrackSection ( 
@@ -8916,6 +10581,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44364 32.4906 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44365 -0.131025 182.77 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44366 -0.022 422.48 
@@ -8945,6 +10613,9 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44376 0 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44377 -0.0700132 194.719 
+	)
+	TrackSection ( 
 		SectionCurve ( 1 ) 44378 -0.02 422.44 
 	)
 	TrackSection ( 
@@ -8952,6 +10623,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44380 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44381 42.86 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44382 -0.0501715 422.428 
@@ -8972,7 +10646,13 @@ TrackSections ( 17074
 		SectionCurve ( 0 ) 44388 5.36027 0 
 	)
 	TrackSection ( 
+		SectionCurve ( 1 ) 44389 -0.0303357 554.295 
+	)
+	TrackSection ( 
 		SectionCurve ( 0 ) 44390 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 44391 13.55 1 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44392 -0.130896 840.061 

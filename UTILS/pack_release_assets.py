@@ -34,8 +34,8 @@ import zipfile
 #       - ROUTES/OR_DK24/SHAPES
 #   Also copy the texture from all environmant subfolders
 #   Warn if anything is missing
-def find_assets_to_pack(files_to_pack):
-    for file_path, file_match in files_to_pack:
+def find_assets_to_pack(file_matches):
+    for file_path, file_match in file_matches:
         for directory in [x[0] for x in os.walk("%s\\%s" % (search_path, file_path))]:
             for file_name in os.listdir(directory):
                 if fnmatch.fnmatch(file_name, file_match):
@@ -71,7 +71,7 @@ if __name__ == "__main__":
     export_filename = "DK24_Assets_%s.zip" % (version)
     export_file = "%s\\%s" % (export_path, export_filename)
 
-    files_to_pack = [
+    file_matches = [
         ("ROUTES\\OR_DK24\\SOUND", "*.sms"),
         ("ROUTES\\OR_DK24\\SOUND", "*.wav"),
         ("ROUTES\\OR_DK24\\TERRTEX", "*.ace"),
@@ -86,5 +86,5 @@ if __name__ == "__main__":
     ensure_directory_exists(export_path)
     remove_file_if_exists(export_file)
     
-    assets_to_pack = find_assets_to_pack(files_to_pack)
+    assets_to_pack = find_assets_to_pack(file_matches)
     pack_assets(assets_to_pack)
