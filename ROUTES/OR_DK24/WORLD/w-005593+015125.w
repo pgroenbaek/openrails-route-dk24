@@ -7,7 +7,7 @@ Tr_Worldfile (
 		Elevation ( 0 )
 		JNodePosn ( -5593 15125 611.241 4.40721 -845.32 )
 		CollideFlags ( 39 )
-		FileName ( DB2z_A1tPnt2_5dLft.s )
+		FileName ( DB22f_A1tPnt2_5dLft.s )
 		StaticFlags ( 00200180 )
 		Position ( 611.241 4.40721 -845.32 )
 		QDirection ( -0.00075138 -0.953763 -0.00238442 -0.30055 )

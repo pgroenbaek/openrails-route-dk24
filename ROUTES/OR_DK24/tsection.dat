@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrackSections ( 17074
+TrackSections ( 17096
 	TrackSection ( 
 		SectionCurve ( 1 ) 40002 -0.03 1000 
 	)
@@ -10686,6 +10686,9 @@ TrackSections ( 17074
 	)
 	TrackSection ( 
 		SectionCurve ( 0 ) 44406 0 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 44407 -0.0174553 30002.5 
 	)
 	TrackSection ( 
 		SectionCurve ( 1 ) 44408 -0.296707 4611.65 
@@ -38572,8 +38575,65 @@ TrackSections ( 17074
 	TrackSection ( 
 		SectionCurve ( 1 ) 57073 0.304723 395.952 
 	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57074 -0.1 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57075 0.1 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 57076 10 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57078 -0.1 100 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57079 0.1 100 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 57080 10 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57082 -0.017452 30002.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57083 0.017452 30002.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 57084 10 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57086 -0.017454 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57087 0.017454 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57088 -0.017452 30002.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57089 0.017452 30002.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57090 -0.017454 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57091 0.017454 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57092 -0.00034 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57093 0.00034 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57094 -0.00034 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 57095 0.00034 29997.5 
+	)
 )
-SectionIdx ( 4403
+SectionIdx ( 4411
 	TrackPath ( 40001 2 40003 40004 ) 
 	TrackPath ( 40002 4 40006 40009 40010 40012 ) 
 	TrackPath ( 40003 3 40014 40016 40018 ) 
@@ -42973,4 +43033,12 @@ SectionIdx ( 4403
 	TrackPath ( 44400 2 57064 57067 ) 
 	TrackPath ( 44401 1 57068 ) 
 	TrackPath ( 44402 2 57070 57072 ) 
+	TrackPath ( 44403 1 57074 ) 
+	TrackPath ( 44404 2 57076 57078 ) 
+	TrackPath ( 44405 2 57080 57082 ) 
+	TrackPath ( 44406 2 57084 57086 ) 
+	TrackPath ( 44407 1 57088 ) 
+	TrackPath ( 44408 1 57090 ) 
+	TrackPath ( 44409 1 57092 ) 
+	TrackPath ( 44410 1 57094 ) 
 )

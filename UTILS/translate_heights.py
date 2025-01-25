@@ -52,7 +52,7 @@ def translate_heights(world_file, shape_name_match, delta_height):
 
 
 if __name__ == "__main__":
-    search_path = "D:\\Games\\Open Rails\\Content\\Denmark\\ROUTES\\OR_DK24\\WORLD"
+    search_path = "D:\\Games\\Open Rails\\Content\\Denmark2024\\ROUTES\\OR_DK24\\WORLD"
     shape_name_match = "NR_*"
     delta_height = -0.07
     

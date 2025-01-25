@@ -1598,7 +1598,7 @@ TrItemTable ( 323
 	SignalItem (
 		TrItemId ( 258 )
 		TrItemSData ( 223.2359 00000002 )
-		TrItemRData ( -924.1199 5.314117 370.8024 -5641 15114 )
+		TrItemRData ( -924.1199 5.314125 370.8024 -5641 15114 )
 		TrSignalType ( 00000200 1 2.07461 dk4ind )
 	)
 	SignalItem (
@@ -1684,7 +1684,7 @@ TrItemTable ( 323
 	SignalItem (
 		TrItemId ( 272 )
 		TrItemSData ( 223.2359 00000002 )
-		TrItemRData ( -924.1199 5.314117 370.8024 -5641 15114 )
+		TrItemRData ( -924.1199 5.314125 370.8024 -5641 15114 )
 		TrSignalType ( 00000200 1 2.07461 dkhviser )
 	)
 	SignalItem (
@@ -1717,23 +1717,14 @@ TrItemTable ( 323
 		TrItemRData ( -829.968 10.81275 -781.2858 -5656 15119 )
 		TrSignalType ( 00000000 1 0.69793 dkam )
 	)
-	SignalItem (
+	EmptyItem (
 		TrItemId ( 278 )
-		TrItemSData ( 9857.878 00000002 )
-		TrItemRData ( -266.8207 14.73308 428.8892 -5637 15115 )
-		TrSignalType ( 00000200 0 4.238831 dk4ind )
 	)
-	SignalItem (
+	EmptyItem (
 		TrItemId ( 279 )
-		TrItemSData ( 9857.878 00000002 )
-		TrItemRData ( -266.8207 14.73308 428.8892 -5637 15115 )
-		TrSignalType ( 00000200 0 4.238831 dkhviser )
 	)
-	SignalItem (
+	EmptyItem (
 		TrItemId ( 280 )
-		TrItemSData ( 9703.146 00000002 )
-		TrItemRData ( -268.9516 14.7318 433.3985 -5637 15115 )
-		TrSignalType ( 00000200 0 4.238831 dk4ind )
 	)
 	SignalItem (
 		TrItemId ( 281 )
@@ -1762,22 +1753,19 @@ TrItemTable ( 323
 			TrSignalRDir ( -302.2719 23.64982 375.9551 -5657 15118 7.406602 )
 		)
 	)
-	SignalItem (
+	EmptyItem (
 		TrItemId ( 284 )
-		TrItemSData ( 9703.146 00000002 )
-		TrItemRData ( -268.9516 14.7318 433.3985 -5637 15115 )
-		TrSignalType ( 00000200 0 4.238831 dkhviser )
 	)
 	SignalItem (
 		TrItemId ( 285 )
 		TrItemSData ( 373.3234 00000002 )
-		TrItemRData ( -926.4494 5.316575 366.3959 -5641 15114 )
+		TrItemRData ( -926.4494 5.316583 366.3959 -5641 15114 )
 		TrSignalType ( 00000200 1 2.074609 dk4ind )
 	)
 	SignalItem (
 		TrItemId ( 286 )
 		TrItemSData ( 373.3234 00000002 )
-		TrItemRData ( -926.4494 5.316575 366.3959 -5641 15114 )
+		TrItemRData ( -926.4494 5.316583 366.3959 -5641 15114 )
 		TrSignalType ( 00000200 1 2.074609 dkhviser )
 	)
 	SpeedPostItem (

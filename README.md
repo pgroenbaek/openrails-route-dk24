@@ -23,12 +23,13 @@ Map of the v1.0 track layout:
 
 - Phase 1:
 	- Lay mainline tracks between Fredericia and Copenhagen
-- Phase 2:   **_(<- currently at this stage)_**
-	- Lay track of yards
-	- Place bridges/viaducts/embankments
-	- Place gantry
-	- Place station platforms
-	- Finish tunnel entrances
+- **Phase 2: _(currently at this stage)_**
+	- **Lay track of yards**
+	- **Place bridges/viaducts/embankments**
+	- **Place gantry**
+	- **Place station platforms**
+	- **Place roads**
+	- **Finish tunnel entrances**
 - Phase 3:
 	- Place signals
 	- Place signs
