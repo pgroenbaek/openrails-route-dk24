@@ -185,7 +185,7 @@ def write_route_tsection(output_tsection_file, track_sections, track_shapes):
 
 
 if __name__ == "__main__":
-    route_path = "D:\\Games\\Open Rails\\Content\\Denmark2024\\ROUTES\\OR_DK24" # Replace this with your own route path.
+    route_path = "..\\ROUTES\\OR_DK24" # Replace this with your own route path.
     local_tsection_file = "%s\\tsection.dat" % (route_path)
     output_tsection_file = "%s\\OPENRAILS\\tsection.dat" % (route_path)
     custom_shapes_file = "%s\\OPENRAILS\\customtrackshapes.txt" % (route_path)
@@ -214,8 +214,8 @@ if __name__ == "__main__":
     print("Writing %d custom sections..." % (sum('TrackSection' in s for s in custom_sections)))
     print("Writing %d custom shapes..." % (sum('TrackShape' in s for s in custom_shapes)))
 
-    custom_sections = custom_sections + dynatrax_sections
-    custom_shapes = custom_shapes + dynatrax_shapes
+    custom_sections = custom_sections# + dynatrax_sections
+    custom_shapes = custom_shapes# + dynatrax_shapes
 
     write_route_tsection(output_tsection_file, custom_sections, custom_shapes)
 

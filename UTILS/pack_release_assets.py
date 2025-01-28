@@ -35,12 +35,14 @@ import zipfile
 #   Also copy the texture from all environmant subfolders
 #   Warn if anything is missing
 def find_assets_to_pack(file_matches):
+    pack_assets = []
     for file_path, file_match in file_matches:
         for directory in [x[0] for x in os.walk("%s\\%s" % (search_path, file_path))]:
             for file_name in os.listdir(directory):
                 if fnmatch.fnmatch(file_name, file_match):
-                    pack_files.append((file_path, file_name))
-                    print('Found %d assets.' % (len(pack_files)), end='\r')
+                    pack_assets.append((file_path, file_name))
+                    print('Found %d assets.' % (len(pack_assets)), end='\r')
+    return pack_assets
 
 def ensure_directory_exists(directory_path):
     if not os.path.exists(directory_path): 
@@ -66,8 +68,8 @@ def pack_assets(assets_to_pack):
 
 if __name__ == "__main__":
     version = "v0.1"
-    search_path = "D:\\Games\\Open Rails\\Content\\Denmark2024"
-    export_path = "D:\\Games\\Open Rails\\Content\\Denmark2024"
+    search_path = "..\\"
+    export_path = "..\\"
     export_filename = "DK24_Assets_%s.zip" % (version)
     export_file = "%s\\%s" % (export_path, export_filename)
 

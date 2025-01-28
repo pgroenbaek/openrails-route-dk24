@@ -1,0 +1,66 @@
+SIMISA@@@@@@@@@@JINX0T0t______
+
+TrackSections ( 18
+	TrackSection ( 
+		SectionCurve ( 1 ) 40000 -0.25 100 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40001 0.25 100 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40002 -0.00436 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40003 0.00436 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 40004 10 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40006 -0.0043635 30002.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40007 0.00436 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40008 -0.1 100 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40009 0.1 100 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40010 -0.0003333 30002.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40011 0.00033 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40012 -0.05 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40013 0.05 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40014 -0.004363 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40015 0.005 15000 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40016 -0.0003333 29997.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 40017 0.001 15000 
+	)
+)
+SectionIdx ( 9
+	TrackPath ( 40000 1 40000 ) 
+	TrackPath ( 40001 1 40003 ) 
+	TrackPath ( 40002 1 40004 ) 
+	TrackPath ( 40003 1 40006 ) 
+	TrackPath ( 40004 1 40008 ) 
+	TrackPath ( 40005 1 40010 ) 
+	TrackPath ( 40006 1 40012 ) 
+	TrackPath ( 40007 1 40014 ) 
+	TrackPath ( 40008 1 40016 ) 
+)

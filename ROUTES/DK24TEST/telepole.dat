@@ -1,0 +1,15 @@
+SIMISA@@@@@@@@@@JINX0r1t______
+
+TPoleConfigData( 1
+
+	TPoleConfig( 4
+        Filename( telepole.s )
+        Shadow ( teleshad.s )
+        Separation ( 10 )
+        Wire( 0.0  6.7 0.391 )
+        Wire( 0.0  6.7 -0.39 )
+        Wire( 0.0  6.2 0.228 )
+        Wire( 0.0 6.2 -0.219 )
+	)
+)
+

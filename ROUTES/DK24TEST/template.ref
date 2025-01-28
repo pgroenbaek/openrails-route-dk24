@@ -1,0 +1,36 @@
+SIMISA@@@@@@@@@@JINX0r1t______
+Dyntrack (
+    Class           ( "<Dynamic track>" )
+    Filename        ( "DYNTRACK" )
+    Align           ( None )
+    Description     ( "Dynamic track piece" )
+)
+Transfer (
+        Class           ( <Transfers> )
+        Filename        ( shadwrct.ace )
+        Align           ( None )
+        Description     ( RectangleShadow )
+)
+Static (
+        Shadow ( ROUND )
+        Class           ( Vegetation )
+        Filename        ( tree1.s )
+        Align           ( None )
+        Description     ( Tree_1 )
+        NoDirLight      ()
+)
+Platform (
+    Class                   ( "<Interactive Objects>" )
+    Description             ( "Platform" )
+    StoreMatrix             ()
+)
+Siding (
+    Class           ( "<Interactive Objects>" )
+    Description     ( "Siding" )
+    StoreMatrix     ()
+)
+CarSpawner (
+    Class           ( "<Interactive Objects>" )
+    Description     ( "Car Spawner" )
+    StoreMatrix     ()
+)

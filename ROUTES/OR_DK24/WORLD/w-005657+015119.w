@@ -281,18 +281,6 @@ Tr_Worldfile (
 		Position ( 951.929 11.922 -1015.62 )
 		QDirection ( -0.00165156 0.918448 -0.00383513 0.39552 )
 	)
-	Static (
-		UiD ( 88 )
-		FileName ( PGA_DK_Gantry_N2t6m_R.s )
-		Position ( 970.721 15.6168 -1019.56 )
-		QDirection ( -0.00630595 -0.432936 0.00302872 0.901397 )
-	)
-	Static (
-		UiD ( 89 )
-		FileName ( PGA_DK_Gantry_N2t6m_R.s )
-		Position ( 1017.31 14.7778 -981.621 )
-		QDirection ( -0.0063511 -0.41479 0.00289526 0.90989 )
-	)
 	TrackObj (
 		UiD ( 90 )
 		SectionIdx ( 5 )
