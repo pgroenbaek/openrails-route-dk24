@@ -44,13 +44,16 @@ def find_assets_to_pack(file_matches):
                     print('Found %d assets.' % (len(pack_assets)), end='\r')
     return pack_assets
 
+
 def ensure_directory_exists(directory_path):
     if not os.path.exists(directory_path): 
         os.makedirs(directory_path)
 
+
 def remove_file_if_exists(file_path):
     if os.path.exists(file_path): 
         os.remove(file_path)
+
 
 def pack_assets(assets_to_pack):
     assets_to_pack = list(set(assets_to_pack))

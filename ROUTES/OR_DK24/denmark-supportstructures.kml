@@ -1,0 +1,3179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="148279">
+        <Placemark id="148281">
+            <name>Støttemur Måløv Teknikerby</name>
+            <LineString id="148280">
+                <coordinates>12.2905280846137,55.7517624962462,0.0 12.2933947555239,55.7515708005047,0.0 12.2935317529744,55.7515495087663,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148283">
+            <name>Stålspuns Allingvej</name>
+            <LineString id="148282">
+                <coordinates>12.4652148119923,55.6505000207229,0.0 12.4589552870738,55.6494366486315,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148285">
+            <name>Støttemur Klampenborg Station</name>
+            <LineString id="148284">
+                <coordinates>12.5881493475454,55.77739626018,0.0 12.5876372875475,55.7783070884629,0.0 12.5876351492426,55.778306937157,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148287">
+            <name>Støttemur Øster Voldgade Syd</name>
+            <LineString id="148286">
+                <coordinates>12.5801009489125,55.6884204224732,0.0 12.5824499439629,55.6895980903751,0.0 12.5833015308039,55.6898933194876,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148289">
+            <name>Støttemur Øster Voldgade N</name>
+            <LineString id="148288">
+                <coordinates>12.5801550335348,55.6886927783202,0.0 12.581986125471,55.6896032306272,0.0 12.5835523395307,55.6905753479016,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148291">
+            <name>Plantestensmur Rungsted Kyst St./Rungstedvej</name>
+            <LineString id="148290">
+                <coordinates>12.5300263296445,55.883359140057,0.0 12.529390286603,55.8837973652963,0.0 12.5292278373995,55.8838757574313,0.0 12.5289973495031,55.8839919437958,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148293">
+            <name>Støttemur. Vallerød Banevej</name>
+            <LineString id="148292">
+                <coordinates>12.5233125760271,55.8876536307243,0.0 12.5232255429685,55.8877301684928,0.0 12.522974015686,55.8878876019139,0.0 12.5228733093944,55.8879069221692,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148295">
+            <name>KBH-Væg. Kokkedal St.</name>
+            <LineString id="148294">
+                <coordinates>12.502763788297,55.9023283950195,0.0 12.5026807233159,55.9024824171723,0.0 12.5027199758605,55.9024887235783,0.0 12.5027199758605,55.9024887235783,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148297">
+            <name>Spunsvæg Fredensborgvej</name>
+            <LineString id="148296">
+                <coordinates>12.5405918364289,55.9724711285945,0.0 12.5407071992166,55.9726117303134,0.0 12.5407071992166,55.9726117303134,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148299">
+            <name>Banegrav Vesterport St. Vest</name>
+            <LineString id="148298">
+                <coordinates>12.5622631516035,55.6757663548292,0.0 12.5622661537742,55.6760791806231,0.0 12.5623183262624,55.6764427300538,0.0 12.5624186584187,55.6767059709888,0.0 12.5625109216636,55.6769154957711,0.0 12.5626583794101,55.677171972289,0.0 12.5627882457403,55.6773750092698,0.0 12.5627884089614,55.677376802878,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148301">
+            <name>Banegrav Vesterport Øst</name>
+            <LineString id="148300">
+                <coordinates>12.5629434696742,55.6757933451126,0.0 12.5629102392378,55.6760227013127,0.0 12.5629315655233,55.6763619699728,0.0 12.563011967836,55.6766509665121,0.0 12.5631076619789,55.6768981565704,0.0 12.5631921845597,55.6770575520035,0.0 12.5632622154976,55.6771975866534,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148303">
+            <name>Støttemur Borupgårdsvej</name>
+            <LineString id="148302">
+                <coordinates>12.5859476742578,56.009977291657,0.0 12.5866943798383,56.0100705635664,0.0 12.5877707523376,56.0102561260282,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148305">
+            <name>KBH-væg Stubbedamsvej</name>
+            <LineString id="148304">
+                <coordinates>12.599032459407,56.0171187766951,0.0 12.5992357277602,56.0173631765822,0.0 12.5992251209581,56.0173720311566,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148307">
+            <name>Støttmur Flynderborgvej</name>
+            <LineString id="148306">
+                <coordinates>12.606040785873,56.0286124346597,0.0 12.6056057647273,56.0282168111178,0.0 12.6056223084065,56.0282113180159,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148309">
+            <name>Glacis Flynderborgvej</name>
+            <LineString id="148308">
+                <coordinates>12.6046342355441,56.0270744501169,0.0 12.6046211755483,56.0270791908874,0.0 12.6046050782086,56.0270646458659,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148311">
+            <name>Støttemur Flynderborgvej</name>
+            <LineString id="148310">
+                <coordinates>12.6046436388557,56.0270826804115,0.0 12.6058731499969,56.0281609271189,0.0 12.6060526160828,56.0282945578649,0.0 12.6060526160828,56.0282945578649,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148313">
+            <name>Støttemur Øst langs banegraven før Boulevardbanen</name>
+            <LineString id="148312">
+                <coordinates>12.5634045870458,55.6774232440821,0.0 12.5635768655928,55.6776376362003,0.0 12.5637715289018,55.6778531758631,0.0 12.5640248002579,55.6780831969214,0.0 12.5642581209775,55.6782688386285,0.0 12.56447767519,55.6784081229627,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148315">
+            <name>Støttemur Vest langs Banegrav før Boulevardbanen</name>
+            <LineString id="148314">
+                <coordinates>12.5629588566647,55.6775962499496,0.0 12.5632024537008,55.6778948910615,0.0 12.5634385447651,55.6781110257199,0.0 12.5636625034097,55.6782987389438,0.0 12.5639062349611,55.6784589018222,0.0 12.5642054009916,55.6786336380923,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148317">
+            <name>Naturstensmur Troljevej. S-Bane mod Klampenborg</name>
+            <LineString id="148316">
+                <coordinates>12.566516428418,55.7326892745628,0.0 12.5661586368913,55.7338706659228,0.0 12.5661571591974,55.7338769129191,0.0 12.5661571591974,55.7338769129191,0.0 12.5661635167177,55.7338767281627,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148319">
+            <name>Glacis Hellerupvej</name>
+            <LineString id="148318">
+                <coordinates>12.5661605370361,55.7338699390214,0.0 12.5659400120132,55.7343292340582,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148321">
+            <name>Støttemur Hallands Boulevard</name>
+            <LineString id="148320">
+                <coordinates>12.2663874687582,55.6482892632315,0.0 12.2662025433037,55.6482729576506,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148323">
+            <name>Spunsvæg Dybbølsbro v spor 50</name>
+            <LineString id="148322">
+                <coordinates>12.5568080810591,55.6637682794834,0.0 12.5564302838959,55.6637228885566,0.0 12.5560906636479,55.6636925850173,0.0 12.5556161552719,55.6636596036301,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148325">
+            <name>Plantestensmur Trekroner Station</name>
+            <LineString id="148324">
+                <coordinates>12.1314304000873,55.6480732954048,0.0 12.1292238961947,55.6479278797758,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148327">
+            <name>Spunsvæg Præstemarksvej</name>
+            <LineString id="148326">
+                <coordinates>12.1062082414014,55.6448870815773,0.0 12.1055534567,55.6447009039654,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148329">
+            <name>Plantestensmur Byageren</name>
+            <LineString id="148328">
+                <coordinates>12.1040185439862,55.644543298959,0.0 12.1037160923647,55.6444431683332,0.0 12.1036766979886,55.6444351088413,0.0 12.1035810282249,55.6444141263928,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148331">
+            <name>Støttemur Ro´s Torv</name>
+            <LineString id="148330">
+                <coordinates>12.1014666380463,55.6433412645024,0.0 12.1014207441117,55.6433249098021,0.0 12.1004532788465,55.6429868557669,0.0 12.099266459458,55.6425638556574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148333">
+            <name>Plantestensmur Københavnsvej</name>
+            <LineString id="148332">
+                <coordinates>12.092977186377,55.6401964314994,0.0 12.0929480078832,55.640160758129,0.0 12.0928119380931,55.6400728340953,0.0 12.0923261949438,55.6398953326303,0.0 12.0923391438411,55.6390322678359,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148335">
+            <name>Naturstensmur Banevolden/Hønsebroen</name>
+            <LineString id="148334">
+                <coordinates>12.5238801807138,55.6637461371901,0.0 12.5221239877315,55.6637759147517,0.0 12.5221258778983,55.6637866225215,0.0 12.5220805501914,55.6637884408551,0.0 12.5220802113531,55.6637761095883,0.0 12.5202124024291,55.663803827705,0.0 12.5177378605989,55.6638411564399,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148337">
+            <name>Naturstensmur Hønsebro/Lyshøjgårdsvej</name>
+            <LineString id="148336">
+                <coordinates>12.5233661988304,55.6635752029502,0.0 12.5227686100575,55.6635835073294,0.0 12.5227682321334,55.6635718227828,0.0 12.5227214312626,55.6635728933246,0.0 12.5227216156136,55.6635843181804,0.0 12.5214808027515,55.6636023688196,0.0 12.5213190730198,55.6636065493492,0.0 12.5205401170944,55.6636156398425,0.0 12.5197408738744,55.6636288981691,0.0 12.5187905256092,55.6636590442438,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148339">
+            <name>Støttemur Hønsebroen</name>
+            <LineString id="148338">
+                <coordinates>12.5190318919723,55.6636602735349,0.0 12.5187860633798,55.6636447857412,0.0 12.5179790582932,55.663641923873,0.0 12.5172428998064,55.663632129147,0.0 12.5158990337033,55.663600984102,0.0 12.5144558170256,55.663569431838,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148341">
+            <name>Støttemur Valby Station</name>
+            <LineString id="148340">
+                <coordinates>12.5140689694234,55.6635801512124,0.0 12.5119080759995,55.663596924505,0.0 12.5119036162727,55.6635826657183,0.0 12.5119065750289,55.6635818679303,0.0 12.5119011398294,55.6635913717273,0.0 12.5119034822452,55.6635815921408,0.0 12.5119052966921,55.6635838771906,0.0 12.5119068471556,55.6635921945586,0.0 12.5119080759995,55.663596924505,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148343">
+            <name>Støttemur Valby</name>
+            <LineString id="148342">
+                <coordinates>12.5110404222675,55.6636139154345,0.0 12.50898745831,55.6637179106005,0.0 12.5077282629609,55.6637848879652,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148345">
+            <name>Spunsvæg Maskinbakkebroen Vest</name>
+            <LineString id="148344">
+                <coordinates>12.552447514309,55.6633804035818,0.0 12.5521286545366,55.6633558168421,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148347">
+            <name>Skjult Nordlig spuns vest for Sporudfletningsbro</name>
+            <LineString id="148346">
+                <coordinates>12.5008331672585,55.6587008361665,0.0 12.4984110467595,55.6597896215017,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148349">
+            <name>Spunsvæg. Nordlig spuns øst sporudfletningsbro</name>
+            <LineString id="148348">
+                <coordinates>12.5062660536673,55.6567862419964,0.0 12.505101424752,55.6572079830724,0.0 12.5035912919182,55.6576791505098,0.0 12.5027694564635,55.6579508027705,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148351">
+            <name>Skjult sydlig spuns øst for sporudfletningsbro</name>
+            <LineString id="148350">
+                <coordinates>12.506175821289,55.6566665374141,0.0 12.5050844524783,55.6570538133736,0.0 12.5042405917838,55.6573279039458,0.0 12.5035450033145,55.6575527932368,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148353">
+            <name>Spunsvæg. Sydlig spuns øst for sporudfletningsbro</name>
+            <LineString id="148352">
+                <coordinates>12.5035329537286,55.6575603308583,0.0 12.5026564149668,55.6578605204464,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148355">
+            <name>Spunsvæg. Sydlig spuns vest for sporudfletningsbro</name>
+            <LineString id="148354">
+                <coordinates>12.5007408089532,55.6586003947531,0.0 12.498199430233,55.6597429340573,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148357">
+            <name>Spunsvæg. Nordlig spuns vest for Vigerslev Alle</name>
+            <LineString id="148356">
+                <coordinates>12.4981338380336,55.6600127497589,0.0 12.4978851522719,55.6601133576162,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148359">
+            <name>Spunsvæg. Sydlig spuns vest for Vigerslev Alle</name>
+            <LineString id="148358">
+                <coordinates>12.4977982105862,55.6599234192701,0.0 12.4975388540408,55.6600391169738,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148361">
+            <name>Jorddækket støttekonstruktion, Pjedsted BHS</name>
+            <LineString id="148360">
+                <coordinates>9.66543002055559,55.6000671156659,0.0 9.66523619019054,55.6002424907862,0.0 9.66449553683766,55.6007425194741,0.0 9.66412886276719,55.6010212667238,0.0 9.66388308536757,55.6011286292468,0.0 9.66388308536757,55.6011286292468,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148363">
+            <name>Jorddækket støttekonstruktion, Pjedsted BVS</name>
+            <LineString id="148362">
+                <coordinates>9.66504632300056,55.5998668335672,0.0 9.66474022155884,55.5999727278127,0.0 9.66399672688731,55.6004925375571,0.0 9.66377078475565,55.6006465183787,0.0 9.66359846398463,55.6007804399999,0.0 9.66344609546035,55.6009681679343,0.0 9.66344298217013,55.6009717790755,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148365">
+            <name>Plantestensmur Syvvejen</name>
+            <LineString id="148364">
+                <coordinates>12.0354021475847,55.5730685220579,0.0 12.0353998680224,55.5702025265496,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148367">
+            <name>Gabioner langs grøft. Syvvejen.</name>
+            <LineString id="148366">
+                <coordinates>12.0356681042708,55.5734758846087,0.0 12.0356488899964,55.5712540017989,0.0 12.0357046619992,55.5691812940494,0.0 12.0357042387394,55.5658873206331,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148369">
+            <name>Naturstensmur. Lammestrupvej 12A - ved hus</name>
+            <LineString id="148368">
+                <coordinates>11.9735598399134,55.502970717639,0.0 11.9735399683199,55.5028668749589,0.0 11.9735399683199,55.5028668749589,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148371">
+            <name>Skjult Stålspuns. Rødover Byport. Afsnit Dudv.</name>
+            <LineString id="148370">
+                <coordinates>12.4586405617663,55.6651509015831,0.0 12.4583257971966,55.6650764122627,0.0 12.4582104737775,55.6650780826832,0.0 12.4582054296594,55.6650510349242,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148373">
+            <name>Plantestensmur Borupvej</name>
+            <LineString id="148372">
+                <coordinates>11.9708564848009,55.4896732485072,0.0 11.9707441338372,55.4894950981235,0.0 11.9705851743808,55.489234295857,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148375">
+            <name>Spunsvæg. Ringsted Åkandevej/Mågevej (Grædemuren)</name>
+            <LineString id="148374">
+                <coordinates>11.8102648938272,55.4392868743009,0.0 11.8102101975714,55.439273747924,0.0 11.8082229720462,55.439168375785,0.0 11.8072838666922,55.4391261127912,0.0 11.8063390856772,55.4390929624724,0.0 11.805516678456,55.4390462097477,0.0 11.8046563847271,55.4390003204891,0.0 11.8028062238696,55.4389096959804,0.0 11.8013277706937,55.438842891235,0.0 11.7992807232104,55.4387405425701,0.0 11.7976533772708,55.4386699102407,0.0 11.7965625491477,55.4386283394087,0.0 11.7946793394226,55.4385617210089,0.0 11.7930905294531,55.4384991369423,0.0 11.7922794581816,55.4384781062919,0.0 11.792241246461,55.4384520101261,0.0 11.7918019252499,55.4384332744547,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148377">
+            <name>Støttemur næstvedvej</name>
+            <LineString id="148376">
+                <coordinates>11.7917688355886,55.4384194411263,0.0 11.7917683005896,55.4384312081067,0.0 11.7917096931295,55.438429131908,0.0 11.791709572982,55.4384221254809,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148379">
+            <name>Plantestensmur Næstvedvej</name>
+            <LineString id="148378">
+                <coordinates>11.7898227402889,55.4383620388881,0.0 11.7916906574202,55.4384250272806,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148381">
+            <name>Spunsvæg ved hus BVS</name>
+            <LineString id="148380">
+                <coordinates>11.5085070006592,55.4096220002728,0.0 11.5082512549044,55.4095415117055,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148383">
+            <name>Plantestensmur Vestmotorvejen</name>
+            <LineString id="148382">
+                <coordinates>11.4097103901026,55.411554927869,0.0 11.4094771245864,55.4115797622002,0.0 11.4092598277707,55.4116031461439,0.0 11.4091143334173,55.4116185226181,0.0 11.4087625968823,55.4116571567398,0.0 11.4086164706334,55.4116726187733,0.0 11.4081436003074,55.4117236004355,0.0 11.4079958848625,55.4117395936902,0.0 11.4074595896405,55.4117977210867,0.0 11.4064422240529,55.4119057034933,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148385">
+            <name>Plantestensmur Vestmotorvejen</name>
+            <LineString id="148384">
+                <coordinates>11.4096043701523,55.411411588498,0.0 11.4094282040108,55.4114297819536,0.0 11.4092700580452,55.4114465351228,0.0 11.4087057796292,55.4115074972013,0.0 11.4080892942754,55.4115750309307,0.0 11.4079442645098,55.4115910368481,0.0 11.4075046043072,55.4116384936897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148387">
+            <name>Støttemur Valbyvej</name>
+            <LineString id="148386">
+                <coordinates>11.3529286897058,55.4080124496451,0.0 11.3529634534927,55.4079430167126,0.0 11.3529982708642,55.4078799609825,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148389">
+            <name>Spunsvæg Valbyvej</name>
+            <LineString id="148388">
+                <coordinates>11.3528870997369,55.4082387780018,0.0 11.3528093403946,55.4082919943289,0.0 11.3523974644129,55.4082799330916,0.0 11.3521700050279,55.4083154689832,0.0 11.351978915393,55.408347513856,0.0 11.3513867687819,55.4083430274878,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148391">
+            <name>Støttemur Hindemaevej</name>
+            <LineString id="148390">
+                <coordinates>10.6685868770162,55.3540382541241,0.0 10.6685048748824,55.3540462470188,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148393">
+            <name>Naturstensmur - Hindemaevej</name>
+            <LineString id="148392">
+                <coordinates>10.6677034212703,55.3541656650413,0.0 10.667631028668,55.3541666081845,0.0 10.6675723491213,55.3541132772789,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148395">
+            <name>Støttemur. Langeskov St. ved trappe BVS</name>
+            <LineString id="148394">
+                <coordinates>10.5867723599205,55.3615954736923,0.0 10.5864371350061,55.3616555454333,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148397">
+            <name>Støttemur. Langeskov St.  BVS</name>
+            <LineString id="148396">
+                <coordinates>10.5868933530681,55.3616226615293,0.0 10.58686790366,55.3616238188099,0.0 10.5868361353624,55.3616058436403,0.0 10.5866697950991,55.3616345510618,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148399">
+            <name>Støttemur. Langeskov St.  BVS</name>
+            <LineString id="148398">
+                <coordinates>10.5866196941979,55.361644188563,0.0 10.5864128390786,55.3616792272596,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148401">
+            <name>Støttemur. Langeskov St. ved Trappe BHS</name>
+            <LineString id="148400">
+                <coordinates>10.5867237950042,55.3618800966362,0.0 10.5867204974632,55.3618765446051,0.0 10.5867193562495,55.3619268871943,0.0 10.5865962865789,55.3619266874434,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148403">
+            <name>Støttemur. Langeskov St. BHS</name>
+            <LineString id="148402">
+                <coordinates>10.5869779482837,55.3617653567814,0.0 10.5869529337364,55.3617710738414,0.0 10.5869441912805,55.3617891615614,0.0 10.586747156442,55.3618330604138,0.0 10.5869493579156,55.3618394222529,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148405">
+            <name>Støttemur. Langeskov St. BHS</name>
+            <LineString id="148404">
+                <coordinates>10.58671717855,55.3618724583884,0.0 10.5866059335935,55.3618523335104,0.0 10.5864588555975,55.3618830014295,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148407">
+            <name>KBH-væg. Grejs Bakke 15</name>
+            <LineString id="148406">
+                <coordinates>9.53463924960948,55.7542974521523,0.0 9.53453072782468,55.7543874184179,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148409">
+            <name>Stålspuns v/Filmbyen (tidl. Århusværket)</name>
+            <LineString id="148408">
+                <coordinates>10.2117998039987,56.1512684969387,0.0 10.2120213866723,56.1513525846006,0.0 10.2122764579712,56.1514776765935,0.0 10.2126371247613,56.1515819638862,0.0 10.2129208133417,56.1514911221011,0.0 10.2129240320067,56.1514910905104,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148411">
+            <name>Støttemur Odense. Enggade 18.</name>
+            <LineString id="148410">
+                <coordinates>10.3924990298604,55.4019575775491,0.0 10.3923759518619,55.4019452830905,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148413">
+            <name>Støttemur Odense. Enggade 16</name>
+            <LineString id="148412">
+                <coordinates>10.3923522920779,55.4019443122883,0.0 10.3921965737579,55.401930735676,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148415">
+            <name>Plantestensmur Odense.  Adamsgade 9-11.</name>
+            <LineString id="148414">
+                <coordinates>10.3900526618231,55.4017436290633,0.0 10.3894296773902,55.4017185241183,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148417">
+            <name>Støttemur Odense St. Adamsgade.</name>
+            <LineString id="148416">
+                <coordinates>10.3887747424833,55.4016864216025,0.0 10.387787930135,55.4015574304603,0.0 10.3870418170442,55.4015371374547,0.0 10.3862038305873,55.401508894567,0.0 10.3861524974224,55.4014861108484,0.0 10.3861760701017,55.4013474475718,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148419">
+            <name>Støttemur Odense. Adamsgade 7.</name>
+            <LineString id="148418">
+                <coordinates>10.3903856998988,55.4017885380562,0.0 10.390119830425,55.4017561263445,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148421">
+            <name>Plantestensmur ved klargøring. Odense.</name>
+            <LineString id="148420">
+                <coordinates>10.3746884791282,55.4015220516875,0.0 10.3738064859927,55.4014996105993,0.0 10.3730066443428,55.4014780382064,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148423">
+            <name>Støttemur Algade</name>
+            <LineString id="148422">
+                <coordinates>9.92934349696479,55.4295522505899,0.0 9.92886521798822,55.4300465292201,0.0 9.9284739326426,55.4304772423626,0.0 9.9284739326426,55.4304772423626,0.0 9.92846769688572,55.4304808841631,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148425">
+            <name>Plantestensmur - Viaduktvej</name>
+            <LineString id="148424">
+                <coordinates>9.73966232557117,55.5009687289435,0.0 9.73985634349715,55.5009405992091,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148427">
+            <name>Spunsvæg - Bjergbanksvej</name>
+            <LineString id="148426">
+                <coordinates>9.73391781800975,55.501488567604,0.0 9.73433977858779,55.5014491959634,0.0 9.73475544000826,55.5014116578449,0.0 9.73480606065968,55.501409556961,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148429">
+            <name>Støttemur - Erritsø Bygade</name>
+            <LineString id="148428">
+                <coordinates>9.70950097990262,55.5464266077312,0.0 9.70954693913963,55.5465144030653,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148431">
+            <name>Stålspuns Nord/Øst for broen A</name>
+            <LineString id="148430">
+                <coordinates>9.73092930405667,55.5596491853395,0.0 9.73138723031205,55.5598431973302,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148433">
+            <name>Stålspuns ved Strømmen</name>
+            <LineString id="148432">
+                <coordinates>12.5199497059935,55.6513617211228,0.0 12.5192471794331,55.6514718092096,0.0 12.5187216507383,55.6515696191263,0.0 12.5180020634346,55.6517377360608,0.0 12.5174738861737,55.6518769779678,0.0 12.5172350939155,55.6519449730381,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148435">
+            <name>Stålspuns langs Vigerslev Alle mod Hvidovre tunnel</name>
+            <LineString id="148434">
+                <coordinates>12.4841285955561,55.6532873301246,0.0 12.4834384191796,55.6531319241266,0.0 12.4826474234365,55.6529729047446,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148437">
+            <name>Stålspuns langs Vigerslev allé mod Hvidovre tunnel.</name>
+            <LineString id="148436">
+                <coordinates>12.4842376307898,55.6531942239128,0.0 12.4837230628907,55.6530720401106,0.0 12.4832306081214,55.6529686091924,0.0 12.4827044933363,55.6528674737664,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148439">
+            <name>Stålspuns langs Mercedes-Benz</name>
+            <LineString id="148438">
+                <coordinates>12.2687394950681,55.5895901720969,0.0 12.2676991678623,55.5889245645691,0.0 12.267214613553,55.5886235839207,0.0 12.2666990462347,55.5883291268556,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148441">
+            <name>Stålspuns langs Blue Water Shipping</name>
+            <LineString id="148440">
+                <coordinates>12.2641561525601,55.5867660004969,0.0 12.2627425048147,55.5858748935596,0.0 12.2619604723479,55.5853650933374,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148443">
+            <name>Stålspuns langs Ingeniørgangen</name>
+            <LineString id="148442">
+                <coordinates>12.2405595685101,55.570748920227,0.0 12.239790551392,55.5702410179512,0.0 12.239816604889,55.5701949488264,0.0 12.2397589520338,55.570160510973,0.0 12.239686805167,55.5701569024769,0.0 12.2375440330396,55.5686140598091,0.0 12.237550545917,55.5685740955609,0.0 12.2374865614482,55.5685261520118,0.0 12.2374175174244,55.5685222436366,0.0 12.2367146974441,55.5680063612144,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148445">
+            <name>Stålspuns langs Parkstien</name>
+            <LineString id="148444">
+                <coordinates>12.2413327607285,55.5710129445056,0.0 12.2400199172492,55.5701198717903,0.0 12.2399720649568,55.5701262891195,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148447">
+            <name>Stålspuns langs Parkstien.</name>
+            <LineString id="148446">
+                <coordinates>12.241243635734,55.5708813113081,0.0 12.2400162927463,55.5700454322552,0.0 12.2399197656111,55.5700897430429,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148449">
+            <name>Stålspuns langs Ingeniørgangen</name>
+            <LineString id="148448">
+                <coordinates>12.2419733287567,55.5716903242935,0.0 12.2405723152075,55.5707585621045,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148451">
+            <name>Stålspuns Cementvej-Motelvej</name>
+            <LineString id="148450">
+                <coordinates>12.2149479679627,55.5462406725164,0.0 12.2149509924585,55.54622006138,0.0 12.2138070770665,55.5453552161218,0.0 12.2137757605199,55.5453473392129,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148453">
+            <name>Ankerspuns Cementvej-Tåstrupvej</name>
+            <LineString id="148452">
+                <coordinates>12.2147641102913,55.5462993181494,0.0 12.213589987422,55.5454233585737,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148455">
+            <name>Stålspuns Tåstrupvej</name>
+            <LineString id="148454">
+                <coordinates>12.2126006514366,55.5445229492575,0.0 12.2125929980488,55.5444962575857,0.0 12.2122479280199,55.5442660954756,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148457">
+            <name>Stålspuns Silovej-Tåstrupvej.</name>
+            <LineString id="148456">
+                <coordinates>12.2124308945794,55.5446044363724,0.0 12.2115183855446,55.5439837528818,0.0 12.2108408476473,55.5435649724741,0.0 12.2101264059616,55.5431521586282,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148459">
+            <name>Støttemur mellen Venstre spor og sidespor</name>
+            <LineString id="148458">
+                <coordinates>12.1711985069084,55.4959191022606,0.0 12.1708141630443,55.4950426771207,0.0 12.1704579539642,55.4943701677573,0.0 12.1701172330502,55.4937187796116,0.0 12.1698864785622,55.4931882164103,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148461">
+            <name>Støttemur mellem hovedspor og højre sidespor</name>
+            <LineString id="148460">
+                <coordinates>12.1695812725742,55.4929017445778,0.0 12.1695998358291,55.4926920064184,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148463">
+            <name>Støttemur mellem hovedspor og højre sidespor</name>
+            <LineString id="148462">
+                <coordinates>12.1697370004981,55.494130999857,0.0 12.169692959196,55.4936074281249,0.0 12.1696989920614,55.4936036755772,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148465">
+            <name>Støttemur ved pumpestation Ølbyvej 129</name>
+            <LineString id="148464">
+                <coordinates>12.150458709334,55.4821335730937,0.0 12.1504479258289,55.4821967848104,0.0 12.150293675344,55.4821683913013,0.0 12.1503649253508,55.4821090167146,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148467">
+            <name>Spunsvæg ved pumpest. Ejbyvej/Bjæverskovvej</name>
+            <LineString id="148466">
+                <coordinates>12.0706264189874,55.4711083380453,0.0 12.0705364784521,55.4711321727283,0.0 12.0704040207117,55.4710977384159,0.0 12.0703633186016,55.4710627987888,0.0 12.0703651773934,55.4710663482638,0.0 12.070366477767,55.4710627194865,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148469">
+            <name>Stålspuns langs rampe</name>
+            <LineString id="148468">
+                <coordinates>12.0667026773474,55.4698718955416,0.0 12.064703450254,55.4693986881028,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148471">
+            <name>Stålspuns efter Regnemarksværket</name>
+            <LineString id="148470">
+                <coordinates>12.007410315099,55.4603819712893,0.0 12.005511438322,55.460083463133,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148473">
+            <name>Stålspuns før Vestre Ringvej</name>
+            <LineString id="148472">
+                <coordinates>11.9843343351143,55.458373322599,0.0 11.9827818910151,55.4583234492996,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148475">
+            <name>Stålspuns før Vestmotorvejen.</name>
+            <LineString id="148474">
+                <coordinates>11.9188238399645,55.4563696289367,0.0 11.9178068806069,55.4561297166271,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148477">
+            <name>Stålspuns efter Vestmotorvejen.</name>
+            <LineString id="148476">
+                <coordinates>11.9159256102069,55.4557780455324,0.0 11.9149946672673,55.4555259435489,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148479">
+            <name>Stålspuns før Kværkeby</name>
+            <LineString id="148478">
+                <coordinates>11.9047147359946,55.4523617587815,0.0 11.9039725901995,55.4521651692517,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148481">
+            <name>Støttemur Ryparken Station</name>
+            <LineString id="148480">
+                <coordinates>12.5590890359184,55.7156991976749,0.0 12.5591668968686,55.7155746516544,0.0 12.559184150781,55.7154842340321,0.0 12.5591931042887,55.7154426124281,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148483">
+            <name>KBH-væg ved spor på Ryparken Station</name>
+            <LineString id="148482">
+                <coordinates>12.5596479174147,55.7157553581332,0.0 12.5597061778762,55.7158004245654,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148485">
+            <name>Plantestensmur ved Ryparkens idrætsanlæg</name>
+            <LineString id="148484">
+                <coordinates>12.5652207791119,55.7198964030912,0.0 12.5651099341171,55.7197989167832,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148487">
+            <name>Stålspuns Nord. Rottehullet Ringbanen over Nordbanen</name>
+            <LineString id="148486">
+                <coordinates>12.5687441405811,55.7245658369675,0.0 12.5686499437207,55.7247556047586,0.0 12.5685849058007,55.7249157508498,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148489">
+            <name>Stålspuns Syd. Rottehullet Ringbanen over Nordbanen</name>
+            <LineString id="148488">
+                <coordinates>12.5689631769572,55.7239346131099,0.0 12.5689799834692,55.7239790829101,0.0 12.5688829069157,55.72410239587,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148491">
+            <name>KBH-væg. Syd for Danshøj St. Ringbanen</name>
+            <LineString id="148490">
+                <coordinates>12.494516520332,55.661827824517,0.0 12.4942983455891,55.6620210669357,0.0 12.494026303835,55.6623237424452,0.0 12.4938946008585,55.6625235111222,0.0 12.4938011091178,55.6626880229098,0.0 12.4936804157321,55.6629755944897,0.0 12.4936342273948,55.6631711275929,0.0 12.493603878952,55.6633302432053,0.0 12.4935741962928,55.6635324991383,0.0 12.4935754205907,55.6636889167359,0.0 12.49359237775,55.6638790537961,0.0 12.493602616133,55.6639938535261,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148493">
+            <name>Plantestensmur Syd for Danshøj St. Ringbanen</name>
+            <LineString id="148492">
+                <coordinates>12.4939935790934,55.6626744366183,0.0 12.4939043805607,55.6628514142627,0.0 12.4938454740574,55.6630113438221,0.0 12.4937878732339,55.6632215886647,0.0 12.493762912096,55.663369760972,0.0 12.4937487505346,55.6635320119492,0.0 12.4937485619944,55.6637082511672,0.0 12.4937569335931,55.6638734566164,0.0 12.4937784522952,55.6640077162325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148495">
+            <name>Stålspuns Nord for Danshøj St. Ringbanen</name>
+            <LineString id="148494">
+                <coordinates>12.4939334352286,55.6650243151654,0.0 12.4939932752244,55.6656951756691,0.0 12.4940223165426,55.6656997429511,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148497">
+            <name>Plantestensmur Syd for Valby Langgade. Ringbanen.</name>
+            <LineString id="148496">
+                <coordinates>12.4937152859141,55.6689172389873,0.0 12.4936882680816,55.669078057862,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148499">
+            <name>Støttemur under Valby Langade. Ringbanen</name>
+            <LineString id="148498">
+                <coordinates>12.4936793868593,55.6690855041413,0.0 12.4936445268062,55.6693724276968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148501">
+            <name>Plantestensmur Nord for Valby Langgade. Ringbanen.</name>
+            <LineString id="148500">
+                <coordinates>12.4934454838702,55.6693882713181,0.0 12.4932955519202,55.6705254740594,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148503">
+            <name>Plantestensmur Nord for Valby Langgade. Ringbanen</name>
+            <LineString id="148502">
+                <coordinates>12.4936486585257,55.6694544143607,0.0 12.4935034536338,55.6705375336516,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148505">
+            <name>Plantestensmur Nord for Roskildevej. Ringbanen</name>
+            <LineString id="148504">
+                <coordinates>12.4929703954602,55.6727164464532,0.0 12.4929033026071,55.6732128908285,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148507">
+            <name>Plantestensmur Nord for Roskildevej. Ringbanen</name>
+            <LineString id="148506">
+                <coordinates>12.4931622931777,55.6727270231435,0.0 12.4931172910164,55.6730430081057,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148509">
+            <name>Plantestensmur Nord for Peter Bangsvej. Ringbanen</name>
+            <LineString id="148508">
+                <coordinates>12.4924900126585,55.6783259505679,0.0 12.4924936928984,55.6783672066721,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148511">
+            <name>Plantestensmur Nord for Peter Bangs Vej. Ringbanen</name>
+            <LineString id="148510">
+                <coordinates>12.4922257031639,55.6782885205728,0.0 12.492251463061,55.6785773133758,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148513">
+            <name>Stålspuns før Vallensbæk Torvevej</name>
+            <LineString id="148512">
+                <coordinates>12.3727932842956,55.6420016279869,0.0 12.3732166989501,55.6420079586908,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148515">
+            <name>Stålspuns Nord for Flintholm St. Ringbanen</name>
+            <LineString id="148514">
+                <coordinates>12.499891096435,55.6860132132011,0.0 12.5005597727785,55.6863358063067,0.0 12.501131567041,55.6866072126248,0.0 12.5024614972656,55.6872400062189,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148517">
+            <name>Stålspuns C. F. Richs Vej. Ringbanen.</name>
+            <LineString id="148516">
+                <coordinates>12.5026320339946,55.6873245250871,0.0 12.5029228500255,55.6874438986794,0.0 12.5033021282188,55.6875913158618,0.0 12.5035913424977,55.6876927506109,0.0 12.5039119894201,55.6877896900363,0.0 12.5042839235742,55.6878905581128,0.0 12.5046383771291,55.6879739415483,0.0 12.5051651366962,55.6880973571522,0.0 12.5055839024529,55.6881878913384,0.0 12.5059694712508,55.6882631883617,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148519">
+            <name>KBH-Væg Godthåbsvej</name>
+            <LineString id="148518">
+                <coordinates>12.5160753573545,55.6909356165127,0.0 12.5166663775271,55.691206401682,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148521">
+            <name>Støttemur Borups Allè</name>
+            <LineString id="148520">
+                <coordinates>12.5276150661414,55.6953831172913,0.0 12.5276270583238,55.6953512774571,0.0 12.5272873801657,55.6953069488982,0.0 12.5272901868702,55.6953076142156,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148523">
+            <name>Stålspuns Nørrebro Bycenter</name>
+            <LineString id="148522">
+                <coordinates>12.5385382458659,55.7029744137606,0.0 12.5389085939904,55.7036110029722,0.0 12.539162616539,55.7040450307562,0.0 12.5394804323495,55.704435779354,0.0 12.5397728120665,55.7047452484123,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148525">
+            <name>Støttemur Nørrebro Bycenter</name>
+            <LineString id="148524">
+                <coordinates>12.5378717403477,55.7013186562756,0.0 12.537934959726,55.7015247685965,0.0 12.5380030721962,55.7017145547972,0.0 12.5381418698403,55.7020168311343,0.0 12.5383003764948,55.702325732128,0.0 12.5382563288698,55.7023317273465,0.0 12.5383574381368,55.7025717694573,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148527">
+            <name>Glacis Nørrebro Bycenter</name>
+            <LineString id="148526">
+                <coordinates>12.538385161656,55.7025693575287,0.0 12.5384351779782,55.7026912719812,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148529">
+            <name>Plantestensmur Ellebjerg st.</name>
+            <LineString id="148528">
+                <coordinates>12.5106590182522,55.6502040022147,0.0 12.5107654607328,55.6502983502171,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148531">
+            <name>Plantestensmur Ellebjerg st.</name>
+            <LineString id="148530">
+                <coordinates>12.5106055331718,55.6501551622403,0.0 12.510456788162,55.6500122663925,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148533">
+            <name>Plantestensmur Åmarksvej</name>
+            <LineString id="148532">
+                <coordinates>12.4999939043546,55.6401179354226,0.0 12.499793980072,55.6399548656877,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148535">
+            <name>Plantestensmur Åmarken st.</name>
+            <LineString id="148534">
+                <coordinates>12.499539728628,55.6397694248478,0.0 12.4995561868713,55.6397624234286,0.0 12.4997350036956,55.6399080196136,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148537">
+            <name>Spunsvæg Marienbergvej, Godshotellet</name>
+            <LineString id="148536">
+                <coordinates>11.8962471456409,55.0048300165916,0.0 11.8951301973858,55.0027012255817,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148539">
+            <name>Plantestensmur Friheden st.</name>
+            <LineString id="148538">
+                <coordinates>12.4827640365127,55.6290479623394,0.0 12.4825041856622,55.62898322537,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148541">
+            <name>Plantestensmur Friheden st.</name>
+            <LineString id="148540">
+                <coordinates>12.4824161919844,55.6289587514527,0.0 12.4820251372333,55.6288505320138,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148543">
+            <name>Plantestensmur Friheden st.</name>
+            <LineString id="148542">
+                <coordinates>12.4822406698493,55.6291845870917,0.0 12.4822166780719,55.6291961341958,0.0 12.4821770935294,55.6291970621179,0.0 12.4819103298347,55.6291426789351,0.0 12.4819150875628,55.6291358154006,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148545">
+            <name>Plantestensmur Friheden st.</name>
+            <LineString id="148544">
+                <coordinates>12.4823024453058,55.6291984164598,0.0 12.4822910370386,55.6292131270708,0.0 12.4822983336828,55.6292237095411,0.0 12.4823374952911,55.6292351848057,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148547">
+            <name>Spunsvæg Marienbjergvej nr.104-130</name>
+            <LineString id="148546">
+                <coordinates>11.8936684261746,55.0004297020989,0.0 11.8932972029518,54.9999579628158,0.0 11.892897837051,54.9994901613633,0.0 11.8925064005105,54.9990810158681,0.0 11.8920435566548,54.9986277988424,0.0 11.8914786792764,54.9980802383539,0.0 11.8909110647173,54.9975245675794,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148549">
+            <name>Glacis Brovejen Storstrømsbroen</name>
+            <LineString id="148548">
+                <coordinates>11.8958955008923,54.9802757447134,0.0 11.8961149025438,54.979839959407,0.0 11.8963077076711,54.979304933094,0.0 11.8964126316516,54.9787107544122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148551">
+            <name>Knoglesten på Glacis, Brovejen, Storstrømsbroen</name>
+            <LineString id="148550">
+                <coordinates>11.8963217630018,54.9793038444737,0.0 11.8964153637434,54.9787063819023,0.0 11.8964272228257,54.9784429736524,0.0 11.8964247014638,54.9784454385513,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148553">
+            <name>Plantestensmur Brøndby Strand st.</name>
+            <LineString id="148552">
+                <coordinates>12.4227452746726,55.6210874273977,0.0 12.4235145573335,55.6210348321588,0.0 12.4235108613252,55.6210233024517,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148555">
+            <name>Plantestensmur Brøndby Strand St.</name>
+            <LineString id="148554">
+                <coordinates>12.4226427575407,55.621094275001,0.0 12.4225589381872,55.6210995845108,0.0 12.4225579993388,55.6210888211536,0.0 12.4224915834349,55.6210924744813,0.0 12.4224956923795,55.6211031492955,0.0 12.4223346423856,55.6211148404945,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148557">
+            <name>Plantestensmur Vallensbæk st.</name>
+            <LineString id="148556">
+                <coordinates>12.3887787783921,55.6233132746994,0.0 12.3882545313915,55.6232912848884,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148559">
+            <name>Plantestensmur Vallensbæk st.</name>
+            <LineString id="148558">
+                <coordinates>12.3881515182097,55.6232875776621,0.0 12.3879528020136,55.6232795463491,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148561">
+            <name>Støttemur Ishøj st.</name>
+            <LineString id="148560">
+                <coordinates>12.3576836247802,55.6129002605647,0.0 12.3576621069318,55.6129074730801,0.0 12.3579611904206,55.6131838255224,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148563">
+            <name>Stålspuns Ishøj St.</name>
+            <LineString id="148562">
+                <coordinates>12.3585636517117,55.6137144129577,0.0 12.3584892668107,55.6137362323068,0.0 12.3582852145239,55.613542222623,0.0 12.3583684943188,55.6135129667072,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148565">
+            <name>Plantestensmur Karlslunde St.</name>
+            <LineString id="148564">
+                <coordinates>12.2702379268929,55.566529631736,0.0 12.2688458668609,55.5661576206816,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148567">
+            <name>Knoglestensmur Karlslunde St.</name>
+            <LineString id="148566">
+                <coordinates>12.2674900812657,55.5655025570091,0.0 12.2666992002528,55.565290380994,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148569">
+            <name>Knoglestensmur Karlslunde St.</name>
+            <LineString id="148568">
+                <coordinates>12.2645296610449,55.564828693901,0.0 12.2637068657793,55.5645849395518,0.0 12.2632631340929,55.5644578657953,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148571">
+            <name>Knoglestensmur Karlslunde St.</name>
+            <LineString id="148570">
+                <coordinates>12.2656380860255,55.5651976684705,0.0 12.2640190183765,55.5647401456797,0.0 12.2632240830377,55.5644989903371,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148573">
+            <name>Skjult spunsvæg mod Brovejen</name>
+            <LineString id="148572">
+                <coordinates>11.896473995064,55.0063304778642,0.0 11.8962580902843,55.0056749732677,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148575">
+            <name>Knoglestensmur Vårgyvelvej</name>
+            <LineString id="148574">
+                <coordinates>12.2535196770497,55.5612154932373,0.0 12.2528309529084,55.5609177270335,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148577">
+            <name>Knoglestensmur Sølrød St.</name>
+            <LineString id="148576">
+                <coordinates>12.2190419716427,55.5342474987372,0.0 12.2183277936931,55.5332910579785,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148579">
+            <name>Knoglestensmur Solrød St.</name>
+            <LineString id="148578">
+                <coordinates>12.2178804718223,55.5333984679845,0.0 12.2181873510077,55.5337820048909,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148581">
+            <name>Knoglestensmur Solrød St.</name>
+            <LineString id="148580">
+                <coordinates>12.2181890270017,55.5331147002913,0.0 12.2179671563595,55.5328174954047,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148583">
+            <name>Knoglestensmur Solrød St.</name>
+            <LineString id="148582">
+                <coordinates>12.2177515063693,55.5332184006221,0.0 12.2175738421408,55.5329987432014,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148585">
+            <name>Støttemur Jersie St.</name>
+            <LineString id="148584">
+                <coordinates>12.2082530763147,55.5206284883438,0.0 12.2080946895506,55.52039107282,0.0 12.2080112023718,55.5203381882571,0.0 12.207929924211,55.5202465609017,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148587">
+            <name>Støttemur Rishøjvej</name>
+            <LineString id="148586">
+                <coordinates>12.1709694187259,55.4905303624663,0.0 12.1708947798221,55.4903961592118,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148589">
+            <name>Støttemur Ølby St.</name>
+            <LineString id="148588">
+                <coordinates>12.1754342210668,55.4797578684102,0.0 12.174923581687,55.4800929761785,0.0 12.1749060176878,55.4800842067588,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148591">
+            <name>Støttemur Ølby St.</name>
+            <LineString id="148590">
+                <coordinates>12.1756673497619,55.47961402904,0.0 12.1760270291288,55.4794041639101,0.0 12.176004736539,55.4793917557371,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148593">
+            <name>Støttemur Sjælør st.</name>
+            <LineString id="148592">
+                <coordinates>12.5241781283627,55.6514196019396,0.0 12.5238718548774,55.6513723955219,0.0 12.5234549521415,55.6513465630009,0.0 12.5228999797977,55.6513393168126,0.0 12.5227982576902,55.6513497573029,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148595">
+            <name>Støttemur Vestre kirkegård</name>
+            <LineString id="148594">
+                <coordinates>12.5334480640232,55.6532877036597,0.0 12.5333450809104,55.653254054961,0.0 12.5333365342609,55.6532650913233,0.0 12.5332682978928,55.6532490748692,0.0 12.5332800168955,55.6532379470704,0.0 12.5319132395683,55.6528241560444,0.0 12.5319015202909,55.6528352837166,0.0 12.5318589870106,55.6528221225688,0.0 12.5318738786038,55.6528109034965,0.0 12.5304584747688,55.6524218760704,0.0 12.529632623532,55.6521866994172,0.0 12.5289001274495,55.6519991830391,0.0 12.5288852352885,55.6520104017587,0.0 12.5288201750936,55.6519942914462,0.0 12.528828722766,55.6519832553835,0.0 12.5287240327108,55.6519589098456,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148597">
+            <name>Støttemur Sydhavn st.</name>
+            <LineString id="148596">
+                <coordinates>12.5347267210379,55.6535842913484,0.0 12.5348782647998,55.6536320019166,0.0 12.5348899834488,55.6536208739692,0.0 12.5350407663329,55.6536704757406,0.0 12.5350526467545,55.6536611414472,0.0 12.5352067641775,55.653712445191,0.0 12.5352126234671,55.6537068812023,0.0 12.5353597492375,55.6537511930563,0.0 12.5353656553811,55.6537392553944,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148599">
+            <name>Støttemur Sydhavn st</name>
+            <LineString id="148598">
+                <coordinates>12.5374519701383,55.6549160722779,0.0 12.5367885968125,55.6544167392632,0.0 12.5365139795089,55.6542351375358,0.0 12.5361825854106,55.6540587698035,0.0 12.5357900070534,55.6538860084708,0.0 12.53535431356,55.6537288761159,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148601">
+            <name>Støttemur Enghavevej</name>
+            <LineString id="148600">
+                <coordinates>12.53879898409,55.6565486647859,0.0 12.5387251899489,55.6562873608182,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148603">
+            <name>KBH-væg ved Otto Bussesvej, (Den Gule By)</name>
+            <LineString id="148602">
+                <coordinates>12.5444578727953,55.6611545311638,0.0 12.5439364824885,55.6610527127502,0.0 12.5435228572296,55.660928894667,0.0 12.543188336751,55.6607915493015,0.0 12.5429020772689,55.660638196803,0.0 12.5426757532205,55.6604506291343,0.0 12.542289856098,55.6601166115992,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148605">
+            <name>Spunsvæg Dybbølsbro st.</name>
+            <LineString id="148604">
+                <coordinates>12.5481648507625,55.663360988613,0.0 12.5467992382082,55.6630956570388,0.0 12.5462820468647,55.6629951414453,0.0 12.545712381909,55.6628875332251,0.0 12.545038060855,55.6627990660083,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148607">
+            <name>Knoglestensmur Dybbølsbro st.</name>
+            <LineString id="148606">
+                <coordinates>12.5488290283289,55.6634637888544,0.0 12.5481682296461,55.663357074737,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148609">
+            <name>Støttemur ved Remisevej</name>
+            <LineString id="148608">
+                <coordinates>8.46218630732079,55.4751847362741,0.0 8.46220134385044,55.4752423118173,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148611">
+            <name>Stålspuns ved P-hus - Remise</name>
+            <LineString id="148610">
+                <coordinates>8.46217365160421,55.4751846806812,0.0 8.46145912340729,55.4732873205048,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148613">
+            <name>Plantestensmur ved P-hus</name>
+            <LineString id="148612">
+                <coordinates>8.46143700167002,55.4732854260234,0.0 8.46133634732307,55.4730100158404,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148615">
+            <name>Stålspuns ved Nørrebrogade (P-hus-Remise)</name>
+            <LineString id="148614">
+                <coordinates>8.46143639225999,55.4735621878754,0.0 8.46235326090044,55.4759366872451,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148617">
+            <name>Støttemur mellem spor Nord for Frodesgade</name>
+            <LineString id="148616">
+                <coordinates>8.46102715580919,55.4715547424035,0.0 8.46138881765954,55.4719463205216,0.0 8.46169447111613,55.4722693587241,0.0 8.4620564642294,55.4726375730085,0.0 8.46233782153416,55.4728868187214,0.0 8.46281999976642,55.4732591527664,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148619">
+            <name>Stålspuns Rosenvængets Alle (Vaskehal)</name>
+            <LineString id="148618">
+                <coordinates>8.46519260759312,55.4745821144124,0.0 8.46519876498399,55.4745947215094,0.0 8.46660341377076,55.4750770994789,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148621">
+            <name>Stålspuns Storegade</name>
+            <LineString id="148620">
+                <coordinates>8.48210729216009,55.4750751324387,0.0 8.48135618504458,55.475168101573,0.0 8.48132781605253,55.4751598941328,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148623">
+            <name>Spunsvæg Ved Kohavne</name>
+            <LineString id="148622">
+                <coordinates>11.8846795330589,54.7754887378202,0.0 11.8845451007964,54.7753129726617,0.0 11.8844190521073,54.7751144127578,0.0 11.8843121132646,54.7748366218479,0.0 11.8842070681064,54.7745746541104,0.0 11.8842005540292,54.7745803477506,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148625">
+            <name>Støttemur Nykøbing F. St.</name>
+            <LineString id="148624">
+                <coordinates>11.8800178367788,54.7683432266937,0.0 11.8796638160721,54.7679997009234,0.0 11.8794606852164,54.767808328044,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148627">
+            <name>Støttemur Nykøbing F. St.</name>
+            <LineString id="148626">
+                <coordinates>11.8786611331079,54.7670247868795,0.0 11.8785944272946,54.7669897740327,0.0 11.8783860661928,54.7667845586161,0.0 11.8783353026103,54.7667180291583,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148629">
+            <name>Støttemur Nykøbibg F. St.</name>
+            <LineString id="148628">
+                <coordinates>11.8768766498627,54.7652914846857,0.0 11.8771006893044,54.7654452415664,0.0 11.8773418834983,54.7656939304283,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148631">
+            <name>Støttemur Nykøbing F. St.</name>
+            <LineString id="148630">
+                <coordinates>11.8765742037684,54.7650698205213,0.0 11.876458871091,54.7649847179527,0.0 11.8758014887082,54.7643163916891,0.0 11.8757596853808,54.7643296875117,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148633">
+            <name>Spunsvæg Ny Præstøvej Nord/Vest for Rampen</name>
+            <LineString id="148632">
+                <coordinates>11.7695240870121,55.2299909914828,0.0 11.7697111844147,55.229650525432,0.0 11.7698035984065,55.2294866108786,0.0 11.7699323284184,55.2293020938788,0.0 11.7699925434962,55.2292180203654,0.0 11.7699964533796,55.2291837704932,0.0 11.769992269092,55.2291602405018,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148635">
+            <name>Spunsvæg Ny Præstøvej. Syd/Øst for Rampen</name>
+            <LineString id="148634">
+                <coordinates>11.7701293409805,55.2289685936556,0.0 11.7701881421775,55.2289546722212,0.0 11.7702611492115,55.2289188526272,0.0 11.7703698677246,55.228808505699,0.0 11.7710014299144,55.228164872924,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148637">
+            <name>Skjult Ankerspuns. Ny Præstøvej.  Væg nr. 1</name>
+            <LineString id="148636">
+                <coordinates>11.7697019730537,55.2300157185167,0.0 11.7698277137633,55.2297813944138,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148639">
+            <name>Skjult Ankerspuns. Ny Præstøvej. Væg nr. 2</name>
+            <LineString id="148638">
+                <coordinates>11.7698502346023,55.2297894950716,0.0 11.7699978907682,55.2295319649078,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148641">
+            <name>Skjult Ankerspuns. Ny Præstøvej. Væg nr. 6</name>
+            <LineString id="148640">
+                <coordinates>11.7711803621267,55.228225001014,0.0 11.770751766304,55.2286393511608,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148643">
+            <name>Skjult Ankerspuns. Ny Præstøvej. Væg nr. 5</name>
+            <LineString id="148642">
+                <coordinates>11.7707757773333,55.2286462670685,0.0 11.7706964398844,55.2287249320977,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148645">
+            <name>Skjult Ankerspuns. Ny Præstøvej. Væg nr. 3</name>
+            <LineString id="148644">
+                <coordinates>11.7707366507004,55.2287386177981,0.0 11.7702700928315,55.2292391594828,0.0 11.7700475140765,55.2295411292856,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148647">
+            <name>Naturstensmur Nørrebrogade under Frodesgade</name>
+            <LineString id="148646">
+                <coordinates>8.46046037301776,55.4712756311217,0.0 8.46055640745336,55.4714252196646,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148649">
+            <name>KBH-væg syd for Torstedvej</name>
+            <LineString id="148648">
+                <coordinates>8.32411936820343,56.2666520897819,0.0 8.32412137286072,56.2666835240562,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148651">
+            <name>Stålspuns Møllegade</name>
+            <LineString id="148650">
+                <coordinates>9.35937671858295,54.8209045994969,0.0 9.35933426836627,54.8210147051006,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148653">
+            <name>Stålspuns ved Torvet / Søndergade, Vamdrup</name>
+            <LineString id="148652">
+                <coordinates>9.28321840875729,55.4255036286833,0.0 9.28235366233284,55.4247741807133,0.0 9.28180062826851,55.4243261641515,0.0 9.28127302642394,55.4238978554388,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148655">
+            <name>Støttemur Østerbrogade (Meterologisk Institut)</name>
+            <LineString id="148654">
+                <coordinates>12.5605760362841,55.7157473565332,0.0 12.5605554124126,55.7157572608566,0.0 12.5607674596766,55.7158997233293,0.0 12.5610408982113,55.7160593640861,0.0 12.5610715278658,55.7160458866162,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148657">
+            <name>KBH-væg Lyngbyvej</name>
+            <LineString id="148656">
+                <coordinates>12.5576193568714,55.7139114794419,0.0 12.557423698414,55.7137831112506,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148659">
+            <name>KBH-væg ved Haveforening 4. maj/Lersøstien</name>
+            <LineString id="148658">
+                <coordinates>12.5509315141493,55.7115550645711,0.0 12.55109785839,55.7115628378803,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148661">
+            <name>Støttemur Bispebjerg Bakke</name>
+            <LineString id="148660">
+                <coordinates>12.5460877400648,55.7131998575538,0.0 12.5458857694066,55.7135035783505,0.0 12.5458670813905,55.7135280749807,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148663">
+            <name>Knoglestensmur Emdrup St. Tuborgvej</name>
+            <LineString id="148662">
+                <coordinates>12.5417038810189,55.720011354347,0.0 12.5416830987659,55.7200447620583,0.0 12.5412151898638,55.7206986021976,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148665">
+            <name>Knoglestensmur Emdrup St. Tuborgvej</name>
+            <LineString id="148664">
+                <coordinates>12.5414212881113,55.7200087715971,0.0 12.5413393273018,55.720119366445,0.0 12.5409689452342,55.7206462501975,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148667">
+            <name>Knoglestensmur Emdrup St. Tuborgvej</name>
+            <LineString id="148666">
+                <coordinates>12.5410800941606,55.7204083929692,0.0 12.5408420366531,55.7207433871337,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148669">
+            <name>Knoglestensmur Emdrup St. Tuborgvej</name>
+            <LineString id="148668">
+                <coordinates>12.5414253583916,55.7204852337995,0.0 12.5411850887134,55.7208199957949,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148671">
+            <name>Støttemur Syd for Emdrupvej</name>
+            <LineString id="148670">
+                <coordinates>12.5400945852139,55.7226010647988,0.0 12.5401727023672,55.7224081882888,0.0 12.5401857389605,55.7224114087919,0.0 12.540193810567,55.7223949909599,0.0 12.5401777585219,55.7223936557903,0.0 12.540231884701,55.7222599130162,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148673">
+            <name>Plantestensmur Ellemosevej</name>
+            <LineString id="148672">
+                <coordinates>12.5333304279737,55.7353736470782,0.0 12.5331662914531,55.7354937520816,0.0 12.53307543664,55.7355511302469,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148675">
+            <name>Støttemur Vangede St. Sønderengen</name>
+            <LineString id="148674">
+                <coordinates>12.525759633647,55.7387031810838,0.0 12.5251843977632,55.7388793707306,0.0 12.5251199641227,55.7388818374481,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148677">
+            <name>Plantestensmur Vangede St. Sønderengen</name>
+            <LineString id="148676">
+                <coordinates>12.5257559686617,55.7386978914359,0.0 12.525798012267,55.7386899987252,0.0 12.5257941853782,55.7386829154164,0.0 12.5258219894798,55.7386731250525,0.0 12.5258321749512,55.7386800256805,0.0 12.5259246393216,55.7386449995329,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148679">
+            <name>Plantestensmur Vangede St. Ellegårdsvej</name>
+            <LineString id="148678">
+                <coordinates>12.523842744202,55.7395087673486,0.0 12.523882240813,55.7394894298614,0.0 12.5245438109818,55.7392896073278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148681">
+            <name>Plantestensmur Gammelmosevej</name>
+            <LineString id="148680">
+                <coordinates>12.4731007970063,55.7565033282632,0.0 12.4732261722237,55.7564310545069,0.0 12.4733262270274,55.7563668862274,0.0 12.4732249893342,55.7564267477013,0.0 12.4732179544194,55.7563805431605,0.0 12.47332083027,55.7563660583922,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148683">
+            <name>Støttemur Elsdyrvej nr.1</name>
+            <LineString id="148682">
+                <coordinates>9.73087106474406,55.5597431890367,0.0 9.73132237109681,55.5599269536596,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148685">
+            <name>Stålspuns Syd/Vest for broen A</name>
+            <LineString id="148684">
+                <coordinates>9.7280987808889,55.5586012051057,0.0 9.72782354131263,55.5585062418539,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148687">
+            <name>Plantestensmur langs Strandvejen</name>
+            <LineString id="148686">
+                <coordinates>9.73417915963259,55.5604832762461,0.0 9.73335452174454,55.5600479058679,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148689">
+            <name>Plantestensmur Bagsværd Hovedgade Bagsværd St.</name>
+            <LineString id="148688">
+                <coordinates>12.4553697044333,55.7613648605132,0.0 12.4551855652491,55.761383047499,0.0 12.4545459205359,55.7614262563644,0.0 12.4542490550655,55.7614503441239,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148691">
+            <name>Støttemur Nørremarksvej</name>
+            <LineString id="148690">
+                <coordinates>8.86004327641321,54.9417445194943,0.0 8.86000397034213,54.941825352897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148693">
+            <name>Plantestensmur Bagsværd st.</name>
+            <LineString id="148692">
+                <coordinates>12.4547473075544,55.7617162137187,0.0 12.4547978461768,55.7617098529253,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148695">
+            <name>Plantestensmur Bindeledet</name>
+            <LineString id="148694">
+                <coordinates>12.4525808041595,55.7619496282295,0.0 12.4532422917328,55.7618861294982,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148697">
+            <name>Plantestensmur Stiager/Hareskovhvillevej</name>
+            <LineString id="148696">
+                <coordinates>12.3734656152897,55.7820983590879,0.0 12.3753255458118,55.7815023231153,0.0 12.3752859978644,55.7814655003858,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148699">
+            <name>Plantestensmur Værløse St./Hareskovhvilevej</name>
+            <LineString id="148698">
+                <coordinates>12.3724120438636,55.7824368375021,0.0 12.373368358293,55.7821303259274,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148701">
+            <name>Støttemur Syd for Fiskebækbroen</name>
+            <LineString id="148700">
+                <coordinates>12.379616908666,55.8041764096826,0.0 12.3795822782765,55.8040706887136,0.0 12.3793505849183,55.8035520548707,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148703">
+            <name>KBH-væg Farumgårds Alle</name>
+            <LineString id="148702">
+                <coordinates>12.3767965186322,55.8090880996499,0.0 12.3773694886422,55.8085360521896,0.0 12.3779448258346,55.8079746795759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148705">
+            <name>Plantestensmur Odense. Jarlsberggade</name>
+            <LineString id="148704">
+                <coordinates>10.378380011207,55.4019272629922,0.0 10.3786983826899,55.4019397829746,0.0 10.378895228753,55.4019563324568,0.0 10.3788910783022,55.401985900755,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148707">
+            <name>Stålspuns Herlev Ringvej (Gansti Øst)</name>
+            <LineString id="148706">
+                <coordinates>12.4405249725787,55.7196615027626,0.0 12.4406884642234,55.7196187053417,0.0 12.4407456839588,55.7195901269371,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148709">
+            <name>Stålspuns Herlev Ringvej (Gangsti Vest)</name>
+            <LineString id="148708">
+                <coordinates>12.4400356793655,55.7198033474776,0.0 12.4398682136447,55.7198462554171,0.0 12.439788959704,55.7198507250817,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148711">
+            <name>Stålspuns Herlev Ringvej (Fenderkonstruktion Øst)</name>
+            <LineString id="148710">
+                <coordinates>12.4405630168686,55.7198222791194,0.0 12.4409358952672,55.7197151665235,0.0 12.4409833316743,55.719710907961,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148713">
+            <name>Stålspuns Herlev Ringvej  (Fenderkonstruktion Vest)</name>
+            <LineString id="148712">
+                <coordinates>12.4400893780463,55.7199607567961,0.0 12.4397826477096,55.7200502776209,0.0 12.4397456841307,55.7200827833411,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148715">
+            <name>Støttemur V/Buen</name>
+            <LineString id="148714">
+                <coordinates>9.30108793277452,55.4738080851444,0.0 9.30064527388398,55.4730526434946,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148717">
+            <name>Naturstensmur V/Buen</name>
+            <LineString id="148716">
+                <coordinates>9.30185580030665,55.475312334052,0.0 9.30161670803331,55.4747840572776,0.0 9.30143003993009,55.4744079775588,0.0 9.30110302410645,55.4738080121081,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148719">
+            <name>Støttemur Herlev Ringvej</name>
+            <LineString id="148718">
+                <coordinates>12.4400398459268,55.7197994010952,0.0 12.4405102396964,55.7196629056776,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148721">
+            <name>Naturstensmur Rolles Møllevej 8 (Skovlundgård)</name>
+            <LineString id="148720">
+                <coordinates>9.30755096225893,55.4855908727634,0.0 9.30773320103767,55.4857701298847,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148723">
+            <name>Naturstensmur Ejstrupvej</name>
+            <LineString id="148722">
+                <coordinates>9.37837387834258,55.5021834867651,0.0 9.3774906618744,55.5022136005884,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148725">
+            <name>Støttemur - Nagbølvej</name>
+            <LineString id="148724">
+                <coordinates>9.29048300224068,55.46899883601,0.0 9.29064593450757,55.4690258559029,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148727">
+            <name>Støttemur - Annesmindevej</name>
+            <LineString id="148726">
+                <coordinates>8.82431808006501,55.4722406104865,0.0 8.82458911914738,55.4722700949257,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148729">
+            <name>Støttemur Nordvesthavnsvej</name>
+            <LineString id="148728">
+                <coordinates>9.76734270850588,54.9152040010344,0.0 9.76722756095909,54.9152440902427,0.0 9.7671331879156,54.9152806332353,0.0 9.76701556477633,54.9153464222135,0.0 9.76675139731816,54.915517562533,0.0 9.76646381426789,54.9157093758001,0.0 9.76624669890061,54.9158545338629,0.0 9.76604440094451,54.9159995981925,0.0 9.76583395746463,54.9161840757554,0.0 9.76552998107014,54.9164513175685,0.0 9.76545116824059,54.9165254160106,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148731">
+            <name>Støttemur - Ålegården</name>
+            <LineString id="148730">
+                <coordinates>9.47020744698827,55.4876693615801,0.0 9.46987308515401,55.4876877539078,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148733">
+            <name>Støttemur - Vejrupsgade</name>
+            <LineString id="148732">
+                <coordinates>9.46970553226693,55.4875446417868,0.0 9.46946483543718,55.4875798006945,0.0 9.46901029928507,55.4876277474807,0.0 9.46863393848356,55.487670235585,0.0 9.46779131289784,55.4877915667491,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148735">
+            <name>Støttemur - Ålegården/Parcelvej</name>
+            <LineString id="148734">
+                <coordinates>9.46782327095248,55.4879403574053,0.0 9.46830453196157,55.4878529370311,0.0 9.46856633279774,55.4878142850655,0.0 9.4689907119592,55.4877613155801,0.0 9.46928876790536,55.4877293524002,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148737">
+            <name>Plantestensmur - Søndergade</name>
+            <LineString id="148736">
+                <coordinates>9.4727523095,55.487736571701,0.0 9.47275558304191,55.4877588259215,0.0 9.4726190230496,55.4877460719993,0.0 9.47261817408193,55.4877379521253,0.0 9.47249599427951,55.4877307137769,0.0 9.47249898598649,55.487728123311,0.0 9.47239192651395,55.4877221339663,0.0 9.47239264385522,55.487718930005,0.0 9.47228478495313,55.4877092796745,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148739">
+            <name>Støttemur - Vestre Ringvej</name>
+            <LineString id="148738">
+                <coordinates>9.72602411166239,55.558221415676,0.0 9.72568136175389,55.5581395714472,0.0 9.725508576002,55.558104650902,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148741">
+            <name>Skjult fodspuns. Marienbergvej, Godshotellet.</name>
+            <LineString id="148740">
+                <coordinates>11.8950835163664,55.0026997586825,0.0 11.8947339316119,55.0020158264478,0.0 11.8944632747648,55.0014720616012,0.0 11.8940347415461,55.0007774206359,0.0 11.8938739681001,55.0005311526909,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148743">
+            <name>Støttemur - Rolighedsvej (Brovej)</name>
+            <LineString id="148742">
+                <coordinates>10.4133849384262,57.4717226591373,0.0 10.4134928133847,57.4717197251547,0.0 10.4136693060895,57.4716835358603,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148745">
+            <name>KBH-væg -Concordiavej</name>
+            <LineString id="148744">
+                <coordinates>10.4102501106673,57.4723839719413,0.0 10.4114751020907,57.4721101637053,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148747">
+            <name>Støttemur -Tolnevej</name>
+            <LineString id="148746">
+                <coordinates>10.3169110183188,57.4861797661988,0.0 10.3177878175158,57.4861757481638,0.0 10.3188420134203,57.4861561600961,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148749">
+            <name>KBH-væg Amagergade</name>
+            <LineString id="148748">
+                <coordinates>10.1932031727865,57.4676650304211,0.0 10.1932186832406,57.4676528994692,0.0 10.1931737683264,57.4676396333915,0.0 10.1931614352762,57.4676500093774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148751">
+            <name>KBH-væg -Bispensgade (Øst)</name>
+            <LineString id="148750">
+                <coordinates>9.9961188473349,57.4558161846947,0.0 9.99674882191857,57.4557513228714,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148753">
+            <name>Støttemur -Bispensgade (Vest)</name>
+            <LineString id="148752">
+                <coordinates>9.99404404392558,57.4559248813021,0.0 9.99570947126302,57.4557620321848,0.0 9.9957120432075,57.4557389154982,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148755">
+            <name>KBH-væg -Elkærvej</name>
+            <LineString id="148754">
+                <coordinates>9.94585855392547,57.1738794188125,0.0 9.94585934037474,57.1739102091512,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148757">
+            <name>KBH-væg -Elkærvej</name>
+            <LineString id="148756">
+                <coordinates>9.94672416259706,57.1627045970158,0.0 9.94672490581873,57.1627336808225,0.0 9.9467217648015,57.1627337045179,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148759">
+            <name>Naturstensmur -Vesterbro</name>
+            <LineString id="148758">
+                <coordinates>9.91287286038286,57.0471292026888,0.0 9.91247038109745,57.0474897835396,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148761">
+            <name>Naturstensmur - Vesterbro</name>
+            <LineString id="148760">
+                <coordinates>9.91289134184427,57.0471127761678,0.0 9.91300806506222,57.047007532784,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148763">
+            <name>Plantestensmur -Vesterbro</name>
+            <LineString id="148762">
+                <coordinates>9.91391238878621,57.0459877896008,0.0 9.91372612434508,57.0462021923085,0.0 9.91370715788359,57.0461963653121,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148765">
+            <name>Støttemur - Hørning St. - Engvej</name>
+            <LineString id="148764">
+                <coordinates>10.0366111556207,56.0818291792868,0.0 10.0374258004867,56.0821885986845,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148767">
+            <name>Støttemur - Ndr Stationsvej</name>
+            <LineString id="148766">
+                <coordinates>9.6913714102885,55.735523967432,0.0 9.69163527442242,55.7356936396245,0.0 9.69203736947826,55.7359600800843,0.0 9.69256245083447,55.7363182516828,0.0 9.69292161864624,55.7365575431534,0.0 9.69328124601624,55.7368225118195,0.0 9.69346893077032,55.7369703616131,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148769">
+            <name>Naturstensmur - Ulbækhusvej</name>
+            <LineString id="148768">
+                <coordinates>9.66080203783648,55.7268815220143,0.0 9.66076238680302,55.7268680412898,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148771">
+            <name>Glacis - Ulbækhusvej</name>
+            <LineString id="148770">
+                <coordinates>9.66080953431188,55.7268788005813,0.0 9.66086446063826,55.7268973388383,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148773">
+            <name>Naturstensmur - Ulbækhusvej</name>
+            <LineString id="148772">
+                <coordinates>9.66086454744272,55.7269024781426,0.0 9.66091944165277,55.7269209986141,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148775">
+            <name>KBH-væg -Højstrupvej</name>
+            <LineString id="148774">
+                <coordinates>9.61762148032293,55.7095726035074,0.0 9.61781592921389,55.7096007208321,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148777">
+            <name>KBH-væg - Højstrupvej</name>
+            <LineString id="148776">
+                <coordinates>9.61758699735167,55.7096671657496,0.0 9.6177753454574,55.7096918992576,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148779">
+            <name>Spunsvæg Vejle Stationsplads</name>
+            <LineString id="148778">
+                <coordinates>9.53640295462542,55.7056173891573,0.0 9.5366547719314,55.7062957561365,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148781">
+            <name>Spunsvæg. Marienbjergvej Nord for Godshotellet</name>
+            <LineString id="148780">
+                <coordinates>11.8962364663809,55.0048365728859,0.0 11.8962337907805,55.0048689360491,0.0 11.8964510584347,55.0052883108709,0.0 11.8965065815545,55.0053171924565,0.0 11.8967343402123,55.005843158941,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148783">
+            <name>Støttemur - Ribe Landevej</name>
+            <LineString id="148782">
+                <coordinates>9.45503312017601,55.2473814318612,0.0 9.45502720925605,55.2473900087313,0.0 9.45488009297321,55.2473614598862,0.0 9.45488300335838,55.2473546015961,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148785">
+            <name>Støttemur - Trekanten - Ribevej</name>
+            <LineString id="148784">
+                <coordinates>9.30612674600856,55.2533758591657,0.0 9.30589987267425,55.2530991531317,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148787">
+            <name>Støttemur - Dyrehavevej</name>
+            <LineString id="148786">
+                <coordinates>10.5410290590467,55.1001388160632,0.0 10.5410076337864,55.1001253903496,0.0 10.541109825215,55.1000658950547,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148789">
+            <name>Naturstenmur/Støttemur - Trollekrogsvej 25</name>
+            <LineString id="148788">
+                <coordinates>10.5409925536835,55.0999277866737,0.0 10.5410381673662,55.09994946238,0.0 10.541244979132,55.0998150185077,0.0 10.5412874691973,55.0998333183922,0.0 10.541727184949,55.0995452975922,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148791">
+            <name>Spunsvæg - Johannes Jørgensens Vej</name>
+            <LineString id="148790">
+                <coordinates>10.5809278969584,55.0602203831485,0.0 10.5809906842721,55.0601583628495,0.0 10.581011868186,55.0600896028672,0.0 10.5810782387877,55.0598062814851,0.0 10.5810597350932,55.0596387611112,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148793">
+            <name>Støttemur  - Kogtvedvej</name>
+            <LineString id="148792">
+                <coordinates>10.5948935760407,55.0512672500881,0.0 10.5939908996335,55.051151894496,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148795">
+            <name>Støttemur Østerport st. Østbanegade</name>
+            <LineString id="148794">
+                <coordinates>12.5918714386931,55.6968077598987,0.0 12.5919342131363,55.6971347011697,0.0 12.5919731715908,55.6974461262246,0.0 12.5919716079641,55.6976046639932,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148797">
+            <name>Stålspuns Østbanegade</name>
+            <LineString id="148796">
+                <coordinates>12.5912036993633,55.7035940822191,0.0 12.5911729271809,55.7035913648481,0.0 12.5915009542322,55.7012317140935,0.0 12.5916523054631,55.7001169406156,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148799">
+            <name>Stålspuns med betonpåstøbning Vallensbæk Stationstorv.</name>
+            <LineString id="148798">
+                <coordinates>12.3873461121613,55.6231724738406,0.0 12.3867181189164,55.6231435987544,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148801">
+            <name>Naturstensmur Østbanegade.</name>
+            <LineString id="148800">
+                <coordinates>12.5911957247213,55.7036400742338,0.0 12.5911498879639,55.7036025778079,0.0 12.5913124526345,55.702445453674,0.0 12.5914849481694,55.7012114368089,0.0 12.591498757012,55.7012116920339,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148803">
+            <name>Naturstensmur Østbanegade Nordhavn St. Syd.</name>
+            <LineString id="148802">
+                <coordinates>12.5911705480227,55.7038363270443,0.0 12.591111413543,55.7038706006812,0.0 12.5910788603215,55.7040999435564,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148805">
+            <name>Støttemur Skelbæk/Ingerslevsgade</name>
+            <LineString id="148804">
+                <coordinates>12.5567671976222,55.6646976006584,0.0 12.5571591206365,55.6647667029846,0.0 12.5576906745598,55.6648855515603,0.0 12.5581694306109,55.665010581425,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148807">
+            <name>Støttemur Tietgensbro/Ingerslevsgade</name>
+            <LineString id="148806">
+                <coordinates>12.5655589837042,55.6703740264733,0.0 12.5655392231518,55.6704604163997,0.0 12.5655048520168,55.6705487799674,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148809">
+            <name>Støttemur/Natursten Tietgensbro/Ingerslevsgade</name>
+            <LineString id="148808">
+                <coordinates>12.5655664781123,55.6703448703097,0.0 12.5655755178306,55.6702932289396,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148811">
+            <name>Naturstensmur Ingerslevsgade</name>
+            <LineString id="148810">
+                <coordinates>12.5655249721372,55.6693723432662,0.0 12.5654836192589,55.6692590170801,0.0 12.5654450671012,55.6691764512519,0.0 12.5654126008194,55.6691024927949,0.0 12.5653649150273,55.669011390194,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148813">
+            <name>Støttemur Ingerslevsgade</name>
+            <LineString id="148812">
+                <coordinates>12.5655913003015,55.6700362495333,0.0 12.5655814282121,55.6700349513295,0.0 12.5655800648792,55.6700067914272,0.0 12.5656186389572,55.6699915518353,0.0 12.5656122631717,55.6698817313349,0.0 12.5655978572253,55.669771060544,0.0 12.5655845953942,55.6696537511722,0.0 12.5655476662751,55.6694969606762,0.0 12.565505270821,55.6693797310873,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148815">
+            <name>Støttemur Ingerslevsgade</name>
+            <LineString id="148814">
+                <coordinates>12.5656162130676,55.6700410297133,0.0 12.5656139294272,55.6701072513108,0.0 12.5656043714842,55.6701599810103,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148817">
+            <name>Støttemur Ingerslevsgade</name>
+            <LineString id="148816">
+                <coordinates>12.5656045050819,55.6701616244349,0.0 12.5655881891412,55.6702935172431,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148819">
+            <name>Støttemur Ingerslevsgade Adgangsplatform</name>
+            <LineString id="148818">
+                <coordinates>12.565041039243,55.6685799495503,0.0 12.5651034195871,55.6685661406417,0.0 12.5650685118729,55.668515776718,0.0 12.5649966814675,55.6684921848597,0.0 12.5649797096166,55.6684721231897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148821">
+            <name>Støttemur Ingerslevsgade/Dybølsbro st.</name>
+            <LineString id="148820">
+                <coordinates>12.5627226190813,55.6669989752885,0.0 12.5624744547649,55.6668881127967,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148823">
+            <name>Knoglestensmur Ingerslevsgade/Sporudfletning</name>
+            <LineString id="148822">
+                <coordinates>12.5452947847371,55.6630525597906,0.0 12.5446685081334,55.6629017314644,0.0 12.5441626646703,55.6628170339287,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148825">
+            <name>Plantestensmur Valby St./Toftegårds Alle/Perrontrappe</name>
+            <LineString id="148824">
+                <coordinates>12.5159690516182,55.6638794115744,0.0 12.5157055021902,55.6638801179472,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148827">
+            <name>KBH-væg Valby St.</name>
+            <LineString id="148826">
+                <coordinates>12.5157473259256,55.6639043647516,0.0 12.5145884551749,55.6639205196899,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148829">
+            <name>Støttemur Banevolden</name>
+            <LineString id="148828">
+                <coordinates>12.5239645413148,55.6637458406663,0.0 12.5239664929249,55.6637575087535,0.0 12.523921713173,55.6637587509423,0.0 12.5239223653173,55.6637497864214,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148831">
+            <name>Spunsvæg Maskinbakkebroen Øst</name>
+            <LineString id="148830">
+                <coordinates>12.55433987661,55.6635410836983,0.0 12.5538802034976,55.6635197414207,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148833">
+            <name>Stålspuns Nordhavn/Marmorvej</name>
+            <LineString id="148832">
+                <coordinates>12.5916828790404,55.7036305079667,0.0 12.5917126472651,55.7036245109384,0.0 12.5917325775006,55.7036102237918,0.0 12.5917461266479,55.703592688608,0.0 12.5918941964974,55.7028929960736,0.0 12.5918835430627,55.7028761696662,0.0 12.5918520191452,55.7028633892539,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148835">
+            <name>Stålspuns Nordhavn/Kalkbrænderihavnsgade</name>
+            <LineString id="148834">
+                <coordinates>12.5918494378459,55.7027880498041,0.0 12.5921772977275,55.7004799550765,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148837">
+            <name>Stålspuns Nordhavn Ml. Spor/Depotspor Vest</name>
+            <LineString id="148836">
+                <coordinates>12.5915341015173,55.7030363137597,0.0 12.5920367273934,55.6992621442425,0.0 12.592075932229,55.6989955210116,0.0 12.5921004723671,55.6988337944281,0.0 12.5921870975756,55.6985880461177,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148839">
+            <name>Stålspuns Nordhavn St./Kalkbrænderihavnsgade</name>
+            <LineString id="148838">
+                <coordinates>12.5916217037968,55.703891785301,0.0 12.5916524443027,55.7038960285893,0.0 12.5916624387976,55.7039060224303,0.0 12.5916582848105,55.703926681492,0.0 12.5914047898765,55.7047664958563,0.0 12.5911334719728,55.7057095718816,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148841">
+            <name>Stålspuns Nordhavn Ml spor/Deportspor/Nord/Øst</name>
+            <LineString id="148840">
+                <coordinates>12.5917161570938,55.7030429239487,0.0 12.5917479349959,55.7028604483052,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148843">
+            <name>Stålspuns Nordhavn Ml. spor/Deportspor/Syd/Øst</name>
+            <LineString id="148842">
+                <coordinates>12.5917596390353,55.7027898793714,0.0 12.591887378083,55.7020342414436,0.0 12.5920443662494,55.7008812696568,0.0 12.5920985241767,55.7004806257844,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148845">
+            <name>Støttemur Nordhavns St./Østbanegade</name>
+            <LineString id="148844">
+                <coordinates>12.5903535385378,55.7061521907326,0.0 12.5905898652661,55.7056537259431,0.0 12.5906818840063,55.7054335200035,0.0 12.5908479557838,55.7050621335143,0.0 12.5909531208413,55.704786728272,0.0 12.5910235487349,55.7045294783089,0.0 12.5910792004695,55.7041116531017,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148847">
+            <name>Stålspuns Vordingborggade Syd/Kalkbrænderihavnsgade</name>
+            <LineString id="148846">
+                <coordinates>12.5896372070672,55.7088294623844,0.0 12.5895871977623,55.7089456794187,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148849">
+            <name>Stålspuns Vordingborggade Nord/Kalkbrænderihavnsgade</name>
+            <LineString id="148848">
+                <coordinates>12.5894625723941,55.7091411577164,0.0 12.5894806714852,55.7091731605104,0.0 12.5894889336699,55.7091968909156,0.0 12.5893863660024,55.7094345427092,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148851">
+            <name>Støttemur Kalkbrænderihavn/Kalkbrænderihavnsgade</name>
+            <LineString id="148850">
+                <coordinates>12.5873510615837,55.7118123078311,0.0 12.5878437162241,55.7112960850251,0.0 12.5881409466615,55.710997944907,0.0 12.5885583002157,55.710554129412,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148853">
+            <name>Støttemur Kalkbrænderihavn/Strandvænget</name>
+            <LineString id="148852">
+                <coordinates>12.5873087565564,55.7117810306195,0.0 12.5872675909376,55.7118284882857,0.0 12.5873545124454,55.7118499186011,0.0 12.5871310728876,55.7120928111721,0.0 12.5871062378588,55.7120866856215,0.0 12.5868142045425,55.7124086610984,0.0 12.5868361463007,55.712416579744,0.0 12.5862888879506,55.7130320273519,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148855">
+            <name>Glacis -Langå St./Perronbro</name>
+            <LineString id="148854">
+                <coordinates>9.8961116803496,56.3864282565516,0.0 9.89598122864691,56.3862597637222,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148857">
+            <name>Spunsvæg -Søbyvej nr. 35</name>
+            <LineString id="148856">
+                <coordinates>9.11427504521247,56.5428978534826,0.0 9.11422631529202,56.542150074843,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148859">
+            <name>Glacis/Flisevæg -Landtingvej</name>
+            <LineString id="148858">
+                <coordinates>8.74679870902063,56.4765519753767,0.0 8.74000054708948,56.4753999075562,0.0 8.74000363141069,56.4753999140136,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148861">
+            <name>Stålspuns Banevejen</name>
+            <LineString id="148860">
+                <coordinates>9.40397451542764,56.4435230049898,0.0 9.40383325098014,56.4436039108041,0.0 9.40375040587527,56.4436597936277,0.0 9.40367995270539,56.4437156360952,0.0 9.40359140605304,56.4438151835249,0.0 9.40353995614309,56.4439163172918,0.0 9.4032882994518,56.4443654917956,0.0 9.40320506226399,56.4443845755,0.0 9.40303133115766,56.4446076109484,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148863">
+            <name>Stålspuns v/ Klostevænget</name>
+            <LineString id="148862">
+                <coordinates>9.40271338363897,56.4447805321692,0.0 9.40247152524447,56.4449918026867,0.0 9.40223245326172,56.4451722652119,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148865">
+            <name>Svellevæg. Nyborg Huse/Boelsgårdvej 6</name>
+            <LineString id="148864">
+                <coordinates>8.80610468781788,56.1784596254411,0.0 8.80564692778949,56.178573569533,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148867">
+            <name>Glacis - Gl. Landevej/Sortevej</name>
+            <LineString id="148866">
+                <coordinates>8.54031407241071,56.5830697986399,0.0 8.54001943991805,56.5830721413976,0.0 8.53970621653533,56.5830743966761,0.0 8.53943633121401,56.5830819506378,0.0 8.53919745342915,56.5830913438425,0.0 8.53891812219102,56.5831125536089,0.0 8.53877533681046,56.5831239912065,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148869">
+            <name>Naturstensmur - Fjordvejen</name>
+            <LineString id="148868">
+                <coordinates>8.59410059947403,56.4925149337803,0.0 8.59443218266127,56.492462955495,0.0 8.59444775323562,56.4924527462076,0.0 8.59445406671983,56.4924424888192,0.0 8.594445032677,56.4924185071161,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148871">
+            <name>Plantestensmur - Østergade/Rådhusstræde</name>
+            <LineString id="148870">
+                <coordinates>8.59442417200188,56.4923430516901,0.0 8.59444897726262,56.4923380115546,0.0 8.59442477436933,56.492286596266,0.0 8.59372459023782,56.4923835488275,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148873">
+            <name>Naturstensmur Nordhavns St./Østbanegade</name>
+            <LineString id="148872">
+                <coordinates>12.5903214789115,55.7062322728551,0.0 12.5903555070779,55.7061612652762,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148875">
+            <name>Naturstensmur Vordingborg St./ Næstvedvej</name>
+            <LineString id="148874">
+                <coordinates>11.9001515236615,55.0128240838041,0.0 11.9002826519581,55.013036724416,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148877">
+            <name>Glacis/Støttemur Ris Skov/Sibirien</name>
+            <LineString id="148876">
+                <coordinates>10.2226295283651,56.1695158599089,0.0 10.2236060227653,56.1704424840177,0.0 10.2242618660759,56.171009263523,0.0 10.2248378669925,56.1714959614867,0.0 10.2257999383808,56.1722699584097,0.0 10.2261930134525,56.1725751602893,0.0 10.2271179948046,56.1732956021758,0.0 10.2276470871675,56.1737234487674,0.0 10.227845593028,56.1738868099876,0.0 10.2283104626451,56.1743206829399,0.0 10.2285841303055,56.1746180782522,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148879">
+            <name>Plantestensmur -Frederiksbergsgade/Drewsensvej</name>
+            <LineString id="148878">
+                <coordinates>9.5511022946935,56.1645232045419,0.0 9.54939129989558,56.1644607385675,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148881">
+            <name>Naturstensmur Jernbanevej</name>
+            <LineString id="148880">
+                <coordinates>9.54701430247367,56.1641582091608,0.0 9.54716271724428,56.1641773190202,0.0 9.54733382759943,56.1642071100476,0.0 9.54757591276795,56.1642455713296,0.0 9.5476823618673,56.164257678562,0.0 9.54799181837411,56.164277870808,0.0 9.54850734945376,56.1642953511029,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148883">
+            <name>Naturstensmur - Funder Ådalsvej</name>
+            <LineString id="148882">
+                <coordinates>9.46662195823434,56.1366861325759,0.0 9.46649193111456,56.1365788052287,0.0 9.46639899734444,56.1364969984953,0.0 9.46633372550929,56.1364219517465,0.0 9.46627454735913,56.136345156892,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148885">
+            <name>Plantestensmur Hummeltoftevej/Irismarken</name>
+            <LineString id="148884">
+                <coordinates>12.4819546450782,55.7821691122926,0.0 12.4819227849893,55.7821528781585,0.0 12.481557756785,55.7823533411074,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148887">
+            <name>Støttemur Frederiksdalsvej</name>
+            <LineString id="148886">
+                <coordinates>12.4691635882,55.8024459934751,0.0 12.4691671334849,55.8024572084624,0.0 12.469166953792,55.8024765551854,0.0 12.4690159100622,55.8026592879317,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148889">
+            <name>Støttemur Holte St.</name>
+            <LineString id="148888">
+                <coordinates>12.4687928337331,55.8089986425228,0.0 12.4688675053912,55.8091852236786,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148891">
+            <name>Støttemur Vejlesøvej</name>
+            <LineString id="148890">
+                <coordinates>12.4690918871542,55.81012809113,0.0 12.4691082095298,55.8102835825088,0.0 12.4691191962124,55.8104344861409,0.0 12.4691030859908,55.8106426706487,0.0 12.4690903326667,55.8107477946967,0.0 12.4690584671101,55.8108534584265,0.0 12.4690396249776,55.8109178161149,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148893">
+            <name>Glacis Vejlesøvej</name>
+            <LineString id="148892">
+                <coordinates>12.4690440385589,55.810918977073,0.0 12.4689813629896,55.8110761966847,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148895">
+            <name>Støttemur ved Rønnebærvej 15</name>
+            <LineString id="148894">
+                <coordinates>12.4686092673824,55.8124978260588,0.0 12.4685506506841,55.8124850949141,0.0 12.4685219899905,55.8125218692645,0.0 12.4684993720588,55.8125189113066,0.0 12.4684613232255,55.8125937141302,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148897">
+            <name>Spunsvæg ved Stationsvej, Birkerød</name>
+            <LineString id="148896">
+                <coordinates>12.4317931334727,55.8382262394047,0.0 12.4317499702269,55.8382750473432,0.0 12.4308781638433,55.8386026457843,0.0 12.4301962832981,55.8388123564845,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148899">
+            <name>Støttemur ved klargøring, Hillerød</name>
+            <LineString id="148898">
+                <coordinates>12.3097116822402,55.9232899556147,0.0 12.3096512944831,55.9229788106097,0.0 12.3096254110136,55.922772093537,0.0 12.3095480825637,55.9223765333418,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148901">
+            <name>Spunsvæg Marbækvej</name>
+            <LineString id="148900">
+                <coordinates>12.0705795766133,55.8296076948411,0.0 12.0701556664981,55.8300813730186,0.0 12.0697245688199,55.8305793403876,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148903">
+            <name>Plantestensmur Strandvangen/Marbæk Alle</name>
+            <LineString id="148902">
+                <coordinates>12.0774792922445,55.8226769038517,0.0 12.0768871206457,55.8230978523999,0.0 12.0763377169513,55.8235146113533,0.0 12.0759246022826,55.8238552689359,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148905">
+            <name>Plantestensmur Strandvangen/Vestervej</name>
+            <LineString id="148904">
+                <coordinates>12.0776354558665,55.822761470266,0.0 12.077154677598,55.8230945848928,0.0 12.0767051785785,55.8234265198447,0.0 12.0763070811754,55.8237427114884,0.0 12.0759135232053,55.8240896894046,0.0 12.0755160965086,55.8244623482432,0.0 12.0751245596254,55.824864490187,0.0 12.0747525496677,55.8252848351231,0.0 12.0743860653708,55.8257129445757,0.0 12.0740441555477,55.8261118374863,0.0 12.0728525710418,55.8275119352052,0.0 12.0721157531233,55.828389287309,0.0 12.0715830759028,55.8290786927392,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148907">
+            <name>Plantestensmur Frederikssundsvej - Vest</name>
+            <LineString id="148906">
+                <coordinates>12.1027769799776,55.811486063367,0.0 12.1025418220075,55.8115302086475,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148909">
+            <name>Plantestensmur Frederikssundsvej Øst</name>
+            <LineString id="148908">
+                <coordinates>12.1034159032544,55.811293257783,0.0 12.103263672813,55.8113305175,0.0 12.1032269621115,55.8113880784928,0.0 12.1030469140106,55.8114375495217,0.0 12.1030388644496,55.8114184718225,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148911">
+            <name>Plantestensmur Store Rørbækvej</name>
+            <LineString id="148910">
+                <coordinates>12.1085310118234,55.8106681794506,0.0 12.1083591001227,55.8106803135908,0.0 12.1079901911735,55.8107120480967,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148913">
+            <name>Støttemur Ålebækrenden</name>
+            <LineString id="148912">
+                <coordinates>12.1347063380513,55.8067503502636,0.0 12.1343983297992,55.806892541736,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148915">
+            <name>Plantestensmur Gartnersvinget</name>
+            <LineString id="148914">
+                <coordinates>12.1512741304148,55.7980739694469,0.0 12.1505021264111,55.7983083493376,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148917">
+            <name>Plantestensmur Hampelandskolen</name>
+            <LineString id="148916">
+                <coordinates>12.1726538616125,55.7899477964229,0.0 12.1710521435509,55.790668748256,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148919">
+            <name>Plantestensmur Ring Nord/Sperrestrupvej</name>
+            <LineString id="148918">
+                <coordinates>12.1799193093723,55.7867949020409,0.0 12.1795687262549,55.7869855841611,0.0 12.1793016476242,55.7871295711641,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148921">
+            <name>Spunsvæg Stenløse Å/Bauneholmvej</name>
+            <LineString id="148920">
+                <coordinates>12.1937631653511,55.7603302343821,0.0 12.19334359058,55.7606687047335,0.0 12.1931739547692,55.7608078988367,0.0 12.1931100977536,55.7608254428062,0.0 12.1930639837822,55.7608195332508,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148923">
+            <name>Gabionvæg Morelvej</name>
+            <LineString id="148922">
+                <coordinates>12.1951715754557,55.759389188755,0.0 12.194472913309,55.759804069186,0.0 12.1938954697941,55.7601933437203,0.0 12.1937123052294,55.7603278531974,0.0 12.1937330357465,55.7603384099786,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148925">
+            <name>Støttemur Veksø Station/Egedalsvej</name>
+            <LineString id="148924">
+                <coordinates>12.2269100657844,55.7522587192723,0.0 12.2267132633572,55.7523005345225,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148927">
+            <name>Støttemur Værebro Å/ Kildedalsvej</name>
+            <LineString id="148926">
+                <coordinates>12.2700016355385,55.7526167279939,0.0 12.2697545609766,55.752591078854,0.0 12.2695116427191,55.7525744917202,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148929">
+            <name>Plantestensmur Måløvbakken Syd/Vest</name>
+            <LineString id="148928">
+                <coordinates>12.2986793311278,55.7510915350821,0.0 12.2985723515841,55.7510994390042,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148931">
+            <name>Plantestensmur Måløvbakken Syd/Øst</name>
+            <LineString id="148930">
+                <coordinates>12.2994767435652,55.7510381627578,0.0 12.2993906361122,55.7510368006603,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148933">
+            <name>Spunsvæg Baneskrænten</name>
+            <LineString id="148932">
+                <coordinates>12.3028933274703,55.7508503163949,0.0 12.3028511289393,55.750863354618,0.0 12.301939732147,55.7509033905162,0.0 12.3009506621798,55.7509545878936,0.0 12.3008900631503,55.7509524412111,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148935">
+            <name>Spunsvæg Smørumvej/Måløv Værkstedsby</name>
+            <LineString id="148934">
+                <coordinates>12.3077719504209,55.7506100022602,0.0 12.3077461358022,55.7506102914303,0.0 12.3070686140954,55.7506752573812,0.0 12.3062529856982,55.7507411375714,0.0 12.3054681713785,55.7507948200494,0.0 12.3047665435492,55.7508409158173,0.0 12.3038318882582,55.7509021888879,0.0 12.3028847427997,55.7509572527311,0.0 12.301928192874,55.7510030984678,0.0 12.3018826080854,55.751008842398,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148937">
+            <name>Plantestensmur Smørumvej</name>
+            <LineString id="148936">
+                <coordinates>12.3086125918576,55.7505067871514,0.0 12.3083771535643,55.7505352986901,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148939">
+            <name>Stålspuns Enghavevej/Vigerslev Alle.</name>
+            <LineString id="148938">
+                <coordinates>12.5413552590043,55.6626795999393,0.0 12.5407870884752,55.6627660565013,0.0 12.5389723855703,55.6629926062504,0.0 12.5382462069937,55.6630722465058,0.0 12.5376893349979,55.6631356314758,0.0 12.5375741427309,55.6631578919485,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148941">
+            <name>Spunsvæg Smørumvej</name>
+            <LineString id="148940">
+                <coordinates>12.3090958390258,55.7504461589428,0.0 12.3090675938442,55.7504450978566,0.0 12.3086214465455,55.7505018618043,0.0 12.3086479497183,55.7505768501187,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148943">
+            <name>Plantestensmur Ballerup St./Lindevænget</name>
+            <LineString id="148942">
+                <coordinates>12.3569541978499,55.7303719472223,0.0 12.3568812258106,55.7304358165325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148945">
+            <name>Plantestensmur Ballerup St.</name>
+            <LineString id="148944">
+                <coordinates>12.3586995632144,55.7293838012549,0.0 12.3584662493364,55.7294844970504,0.0 12.3584555542033,55.7294772192776,0.0 12.3582741494812,55.7295522053572,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148947">
+            <name>Støttemur Tureby Station.</name>
+            <LineString id="148946">
+                <coordinates>12.0733126108234,55.3718473591556,0.0 12.0731944052374,55.3717802975022,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148949">
+            <name>KBH-væg Ballerup St./Centrumgaden</name>
+            <LineString id="148948">
+                <coordinates>12.3595806139371,55.7292686595799,0.0 12.3593771887677,55.7293515859063,0.0 12.3591968674543,55.7294251752957,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148951">
+            <name>Støttemur Ballerup St./Centrumgaden</name>
+            <LineString id="148950">
+                <coordinates>12.3592646607528,55.7294217524948,0.0 12.3597869762342,55.7292103300906,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148953">
+            <name>Støttemur Nord/ Ring 4</name>
+            <LineString id="148952">
+                <coordinates>12.3704831006851,55.7261850805632,0.0 12.3703102550409,55.7262089831582,0.0 12.3695817442971,55.7263151194672,0.0 12.3692563767232,55.7263645927159,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148955">
+            <name>Støttemur Syd/Ring 4</name>
+            <LineString id="148954">
+                <coordinates>12.3703416719607,55.7260187780277,0.0 12.3701848184902,55.726040512261,0.0 12.369443228027,55.7261485022091,0.0 12.3690761951372,55.726204899336,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148957">
+            <name>Støttemur ved Skovlunde Torv</name>
+            <LineString id="148956">
+                <coordinates>12.4028367494992,55.7229170285755,0.0 12.4024948723314,55.7229509645663,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148959">
+            <name>KBH-væg Herlev Ringvej/Sønderlundvej</name>
+            <LineString id="148958">
+                <coordinates>12.4387237050189,55.7202762532066,0.0 12.4384602918467,55.7203421800605,0.0 12.4381155335405,55.720428670334,0.0 12.43794965583,55.7204620111185,0.0 12.4379391329094,55.7204478266505,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148961">
+            <name>KBH-væg Herlev Ringvej/Glødelampen</name>
+            <LineString id="148960">
+                <coordinates>12.4386987723753,55.7202383739701,0.0 12.4383166051054,55.7203364051361,0.0 12.4379372709677,55.7204261349765,0.0 12.4379488127188,55.7204437791414,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148963">
+            <name>Støttemur Herlev Ringvej/Sønderlundvej</name>
+            <LineString id="148962">
+                <coordinates>12.4411491730393,55.7196841120932,0.0 12.4408279619649,55.7197635641758,0.0 12.4398438566088,55.720048282681,0.0 12.4386613191888,55.7203895536622,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148965">
+            <name>KBH-væg Husum St./Islevhusvej</name>
+            <LineString id="148964">
+                <coordinates>12.4642063667111,55.7095221983218,0.0 12.4639711245327,55.7097766853682,0.0 12.4639996455679,55.7097870599315,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148967">
+            <name>Støttemur Islevhusvej/Stenløsevej</name>
+            <LineString id="148966">
+                <coordinates>12.4644262851725,55.7093239889546,0.0 12.4646482003172,55.7090796572348,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148969">
+            <name>Støttemur Islev St. Slotsherrrensvej/Tybjergvej</name>
+            <LineString id="148968">
+                <coordinates>12.4694763015391,55.6991673622865,0.0 12.4694220389281,55.6993032115822,0.0 12.4694176453219,55.6993161809727,0.0 12.4694010267702,55.6993150865104,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148971">
+            <name>KBH-væg  Islev St. Slotsherrensvej/Tybjergvej</name>
+            <LineString id="148970">
+                <coordinates>12.4695214503037,55.6990566796362,0.0 12.4694791054562,55.6991730374774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148973">
+            <name>Støttemur Jyllingevej/Søndervigvej</name>
+            <LineString id="148972">
+                <coordinates>12.4754304173373,55.6914351453041,0.0 12.4754481279896,55.69144600863,0.0 12.4753008576467,55.6915376446013,0.0 12.4752456015769,55.6915426147839,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148975">
+            <name>Støttemur Jyllingevej/Selsøvej</name>
+            <LineString id="148974">
+                <coordinates>12.476630142199,55.6910800148473,0.0 12.4764073164483,55.6911943711558,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148977">
+            <name>Støttemur Jyllingevej St./Herlufsholmvej</name>
+            <LineString id="148976">
+                <coordinates>12.4799392210384,55.6897277739121,0.0 12.4789726008206,55.6900690694731,0.0 12.4776091836189,55.6906267233871,0.0 12.4775843635832,55.6906047866976,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148979">
+            <name>Støttemur Ålekistevej/Fossgårdsvej</name>
+            <LineString id="148978">
+                <coordinates>12.4806711576042,55.6892233984664,0.0 12.480771549448,55.6892449977008,0.0 12.4809409738467,55.6891909699426,0.0 12.4809607608862,55.6891401022904,0.0 12.4810918234494,55.6891004704585,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148981">
+            <name>Støttemur Jernbane Alle/Klingseyvej</name>
+            <LineString id="148980">
+                <coordinates>12.4893493613911,55.6874989250805,0.0 12.4893414890066,55.6874924261301,0.0 12.4892154346239,55.6875487898452,0.0 12.4890559363149,55.6875539344981,0.0 12.4890574163989,55.6875603959311,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148983">
+            <name>KBH-væg  Jernbane Alle</name>
+            <LineString id="148982">
+                <coordinates>12.490020170253,55.6873477256115,0.0 12.4899329255677,55.6873592753456,0.0 12.4894035701695,55.6874750577738,0.0 12.4893493613911,55.6874989250805,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148985">
+            <name>Spunsvæg Vanløse St./Frode Jakobsens Plads</name>
+            <LineString id="148984">
+                <coordinates>12.4911702214347,55.6871133788755,0.0 12.4911838937753,55.6871388532266,0.0 12.4909486830464,55.6871898435048,0.0 12.4909518022749,55.6871964237049,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148987">
+            <name>Støttemur Vanløse St/Vanløse Metro</name>
+            <LineString id="148986">
+                <coordinates>12.4931557203588,55.6869365432962,0.0 12.493162941075,55.6869493950824,0.0 12.4921973686213,55.6871203243598,0.0 12.4912806268448,55.6872957740106,0.0 12.4912891430286,55.6873117372647,0.0 12.4910685631456,55.6873558886797,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148989">
+            <name>Naturstensmur vanløse St./Vanløse Metro</name>
+            <LineString id="148988">
+                <coordinates>12.4941911594731,55.6867727546966,0.0 12.4941947825432,55.6867788933706,0.0 12.4931602995312,55.6869377741801,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148991">
+            <name>Naturstensmur Peter Bangs vej</name>
+            <LineString id="148990">
+                <coordinates>12.5031585604738,55.6787591087428,0.0 12.5030239239378,55.6791264110741,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148993">
+            <name>Naturstensmur Peter Bangs vej St./Glahns Alle</name>
+            <LineString id="148992">
+                <coordinates>12.5037774592781,55.6783976438874,0.0 12.5040295535877,55.6775744505275,0.0 12.5041714586349,55.6771628698817,0.0 12.5041625485139,55.6771006512026,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148995">
+            <name>Naturstensmur  A C Møllersvej</name>
+            <LineString id="148994">
+                <coordinates>9.53757257292703,55.7459449951164,0.0 9.53791259356155,55.74567394332,0.0 9.53822500473244,55.7453462593773,0.0 9.53825763326945,55.7452817985554,0.0 9.53834347206261,55.7451830497017,0.0 9.53844207124702,55.7450369633664,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148997">
+            <name>Støttemur - Skolevej</name>
+            <LineString id="148996">
+                <coordinates>10.1989045817011,55.3219935301186,0.0 10.1987853224406,55.321890635165,0.0 10.1986968248155,55.3218158360238,0.0 10.1985580828625,55.3217263783564,0.0 10.1980258317765,55.321351320391,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="148999">
+            <name>KBH-væg - Skolevej</name>
+            <LineString id="148998">
+                <coordinates>10.197845411745,55.321309558244,0.0 10.1979602996101,55.3213784376509,0.0 10.1980126796209,55.3213552237624,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149001">
+            <name>Spunsvæg Slagterivej/Rolighedsvej</name>
+            <LineString id="149000">
+                <coordinates>11.7016531914115,55.7173346259318,0.0 11.7009018526997,55.7173910045067,0.0 11.7003044538139,55.7173967342851,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149003">
+            <name>Støttemur v/Drejeskive Holbæk st.</name>
+            <LineString id="149002">
+                <coordinates>11.7079404569925,55.7153974647071,0.0 11.7079865122747,55.7153851045276,0.0 11.7080091625006,55.7153732427135,0.0 11.7080344980511,55.7153518651478,0.0 11.7080495557571,55.7153269389756,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149005">
+            <name>Plantestensmur Holbæk st./Vaskehal</name>
+            <LineString id="149004">
+                <coordinates>11.7092116189736,55.71476109916,0.0 11.7090342211933,55.714866310974,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149007">
+            <name>Støttemur Holbæk st./Vaskehal</name>
+            <LineString id="149006">
+                <coordinates>11.7086647873979,55.715061671401,0.0 11.7086754908709,55.7150709096559,0.0 11.7090406461442,55.7148735961555,0.0 11.7090334131914,55.714866186981,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149009">
+            <name>Støttemur Holbæk st./Vølunden</name>
+            <LineString id="149008">
+                <coordinates>11.7127942177663,55.7123816282868,0.0 11.7129075867876,55.7123865297819,0.0 11.7131229471763,55.7122434965064,0.0 11.7133262098262,55.7120795952124,0.0 11.7133515012394,55.7120551610415,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149011">
+            <name>Støttemur Gl. Ringstedvej/Holbæk sygehus</name>
+            <LineString id="149010">
+                <coordinates>11.7157830502712,55.7096939298267,0.0 11.7157183138166,55.7097580299446,0.0 11.7155303751981,55.710013652004,0.0 11.7154344094479,55.7101413644604,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149013">
+            <name>Støttemur Gl. Ringstedvej</name>
+            <LineString id="149012">
+                <coordinates>11.7157969646413,55.7093336196917,0.0 11.7153287904207,55.7098761427349,0.0 11.7152738068984,55.7099330526084,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149015">
+            <name>Støttemur Gl. Ringstedvej/Birkevænget/Holbæk Sygehus</name>
+            <LineString id="149014">
+                <coordinates>11.7177250931419,55.7073665410655,0.0 11.7176082511454,55.7074694282106,0.0 11.7159616074429,55.7095332272607,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149017">
+            <name>Plantestensmur Gl. Taastrupvej</name>
+            <LineString id="149016">
+                <coordinates>11.7205450775124,55.7005480856323,0.0 11.7205146455875,55.7006445757638,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149019">
+            <name>Støttemur v/Elverdams Å.</name>
+            <LineString id="149018">
+                <coordinates>11.8215525966379,55.5937506233209,0.0 11.8209601679615,55.5938778183891,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149021">
+            <name>Naturstensmur Holbækmotorvejen/Ringstedvej</name>
+            <LineString id="149020">
+                <coordinates>12.061452227646,55.6240230808162,0.0 12.0614226760869,55.6240068374411,0.0 12.061260905935,55.623899579854,0.0 12.0612348441416,55.6238818971574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149023">
+            <name>Støttemur Hovvej - Syd</name>
+            <LineString id="149022">
+                <coordinates>11.1408635051878,55.6734555206413,0.0 11.1404560404558,55.6735168047833,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149025">
+            <name>Støttemur Hovvej - Nord</name>
+            <LineString id="149024">
+                <coordinates>11.1410233252549,55.6735102652844,0.0 11.1406141026768,55.6735718969854,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149027">
+            <name>Støttemur Knabstrup st./Skolevej</name>
+            <LineString id="149026">
+                <coordinates>11.5507724228985,55.6646922609748,0.0 11.5506731341973,55.664689652255,0.0 11.5501219382446,55.6647251797868,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149029">
+            <name>Stålspuns Gåbensevej/Gl.Skovridergård</name>
+            <LineString id="149028">
+                <coordinates>11.8700073879054,54.935288673147,0.0 11.8702983580416,54.9346952902636,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149031">
+            <name>Støttemur Englebjergvej</name>
+            <LineString id="149030">
+                <coordinates>11.7971486931488,55.2047865016512,0.0 11.7971656011285,55.2047917953299,0.0 11.7972184588854,55.2047905824448,0.0 11.7973256270296,55.2047143166042,0.0 11.7973179751515,55.2046993532034,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149033">
+            <name>Støttemur v/Kæhlersvej/Baldersvej</name>
+            <LineString id="149032">
+                <coordinates>11.7710101382299,55.2275601405921,0.0 11.7710513821056,55.2275819114805,0.0 11.7711146013706,55.2275388342692,0.0 11.7710665996168,55.2275153291467,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149035">
+            <name>Jorddækket Stålspuns ved Ellebjergvej/Poppelstykket</name>
+            <LineString id="149034">
+                <coordinates>12.5114153626169,55.6510561041534,0.0 12.5112434941729,55.6508565944994,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149037">
+            <name>Støttemur Bomanlæg - Storstrømsbro Syd</name>
+            <LineString id="149036">
+                <coordinates>11.8692449269562,54.9526668661173,0.0 11.8692577875526,54.9526627684104,0.0 11.8692963301771,54.952695931636,0.0 11.8692771571985,54.9527039542554,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149039">
+            <name>Stålspuns Lunderskov. V/Buen</name>
+            <LineString id="149038">
+                <coordinates>9.30161520671186,55.4750956285516,0.0 9.30136775733073,55.4746076820372,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149041">
+            <name>Stålspuns Nordvestpassagen/Fyrbødervej</name>
+            <LineString id="149040">
+                <coordinates>12.53962263,55.70462239,0.0 12.53974071,55.70474716,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149043">
+            <name>Stålspuns Nordvestpassagen/Mimersparken</name>
+            <LineString id="149042">
+                <coordinates>12.53987098,55.70451376,0.0 12.53999969,55.70466556,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149045">
+            <name>Stålspuns Nordvestpassagen/Fyrbødervej</name>
+            <LineString id="149044">
+                <coordinates>12.53985218,55.70485241,0.0 12.54023491,55.70524863,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149047">
+            <name>Stålspuns Nordvestpassagen/Mimersparken</name>
+            <LineString id="149046">
+                <coordinates>12.54010141,55.7047737599999,0.0 12.54047873,55.70517164,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149049">
+            <name>Jorddækket spuns v/Ros' torv.</name>
+            <LineString id="149048">
+                <coordinates>12.0975606833819,55.6418383749723,0.0 12.0993337217504,55.6425185373084,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149051">
+            <name>Stålspuns Ringsted. Balstrupvej/Mellem Broerne</name>
+            <LineString id="149050">
+                <coordinates>11.8037068217801,55.4386769507254,0.0 11.8018414001317,55.4385938533997,0.0 11.7987281628017,55.4384404082825,0.0 11.7963958391846,55.438328359375,0.0 11.7951203732888,55.4382694230914,0.0 11.7950651754875,55.4382491098094,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149053">
+            <name>Stålspuns Ringsted. Mellem Broerne. Ved pumpebrønd</name>
+            <LineString id="149052">
+                <coordinates>11.7946153983104,55.4382265060759,0.0 11.7946335245092,55.4381952755041,0.0 11.7947311203626,55.4382020345576,0.0 11.7947332972512,55.4382328190583,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149055">
+            <name>Støttemur Roskilde ved Drejeskive</name>
+            <LineString id="149054">
+                <coordinates>12.0800823300476,55.6358784152718,0.0 12.0800847279321,55.6358438943786,0.0 12.0799977593577,55.6358400987836,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149057">
+            <name>KBH-Væg Roskilde ved Drejeskive</name>
+            <LineString id="149056">
+                <coordinates>12.0796948387208,55.635712106399,0.0 12.0794025738644,55.6355632348917,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149059">
+            <name>Støttemur Roskilde Skovbogade ved Drejeskive</name>
+            <LineString id="149058">
+                <coordinates>12.0790142654043,55.6354027683618,0.0 12.0790395287561,55.6353897273123,0.0 12.0793270589783,55.635533791923,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149061">
+            <name>KBH-Væg Roskilde. Skovbovængets Sidealle 13-17.</name>
+            <LineString id="149060">
+                <coordinates>12.07778265191,55.634698694915,0.0 12.0776765892668,55.6346319176353,0.0 12.0776142203593,55.6345913284889,0.0 12.0775429017556,55.6345484826969,0.0 12.0774086758899,55.6344861341061,0.0 12.077355449448,55.6344502509638,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149063">
+            <name>Støttemur Drejeskive Roskilde.</name>
+            <LineString id="149062">
+                <coordinates>12.0798920700217,55.6358519601755,0.0 12.079890212934,55.6358283086984,0.0 12.0798829679275,55.6358145738939,0.0 12.0798673549648,55.6357987118964,0.0 12.0798522303809,55.6357886632544,0.0 12.0798416200436,55.6357842908826,0.0 12.07986008032,55.6357728590458,0.0 12.0798423331373,55.6357634157093,0.0 12.0798293863431,55.6357774599672,0.0 12.0798162472508,55.6357744817378,0.0 12.079793178082,55.6357681029124,0.0 12.0797722611171,55.6357628207289,0.0 12.079753589446,55.6357598196164,0.0 12.0797392503407,55.6357601798561,0.0 12.0797126340574,55.6357608485291,0.0 12.0797003569764,55.6357611569607,0.0 12.079688170064,55.6357626138419,0.0 12.0796880798951,55.6357614653912,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149065">
+            <name>Skjult Ankerspuns. Ny Præstøvej. Væg nr. 4</name>
+            <LineString id="149064">
+                <coordinates>11.7702556561656,55.2290582540308,0.0 11.7703313630261,55.2289739542662,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149067">
+            <name>Støttemur Hillerød. Langesvej.</name>
+            <LineString id="149066">
+                <coordinates>12.3125342379495,55.9315778392256,0.0 12.3124935277936,55.9314492179399,0.0 12.3123060238401,55.9309148258916,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149069">
+            <name>Skjult KBH-Væg på granitsten. Hillerød. Langesvej</name>
+            <LineString id="149068">
+                <coordinates>12.3125355262699,55.931582470574,0.0 12.3125615441271,55.9316729533853,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149071">
+            <name>Skjult Stålspuns. Rødover Byport. Afsnit Ft, F.</name>
+            <LineString id="149070">
+                <coordinates>12.4557731303947,55.6649123084048,0.0 12.4569535611403,55.6649495774227,0.0 12.456951411657,55.6649696827889,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149073">
+            <name>Skjult Stålspuns. Rødover Byport. Afsnit E,D.</name>
+            <LineString id="149072">
+                <coordinates>12.4569780091229,55.6649719720572,0.0 12.4581769764699,55.6650045107206,0.0 12.4581733340049,55.6650455362821,0.0 12.4581982251653,55.6650460330977,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149075">
+            <name>Spunsvæg  Næstved. Suså/Fortidsminde.</name>
+            <LineString id="149074">
+                <coordinates>11.7526502619877,55.2612247911116,0.0 11.7526852742471,55.2610373575908,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149077">
+            <name>KBH-væg Nørre Alslev St. Stationspladsen</name>
+            <LineString id="149076">
+                <coordinates>11.8856483302532,54.8972559576933,0.0 11.8856702470921,54.8972554385331,0.0 11.8856646664995,54.8964427175902,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149079">
+            <name>Støttemur. Stenløsevej 1.Trappeskakt Netto</name>
+            <LineString id="149078">
+                <coordinates>12.4692340813021,55.7000206231853,0.0 12.4692070707586,55.7000164658176,0.0 12.469227158226,55.6999664929986,0.0 12.4692496165129,55.6999719778917,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149081">
+            <name>KBH-Væg Brabrand. Dyssehøjvej 10-20</name>
+            <LineString id="149080">
+                <coordinates>10.0983502520277,56.1544741291131,0.0 10.099663916874,56.1544806817261,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149083">
+            <name>KBH-Væg Brabrand. Dyssehøjvej 4-10</name>
+            <LineString id="149082">
+                <coordinates>10.0997499179166,56.1544813779977,0.0 10.1009714951234,56.1544747788564,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149085">
+            <name>Støttemur Struer St. Østergade 34-50</name>
+            <LineString id="149084">
+                <coordinates>8.60066596256478,56.49159034043,0.0 8.59855759063966,56.4918261207818,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149087">
+            <name>Støttemur Struer. Østergade 28-34</name>
+            <LineString id="149086">
+                <coordinates>8.59854865132667,56.4918267747351,0.0 8.5968602197602,56.4920037598016,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149089">
+            <name>KBH-væg Oddesundbroen øst.</name>
+            <LineString id="149088">
+                <coordinates>8.56247597851102,56.5771133058313,0.0 8.56262469765768,56.577033653877,0.0 8.562808633635,56.5769320243937,0.0 8.56294478538785,56.5768523458112,0.0 8.56308859996781,56.576760242014,0.0 8.56327791335569,56.5766296116749,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149091">
+            <name>KBH-væg Oddesundbroen Vest</name>
+            <LineString id="149090">
+                <coordinates>8.55562978183139,56.5792377416184,0.0 8.55518245831243,56.579370222903,0.0 8.55518984890215,56.5793812998948,0.0 8.5551521661287,56.579390850124,0.0 8.5551397135369,56.5793838877371,0.0 8.55491093141177,56.5794590935822,0.0 8.5546468908751,56.5795507576264,0.0 8.55444325611157,56.5796191348055,0.0 8.55420433018726,56.5797039700284,0.0 8.55384963442832,56.579838162093,0.0 8.55365590980744,56.5799134913545,0.0 8.55333633843124,56.5800422557409,0.0 8.55311233417664,56.5801368273996,0.0 8.55280268817669,56.5802739453785,0.0 8.55258865983619,56.5803699176347,0.0 8.55241239635213,56.5804522255932,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149093">
+            <name>Støttemur Fredericia St. Nord. Jernbanegade.</name>
+            <LineString id="149092">
+                <coordinates>9.74028406807677,55.5683896248278,0.0 9.74053848696295,55.5689395497413,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149095">
+            <name>Naturstensmur Fredericia St. Syd. Jernbanegade.</name>
+            <LineString id="149094">
+                <coordinates>9.74023259754308,55.568153787523,0.0 9.74000778112635,55.5677077214394,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149097">
+            <name>Støttemur Ølby St. Centerstien</name>
+            <LineString id="149096">
+                <coordinates>12.1761844831913,55.4798835709889,0.0 12.1765477369177,55.4796763438311,0.0 12.1765896340042,55.4796965097116,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149099">
+            <name>Støttemur Kirstinedalstien, Lyngvej</name>
+            <LineString id="149098">
+                <coordinates>12.1721512978573,55.4836832785946,0.0 12.1721125131411,55.4837262526261,0.0 12.1720863011631,55.4837676779054,0.0 12.1720733072595,55.4838159708729,0.0 12.1720727280749,55.4838615324835,0.0 12.1720750367673,55.4838902426238,0.0 12.1720810024317,55.4839116654536,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149101">
+            <name>Stålspuns Ulstrupvej</name>
+            <LineString id="149100">
+                <coordinates>9.81049265558524,56.667520550153,0.0 9.8103891526953,56.6674116149328,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149103">
+            <name>Stålspuns Trekroner Centervej</name>
+            <LineString id="149102">
+                <coordinates>12.13194567,55.6481019,0.0 12.13309786,55.64815715,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149105">
+            <name>Plantestensmur Måløvbakken Nord/Øst</name>
+            <LineString id="149104">
+                <coordinates>12.299417025554,55.7511677567628,0.0 12.2994709518934,55.7511645092769,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149107">
+            <name>Plantestensmur Måløvbakken Nord/Vest</name>
+            <LineString id="149106">
+                <coordinates>12.2986458658985,55.7512203082165,0.0 12.2987093355709,55.7512168046417,0.0 12.2986999439424,55.7512188551501,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149109">
+            <name>Stålspuns Vandløse Station/Vandløse Metro</name>
+            <LineString id="149108">
+                <coordinates>12.4941995784003,55.686777712995,0.0 12.495185372629,55.6866237409744,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149111">
+            <name>Spunsvæg Glumsø St. - Østergade</name>
+            <LineString id="149110">
+                <coordinates>11.6962071994926,55.3525115707095,0.0 11.6963684778553,55.3522973313837,0.0 11.6964008064711,55.3523087126217,0.0 11.6973773866046,55.3509608024703,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149113">
+            <name>KBH-væg Krudthusvej</name>
+            <LineString id="149112">
+                <coordinates>11.3600842684758,55.4107442352793,0.0 11.3589507501439,55.4101595342633,0.0 11.3581573365816,55.40979031005,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149115">
+            <name>Støttemur Langgade St. - Herman Bangs Plads</name>
+            <LineString id="149114">
+                <coordinates>12.5041047008225,55.6670445738988,0.0 12.5040594687162,55.6670368750878,0.0 12.5040468103776,55.6670732030854,0.0 12.5040139265635,55.6670683882811,0.0 12.5039152867874,55.6672888029921,0.0 12.5038938917802,55.6672843791573,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149117">
+            <name>Naturstensmur Langgade St. - Herman Bangs Plads</name>
+            <LineString id="149116">
+                <coordinates>12.5038938917802,55.6672843791573,0.0 12.5037930496898,55.6675424226822,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149119">
+            <name>Støttemur Nykøbing F. St. - Brovejen</name>
+            <LineString id="149118">
+                <coordinates>11.8762632553121,54.7657200970713,0.0 11.876429520097,54.7659157420401,0.0 11.876825594044,54.7662821477835,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149121">
+            <name>KBH-væg Måløv St. - Måløv Byvej</name>
+            <LineString id="149120">
+                <coordinates>12.3168745369498,55.748056874406,0.0 12.3167550588195,55.7481140476199,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149123">
+            <name>Plantestensmur Skovlunde St. - Skovlunde Torv</name>
+            <LineString id="149122">
+                <coordinates>12.4032309205004,55.7228875214794,0.0 12.4032341345506,55.722908754117,0.0 12.4031500810571,55.7229157093039,0.0 12.403144961517,55.7228935018722,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149125">
+            <name>Stålspuns Trekroner St. - Industrivej</name>
+            <LineString id="149124">
+                <coordinates>12.1318649644001,55.6476866784332,0.0 12.1318661111282,55.6477010336863,0.0 12.1319679397188,55.6477020285994,0.0 12.1319667929534,55.6476876733478,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149127">
+            <name>Stålspuns Langeskov St. - Centervej</name>
+            <LineString id="149126">
+                <coordinates>10.5897945327695,55.3610855968837,0.0 10.5868933530681,55.3616226615293,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149129">
+            <name>Stålspuns Langeskov St. - Centervej</name>
+            <LineString id="149128">
+                <coordinates>10.5862396768869,55.3617404573338,0.0 10.5856350922774,55.3618507553523,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149131">
+            <name>Stålspuns Langeskov St. - Henriettevej</name>
+            <LineString id="149130">
+                <coordinates>10.5869737797902,55.361762954484,0.0 10.5875534167431,55.3616601635422,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149133">
+            <name>Stålspuns Langeskov St. - Henriettevej-Viadukten</name>
+            <LineString id="149132">
+                <coordinates>10.5863135699536,55.3618810043943,0.0 10.5851131812017,55.3621004057778,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149135">
+            <name>Stålspuns Langeskov St. - Viadukten</name>
+            <LineString id="149134">
+                <coordinates>10.5849422134548,55.3621286155308,0.0 10.5836515242227,55.3623628338006,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149137">
+            <name>KBH-Væg Vejlegårdsvej - Vejlesvinget.</name>
+            <LineString id="149136">
+                <coordinates>12.3762767309235,55.6228660866571,0.0 12.3770623614528,55.6229294048762,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149139">
+            <name>Stålspuns Jørgen Jensens vej</name>
+            <LineString id="149138">
+                <coordinates>11.7619796552009,55.2398427007167,0.0 11.761968916127,55.2396379782928,0.0 11.7619789580788,55.2394198401113,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149141">
+            <name>Plantestensmur Trekroner Centervej</name>
+            <LineString id="149140">
+                <coordinates>12.1330962901335,55.6481590666317,0.0 12.1330969704365,55.6481625283951,0.0 12.1334022624052,55.6481763032286,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149143">
+            <name>Stålspuns Haveforeningen af 1918</name>
+            <LineString id="149142">
+                <coordinates>10.1758159286383,56.142622260412,0.0 10.1757101389155,56.1424255870851,0.0 10.1756151008468,56.1422647531845,0.0 10.1754725875664,56.1420600426382,0.0 10.175362119777,56.1419209204123,0.0 10.1752250325093,56.1417532978225,0.0 10.1750206107696,56.1414886735027,0.0 10.174892906115,56.1413119758722,0.0 10.1747823644125,56.1411351149344,0.0 10.1746663279601,56.1409187701414,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149145">
+            <name>Støttemur v. bro 20872</name>
+            <LineString id="149144">
+                <coordinates>10.1772380321234,56.1445754233004,0.0 10.1770520180111,56.1444927320703,0.0 10.1768980211445,56.1444043443573,0.0 10.1768188649369,56.1443422000777,0.0 10.1767162490635,56.1442497286185,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149147">
+            <name>Støttemur Tolbodgade</name>
+            <LineString id="149146">
+                <coordinates>10.2116782141317,56.1513823807968,0.0 10.211942205353,56.1514840237565,0.0 10.2121999303086,56.1515911189147,0.0 10.2123144506931,56.1516492997322,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149149">
+            <name>Støttemur Toldbogade 7. Ved husgavl</name>
+            <LineString id="149148">
+                <coordinates>10.212467777873,56.1517333373387,0.0 10.2125026686498,56.1517166414225,0.0 10.2125915932217,56.1517799252436,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149151">
+            <name>Stålspuns Augustenborggade v. DSB</name>
+            <LineString id="149150">
+                <coordinates>10.1825081352921,56.1470508436687,0.0 10.1823973329769,56.1470069766473,0.0 10.1821530905632,56.1469158646926,0.0 10.1820685318963,56.1468879201356,0.0 10.1820558792218,56.1468952295302,0.0 10.1819841387852,56.1468653652099,0.0 10.1819967914637,56.1468580558227,0.0 10.1818534763463,56.1468037167601,0.0 10.1815728980485,56.1466824006395,0.0 10.1813868093623,56.1465979194829,0.0 10.1812854440444,56.1465467728916,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149153">
+            <name>Støttemur ved Skovgaardsgade 1C</name>
+            <LineString id="149152">
+                <coordinates>10.1834416113732,56.1484358096356,0.0 10.1830212435727,56.1482709081184,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149155">
+            <name>Støttemur Kriegersvej</name>
+            <LineString id="149154">
+                <coordinates>10.199195699816,56.1495390800139,0.0 10.1991790477031,56.1495212706627,0.0 10.1984577643096,56.1495174852384,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149157">
+            <name>Stålspuns kriegersvej</name>
+            <LineString id="149156">
+                <coordinates>10.1991606707135,56.1495466428934,0.0 10.1999819526855,56.1495566416124,0.0 10.2006957288328,56.1496293796754,0.0 10.2015299948501,56.1497458696027,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149159">
+            <name>Støttemur Morten Børups Gade</name>
+            <LineString id="149158">
+                <coordinates>10.1954749473685,56.1496003240309,0.0 10.1958376366071,56.1495644672036,0.0 10.196335726299,56.1495344869631,0.0 10.1969391582774,56.1495100737617,0.0 10.198057559619,56.1495154099897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149161">
+            <name>Støttemur Europaplads 16</name>
+            <LineString id="149160">
+                <coordinates>10.2125953695252,56.1517792537192,0.0 10.2127137209157,56.1518568052061,0.0 10.2128321972919,56.1519383089899,0.0 10.2129248112994,56.1520164723043,0.0 10.2130212670377,56.1521143659085,0.0 10.213076871531,56.1521828286201,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149163">
+            <name>Støttemur Gammel Kongevej 9</name>
+            <LineString id="149162">
+                <coordinates>10.1738916914072,56.1348443371257,0.0 10.1739116898439,56.1351837975199,0.0 10.1738133752654,56.1352314559911,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149165">
+            <name>Skjult spuns Veksø</name>
+            <LineString id="149164">
+                <coordinates>12.2253724649777,55.7524868417923,0.0 12.226517431967,55.752277126126,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149167">
+            <name>Skjult spuns Veksø</name>
+            <LineString id="149166">
+                <coordinates>12.2266428721358,55.7524949067243,0.0 12.2254979069345,55.7527047133341,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149169">
+            <name>Støttemur Buddinge St.</name>
+            <LineString id="149168">
+                <coordinates>12.4942949826294,55.7470464642313,0.0 12.4942802980101,55.747017750028,0.0 12.494266422276,55.7470051973451,0.0 12.494239767822,55.7469994823032,0.0 12.493391869232,55.7471081372006,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149171">
+            <name>Plantestensmur Depotvej</name>
+            <LineString id="149170">
+                <coordinates>12.353221719547,55.6090693621656,0.0 12.3531902338047,55.6090726643037,0.0 12.3531656420518,55.6090716675588,0.0 12.3531493499156,55.6090695446105,0.0 12.3531328826509,55.6090653712987,0.0 12.3531149914549,55.6090604662579,0.0 12.3530967500163,55.6090514606009,0.0 12.3530653662157,55.6090251406983,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149173">
+            <name>Kældervæg Lygten ll</name>
+            <LineString id="149172">
+                <coordinates>12.5404971032743,55.7056794865906,0.0 12.5404341701626,55.7055637985095,0.0 12.5403893761721,55.7055727796132,0.0 12.5403090224012,55.7054460765796,0.0 12.5402615858705,55.7054551442392,0.0 12.5401819345017,55.7053263800326,0.0 12.540142694054,55.7053332539791,0.0 12.5400778365814,55.7052267751069,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149175">
+            <name>Plantestensmur. Roskilde Stenvænget.</name>
+            <LineString id="149174">
+                <coordinates>12.081584449727,55.6359330428594,0.0 12.0816757292865,55.6360105812014,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149177">
+            <name>Skjult Ankerspuns. Tastrupvej.</name>
+            <LineString id="149176">
+                <coordinates>12.2122382080944,55.5442792177652,0.0 12.2119969593047,55.5441231153995,0.0 12.2117924040759,55.543990752754,0.0 12.211580379443,55.5438537497301,0.0 12.2102954083205,55.5430720592835,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149179">
+            <name>Støttemur Valmuevej/Irisvej</name>
+            <LineString id="149178">
+                <coordinates>12.4111801682351,55.6642047968696,0.0 12.4096764809954,55.6640344297837,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149181">
+            <name>Stålspuns Søndervangsvej/Valmuevej</name>
+            <LineString id="149180">
+                <coordinates>12.4113523255534,55.6642089982641,0.0 12.4151432258009,55.664596185075,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149183">
+            <name>Stålspuns Svejstrupvej. Lilleå.</name>
+            <LineString id="149182">
+                <coordinates>9.94609480959918,56.3523185434021,0.0 9.94682616401152,56.3523603807285,0.0 9.94751593135695,56.3523861954125,0.0 9.94810810836225,56.3523976165078,0.0 9.94867054476487,56.3523961933827,0.0 9.94916629755573,56.3523870838078,0.0 9.94962078534339,56.3523750210629,0.0 9.95004981552614,56.3523569895832,0.0 9.95059035929649,56.3523256612221,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149185">
+            <name>Stålspuns Silkeborgvej Øst for bro 20908.</name>
+            <LineString id="149184">
+                <coordinates>10.1177779161848,56.1526481731597,0.0 10.1179263395324,56.1526184380308,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149187">
+            <name>Stålspuns Silkeborgvej Vest for bro 20908</name>
+            <LineString id="149186">
+                <coordinates>10.1166165985416,56.152855397628,0.0 10.1164092773607,56.1528852363136,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149189">
+            <name>Stålspuns Silkeborgvej Vest for bro 20908.</name>
+            <LineString id="149188">
+                <coordinates>10.1158821605485,56.1528329495051,0.0 10.1156323323183,56.1528714056307,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149191">
+            <name>Stålspuns Banevænget. Ved mast.</name>
+            <LineString id="149190">
+                <coordinates>10.1144546532311,56.1532020558481,0.0 10.114450256242,56.1531897187904,0.0 10.1143382754523,56.1532021942502,0.0 10.1143426724071,56.1532145313121,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149193">
+            <name>Stålspuns Brabrand. Dyssehøjvej 10</name>
+            <LineString id="149192">
+                <coordinates>10.0997580548731,56.1544730227218,0.0 10.0996228714662,56.1544728163661,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149195">
+            <name>Stålspuns -Beredskabsbassin -Taulov</name>
+            <LineString id="149194">
+                <coordinates>9.63937425976376,55.5470468869256,0.0 9.63930362975604,55.5471090778232,0.0 9.63978175737736,55.5472719216458,0.0 9.63984856007553,55.5472083127476,0.0 9.63937425976376,55.5470468869256,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149197">
+            <name>Stålspuns Mathilde Parken</name>
+            <LineString id="149196">
+                <coordinates>12.31302826713,55.9323087091009,0.0 12.3129421521178,55.9320880592165,0.0 12.3129101048025,55.9319378790523,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149199">
+            <name>Stålspuns Campusvej</name>
+            <LineString id="149198">
+                <coordinates>12.3127029454757,55.930979234553,0.0 12.312495878954,55.9302605978953,0.0 12.3124705342628,55.9296762888401,0.0 12.3123309527148,55.929047077049,0.0 12.3122216091715,55.9284218463589,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149201">
+            <name>KBH-Væg Birkerød St. Stationsvej.</name>
+            <LineString id="149200">
+                <coordinates>12.4247700177229,55.8401781613387,0.0 12.4258325296193,55.8399051359163,0.0 12.4258326875324,55.8399069297387,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149203">
+            <name>Plantestensmur. Sanddalsvej.</name>
+            <LineString id="149202">
+                <coordinates>12.086954111273,55.8177056669503,0.0 12.0864941238604,55.8179459264178,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149205">
+            <name>Stålspuns Holbækmotorvejen Afkørselsrampe</name>
+            <LineString id="149204">
+                <coordinates>12.4590129680126,55.6493328325323,0.0 12.4652649210993,55.6504055703229,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149207">
+            <name>Stålspuns Avedøre Havnevej Redningsplads</name>
+            <LineString id="149206">
+                <coordinates>12.4583224258315,55.649327794757,0.0 12.4573528783873,55.6491455631499,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149209">
+            <name>Stålspuns Holdbækmotorvejen Tilkørselsrampe</name>
+            <LineString id="149208">
+                <coordinates>12.4583896968571,55.6492251929946,0.0 12.4574745389286,55.6490531983943,0.0 12.4567481331745,55.6488938571729,0.0 12.4560404413553,55.6487663531596,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149211">
+            <name>Skjult Stålspuns Brovejen Sukkerfabrikken</name>
+            <LineString id="149210">
+                <coordinates>11.8712904286871,54.7607273180797,0.0 11.8710317764175,54.7605745370996,0.0 11.8703048106188,54.7601069541248,0.0 11.8698362542439,54.7598452888357,0.0 11.869718230304,54.7599009056306,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149213">
+            <name>Skjult Stålspuns Brovejen Prinsholmvej</name>
+            <LineString id="149212">
+                <coordinates>11.8680934894626,54.7592630899931,0.0 11.868580093536,54.7594531101073,0.0 11.8690510488131,54.7596558861078,0.0 11.8693558599856,54.7597979406928,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149215">
+            <name>Skjult Stålspuns Brovejen Guldborg Sund</name>
+            <LineString id="149214">
+                <coordinates>11.8636088472639,54.7579868820647,0.0 11.8599472855736,54.7570225018189,0.0 11.8599039070334,54.7570206100798,0.0 11.8570899795191,54.7562848548241,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149217">
+            <name>Støttemur J.P.E Hartmanns Alle.</name>
+            <LineString id="149216">
+                <coordinates>12.5075831661076,55.664294732988,0.0 12.5075391816253,55.6642955554606,0.0 12.5073700826927,55.6643655412446,0.0 12.5071655539205,55.6644425346562,0.0 12.50717830039,55.664451379522,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149219">
+            <name>Støttemur før Trug 17822</name>
+            <LineString id="149218">
+                <coordinates>12.4421839841251,55.6467922215845,0.0 12.4424927650779,55.6468610457059,0.0 12.4424950462644,55.6468576870396,0.0 12.4428075725553,55.6469247183473,0.0 12.4429124617229,55.6469183306036,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149221">
+            <name>Plantestensmur Åløkke Allé</name>
+            <LineString id="149220">
+                <coordinates>10.3683730444329,55.4006279011581,0.0 10.3687601848069,55.4007344324432,0.0 10.3692369806446,55.4008595660413,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149223">
+            <name>Støttemur mellem spor. Åløkke Allé</name>
+            <LineString id="149222">
+                <coordinates>10.3692377953679,55.4009401961874,0.0 10.3694910002003,55.4010136665445,0.0 10.3697569118426,55.4010726152242,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149225">
+            <name>Stålspuns langs Karlslundestien.</name>
+            <LineString id="149224">
+                <coordinates>12.2367023773804,55.5679968787727,0.0 12.2361779219645,55.5676304669858,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149227">
+            <name>Støttemur før Egedesvej. Bro 17896</name>
+            <LineString id="149226">
+                <coordinates>12.1758633194894,55.5064013603482,0.0 12.1754071350912,55.5054188364248,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149229">
+            <name>Støttemur efter Egedesvej. Bro 17896</name>
+            <LineString id="149228">
+                <coordinates>12.1749653287387,55.5044571885916,0.0 12.1753124467935,55.505205191847,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149231">
+            <name>Støttemur langs spor til perron. Kværndrup St.</name>
+            <LineString id="149230">
+                <coordinates>10.5192606702158,55.1778205444471,0.0 10.5192348148251,55.1778094143884,0.0 10.5193559854861,55.1777165901223,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149233">
+            <name>Støttemur langs spor ved cykel P. Kværndrup St.</name>
+            <LineString id="149232">
+                <coordinates>10.5193736194821,55.1777032818775,0.0 10.5195925470126,55.1775345739628,0.0 10.5196117405279,55.1775436215739,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149235">
+            <name>Stålspuns Jerne St. Syd Udvendig.</name>
+            <LineString id="149234">
+                <coordinates>8.48587925692614,55.4744073383775,0.0 8.48631351203272,55.4743470588458,0.0 8.48634109862477,55.4744154670249,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149237">
+            <name>Stålspuns Jerne St. Syd.  Delvis skjult.</name>
+            <LineString id="149236">
+                <coordinates>8.48581009409883,55.4744811311536,0.0 8.48632850034551,55.4744110210642,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149239">
+            <name>Stålspuns Jerne St. Syd. Trappe</name>
+            <LineString id="149238">
+                <coordinates>8.48588830407636,55.4744415224782,0.0 8.48608164983722,55.4744153766613,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149241">
+            <name>KBH-væg Jerne St. Syd.</name>
+            <LineString id="149240">
+                <coordinates>8.48577979728698,55.4745129535785,0.0 8.48580548245309,55.4744843067415,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149243">
+            <name>Stålspuns Jerne St. Nord Udvendig.</name>
+            <LineString id="149242">
+                <coordinates>8.48618418683401,55.4745595805743,0.0 8.48620879648148,55.4746135989326,0.0 8.48567633086629,55.4746832500759,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149245">
+            <name>Stålspuns Jerne St. Nord. Delvis skjult.</name>
+            <LineString id="149244">
+                <coordinates>8.48569764584991,55.4746122516033,0.0 8.48616348236303,55.4745566981101,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149247">
+            <name>Stålspuns Jerne St. Nord. Trappe</name>
+            <LineString id="149246">
+                <coordinates>8.48572886857039,55.4746443324216,0.0 8.48596020002638,55.4746169485577,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149249">
+            <name>KBH-væg Jerne St. Nord</name>
+            <LineString id="149248">
+                <coordinates>8.48569741787213,55.4746076761123,0.0 8.48570768468555,55.4745923614697,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149251">
+            <name>Stålspuns Ny Ellebjerg St.</name>
+            <LineString id="149250">
+                <coordinates>12.5154970414793,55.6525716487668,0.0 12.5148037853442,55.6528918485439,0.0 12.5144199915327,55.6530808864247,0.0 12.5141489806156,55.6532379167043,0.0 12.5136802566063,55.6535085129984,0.0 12.5128135049299,55.6540224975015,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149253">
+            <name>Støttemur. Helgoland ved remise 1</name>
+            <LineString id="149252">
+                <coordinates>12.5809980731177,55.7154527132227,0.0 12.5813076879884,55.7153897245385,0.0 12.5815346946248,55.7153291467632,0.0 12.5817494847289,55.7152743203023,0.0 12.5820491271623,55.7151720569871,0.0 12.582250056525,55.7151050458295,0.0 12.5824596949477,55.7150287882206,0.0 12.5826318639902,55.7149608179074,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149255">
+            <name>Plantestensmur. Helgoland ved remise 1</name>
+            <LineString id="149254">
+                <coordinates>12.5810492900066,55.7155249508395,0.0 12.5814668215683,55.7154228444632,0.0 12.5819178211182,55.7153035742399,0.0 12.5819343644246,55.7153102846492,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149257">
+            <name>Stålspuns. Helgoland -Strandvænget.</name>
+            <LineString id="149256">
+                <coordinates>12.5847263804543,55.7146079719494,0.0 12.5849844828211,55.714434980667,0.0 12.5851438761467,55.7142972440071,0.0 12.5856730364208,55.7137105538383,0.0 12.5855146304007,55.7136411239645,0.0 12.585305405198,55.7137343777033,0.0 12.5852622977931,55.7137885257284,0.0 12.5852415957752,55.713802781888,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149259">
+            <name>Plantestensmur Kalkbrænderihavnsgade</name>
+            <LineString id="149258">
+                <coordinates>12.589252321652,55.7097138223329,0.0 12.589389231837,55.7094482361106,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149261">
+            <name>Plantestensmur. Kalkbrænderihavnsgade.</name>
+            <LineString id="149260">
+                <coordinates>12.5895893212895,55.7089508709338,0.0 12.5895734131429,55.7089794563039,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149263">
+            <name>Plantestensmur. Kalkbrænderihavnsgade</name>
+            <LineString id="149262">
+                <coordinates>12.5896495215792,55.7088338504929,0.0 12.5896706584765,55.7088369921809,0.0 12.5899227771369,55.7083061265096,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149265">
+            <name>KBH-væg Helgoland.</name>
+            <LineString id="149264">
+                <coordinates>12.58635323509,55.7124072901779,0.0 12.5860907720282,55.7126019924906,0.0 12.5857789551046,55.7128143220616,0.0 12.5856161812295,55.7129214229093,0.0 12.5853872298818,55.7130647900001,0.0 12.5851266711639,55.7132108787051,0.0 12.5847615449093,55.7133977880319,0.0 12.5845230549732,55.7135129853102,0.0 12.5841256591418,55.7136954404572,0.0 12.5837943738794,55.7138346007066,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149267">
+            <name>Plantestensmur. Svanemøllens kaserne. Ingeniørbroen</name>
+            <LineString id="149266">
+                <coordinates>12.5742385267939,55.7174005423486,0.0 12.5741027593577,55.7174836251533,0.0 12.5739592833264,55.7175837714894,0.0 12.5738011121865,55.7176974245936,0.0 12.5735990554162,55.7178506116497,0.0 12.5734051539292,55.7180074844946,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149269">
+            <name>Naturstensmur. Troljevej. S-banen mod Hillerød</name>
+            <LineString id="149268">
+                <coordinates>12.5662939760929,55.7327628541435,0.0 12.5661353490713,55.733331081188,0.0 12.5659414447706,55.7338937936517,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149271">
+            <name>KBH-væg Nr. Alslev St. Skernevej</name>
+            <LineString id="149270">
+                <coordinates>11.885885510543,54.8973320980597,0.0 11.8858778217851,54.8973118479866,0.0 11.8858710313041,54.8961507720305,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149273">
+            <name>Naturstensmur. Volmergade</name>
+            <LineString id="149272">
+                <coordinates>9.53754416622514,55.709524087944,0.0 9.53781120418424,55.7099632092368,0.0 9.53784523365885,55.7099842660248,0.0 9.53793658041988,55.7101459647098,0.0 9.53805433546979,55.7104689274663,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149275">
+            <name>Spunsvæg. Spor M4 på Godsbanearealet.</name>
+            <LineString id="149274">
+                <coordinates>12.5467334087433,55.6618306479761,0.0 12.5465555507811,55.6618226552287,0.0 12.5464670851032,55.6618154140332,0.0 12.5464015141463,55.6618068223007,0.0 12.5459556577065,55.6617271557907,0.0 12.5458305337875,55.6617004864699,0.0 12.5457075768776,55.6616708072512,0.0 12.5456969302262,55.6616835387792,0.0 12.5456403562837,55.6616708804094,0.0 12.5456527741595,55.6616572541681,0.0 12.5456443620469,55.6616545066847,0.0 12.5455451444785,55.6616259254199,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149277">
+            <name>Skjult Stålspuns. Nordre Fasanvej 215</name>
+            <LineString id="149276">
+                <coordinates>12.5336076628952,55.6958822446821,0.0 12.5336227223704,55.6960058954618,0.0 12.5337104956717,55.6960415310453,0.0 12.5340857472076,55.6960285211801,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149279">
+            <name>Støttemur trappe Øst. Ålholm St.</name>
+            <LineString id="149278">
+                <coordinates>12.4933379543991,55.6720442165606,0.0 12.4933322923574,55.6721145116789,0.0 12.4932821418444,55.6721141421722,0.0 12.4932461177942,55.6723345614063,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149281">
+            <name>Støttemur trappe Vest. Ålholm St.</name>
+            <LineString id="149280">
+                <coordinates>12.4929834009785,55.6720291411927,0.0 12.4929753178019,55.6720990556815,0.0 12.4930119387989,55.6720993611641,0.0 12.4929987043177,55.6723434081616,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149283">
+            <name>Støttemur. Sti under bro 11572, Ålholm St.</name>
+            <LineString id="149282">
+                <coordinates>12.4932024437395,55.6723382195799,0.0 12.4931644906184,55.6726845749046,0.0 12.4932033464891,55.6727666802897,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149285">
+            <name>Støttemur trappe Vest. KB Hallen St.</name>
+            <LineString id="149284">
+                <coordinates>12.4921688914853,55.6778353078171,0.0 12.4921846216607,55.6780830253504,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149287">
+            <name>Støttemur trappe Øst. KB Hallen St.</name>
+            <LineString id="149286">
+                <coordinates>12.4924652183803,55.6778419312584,0.0 12.4924719326707,55.6781312664857,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149289">
+            <name>Plantestensmur spor AM_207a. Skovgaardsgade</name>
+            <LineString id="149288">
+                <coordinates>10.1868957874871,56.149448260629,0.0 10.1884649306533,56.1500294875196,0.0 10.1888770322664,56.1501527903615,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149291">
+            <name>Støttemur spor 405. Skovgaardsgade.</name>
+            <LineString id="149290">
+                <coordinates>10.1888251062975,56.1501488788316,0.0 10.1891330857335,56.1502365871541,0.0 10.1891740395882,56.1502074396053,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149293">
+            <name>Støttemur (ny) spor 405</name>
+            <LineString id="149292">
+                <coordinates>10.1891804767596,56.1502073776616,0.0 10.1887033527515,56.1499783461398,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149295">
+            <name>Støttemur spor 405.</name>
+            <LineString id="149294">
+                <coordinates>10.1886904784831,56.149978469977,0.0 10.1884230978104,56.1498689684212,0.0 10.1883852161167,56.1498933484116,0.0 10.1880284616982,56.1497044898299,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149297">
+            <name>Plantestensmur. Viby St. P-plads</name>
+            <LineString id="149296">
+                <coordinates>12.025736995555,55.550425841429,0.0 12.0254746210753,55.5502309458235,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149299">
+            <name>Støttemur. Kornbakken</name>
+            <LineString id="149298">
+                <coordinates>11.7663139856418,55.2336320188302,0.0 11.7665377036476,55.2335010874931,0.0 11.7667387850213,55.2334066282502,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149301">
+            <name>Stålspuns Hvidemøllevej Syd</name>
+            <LineString id="149300">
+                <coordinates>10.0287404210081,56.4591705338523,0.0 10.0286098503829,56.459142864305,0.0 10.0285154587025,56.4591328645608,0.0 10.0284214069213,56.4591354406999,0.0 10.0283307941492,56.45914517615,0.0 10.0282564055354,56.4591547771535,0.0 10.0281984352516,56.4591714300002,0.0 10.0281311186764,56.459202535961,0.0 10.0280579917585,56.4592588475412,0.0 10.0279910631542,56.4593043259483,0.0 10.0279305755789,56.4593479540188,0.0 10.0278377362944,56.4593954438495,0.0 10.02772567017,56.4594520776147,0.0 10.0275942315039,56.4595124655665,0.0 10.0274819221395,56.4595601162862,0.0 10.0266424688617,56.4598971040432,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149303">
+            <name>Stålspuns Hvidemøllevej Nord</name>
+            <LineString id="149302">
+                <coordinates>10.0271398095084,56.4598450710693,0.0 10.0277884486713,56.4595867297512,0.0 10.0279456954857,56.4595205372741,0.0 10.0280840099074,56.4594477129069,0.0 10.0282150592415,56.4593729519188,0.0 10.0283019143734,56.4593309023273,0.0 10.0283654648616,56.4593072149548,0.0 10.0284319694079,56.4592860988308,0.0 10.0284902688442,56.4592816224714,0.0 10.0285686679857,56.4592869627908,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149305">
+            <name>KBH-væg Isfuglestien</name>
+            <LineString id="149304">
+                <coordinates>12.4948340772726,55.6612255161172,0.0 12.496049098865,55.6607005353081,0.0 12.4975217426133,55.6600453996028,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149307">
+            <name>Stålspuns. Vaskehal</name>
+            <LineString id="149306">
+                <coordinates>10.1823239803093,56.1466721972618,0.0 10.1823595756622,56.1466723558658,0.0 10.1835338279293,56.1471767802214,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149309">
+            <name>Kældervægge Rødover Port</name>
+            <LineString id="149308">
+                <coordinates>12.4581649756563,55.6650182046468,0.0 12.4569296654612,55.6649998918504,0.0 12.4569303772551,55.6649679025038,0.0 12.4562134974316,55.6649599401391,0.0 12.4562117562576,55.6649402081619,0.0 12.4557601126379,55.6649335575784,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149311">
+            <name>Stålspuns. Hasselager, Betulavej (Sti)</name>
+            <LineString id="149310">
+                <coordinates>10.1045038349495,56.106056241922,0.0 10.1044849051255,56.1060689907999,0.0 10.1045164641341,56.1061603598406,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149313">
+            <name>Plantestensmur. Hasselager, Hovedvejen.</name>
+            <LineString id="149312">
+                <coordinates>10.1045202079761,56.1061663166013,0.0 10.1045587717345,56.1062901702309,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149315">
+            <name>Plantestensmur. Århus, Teknikhytter</name>
+            <LineString id="149314">
+                <coordinates>10.1884430108481,56.1489914765999,0.0 10.1884280953664,56.1490181770518,0.0 10.1880413490603,56.1489468172739,0.0 10.188055968852,56.148922116432,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149317">
+            <name>Støttemur. Gammel Viborgvej</name>
+            <LineString id="149316">
+                <coordinates>10.0821034693407,56.1908968212993,0.0 10.0817213186431,56.1905002202964,0.0 10.0817243032686,56.190479028886,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149319">
+            <name>Skjult Stålspuns. Kløverprisvej. Grønnebro.</name>
+            <LineString id="149318">
+                <coordinates>12.4729782,55.66413854,0.0 12.47362528,55.6641276,0.0 12.4736245,55.66410358,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149321">
+            <name>Knoglestensmur. Dyssegård St.</name>
+            <LineString id="149320">
+                <coordinates>12.5359340949621,55.732180779562,0.0 12.5358768554215,55.7322643524641,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149323">
+            <name>Stålspuns Kirkebakken (Brandvej)</name>
+            <LineString id="149322">
+                <coordinates>9.61046038967904,55.7098501644188,0.0 9.6106264827997,55.7098189875954,0.0 9.61109563088464,55.7098078684713,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149325">
+            <name>Stålspuns. Ved Sporsløjfen. Svanemøllen St.</name>
+            <LineString id="149324">
+                <coordinates>12.580124845334,55.7148052727369,0.0 12.5809906780347,55.7145120469341,0.0 12.5818370513048,55.7142267763261,0.0 12.5824709857768,55.7139756780118,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149327">
+            <name>Støttemur SØ Reberbansgade</name>
+            <LineString id="149326">
+                <coordinates>9.91025582292317,57.0498294960212,0.0 9.91037457693072,57.0496974684437,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149329">
+            <name>Støttemur NV Reberbansgade</name>
+            <LineString id="149328">
+                <coordinates>9.9099100495046,57.0499886900012,0.0 9.90971833267914,57.050238037399,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149331">
+            <name>Støttemur NØ Reberbansgade</name>
+            <LineString id="149330">
+                <coordinates>9.91015634930633,57.0499491684974,0.0 9.90991703468706,57.0502743265881,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149333">
+            <name>Støttemur NØ Valdemarsgade</name>
+            <LineString id="149332">
+                <coordinates>9.9096119692066,57.0506948920711,0.0 9.90963198895004,57.0507046289723,0.0 9.90953412721401,57.0508823218891,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149335">
+            <name>Stålspuns Værkmestergade</name>
+            <LineString id="149334">
+                <coordinates>10.1862019879528,56.1476716923232,0.0 10.1897415407177,56.1483457194934,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="149337">
+            <name>Stålspuns Beriderbakken</name>
+            <LineString id="149336">
+                <coordinates>9.53763729,55.71436991,0.0 9.5376483,55.71434814,0.0 9.53778061000001,55.71419563,0.0 9.53794102,55.71403875,0.0</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

@@ -8,6 +8,7 @@ def find_world_files(search_directory):
           world_files.append("%s\\%s" % (search_directory, file_name))
   return world_files
 
+
 def translate_heights(world_file, shape_name_match, delta_height):
   file_text = ""
   was_changed = False

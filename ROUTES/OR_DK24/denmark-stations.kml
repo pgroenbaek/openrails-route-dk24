@@ -1,0 +1,3083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <Placemark id="3">
+            <name>Allerød (Li)</name>
+            <Point id="2">
+                <coordinates>12.35718404,55.87068422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>Jyderup (Jy)</name>
+            <Point id="4">
+                <coordinates>11.39791901,55.66031286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Vanløse (Van)</name>
+            <Point id="6">
+                <coordinates>12.49219378,55.68698326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Østerport (Kk)</name>
+            <Point id="8">
+                <coordinates>12.58994981,55.69368452,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Klampenborg (Kl)</name>
+            <Point id="10">
+                <coordinates>12.58826762,55.77654343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Birkerød (Bi)</name>
+            <Point id="12">
+                <coordinates>12.42367314,55.84043765,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Gentofte (Gj)</name>
+            <Point id="14">
+                <coordinates>12.54162847,55.75353681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Ølstykke (Øl)</name>
+            <Point id="16">
+                <coordinates>12.15927514,55.79581386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Lyngby (Ly)</name>
+            <Point id="18">
+                <coordinates>12.50253873,55.7683943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Køge (Kj)</name>
+            <Point id="20">
+                <coordinates>12.18645763,55.45776191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>Buddinge (Bud)</name>
+            <Point id="22">
+                <coordinates>12.49269802,55.74738692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Gedser (Ge)</name>
+            <Point id="24">
+                <coordinates>11.92530364,54.57912702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Dyssegård (Dyt)</name>
+            <Point id="26">
+                <coordinates>12.53551872,55.73320346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>Ballerup (Ba)</name>
+            <Point id="28">
+                <coordinates>12.35862988,55.72964418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>Mørkøv (Mø)</name>
+            <Point id="30">
+                <coordinates>11.50181378,55.65448886,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>Taastrup (Tå)</name>
+            <Point id="32">
+                <coordinates>12.3024518,55.6524532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>Svendborg (Svg)</name>
+            <Point id="34">
+                <coordinates>10.61202747,55.05889557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Kratbjerg (Krb)</name>
+            <Point id="36">
+                <coordinates>12.39204739,55.9663208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>Skanderborg (Sd)</name>
+            <Point id="38">
+                <coordinates>9.9249498,56.04352986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>Mørdrup (Møt)</name>
+            <Point id="40">
+                <coordinates>12.53210141,56.00204564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Ringe (Re)</name>
+            <Point id="42">
+                <coordinates>10.48175222,55.23954841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Fruens Bøge (Frs)</name>
+            <Point id="44">
+                <coordinates>10.37750273,55.36972852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>Middelfart (Md)</name>
+            <Point id="46">
+                <coordinates>9.73435236,55.50169874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>Stenstrup (Sts)</name>
+            <Point id="48">
+                <coordinates>10.50897615,55.13219267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>Årslev (Ås)</name>
+            <Point id="50">
+                <coordinates>10.46596527,55.30129055,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>Vojens (Oj)</name>
+            <Point id="52">
+                <coordinates>9.30510818,55.24839679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>Kvistgård (Kå)</name>
+            <Point id="54">
+                <coordinates>12.50258646,55.99048218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Grønholt (Grt)</name>
+            <Point id="56">
+                <coordinates>12.3693652,55.95310664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>Langerød (Lrt)</name>
+            <Point id="58">
+                <coordinates>12.4522421,55.98131954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>Fredericia (Fa)</name>
+            <Point id="60">
+                <coordinates>9.74017795,55.56827444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>Ryomgård (Rå)</name>
+            <Point id="62">
+                <coordinates>10.50059453,56.38005861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Bredebro (Bw)</name>
+            <Point id="64">
+                <coordinates>8.8233414,55.05727634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>Holte (Hot)</name>
+            <Point id="66">
+                <coordinates>12.4686392,55.8077229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>Farum (Fm)</name>
+            <Point id="68">
+                <coordinates>12.37473753,55.81114263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Vejle (Vj)</name>
+            <Point id="70">
+                <coordinates>9.53683073,55.70665058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>Tinglev (Te)</name>
+            <Point id="72">
+                <coordinates>9.2581599,54.93634073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Bramming (Bm)</name>
+            <Point id="74">
+                <coordinates>8.70668807,55.46448566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>Tjæreborg (Tb)</name>
+            <Point id="76">
+                <coordinates>8.57938049,55.46651294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Hornslet (Os)</name>
+            <Point id="78">
+                <coordinates>10.3137363,56.32075072,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Ejby (Eb)</name>
+            <Point id="80">
+                <coordinates>9.92988079,55.42873649,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>Kalundborg (Kb)</name>
+            <Point id="82">
+                <coordinates>11.08929673,55.67769711,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name>Fredensborg (Fd)</name>
+            <Point id="84">
+                <coordinates>12.40686181,55.97706061,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Gjesing (Gje)</name>
+            <Point id="86">
+                <coordinates>8.45742057,55.50949666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>Brøndbyøster (Bøt)</name>
+            <Point id="88">
+                <coordinates>12.44162303,55.66510825,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>Ølby (Ølb)</name>
+            <Point id="90">
+                <coordinates>12.17539981,55.47989377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>Avedøre (Avø)</name>
+            <Point id="92">
+                <coordinates>12.45512362,55.62565814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Ishøj (Ih)</name>
+            <Point id="94">
+                <coordinates>12.35794896,55.61346599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>København H (Kh)</name>
+            <Point id="96">
+                <coordinates>12.56451888,55.67231315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>Hellerup (Hl)</name>
+            <Point id="98">
+                <coordinates>12.5666626,55.73106255,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>Østbanetorvet (Øs)</name>
+            <Point id="100">
+                <coordinates>10.21658323,56.16315564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Lunderskov (Lk)</name>
+            <Point id="102">
+                <coordinates>9.30372122,55.48000641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Varde Kaserne (Vka)</name>
+            <Point id="104">
+                <coordinates>8.472203350000001,55.61211095,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Vestre Strandallé (Vsa)</name>
+            <Point id="106">
+                <coordinates>10.23676026,56.19500964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>Egedal (Egd)</name>
+            <Point id="108">
+                <coordinates>12.185784,55.77914073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Danshøj (Dah)</name>
+            <Point id="110">
+                <coordinates>12.4935687,55.66427702,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>Høvelte (Høv)</name>
+            <Point id="112">
+                <coordinates>12.38859067,55.85081603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Flintholm (Fl)</name>
+            <Point id="114">
+                <coordinates>12.4989512,55.68499063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>Tårnby (Tåt)</name>
+            <Point id="116">
+                <coordinates>12.60182583,55.62971102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Ørestad (Øre)</name>
+            <Point id="118">
+                <coordinates>12.57924778,55.62839515,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Sydhavn (Syv)</name>
+            <Point id="120">
+                <coordinates>12.5377288,55.65509947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>Ålholm (Ålm)</name>
+            <Point id="122">
+                <coordinates>12.49323884,55.67184488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Sorgenfri (Sft)</name>
+            <Point id="124">
+                <coordinates>12.48450102,55.78087343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Virum (Vir)</name>
+            <Point id="126">
+                <coordinates>12.47265657,55.79689897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Trekroner (Trk)</name>
+            <Point id="128">
+                <coordinates>12.13252657,55.647771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Skovlunde (Sko)</name>
+            <Point id="130">
+                <coordinates>12.40199121,55.72318291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Flintholm (Fl)</name>
+            <Point id="132">
+                <coordinates>12.49893068,55.68555256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>Glostrup (Gl)</name>
+            <Point id="134">
+                <coordinates>12.3989114,55.66305994,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>Regstrup (Rt)</name>
+            <Point id="136">
+                <coordinates>11.61270682,55.67758213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Veksø (Vs)</name>
+            <Point id="138">
+                <coordinates>12.23834703,55.7500285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Svanemøllen (Sam)</name>
+            <Point id="140">
+                <coordinates>12.57992805,55.71524248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>København H (Kh)</name>
+            <Point id="142">
+                <coordinates>12.56572955,55.67272707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Åmarken (Åm)</name>
+            <Point id="144">
+                <coordinates>12.4993153,55.6392111,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>Svebølle (Se)</name>
+            <Point id="146">
+                <coordinates>11.29251867,55.6521441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>Valby (Val)</name>
+            <Point id="148">
+                <coordinates>12.51435136,55.66371791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>Frederikssund (Fs)</name>
+            <Point id="150">
+                <coordinates>12.06889318,55.83197248,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Holløse (Hog)</name>
+            <Point id="152">
+                <coordinates>12.1185621,56.05959201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>Ørby (Øbg)</name>
+            <Point id="154">
+                <coordinates>12.16332319,56.0552352,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Humlum (Um)</name>
+            <Point id="156">
+                <coordinates>8.55234876,56.54014264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>Mørke (Mr)</name>
+            <Point id="158">
+                <coordinates>10.37669331,56.3395505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Stenstrup Syd (Sis)</name>
+            <Point id="160">
+                <coordinates>10.51523785,55.12009179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>Nørre Aaby (Na)</name>
+            <Point id="162">
+                <coordinates>9.87042926,55.46032597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>Gelsted (Gd)</name>
+            <Point id="164">
+                <coordinates>9.97406838,55.39651043,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>Alken (Ak)</name>
+            <Point id="166">
+                <coordinates>9.84554084,56.05257041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Hjallese (Hjs)</name>
+            <Point id="168">
+                <coordinates>10.39268309,55.35823285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Skalbjerg (Sc)</name>
+            <Point id="170">
+                <coordinates>10.14122742,55.36607588,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Løgten (Lt)</name>
+            <Point id="172">
+                <coordinates>10.31748977,56.27588735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>Hørdum (Hæ)</name>
+            <Point id="174">
+                <coordinates>8.49082671,56.85126421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Skolebakken (Bak)</name>
+            <Point id="176">
+                <coordinates>10.21317881,56.15719481,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>Tolne (To)</name>
+            <Point id="178">
+                <coordinates>10.31205086,57.48579478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>Varde Nord (Vno)</name>
+            <Point id="180">
+                <coordinates>8.49986135,55.63089405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Svendborg Vest (Svv)</name>
+            <Point id="182">
+                <coordinates>10.58187485,55.05587441,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>Bred (Bd)</name>
+            <Point id="184">
+                <coordinates>10.10555726,55.37337028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>Hee (He)</name>
+            <Point id="186">
+                <coordinates>8.28695624,56.14466554,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>Lyngs (Ln)</name>
+            <Point id="188">
+                <coordinates>8.45082087,56.66434629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Sjørring (Ri)</name>
+            <Point id="190">
+                <coordinates>8.58805314,56.95178798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Kliplev (Kw)</name>
+            <Point id="192">
+                <coordinates>9.39875474,54.9350562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>Støvring (Sr)</name>
+            <Point id="194">
+                <coordinates>9.84389386,56.89244367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Oddesund Nord (No)</name>
+            <Point id="196">
+                <coordinates>8.54691126,56.5826434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>Birk Centerpark (Bic)</name>
+            <Point id="198">
+                <coordinates>9.02979267,56.12526445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Rudme (Rus)</name>
+            <Point id="200">
+                <coordinates>10.48751131,55.19826037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>Uglev (Ul)</name>
+            <Point id="202">
+                <coordinates>8.54146543,56.61223596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>Holbæk (Hk)</name>
+            <Point id="204">
+                <coordinates>11.70822526,55.71557216,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>Taulov (Tl)</name>
+            <Point id="206">
+                <coordinates>9.61576407,55.54497037,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>Hareskov (Har)</name>
+            <Point id="208">
+                <coordinates>12.4079021,55.76527979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>Hellerup (Hl)</name>
+            <Point id="210">
+                <coordinates>12.56731786,55.73112128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>Laugø (Løg)</name>
+            <Point id="212">
+                <coordinates>12.18281552,56.03932593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>Duemose (Dug)</name>
+            <Point id="214">
+                <coordinates>12.26279643,56.00962724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>Kildebakke (Ket)</name>
+            <Point id="216">
+                <coordinates>12.50929388,55.74429182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Hedehusene (Hh)</name>
+            <Point id="218">
+                <coordinates>12.19710633,55.64863981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>Hvidovre Nær (Hit)</name>
+            <Point id="220">
+                <coordinates>12.47654716,55.66451168,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>Friheden (Frh)</name>
+            <Point id="222">
+                <coordinates>12.48349255,55.62944228,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>Islev (Ist)</name>
+            <Point id="224">
+                <coordinates>12.46945117,55.69896693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Sjælør (Sjæ)</name>
+            <Point id="226">
+                <coordinates>12.5253627,55.65145413,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>Vigerslev Allé (Vgt)</name>
+            <Point id="228">
+                <coordinates>12.49932076,55.65968754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>Rødovre (Rdo)</name>
+            <Point id="230">
+                <coordinates>12.45953351,55.66489257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Humlebæk (Hum)</name>
+            <Point id="232">
+                <coordinates>12.53279484,55.96348388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>Albertslund (Alb)</name>
+            <Point id="234">
+                <coordinates>12.35377197,55.65820562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>Næstved Nord (Næn)</name>
+            <Point id="236">
+                <coordinates>11.78672235,55.24818626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>Langgade (Vat)</name>
+            <Point id="238">
+                <coordinates>12.50409314,55.66764031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Thyborøn (Tht)</name>
+            <Point id="240">
+                <coordinates>8.20713428,56.69726704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>Sprogøvej (Ths)</name>
+            <Point id="242">
+                <coordinates>8.21075311,56.69161041,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>Klinkby (Kli)</name>
+            <Point id="244">
+                <coordinates>8.22068844,56.5645393,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>Balleby (Bat)</name>
+            <Point id="246">
+                <coordinates>8.24191685,56.5475532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>Kongsvang (Kgv)</name>
+            <Point id="248">
+                <coordinates>10.17417972,56.13595172,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>Øllegårdsvej (Øgt)</name>
+            <Point id="250">
+                <coordinates>10.13420969,56.11469913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>Gunnar Clausensvej (Gct)</name>
+            <Point id="252">
+                <coordinates>10.12594464,56.11163584,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>Nørrevænget (Nrv)</name>
+            <Point id="254">
+                <coordinates>10.1517459,56.09200193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>Carlsberg (Cb)</name>
+            <Point id="256">
+                <coordinates>12.53588491,55.66340653,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>Aabenraa (Åa)</name>
+            <Point id="258">
+                <coordinates>9.41913033,55.04915744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Tommerup (Tp)</name>
+            <Point id="260">
+                <coordinates>10.18248976,55.34963299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>Holsted (Hq)</name>
+            <Point id="262">
+                <coordinates>8.91421935,55.48480921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>Tønder (Tdr)</name>
+            <Point id="264">
+                <coordinates>8.86057238,54.93343089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>Horsens (Hs)</name>
+            <Point id="266">
+                <coordinates>9.83578742,55.86234622,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Bagsværd (Bav)</name>
+            <Point id="268">
+                <coordinates>12.4550051,55.76160378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Stenløse (St)</name>
+            <Point id="270">
+                <coordinates>12.19022701,55.76658779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name>Nørreport (Kn)</name>
+            <Point id="272">
+                <coordinates>12.57236656,55.68373188,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Jyllingevej (Jyt)</name>
+            <Point id="274">
+                <coordinates>12.47876959,55.69008064,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>Vangede (Ang)</name>
+            <Point id="276">
+                <coordinates>12.52563332,55.73888024,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>Husum (Hut)</name>
+            <Point id="278">
+                <coordinates>12.46299808,55.71051632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Danshøj (Dah)</name>
+            <Point id="280">
+                <coordinates>12.49381583,55.66458639,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>Kildedal (Kid)</name>
+            <Point id="282">
+                <coordinates>12.28691031,55.75195555,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>Charlottenlund (Ch)</name>
+            <Point id="284">
+                <coordinates>12.57232081,55.75169567,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Børkop (Bk)</name>
+            <Point id="286">
+                <coordinates>9.65197098,55.64211366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>Hørning (Hx)</name>
+            <Point id="288">
+                <coordinates>10.03780882,56.0821444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>Greve (Gre)</name>
+            <Point id="290">
+                <coordinates>12.29651454,55.58170142,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Skovbrynet (Skt)</name>
+            <Point id="292">
+                <coordinates>12.4352168,55.76546559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>Peter Bangsvej (Pbt)</name>
+            <Point id="294">
+                <coordinates>12.50393721,55.67744471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Ryparken (Ryt)</name>
+            <Point id="296">
+                <coordinates>12.56046543,55.71593414,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Ryparken (Ryt)</name>
+            <Point id="298">
+                <coordinates>12.56001401,55.71582269,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Vamdrup (Vm)</name>
+            <Point id="300">
+                <coordinates>9.28660015,55.42806695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Tarm (Ta)</name>
+            <Point id="302">
+                <coordinates>8.52001002,55.91059226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>Pederstrup (Pds)</name>
+            <Point id="304">
+                <coordinates>10.48596375,55.28384612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Gårde (Gå)</name>
+            <Point id="306">
+                <coordinates>8.61163929,55.76547917,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>Gørding (Gø)</name>
+            <Point id="308">
+                <coordinates>8.7999426,55.4694513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Viby Jylland (Vi)</name>
+            <Point id="310">
+                <coordinates>10.15952314,56.12189366,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>Vejle Sygehus (Vjs)</name>
+            <Point id="312">
+                <coordinates>9.53680835,55.71495522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>Højby (Høs)</name>
+            <Point id="314">
+                <coordinates>10.43396271,55.33023777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>Rosenhøj (Rh)</name>
+            <Point id="316">
+                <coordinates>10.14744357,56.11705175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>Mølleparken (Mpk)</name>
+            <Point id="318">
+                <coordinates>10.15436425,56.07264063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>Esbjerg (Es)</name>
+            <Point id="320">
+                <coordinates>8.45853235,55.46724032,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>Ribe (Rb)</name>
+            <Point id="322">
+                <coordinates>8.77019987,55.32760066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>Skødstrup (Øds)</name>
+            <Point id="324">
+                <coordinates>10.30322325,56.26185757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Snekkersten (Sq)</name>
+            <Point id="326">
+                <coordinates>12.58388799,56.00936466,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>Rungsted Kyst (Ru)</name>
+            <Point id="328">
+                <coordinates>12.53174804,55.88230913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>Skodsborg (Så)</name>
+            <Point id="330">
+                <coordinates>12.57169652,55.82351894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>Nivå (Ni)</name>
+            <Point id="332">
+                <coordinates>12.50640102,55.9333682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>Ydby (Yd)</name>
+            <Point id="334">
+                <coordinates>8.39869388,56.71414716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>Ølby (Ølb)</name>
+            <Point id="336">
+                <coordinates>12.17480782,55.48061418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>Spangsbjerg (Esn)</name>
+            <Point id="338">
+                <coordinates>8.46080315,55.49262214,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Hjortshøj (Ht)</name>
+            <Point id="340">
+                <coordinates>10.26901083,56.24478842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>Vilhelmsborg (Vh)</name>
+            <Point id="342">
+                <coordinates>10.17815545,56.06429986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Beder (Bed)</name>
+            <Point id="344">
+                <coordinates>10.19810965,56.05646985,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>Rude Havvej (Ruh)</name>
+            <Point id="346">
+                <coordinates>10.15429669,55.98364141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Avnede (Avd)</name>
+            <Point id="348">
+                <coordinates>11.21426478,54.82926609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Hedensted (Hed)</name>
+            <Point id="350">
+                <coordinates>9.69875974,55.76767759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>Torsøvej (Tov)</name>
+            <Point id="352">
+                <coordinates>10.22870532,56.20514716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Varpelev (Vap)</name>
+            <Point id="354">
+                <coordinates>12.27966716,55.35250315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Tokkerup (Tok)</name>
+            <Point id="356">
+                <coordinates>12.14263228,55.28319879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>Lille Linde (Lli)</name>
+            <Point id="358">
+                <coordinates>12.21963582,55.33735337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Himlingøje (Hmø)</name>
+            <Point id="360">
+                <coordinates>12.22126794,55.36812793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Rejsby (Rej)</name>
+            <Point id="362">
+                <coordinates>8.73209338,55.23010652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Hovmarken (Lpt)</name>
+            <Point id="364">
+                <coordinates>10.25537435,56.23410657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>Brørup (Bp)</name>
+            <Point id="366">
+                <coordinates>9.0169906,55.48275128,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Odense Sygehus (Oss)</name>
+            <Point id="368">
+                <coordinates>10.36645659,55.38152666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Troldhede (Td)</name>
+            <Point id="370">
+                <coordinates>8.74507522,55.99066297,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>Aarup (Ap)</name>
+            <Point id="372">
+                <coordinates>10.05114801,55.38300439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Rødekro (Rq)</name>
+            <Point id="374">
+                <coordinates>9.33283602,55.0691525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>Lystrup (Lp)</name>
+            <Point id="376">
+                <coordinates>10.23493512,56.23096306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>Gredstedbro (Gs)</name>
+            <Point id="378">
+                <coordinates>8.74115374,55.39742302,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Vrist (Vri)</name>
+            <Point id="380">
+                <coordinates>8.14806174,56.60084113,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>Armose (Arm)</name>
+            <Point id="382">
+                <coordinates>8.26505968,56.5290488,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Sinkbæk (Sit)</name>
+            <Point id="384">
+                <coordinates>8.28458171,56.43729807,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Victoria Street Station (Vic)</name>
+            <Point id="386">
+                <coordinates>8.14327741,56.57741325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>Grenaa (Gr)</name>
+            <Point id="388">
+                <coordinates>10.87951423,56.41255085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>Kværndrup (Kvs)</name>
+            <Point id="390">
+                <coordinates>10.5187752,55.17811468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>Sønderborg (Sdb)</name>
+            <Point id="392">
+                <coordinates>9.77218535,54.91447713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>Nejrup (Net)</name>
+            <Point id="394">
+                <coordinates>8.1870952,56.56556097,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>Lejre (Lj)</name>
+            <Point id="396">
+                <coordinates>11.97124126,55.60451203,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>København H (Kh)</name>
+            <Point id="398">
+                <coordinates>12.56451888,55.67231315,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>Østerport (Kk)</name>
+            <Point id="400">
+                <coordinates>12.5892435,55.69377869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>Høje Taastrup (Htå)</name>
+            <Point id="402">
+                <coordinates>12.26967044,55.64902246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Herlev (Her)</name>
+            <Point id="404">
+                <coordinates>12.4431855,55.71889256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>Haderslev By (Hab)</name>
+            <Point id="406">
+                <coordinates>9.47404585,55.25231906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>Ravnholm (Rvh)</name>
+            <Point id="408">
+                <coordinates>12.51965852,55.80209983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Brede (Bre)</name>
+            <Point id="410">
+                <coordinates>12.50072182,55.79449722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Lyngby Lokal (Lyl)</name>
+            <Point id="412">
+                <coordinates>12.50491785,55.77396192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>Nørgaardsvej (Nøv)</name>
+            <Point id="414">
+                <coordinates>12.51338257,55.77042872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Arden (Ad)</name>
+            <Point id="416">
+                <coordinates>9.85983924,56.76898553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>Herning Messecenter (Hrm)</name>
+            <Point id="418">
+                <coordinates>8.94436072,56.12363849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>Bur (Bu)</name>
+            <Point id="420">
+                <coordinates>8.4273629,56.3676763,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>Tim (Tm)</name>
+            <Point id="422">
+                <coordinates>8.30607993,56.19581094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>Sig (Is)</name>
+            <Point id="424">
+                <coordinates>8.57702408,55.66541042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>Den Permanente (Per)</name>
+            <Point id="426">
+                <coordinates>10.23124495,56.17718721,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>Kolind (Ko)</name>
+            <Point id="428">
+                <coordinates>10.58855191,56.36275922,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>Knabstrup (Ks)</name>
+            <Point id="430">
+                <coordinates>11.55329923,55.6648193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Nørreport (Kn)</name>
+            <Point id="432">
+                <coordinates>12.57264796,55.6837158,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Værløse (Vær)</name>
+            <Point id="434">
+                <coordinates>12.37174672,55.78257582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>Jægersborg (Jæt)</name>
+            <Point id="436">
+                <coordinates>12.52046554,55.76206595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>Vesterport (Vpt)</name>
+            <Point id="438">
+                <coordinates>12.56264495,55.67671495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Dybbølsbro (Dbt)</name>
+            <Point id="440">
+                <coordinates>12.55994798,55.66563997,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>Brøndby Strand (Bsa)</name>
+            <Point id="442">
+                <coordinates>12.42164325,55.62105616,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>Kokkedal (Ok)</name>
+            <Point id="444">
+                <coordinates>12.50230965,55.90360755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>Bernstorffsvej (Bft)</name>
+            <Point id="446">
+                <coordinates>12.55841755,55.74258063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>Stengården (Sgt)</name>
+            <Point id="448">
+                <coordinates>12.4720325,55.75746065,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>Fuglebakken (Fut)</name>
+            <Point id="450">
+                <coordinates>12.52691586,55.6953209,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>Espergærde (Gæ)</name>
+            <Point id="452">
+                <coordinates>12.54982299,55.99587964,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>Måløv (Mw)</name>
+            <Point id="454">
+                <coordinates>12.31862624,55.74717186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>KB Hallen (Kbn)</name>
+            <Point id="456">
+                <coordinates>12.49239122,55.67759446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>Vedbæk (Vb)</name>
+            <Point id="458">
+                <coordinates>12.56246976,55.85274044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>Emdrup (Emt)</name>
+            <Point id="460">
+                <coordinates>12.54082957,55.72109266,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>Grøndal (Ght)</name>
+            <Point id="462">
+                <coordinates>12.51537099,55.69053672,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Nørrebro (Nø)</name>
+            <Point id="464">
+                <coordinates>12.53785132,55.70073522,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>Valby (Val)</name>
+            <Point id="466">
+                <coordinates>12.51454299,55.66367817,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>Ordrup (Op)</name>
+            <Point id="468">
+                <coordinates>12.58324318,55.76219229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>Jersie (Jsi)</name>
+            <Point id="470">
+                <coordinates>12.2089781,55.52150005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>Malmparken (Mpt)</name>
+            <Point id="472">
+                <coordinates>12.3861196,55.72464345,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>Tønder Nord (Trn)</name>
+            <Point id="474">
+                <coordinates>8.86109435,54.93908498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>Visby (Vis)</name>
+            <Point id="476">
+                <coordinates>8.80200456,55.00877556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>Døstrup Sønderjylland (Ds)</name>
+            <Point id="478">
+                <coordinates>8.80795017,55.11728318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>Brøns (Brr)</name>
+            <Point id="480">
+                <coordinates>8.74071577,55.195256,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>Hviding (Vd)</name>
+            <Point id="482">
+                <coordinates>8.73025919,55.2745475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>Ribe Nørremark (Rbn)</name>
+            <Point id="484">
+                <coordinates>8.77587673,55.33991485,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>Sejstrup (Sej)</name>
+            <Point id="486">
+                <coordinates>8.73343879,55.43516318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>Svenstrup Jylland (Sn)</name>
+            <Point id="488">
+                <coordinates>9.85625685,56.97243919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>Skalborg (Og)</name>
+            <Point id="490">
+                <coordinates>9.89883213,57.0083874,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>Studsgård (Stu)</name>
+            <Point id="492">
+                <coordinates>8.9106972,56.09174292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>Nyled (Ndt)</name>
+            <Point id="494">
+                <coordinates>11.65334979,55.92237908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>Sommerland Sjælland (Slt)</name>
+            <Point id="496">
+                <coordinates>11.60346792,55.89752739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>Ny Hagested (Hgt)</name>
+            <Point id="498">
+                <coordinates>11.59566209,55.72872746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>Stenhus (Sht)</name>
+            <Point id="500">
+                <coordinates>11.68722587,55.71527775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>Godhavn (Ghg)</name>
+            <Point id="502">
+                <coordinates>12.097835,56.0599418,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>Vellingshøj (Vlh)</name>
+            <Point id="504">
+                <coordinates>9.96859649,57.48043445,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>Herregårdsparken (Hgp)</name>
+            <Point id="506">
+                <coordinates>9.96580504,57.47327316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>Teglgårdsvej (Tgv)</name>
+            <Point id="508">
+                <coordinates>9.96298859,57.46020169,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>Strandby (Stb)</name>
+            <Point id="510">
+                <coordinates>10.49007621,57.48999932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>Skagen (Sgb)</name>
+            <Point id="512">
+                <coordinates>10.59138143,57.72426456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>Jerup (Jeu)</name>
+            <Point id="514">
+                <coordinates>10.41739149,57.53185532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>Ålbæk (Ålb)</name>
+            <Point id="516">
+                <coordinates>10.40832209,57.59228261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>Hulsig (Hul)</name>
+            <Point id="518">
+                <coordinates>10.46339206,57.65982001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>Frederikshavnsvej (Fhv)</name>
+            <Point id="520">
+                <coordinates>10.5637327,57.72472741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>Bunken (Buk)</name>
+            <Point id="522">
+                <coordinates>10.43968028,57.63030077,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>Napstjert (Nap)</name>
+            <Point id="524">
+                <coordinates>10.40835775,57.55444394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>Rimmen (Rim)</name>
+            <Point id="526">
+                <coordinates>10.44532017,57.50478317,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>Faxe Ladeplads (Fxl)</name>
+            <Point id="528">
+                <coordinates>12.16094606,55.21827609,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>Klippinge (Klp)</name>
+            <Point id="530">
+                <coordinates>12.32509413,55.34634779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>Asnæs (Asn)</name>
+            <Point id="532">
+                <coordinates>11.49923563,55.80858226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>Grevinge (Grv)</name>
+            <Point id="534">
+                <coordinates>11.55087511,55.80279117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>Vig (Vig)</name>
+            <Point id="536">
+                <coordinates>11.58191523,55.85224624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>Nørre Asmindrup (Nam)</name>
+            <Point id="538">
+                <coordinates>11.60677933,55.88281026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>Sakskøbing (Sx)</name>
+            <Point id="540">
+                <coordinates>11.63533169,54.79657851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>Nykøbing Sjælland (Nks)</name>
+            <Point id="542">
+                <coordinates>11.67286935,55.92150803,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>Bækmarksbro (Bkm)</name>
+            <Point id="544">
+                <coordinates>8.30845669,56.41183421,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>Fåre (Fre)</name>
+            <Point id="546">
+                <coordinates>8.2628056,56.45314094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>Ramme (Ram)</name>
+            <Point id="548">
+                <coordinates>8.21158248,56.48840194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>Rønland (Røn)</name>
+            <Point id="550">
+                <coordinates>8.19484837,56.65676218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>Thyborøn Havn (Thb)</name>
+            <Point id="552">
+                <coordinates>8.21368561,56.70368385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>Harboøre (Hbø)</name>
+            <Point id="554">
+                <coordinates>8.17829568,56.62016534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>Egøje (Egø)</name>
+            <Point id="556">
+                <coordinates>12.18994554,55.42451342,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>Vallø (Vlø)</name>
+            <Point id="558">
+                <coordinates>12.19215981,55.40032375,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>Grubberholm (Grh)</name>
+            <Point id="560">
+                <coordinates>12.19953451,55.38117889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>Hårlev (Hrl)</name>
+            <Point id="562">
+                <coordinates>12.2274557,55.35186793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>Karise (Kri)</name>
+            <Point id="564">
+                <coordinates>12.19658618,55.30740538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>Ørholm (Ørh)</name>
+            <Point id="566">
+                <coordinates>12.51086002,55.79993112,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>Tranbjerg (Trg)</name>
+            <Point id="568">
+                <coordinates>10.13600182,56.09636218,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>Mårslet (Mst)</name>
+            <Point id="570">
+                <coordinates>10.16440049,56.06871204,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>Malling (Mal)</name>
+            <Point id="572">
+                <coordinates>10.19210158,56.03684483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>Assedrup (Ass)</name>
+            <Point id="574">
+                <coordinates>10.18179006,56.00374746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>Bonnet (Bnt)</name>
+            <Point id="576">
+                <coordinates>8.22246503,56.52082201,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>Lemvig (Lmv)</name>
+            <Point id="578">
+                <coordinates>8.29902575,56.54654498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>Strande (Sta)</name>
+            <Point id="580">
+                <coordinates>8.16261201,56.56884932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>Ryde (Ryd)</name>
+            <Point id="582">
+                <coordinates>11.37102586,54.7853232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>Søllested (Søl)</name>
+            <Point id="584">
+                <coordinates>11.27013308,54.81111462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>Nakskov (Nsk)</name>
+            <Point id="586">
+                <coordinates>11.13714629,54.83358047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>Højby Sjælland (Hbs)</name>
+            <Point id="588">
+                <coordinates>11.6029706,55.9101578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>Amstrup (Amt)</name>
+            <Point id="590">
+                <coordinates>8.32988077,56.39051952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>Mårsø (Må)</name>
+            <Point id="592">
+                <coordinates>11.63413918,55.72340012,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>Gislinge (Gsl)</name>
+            <Point id="594">
+                <coordinates>11.54766706,55.72959329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>Svinninge (Sng)</name>
+            <Point id="596">
+                <coordinates>11.46829038,55.72339343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>Hørve (Hve)</name>
+            <Point id="598">
+                <coordinates>11.45655128,55.75184084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>Fårevejle (Fvj)</name>
+            <Point id="600">
+                <coordinates>11.46952903,55.7875296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>Sorø (So)</name>
+            <Point id="602">
+                <coordinates>11.56928497,55.41914092,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>Køge Nord (Kjn)</name>
+            <Point id="604">
+                <coordinates>12.17473913,55.49889378,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>Vejby (Vej)</name>
+            <Point id="606">
+                <coordinates>12.13693821,56.06257502,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>Tisvildeleje (Tvl)</name>
+            <Point id="608">
+                <coordinates>12.07853553,56.05945999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>Jægersborg (Jæt)</name>
+            <Point id="610">
+                <coordinates>12.52170241,55.76179841,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>Fuglevad (Fgv)</name>
+            <Point id="612">
+                <coordinates>12.49722171,55.7846397,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>Langeskov (Lv)</name>
+            <Point id="614">
+                <coordinates>10.58688685,55.36172261,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>Gråsten (Gst)</name>
+            <Point id="616">
+                <coordinates>9.59411647,54.91887239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>Trustrup (Tu)</name>
+            <Point id="618">
+                <coordinates>10.77160458,56.35069208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>Vipperød (Pe)</name>
+            <Point id="620">
+                <coordinates>11.73883072,55.66694316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>Hvalsø (Hv)</name>
+            <Point id="622">
+                <coordinates>11.8598087,55.59532215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>Kolding (Kd)</name>
+            <Point id="624">
+                <coordinates>9.481366,55.49064984,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>Vejen (Vn)</name>
+            <Point id="626">
+                <coordinates>9.13610846,55.47579215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>Skærbæk (Æk)</name>
+            <Point id="628">
+                <coordinates>8.77142988,55.15879178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>Tølløse (Tø)</name>
+            <Point id="630">
+                <coordinates>11.77308232,55.61199858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>Outrup (Ovt)</name>
+            <Point id="632">
+                <coordinates>8.34468941,55.71731197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>Kavslunde (Ka)</name>
+            <Point id="634">
+                <coordinates>9.81047199,55.47603447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>Holmstrup (Hp)</name>
+            <Point id="636">
+                <coordinates>10.27303318,55.36235734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>Nyborg (Ng)</name>
+            <Point id="638">
+                <coordinates>10.80307185,55.31380368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>Øster Toreby (Øto)</name>
+            <Point id="640">
+                <coordinates>11.82999945,54.76033944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>Næstved (Næ)</name>
+            <Point id="642">
+                <coordinates>11.7672674,55.23128318,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>Glostrup (Gl)</name>
+            <Point id="644">
+                <coordinates>12.3989864,55.66290273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>Klampenborg (Kl)</name>
+            <Point id="646">
+                <coordinates>12.58882629,55.77665925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>Sparkær (Sp)</name>
+            <Point id="648">
+                <coordinates>9.22768345,56.47514337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>Bedsted Thy (Bn)</name>
+            <Point id="650">
+                <coordinates>8.40764245,56.80659506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="653">
+            <name>Hurup Thy (Ur)</name>
+            <Point id="652">
+                <coordinates>8.41800225,56.751154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="655">
+            <name>Billum (Bim)</name>
+            <Point id="654">
+                <coordinates>8.33126946,55.61691595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="657">
+            <name>Henne (Hnn)</name>
+            <Point id="656">
+                <coordinates>8.30456645,55.71038779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="659">
+            <name>Hundige (Und)</name>
+            <Point id="658">
+                <coordinates>12.33452699,55.59807808,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="661">
+            <name>Karlslunde (Klu)</name>
+            <Point id="660">
+                <coordinates>12.27019938,55.56631512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="663">
+            <name>Hjørring (Hj)</name>
+            <Point id="662">
+                <coordinates>9.98541458,57.45643309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="665">
+            <name>Hirtshals (Hhs)</name>
+            <Point id="664">
+                <coordinates>9.96313958,57.59176195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="667">
+            <name>Kvægtorvet (Kt)</name>
+            <Point id="666">
+                <coordinates>9.97610209,57.45454372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="669">
+            <name>Lilleheden (Lhe)</name>
+            <Point id="668">
+                <coordinates>9.97638829,57.58524579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="671">
+            <name>Emmersbæk (Emm)</name>
+            <Point id="670">
+                <coordinates>9.97769058,57.57222828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="673">
+            <name>Horne (Hon)</name>
+            <Point id="672">
+                <coordinates>9.97250005,57.55946049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="675">
+            <name>Vidstrup (Vid)</name>
+            <Point id="674">
+                <coordinates>9.94762547,57.50178628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="677">
+            <name>Viby Jylland (Vij)</name>
+            <Point id="676">
+                <coordinates>10.16072468,56.12241505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="679">
+            <name>Glumsø (Gz)</name>
+            <Point id="678">
+                <coordinates>11.69725578,55.35128513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="681">
+            <name>Tornby (Tnb)</name>
+            <Point id="680">
+                <coordinates>9.94954531,57.53293374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="683">
+            <name>Solrød Strand (Sol)</name>
+            <Point id="682">
+                <coordinates>12.21824116,55.53333229,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="685">
+            <name>Nordhavn (Nht)</name>
+            <Point id="684">
+                <coordinates>12.59062508,55.70611573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="687">
+            <name>Gødstrup (Gp)</name>
+            <Point id="686">
+                <coordinates>8.89353201,56.15875603,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="689">
+            <name>Hjørring Øst (Hjø)</name>
+            <Point id="688">
+                <coordinates>10.00594962,57.4548274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="691">
+            <name>Jerne (Jne)</name>
+            <Point id="690">
+                <coordinates>8.486479,55.47447905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="693">
+            <name>Vinge (Vng)</name>
+            <Point id="692">
+                <coordinates>12.11668473,55.81025596,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="695">
+            <name>Vallensbæk (Vlb)</name>
+            <Point id="694">
+                <coordinates>12.38727207,55.62331781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="697">
+            <name>Boulevarden (Bot)</name>
+            <Point id="696">
+                <coordinates>8.46016856,55.62385734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="699">
+            <name>Frisvadvej (Frt)</name>
+            <Point id="698">
+                <coordinates>8.48676807,55.62773018,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="701">
+            <name>Oksbøl (Oks)</name>
+            <Point id="700">
+                <coordinates>8.28363785,55.62604524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="703">
+            <name>Hundested Havn (Huh)</name>
+            <Point id="702">
+                <coordinates>11.84700032,55.96582487,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="705">
+            <name>Græsted (Græ)</name>
+            <Point id="704">
+                <coordinates>12.28697046,56.07261983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="707">
+            <name>Gilleleje (Gll)</name>
+            <Point id="706">
+                <coordinates>12.30197662,56.12366784,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="709">
+            <name>Slotspavillonen (Spg)</name>
+            <Point id="708">
+                <coordinates>12.31117165,55.94298351,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="711">
+            <name>Kagerup (Kgg)</name>
+            <Point id="710">
+                <coordinates>12.28644228,55.99688785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="713">
+            <name>Mårum (Mmg)</name>
+            <Point id="712">
+                <coordinates>12.31747292,56.03032704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="715">
+            <name>Sindal (Sa)</name>
+            <Point id="714">
+                <coordinates>10.20330709,57.47020896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="717">
+            <name>Aulum (Uu)</name>
+            <Point id="716">
+                <coordinates>8.78823355,56.26518564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="719">
+            <name>Kibæk (Kæ)</name>
+            <Point id="718">
+                <coordinates>8.85343081,56.03260916,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="721">
+            <name>Give (Gw)</name>
+            <Point id="720">
+                <coordinates>9.23570928,55.84308746,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="723">
+            <name>Kirke Eskilstrup (Kek)</name>
+            <Point id="722">
+                <coordinates>11.76525969,55.57428259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="725">
+            <name>Havrebjerg (Heb)</name>
+            <Point id="724">
+                <coordinates>11.30778708,55.45101706,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="727">
+            <name>Høng (Øn)</name>
+            <Point id="726">
+                <coordinates>11.28582301,55.50707496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="729">
+            <name>Ruds Vedby (Ruv)</name>
+            <Point id="728">
+                <coordinates>11.37429502,55.53978938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="731">
+            <name>Ulfborg (Uf)</name>
+            <Point id="730">
+                <coordinates>8.32511256,56.27168752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="733">
+            <name>Vemb (Vem)</name>
+            <Point id="732">
+                <coordinates>8.34521716,56.34360914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="735">
+            <name>Laven (La)</name>
+            <Point id="734">
+                <coordinates>9.71865221,56.12489125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="737">
+            <name>Svejbæk (Sv)</name>
+            <Point id="736">
+                <coordinates>9.63647152,56.13284141,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="739">
+            <name>Brande (Bb)</name>
+            <Point id="738">
+                <coordinates>9.12993495,55.94465447,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="741">
+            <name>Havdrup (Hd)</name>
+            <Point id="740">
+                <coordinates>12.11716171,55.54357688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="743">
+            <name>Ringkøbing (Rj)</name>
+            <Point id="742">
+                <coordinates>8.25013447,56.0929973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="745">
+            <name>Bispebjerg (Bit)</name>
+            <Point id="744">
+                <coordinates>12.5413232,55.70606914,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="747">
+            <name>Københavns Lufthavn (Cph)</name>
+            <Point id="746">
+                <coordinates>12.65216116,55.62964208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="749">
+            <name>Engesvang (Ev)</name>
+            <Point id="748">
+                <coordinates>9.35159095,56.16778973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="751">
+            <name>Holeby (Hby)</name>
+            <Point id="750">
+                <coordinates>11.43153737,54.68081298,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="753">
+            <name>Højstrup (Høp)</name>
+            <Point id="752">
+                <coordinates>12.59314313,56.04828094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="755">
+            <name>Dronningmølle (Drm)</name>
+            <Point id="754">
+                <coordinates>12.38802505,56.09761775,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="757">
+            <name>København Syd (Nel)</name>
+            <Point id="756">
+                <coordinates>12.51619725,55.65236431,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="759">
+            <name>København Syd (Nel)</name>
+            <Point id="758">
+                <coordinates>12.51493981,55.65329986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="761">
+            <name>København Syd (Nel)</name>
+            <Point id="760">
+                <coordinates>12.51373108,55.65370377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="763">
+            <name>Favrholm (Fvt)</name>
+            <Point id="762">
+                <coordinates>12.31524815,55.91022983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="765">
+            <name>Vibehus (Vif)</name>
+            <Point id="764">
+                <coordinates>11.87331034,55.9604126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="767">
+            <name>Hanehoved (Hhf)</name>
+            <Point id="766">
+                <coordinates>12.00082203,55.97533306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="769">
+            <name>Lille Kregme (Llk)</name>
+            <Point id="768">
+                <coordinates>12.03414051,55.94659239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="771">
+            <name>Grimstrup (Gsf)</name>
+            <Point id="770">
+                <coordinates>12.10200923,55.91579105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="773">
+            <name>Skævinge (Skv)</name>
+            <Point id="772">
+                <coordinates>12.14900934,55.90744296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="775">
+            <name>Ølsted (Øls)</name>
+            <Point id="774">
+                <coordinates>12.07391038,55.9229405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="777">
+            <name>Kregme (Krf)</name>
+            <Point id="776">
+                <coordinates>12.0463173,55.93518038,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="779">
+            <name>Roskilde (Ro)</name>
+            <Point id="778">
+                <coordinates>12.08897245,55.63908291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="781">
+            <name>Ålsgårde (Aal)</name>
+            <Point id="780">
+                <coordinates>12.53813449,56.07503866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="783">
+            <name>Saunte (Sau)</name>
+            <Point id="782">
+                <coordinates>12.4848925,56.07702696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="785">
+            <name>Hornbæk (Hnk)</name>
+            <Point id="784">
+                <coordinates>12.46020888,56.08917507,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="787">
+            <name>Lem (Lm)</name>
+            <Point id="786">
+                <coordinates>8.38589105,56.02508724,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="789">
+            <name>Frederiksværk (Frv)</name>
+            <Point id="788">
+                <coordinates>12.01934609,55.96848704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="791">
+            <name>Melby (Mel)</name>
+            <Point id="790">
+                <coordinates>11.97077923,55.99132509,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="793">
+            <name>Dyssekilde (Dsk)</name>
+            <Point id="792">
+                <coordinates>11.94290632,55.98542542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="795">
+            <name>Silkeborg (Sl)</name>
+            <Point id="794">
+                <coordinates>9.54420872,56.16403392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="797">
+            <name>Bording (Bg)</name>
+            <Point id="796">
+                <coordinates>9.27851317,56.14675455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="799">
+            <name>Køge (Kj)</name>
+            <Point id="798">
+                <coordinates>12.18686973,55.45731189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="801">
+            <name>Tureby (Th)</name>
+            <Point id="800">
+                <coordinates>12.07596848,55.37333471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="803">
+            <name>Holme-Olstrup (Ol)</name>
+            <Point id="802">
+                <coordinates>11.84874572,55.26105208,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="805">
+            <name>Nyrup (Nyp)</name>
+            <Point id="804">
+                <coordinates>11.65259026,55.54231276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="807">
+            <name>Vedde (Ved)</name>
+            <Point id="806">
+                <coordinates>11.5472928,55.53258743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="809">
+            <name>Bagmarken (Bmt)</name>
+            <Point id="808">
+                <coordinates>11.68499404,55.54432512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="811">
+            <name>Borris (Bs)</name>
+            <Point id="810">
+                <coordinates>8.6444188,55.95842498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="813">
+            <name>Guldager (Gu)</name>
+            <Point id="812">
+                <coordinates>8.44033796,55.53610145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="815">
+            <name>Rødby Færge (Rf)</name>
+            <Point id="814">
+                <coordinates>11.35560084,54.65512196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="817">
+            <name>Hundested (Hun)</name>
+            <Point id="816">
+                <coordinates>11.8526066,55.96380031,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="819">
+            <name>Aarhus H (Ar)</name>
+            <Point id="818">
+                <coordinates>10.20482261,56.15014805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="821">
+            <name>Ikast (Ik)</name>
+            <Point id="820">
+                <coordinates>9.15528223,56.14480548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="823">
+            <name>Herfølge (Hf)</name>
+            <Point id="822">
+                <coordinates>12.13706464,55.41774943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="825">
+            <name>Ølgod (Øg)</name>
+            <Point id="824">
+                <coordinates>8.62274109,55.81096538,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="827">
+            <name>Haslev (Hz)</name>
+            <Point id="826">
+                <coordinates>11.96100147,55.3295026,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="829">
+            <name>Korsør (Kø)</name>
+            <Point id="828">
+                <coordinates>11.13516262,55.35708377,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="831">
+            <name>Jelling (Jl)</name>
+            <Point id="830">
+                <coordinates>9.42012757,55.75404842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="833">
+            <name>Helsingør (Hg)</name>
+            <Point id="832">
+                <coordinates>12.61413438,56.03325253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="835">
+            <name>Gilleleje Øst (Glø)</name>
+            <Point id="834">
+                <coordinates>12.30948678,56.12245028,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="837">
+            <name>Stæremosen (Stæ)</name>
+            <Point id="836">
+                <coordinates>12.31889223,56.11203865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="839">
+            <name>Søborg (Søb)</name>
+            <Point id="838">
+                <coordinates>12.33452642,56.10033212,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="841">
+            <name>Kildekrog (Kil)</name>
+            <Point id="840">
+                <coordinates>12.42387073,56.09254693,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="843">
+            <name>Horneby Sand (Hsa)</name>
+            <Point id="842">
+                <coordinates>12.43592345,56.0898919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="845">
+            <name>Karinebæk (Kab)</name>
+            <Point id="844">
+                <coordinates>12.46874861,56.08296512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="847">
+            <name>Skibstrup (Skb)</name>
+            <Point id="846">
+                <coordinates>12.51333501,56.07839867,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="849">
+            <name>Marienlyst (Mar)</name>
+            <Point id="848">
+                <coordinates>12.60327938,56.04329518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="851">
+            <name>Hellebæk (Hel)</name>
+            <Point id="850">
+                <coordinates>12.55412061,56.06648899,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="853">
+            <name>Tistrup (Tr)</name>
+            <Point id="852">
+                <coordinates>8.59824703,55.71677197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="855">
+            <name>Køge Nord (Kjn)</name>
+            <Point id="854">
+                <coordinates>12.17245283,55.49995682,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="857">
+            <name>Store Heddinge (Sth)</name>
+            <Point id="856">
+                <coordinates>12.38572828,55.30941068,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="859">
+            <name>Maribo (Mrb)</name>
+            <Point id="858">
+                <coordinates>11.50163067,54.77677523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="861">
+            <name>Rødvig (Rdg)</name>
+            <Point id="860">
+                <coordinates>12.37852191,55.25509678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="863">
+            <name>Grænge (Grg)</name>
+            <Point id="862">
+                <coordinates>11.76453767,54.77431801,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="865">
+            <name>Skellebjerg (Skl)</name>
+            <Point id="864">
+                <coordinates>11.44882522,55.53806152,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="867">
+            <name>Dianalund (Dia)</name>
+            <Point id="866">
+                <coordinates>11.49922116,55.53396472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="869">
+            <name>Stenlille (Stl)</name>
+            <Point id="868">
+                <coordinates>11.59047148,55.53915688,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="871">
+            <name>Store Merløse (Sms)</name>
+            <Point id="870">
+                <coordinates>11.71125055,55.54503666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="873">
+            <name>Faxe Syd (Fxs)</name>
+            <Point id="872">
+                <coordinates>12.13624914,55.24295944,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="875">
+            <name>Viby Sjælland (Vy)</name>
+            <Point id="874">
+                <coordinates>12.02443871,55.54973557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="877">
+            <name>Borup (Bo)</name>
+            <Point id="876">
+                <coordinates>11.97227275,55.49465716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="879">
+            <name>Hyllerslev (Hyv)</name>
+            <Point id="878">
+                <coordinates>8.40046751,55.62631387,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="881">
+            <name>Dyreby (Dy)</name>
+            <Point id="880">
+                <coordinates>8.2981864,55.70001696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="883">
+            <name>Kalundborg Øst (Kbø)</name>
+            <Point id="882">
+                <coordinates>11.12410218,55.67601981,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="885">
+            <name>Løftgård (Løt)</name>
+            <Point id="884">
+                <coordinates>8.35301451,55.72959755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="887">
+            <name>Odder (Odd)</name>
+            <Point id="886">
+                <coordinates>10.15065,55.97133086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="889">
+            <name>Helsinge (Hlg)</name>
+            <Point id="888">
+                <coordinates>12.20510945,56.02324266,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="891">
+            <name>Nærum (Nær)</name>
+            <Point id="890">
+                <coordinates>12.52810681,55.81407894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="893">
+            <name>Nørre Nebel (Nbl)</name>
+            <Point id="892">
+                <coordinates>8.29038917,55.77726956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="895">
+            <name>Varde Vest (Vav)</name>
+            <Point id="894">
+                <coordinates>8.47626864,55.62454008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="897">
+            <name>Janderup (Jad)</name>
+            <Point id="896">
+                <coordinates>8.37386253,55.6227299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="899">
+            <name>Lunde (Luj)</name>
+            <Point id="898">
+                <coordinates>8.36398435,55.75618889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="901">
+            <name>Jegum (Jeg)</name>
+            <Point id="900">
+                <coordinates>8.30171024,55.66476728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="903">
+            <name>Vrøgum (Vrø)</name>
+            <Point id="902">
+                <coordinates>8.29231509,55.65377132,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="905">
+            <name>Baunhøj (Bah)</name>
+            <Point id="904">
+                <coordinates>8.28309464,55.63599006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="907">
+            <name>Høje Taastrup (Htå)</name>
+            <Point id="906">
+                <coordinates>12.26982318,55.64853593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="909">
+            <name>Hvidbjerg (Hw)</name>
+            <Point id="908">
+                <coordinates>8.5261717,56.64997549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="911">
+            <name>Vinderup (Vp)</name>
+            <Point id="910">
+                <coordinates>8.78158653,56.48244316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="913">
+            <name>Ulstrup (Up)</name>
+            <Point id="912">
+                <coordinates>9.79372178,56.39547267,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="915">
+            <name>Højslev (Hø)</name>
+            <Point id="914">
+                <coordinates>9.11018466,56.54946353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="917">
+            <name>Stoholm (Sm)</name>
+            <Point id="916">
+                <coordinates>9.15032957,56.48736098,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="919">
+            <name>Lundby (Lu)</name>
+            <Point id="918">
+                <coordinates>11.87027359,55.10955882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="921">
+            <name>Vordingborg (Vo)</name>
+            <Point id="920">
+                <coordinates>11.89995271,55.01267635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="923">
+            <name>Thisted (Ti)</name>
+            <Point id="922">
+                <coordinates>8.68817154,56.95265683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="925">
+            <name>Snedsted (Sne)</name>
+            <Point id="924">
+                <coordinates>8.5272339,56.89226589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="927">
+            <name>Eskilstrup (Ek)</name>
+            <Point id="926">
+                <coordinates>11.88541469,54.85624439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="929">
+            <name>Hjørring (Hj)</name>
+            <Point id="928">
+                <coordinates>9.98604742,57.45640458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="931">
+            <name>Rødkærsbro (Rk)</name>
+            <Point id="930">
+                <coordinates>9.49797605,56.35330933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="933">
+            <name>Ringsted (Rg)</name>
+            <Point id="932">
+                <coordinates>11.78663708,55.43819063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="935">
+            <name>Padborg (Pa)</name>
+            <Point id="934">
+                <coordinates>9.35917823,54.82345952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="937">
+            <name>København H (Kh)</name>
+            <Point id="936">
+                <coordinates>12.56572955,55.67272707,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="939">
+            <name>Nykøbing Falster (Nf)</name>
+            <Point id="938">
+                <coordinates>11.87770666,54.76696493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="941">
+            <name>Holstebro (Ho)</name>
+            <Point id="940">
+                <coordinates>8.620536999999999,56.36538604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="943">
+            <name>Hjerm (Hm)</name>
+            <Point id="942">
+                <coordinates>8.640046420000001,56.43877505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="945">
+            <name>Hammerum (Hu)</name>
+            <Point id="944">
+                <coordinates>9.06321567,56.13176924,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="947">
+            <name>Ry (Ry)</name>
+            <Point id="946">
+                <coordinates>9.75863964,56.09124849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="949">
+            <name>Aalborg (Ab)</name>
+            <Point id="948">
+                <coordinates>9.91691631,57.04291327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="951">
+            <name>Herning (Hr)</name>
+            <Point id="950">
+                <coordinates>8.97893126,56.1326704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="953">
+            <name>Hadsten (Ha)</name>
+            <Point id="952">
+                <coordinates>10.04852345,56.326821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="955">
+            <name>Hinnerup (Hn)</name>
+            <Point id="954">
+                <coordinates>10.0596086,56.26322227,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="957">
+            <name>Slagelse (Sg)</name>
+            <Point id="956">
+                <coordinates>11.3488947,55.40742771,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="959">
+            <name>Gadstrup (Gt)</name>
+            <Point id="958">
+                <coordinates>12.09958732,55.57287698,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="961">
+            <name>Kvissel (Kv)</name>
+            <Point id="960">
+                <coordinates>10.41268585,57.47195974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="963">
+            <name>Frederikshavn (Fh)</name>
+            <Point id="962">
+                <coordinates>10.54041048,57.44112687,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="965">
+            <name>Firhøj (Fir)</name>
+            <Point id="964">
+                <coordinates>12.35598812,56.09826472,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="967">
+            <name>Grønnehave (Grø)</name>
+            <Point id="966">
+                <coordinates>12.6108616,56.0402974,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="969">
+            <name>Lille Skensved (Lw)</name>
+            <Point id="968">
+                <coordinates>12.14045482,55.51146056,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="971">
+            <name>Varde (Va)</name>
+            <Point id="970">
+                <coordinates>8.48435471,55.6160119,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="973">
+            <name>Skjern (Sj)</name>
+            <Point id="972">
+                <coordinates>8.49466166,55.94492958,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="975">
+            <name>Gørløse (Gør)</name>
+            <Point id="974">
+                <coordinates>12.20196499,55.88670327,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="977">
+            <name>Brødeskov (Bsk)</name>
+            <Point id="976">
+                <coordinates>12.28098917,55.89327167,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="979">
+            <name>Struer (Str)</name>
+            <Point id="978">
+                <coordinates>8.60071741,56.49175906,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="981">
+            <name>Hillerød (Hi)</name>
+            <Point id="980">
+                <coordinates>12.31129683,55.92734753,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="983">
+            <name>Østerbjerg (Øsf)</name>
+            <Point id="982">
+                <coordinates>11.91406552,55.97697391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="985">
+            <name>Vildbjerg (Id)</name>
+            <Point id="984">
+                <coordinates>8.76913141,56.19828638,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="987">
+            <name>Thyregod (Ty)</name>
+            <Point id="986">
+                <coordinates>9.2522841,55.90872569,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="989">
+            <name>Brønderslev (Bl)</name>
+            <Point id="988">
+                <coordinates>9.94255174,57.27020599,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="991">
+            <name>Vrå (Vr)</name>
+            <Point id="990">
+                <coordinates>9.94215586,57.35465785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="993">
+            <name>Hobro (Hb)</name>
+            <Point id="992">
+                <coordinates>9.78259568,56.64334767,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="995">
+            <name>Aalborg Lufthavn (Abl)</name>
+            <Point id="994">
+                <coordinates>9.8758332,57.0841695,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="997">
+            <name>Randers (Rd)</name>
+            <Point id="996">
+                <coordinates>10.02197969,56.46173731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="999">
+            <name>Viborg (Vg)</name>
+            <Point id="998">
+                <coordinates>9.39837573,56.44735182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1001">
+            <name>Aalborg Vestby (Abv)</name>
+            <Point id="1000">
+                <coordinates>9.90847247,57.05311354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1003">
+            <name>Nørre Alslev (Nv)</name>
+            <Point id="1002">
+                <coordinates>11.88571422,54.89667615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1005">
+            <name>Skørping (Sø)</name>
+            <Point id="1004">
+                <coordinates>9.8873142,56.8357586,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1007">
+            <name>Skive (Sk)</name>
+            <Point id="1006">
+                <coordinates>9.02544737,56.56149239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>Fjellenstrup (Fjg)</name>
+            <Point id="1008">
+                <coordinates>12.29822486,56.1165993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>Pårup (Ppg)</name>
+            <Point id="1010">
+                <coordinates>12.30125037,56.10052036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>Græsted Syd (Grs)</name>
+            <Point id="1012">
+                <coordinates>12.29561378,56.06333163,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>Saltrup (Sag)</name>
+            <Point id="1014">
+                <coordinates>12.32227653,56.05424722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>Gribsø (Gøg)</name>
+            <Point id="1016">
+                <coordinates>12.30207544,55.98736933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>Lindholm (Lih)</name>
+            <Point id="1018">
+                <coordinates>9.90850804,57.0647645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>Langå (Lg)</name>
+            <Point id="1020">
+                <coordinates>9.89657775,56.38691271,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>Bjerringbro (Bj)</name>
+            <Point id="1022">
+                <coordinates>9.65815642,56.374151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>Brejning (Bet)</name>
+            <Point id="1024">
+                <coordinates>9.65947832,55.66686862,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>Odense (Od)</name>
+            <Point id="1026">
+                <coordinates>10.38534732,55.40251555,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>

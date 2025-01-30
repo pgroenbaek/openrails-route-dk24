@@ -1,0 +1,2357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="160247">
+        <Placemark id="160249">
+            <name>50kV - E</name>
+            <Point id="160248">
+                <coordinates>8.939195368829719,56.118748081865164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160251">
+            <name>50kV - E</name>
+            <Point id="160250">
+                <coordinates>8.939101969682083,56.1186597586731,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160253">
+            <name>50kV - 2</name>
+            <Point id="160252">
+                <coordinates>9.002770900626519,56.123414566620546,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160255">
+            <name>50kV - E</name>
+            <Point id="160254">
+                <coordinates>9.025776443175175,56.12585174973044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160257">
+            <name>50kV - E</name>
+            <Point id="160256">
+                <coordinates>9.053082833134612,56.12617399180121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160259">
+            <name>50kV - E</name>
+            <Point id="160258">
+                <coordinates>8.61613138077309,56.45707164484177,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160261">
+            <name>50kV - E</name>
+            <Point id="160260">
+                <coordinates>8.511888875692577,55.92307082329369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160263">
+            <name>50kV - 1</name>
+            <Point id="160262">
+                <coordinates>9.11088519064842,56.016216520734666,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160265">
+            <name>50kV - 2</name>
+            <Point id="160264">
+                <coordinates>9.110837773859597,56.01612722981059,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160267">
+            <name>50kV - E</name>
+            <Point id="160266">
+                <coordinates>8.57680286497952,55.85155059718943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160269">
+            <name>50kV - E</name>
+            <Point id="160268">
+                <coordinates>8.678917134710673,56.33449513818335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160271">
+            <name>50kV - E</name>
+            <Point id="160270">
+                <coordinates>8.50928679097585,56.37477126912221,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160273">
+            <name>50kV - E</name>
+            <Point id="160272">
+                <coordinates>8.828237573785524,56.027512812221865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160275">
+            <name>50kV - E</name>
+            <Point id="160274">
+                <coordinates>8.763113517557416,56.001805628061454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160277">
+            <name>50kV - E</name>
+            <Point id="160276">
+                <coordinates>9.113108316856309,55.97613997618316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160279">
+            <name>50kV - E</name>
+            <Point id="160278">
+                <coordinates>8.544406954293413,56.37215542452386,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160281">
+            <name>50kV - E</name>
+            <Point id="160280">
+                <coordinates>8.775519578880536,56.2221055741758,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160283">
+            <name>50kV - E</name>
+            <Point id="160282">
+                <coordinates>8.433922747965171,55.96886871285174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160285">
+            <name>50kV - E</name>
+            <Point id="160284">
+                <coordinates>8.328493467989466,56.06302311606225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160287">
+            <name>50kV - E</name>
+            <Point id="160286">
+                <coordinates>8.534546644969705,55.89895393347003,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160289">
+            <name>50kV - E</name>
+            <Point id="160288">
+                <coordinates>8.792532944368782,56.485496542045276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160291">
+            <name>50kV - 1</name>
+            <Point id="160290">
+                <coordinates>8.354165873585918,56.34946907398911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160293">
+            <name>50kV - E</name>
+            <Point id="160292">
+                <coordinates>9.909259703631424,56.04544352220197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160295">
+            <name>50kV - E</name>
+            <Point id="160294">
+                <coordinates>9.909460252999258,56.0454189251343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160297">
+            <name>50kV - 1</name>
+            <Point id="160296">
+                <coordinates>10.021340340604418,56.07576578864293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160299">
+            <name>50kV - 3</name>
+            <Point id="160298">
+                <coordinates>10.020790552932061,56.07572501102973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160301">
+            <name>50kV - H</name>
+            <Point id="160300">
+                <coordinates>10.060077586826687,56.32110211844448,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160303">
+            <name>50kV - V</name>
+            <Point id="160302">
+                <coordinates>10.06002818511918,56.321074294793654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160305">
+            <name>50kV - H</name>
+            <Point id="160304">
+                <coordinates>10.09104418716688,56.278473181136405,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160307">
+            <name>50kV - V</name>
+            <Point id="160306">
+                <coordinates>10.090948812808596,56.278479172741406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160309">
+            <name>50kV - E</name>
+            <Point id="160308">
+                <coordinates>9.872871857856541,56.385759147261346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160311">
+            <name>50kV - E</name>
+            <Point id="160310">
+                <coordinates>9.870713072490911,56.049934071850856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160313">
+            <name>50kV - E</name>
+            <Point id="160312">
+                <coordinates>9.451795597890046,56.131543530266626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160315">
+            <name>50kV - 1.hsp</name>
+            <Point id="160314">
+                <coordinates>8.65677146499935,55.46581221241733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160317">
+            <name>50kV - 2.hsp</name>
+            <Point id="160316">
+                <coordinates>8.656784251525755,55.46577337754164,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160319">
+            <name>50kV - E</name>
+            <Point id="160318">
+                <coordinates>8.416488602961516,56.808611282195514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160321">
+            <name>50kV - E</name>
+            <Point id="160320">
+                <coordinates>9.93362573159641,57.28769461179034,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160323">
+            <name>50kV - E</name>
+            <Point id="160322">
+                <coordinates>8.570126293854308,56.936899104751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160325">
+            <name>50kV - E</name>
+            <Point id="160324">
+                <coordinates>9.926340474033076,57.30016953356589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160327">
+            <name>50kV - E</name>
+            <Point id="160326">
+                <coordinates>8.65070513007136,56.958005191354324,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160329">
+            <name>50kV - E</name>
+            <Point id="160328">
+                <coordinates>8.412206599203222,56.76969941147067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160331">
+            <name>50kV - E</name>
+            <Point id="160330">
+                <coordinates>8.418060057253168,56.80893096684118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160333">
+            <name>50kV - E</name>
+            <Point id="160332">
+                <coordinates>8.415267338408242,56.76805663357757,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160335">
+            <name>50kV - 2.hsp</name>
+            <Point id="160334">
+                <coordinates>9.816748636187011,56.563367103303044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160337">
+            <name>50kV - 1.hsp</name>
+            <Point id="160336">
+                <coordinates>9.816769255466536,56.56332319547744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160339">
+            <name>50kV - E</name>
+            <Point id="160338">
+                <coordinates>9.928640287371016,57.11658309980329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160341">
+            <name>50kV - V</name>
+            <Point id="160340">
+                <coordinates>9.870408991157849,56.95378413245197,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160343">
+            <name>50kV - H</name>
+            <Point id="160342">
+                <coordinates>9.870470620153919,56.95380486804001,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160345">
+            <name>50kV - E</name>
+            <Point id="160344">
+                <coordinates>8.522359429024387,56.87657954078085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160347">
+            <name>50kV - E</name>
+            <Point id="160346">
+                <coordinates>8.628262098072966,56.959089238146774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160349">
+            <name>50kV - E</name>
+            <Point id="160348">
+                <coordinates>8.426764742127187,56.814030597255744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160351">
+            <name>50kV - V</name>
+            <Point id="160350">
+                <coordinates>9.86999090189105,56.95416079860759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160353">
+            <name>50kV - H</name>
+            <Point id="160352">
+                <coordinates>9.870052026582298,56.95418146693633,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160355">
+            <name>50kV - E</name>
+            <Point id="160354">
+                <coordinates>9.927993460651443,57.11593435040523,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160357">
+            <name>50kV - E</name>
+            <Point id="160356">
+                <coordinates>12.075370203873003,55.613239432657316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160359">
+            <name>50kV - E</name>
+            <Point id="160358">
+                <coordinates>12.075980666840534,55.612222277379544,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160361">
+            <name>50kV - E</name>
+            <Point id="160360">
+                <coordinates>12.08138891304316,55.603216624920236,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160363">
+            <name>50kV - 35</name>
+            <Point id="160362">
+                <coordinates>11.762253449399518,55.431723409833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160365">
+            <name>50kV - 3</name>
+            <Point id="160364">
+                <coordinates>11.762184414833516,55.43173167105205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160367">
+            <name>50kV - E</name>
+            <Point id="160366">
+                <coordinates>11.885810542347107,54.993166775460956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160369">
+            <name>50kV - E</name>
+            <Point id="160368">
+                <coordinates>11.441423023402653,55.65603284168634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160371">
+            <name>50kV - H</name>
+            <Point id="160370">
+                <coordinates>11.747566271446095,55.43642851896777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160373">
+            <name>50kV - V</name>
+            <Point id="160372">
+                <coordinates>11.747588561010982,55.436389062326136,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160375">
+            <name>50kV - H</name>
+            <Point id="160374">
+                <coordinates>11.748066426304499,55.43641712516185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160377">
+            <name>50kV - V</name>
+            <Point id="160376">
+                <coordinates>11.748059164281953,55.43637814557096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160379">
+            <name>50kV - E</name>
+            <Point id="160378">
+                <coordinates>11.621387841299358,55.68793314519044,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160381">
+            <name>50kV - H</name>
+            <Point id="160380">
+                <coordinates>11.757031543870244,55.42294742498925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160383">
+            <name>50kV - V</name>
+            <Point id="160382">
+                <coordinates>11.757081503581894,55.422910139886184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160385">
+            <name>50kV - 1</name>
+            <Point id="160384">
+                <coordinates>11.970818527703447,55.33305995519759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160387">
+            <name>50kV - E</name>
+            <Point id="160386">
+                <coordinates>11.882786998862986,54.84248227059814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160389">
+            <name>50kV - H</name>
+            <Point id="160388">
+                <coordinates>10.054512745777453,56.1709752374827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160391">
+            <name>50kV - V</name>
+            <Point id="160390">
+                <coordinates>10.054449337128473,56.17095847182927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160393">
+            <name>50kV - H</name>
+            <Point id="160392">
+                <coordinates>10.08082079959977,56.16131500899791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160395">
+            <name>50kV - V</name>
+            <Point id="160394">
+                <coordinates>10.080724480864035,56.16128195590636,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160397">
+            <name>50kV - E</name>
+            <Point id="160396">
+                <coordinates>11.832550149534695,54.75306134540845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160399">
+            <name>50kV - H</name>
+            <Point id="160398">
+                <coordinates>11.300378062766727,55.39608830249361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160401">
+            <name>50kV - V</name>
+            <Point id="160400">
+                <coordinates>11.30042282258447,55.396055174741804,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160403">
+            <name>50kV - H</name>
+            <Point id="160402">
+                <coordinates>11.746486564200092,55.272811621408394,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160405">
+            <name>50kV - V</name>
+            <Point id="160404">
+                <coordinates>11.746576984146918,55.272775438921265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160407">
+            <name>50kV - V</name>
+            <Point id="160406">
+                <coordinates>10.063911540140056,56.09186440982967,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160409">
+            <name>50kV - H</name>
+            <Point id="160408">
+                <coordinates>10.064015740472156,56.09178443242442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160411">
+            <name>Ikke tildelt H</name>
+            <Point id="160410">
+                <coordinates>11.287533682921667,55.38743092111367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160413">
+            <name>Ikke tildelt V</name>
+            <Point id="160412">
+                <coordinates>11.28750527210826,55.38737128187182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160415">
+            <name>50kV - E</name>
+            <Point id="160414">
+                <coordinates>11.821235371946997,55.250692119130306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160417">
+            <name>50kV - E</name>
+            <Point id="160416">
+                <coordinates>11.882457781912041,54.845303068667945,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160419">
+            <name>50kV - E</name>
+            <Point id="160418">
+                <coordinates>11.832949845996739,55.25501151868844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160421">
+            <name>50kV - H</name>
+            <Point id="160420">
+                <coordinates>11.7369672704886,55.32733565641779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160423">
+            <name>50kV - V</name>
+            <Point id="160422">
+                <coordinates>11.737000821724637,55.327375568596786,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160425">
+            <name>50kV - 2.hsp</name>
+            <Point id="160424">
+                <coordinates>12.14464231162596,55.48100682941281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160427">
+            <name>50kV - 1.hsp</name>
+            <Point id="160426">
+                <coordinates>12.14506498037927,55.48101653877932,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160429">
+            <name>50kV - 3</name>
+            <Point id="160428">
+                <coordinates>12.120007780560764,55.48046804271896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160431">
+            <name>50kV - 3</name>
+            <Point id="160430">
+                <coordinates>12.114194674747145,55.48034688130114,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160433">
+            <name>50kV - 2</name>
+            <Point id="160432">
+                <coordinates>12.114101080633544,55.48034451164118,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160435">
+            <name>50kV - 2.hsp</name>
+            <Point id="160434">
+                <coordinates>12.108750007599168,55.48022791158993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160437">
+            <name>50kV - 3</name>
+            <Point id="160436">
+                <coordinates>11.146861749230862,55.359491808121305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160439">
+            <name>50kV - 2</name>
+            <Point id="160438">
+                <coordinates>11.14681981460681,55.359426178423796,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160441">
+            <name>50kV - AM_BDK_1</name>
+            <Point id="160440">
+                <coordinates>11.144854902274089,55.35634517005826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160443">
+            <name>50kV - E</name>
+            <Point id="160442">
+                <coordinates>11.62974191475272,54.71408684470151,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160445">
+            <name>50kV - E</name>
+            <Point id="160444">
+                <coordinates>11.885555628936173,54.86811197071005,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160447">
+            <name>50kV - H</name>
+            <Point id="160446">
+                <coordinates>11.29777269351047,55.39400482858232,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160449">
+            <name>50kV - V</name>
+            <Point id="160448">
+                <coordinates>11.297786724055724,55.39395138856921,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160451">
+            <name>50kV - 2.hsp</name>
+            <Point id="160450">
+                <coordinates>12.044812871523119,55.465720291435154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160453">
+            <name>50kV - 1.hsp</name>
+            <Point id="160452">
+                <coordinates>12.044809406821953,55.46568074589678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160455">
+            <name>50kV - V</name>
+            <Point id="160454">
+                <coordinates>10.502299297049841,55.38262746482834,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160457">
+            <name>50kV - H</name>
+            <Point id="160456">
+                <coordinates>10.502238351315441,55.38267666234246,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160459">
+            <name>Ikke tildelt E</name>
+            <Point id="160458">
+                <coordinates>8.584934864884048,56.366602042840654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160461">
+            <name>50kV - H</name>
+            <Point id="160460">
+                <coordinates>9.773046977735099,55.859834196962645,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160463">
+            <name>50kV - V</name>
+            <Point id="160462">
+                <coordinates>9.772960098485227,55.85985103053781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160465">
+            <name>50kV - V</name>
+            <Point id="160464">
+                <coordinates>9.82719980829966,55.88201324799491,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160467">
+            <name>50kV - H</name>
+            <Point id="160466">
+                <coordinates>9.827271637114132,55.88201149752102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160469">
+            <name>50kV - V</name>
+            <Point id="160468">
+                <coordinates>9.838489294184726,55.89404769350759,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160471">
+            <name>50kV - H</name>
+            <Point id="160470">
+                <coordinates>9.83852994685985,55.89401414263716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160473">
+            <name>50kV - E</name>
+            <Point id="160472">
+                <coordinates>8.614169060246399,56.4692083028184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160475">
+            <name>50kV - E</name>
+            <Point id="160474">
+                <coordinates>8.655150165994383,56.466305709260105,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160477">
+            <name>50kV - 2</name>
+            <Point id="160476">
+                <coordinates>9.961326849003392,55.95075184113557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160479">
+            <name>50kV - 1</name>
+            <Point id="160478">
+                <coordinates>9.961242112522427,55.950761297119556,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160481">
+            <name>50kV - E</name>
+            <Point id="160480">
+                <coordinates>9.29935284153741,56.14301459363587,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160483">
+            <name>Ikke tildelt V</name>
+            <Point id="160482">
+                <coordinates>9.950505414377002,55.92655070963737,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160485">
+            <name>Ikke tildelt H</name>
+            <Point id="160484">
+                <coordinates>9.950622969850034,55.92657365729912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160487">
+            <name>50kV - 2.hsp</name>
+            <Point id="160486">
+                <coordinates>9.249322459379737,55.46927492521601,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160489">
+            <name>50kV - 1.hsp</name>
+            <Point id="160488">
+                <coordinates>9.249286410120924,55.46931448832741,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160491">
+            <name>50kV - 1.hsp</name>
+            <Point id="160490">
+                <coordinates>8.898610136672145,55.48380614773612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160493">
+            <name>50kV - 2.hsp</name>
+            <Point id="160492">
+                <coordinates>8.898635682717808,55.48377088559845,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160495">
+            <name>50kV - 2.hsp</name>
+            <Point id="160494">
+                <coordinates>9.299572665102444,55.275613577912566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160497">
+            <name>50kV - 1.hsp</name>
+            <Point id="160496">
+                <coordinates>9.299505781800402,55.275607661112986,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160499">
+            <name>50kV - E</name>
+            <Point id="160498">
+                <coordinates>11.127391080552012,55.67552619687785,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160501">
+            <name>50kV - E</name>
+            <Point id="160500">
+                <coordinates>8.584812886926882,55.94985003482715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160503">
+            <name>50kV - E</name>
+            <Point id="160502">
+                <coordinates>8.255498574810803,56.107292451884575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160505">
+            <name>50kV - E</name>
+            <Point id="160504">
+                <coordinates>8.327549352869994,56.281496928883996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160507">
+            <name>50kV - E</name>
+            <Point id="160506">
+                <coordinates>9.123232883340991,56.14189561303337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160509">
+            <name>50kV - V</name>
+            <Point id="160508">
+                <coordinates>10.261730308593007,55.35702569751818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160511">
+            <name>50kV - H</name>
+            <Point id="160510">
+                <coordinates>10.261643109890658,55.35703558699794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160513">
+            <name>50kV - H</name>
+            <Point id="160512">
+                <coordinates>10.05203016373046,56.17619046070657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160515">
+            <name>50kV - V</name>
+            <Point id="160514">
+                <coordinates>10.051961353533926,56.17619863428593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160517">
+            <name>50kV - V</name>
+            <Point id="160516">
+                <coordinates>9.962461376640707,56.056058585246376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160519">
+            <name>50kV - H</name>
+            <Point id="160518">
+                <coordinates>9.96244052153568,56.05601523637733,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160521">
+            <name>50kV - H</name>
+            <Point id="160520">
+                <coordinates>10.066135482835929,56.18466124583106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160523">
+            <name>50kV - H</name>
+            <Point id="160522">
+                <coordinates>10.058488036814557,56.168681216877694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160525">
+            <name>50kV - V</name>
+            <Point id="160524">
+                <coordinates>10.066178317991172,56.18471325966963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160527">
+            <name>50kV - V</name>
+            <Point id="160526">
+                <coordinates>10.05849066647743,56.168634018948126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160529">
+            <name>50kV - V</name>
+            <Point id="160528">
+                <coordinates>10.100413822987642,56.21678698681591,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160531">
+            <name>50kV - H</name>
+            <Point id="160530">
+                <coordinates>10.100459238433805,56.2168220422259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160533">
+            <name>50kV - 2.hsp</name>
+            <Point id="160532">
+                <coordinates>9.866343635360735,56.53157384009843,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160535">
+            <name>50kV - 1.hsp</name>
+            <Point id="160534">
+                <coordinates>9.866292520218908,56.53154719776959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160537">
+            <name>50kV - E</name>
+            <Point id="160536">
+                <coordinates>9.738576231430494,54.9290322999364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160539">
+            <name>50kV - E</name>
+            <Point id="160538">
+                <coordinates>12.076943178366719,55.61062343785797,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160541">
+            <name>50kV - 2</name>
+            <Point id="160540">
+                <coordinates>9.246791441008854,55.902669165320205,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160543">
+            <name>50kV - H</name>
+            <Point id="160542">
+                <coordinates>12.039342144138583,55.58858018716165,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160545">
+            <name>50kV - V</name>
+            <Point id="160544">
+                <coordinates>12.039430532310968,55.58860209774821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160547">
+            <name>50kV - E</name>
+            <Point id="160546">
+                <coordinates>12.081969710100099,55.60224884099478,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160549">
+            <name>50kV - E</name>
+            <Point id="160548">
+                <coordinates>9.422541520257136,54.93233955256391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160551">
+            <name>50kV - V</name>
+            <Point id="160550">
+                <coordinates>9.652347926782038,55.6582329057099,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160553">
+            <name>50kV - H</name>
+            <Point id="160552">
+                <coordinates>9.652419714101898,55.658226733784495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160555">
+            <name>50kV - H</name>
+            <Point id="160554">
+                <coordinates>12.055159775005734,55.61976783444471,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160557">
+            <name>50kV - H</name>
+            <Point id="160556">
+                <coordinates>12.055109745895669,55.619795295860904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160559">
+            <name>50kV - V</name>
+            <Point id="160558">
+                <coordinates>12.055208798423774,55.61974092399959,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160561">
+            <name>50kV - V</name>
+            <Point id="160560">
+                <coordinates>12.055758116255012,55.619439386001424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160563">
+            <name>50kV - 2</name>
+            <Point id="160562">
+                <coordinates>11.902874603293617,55.4521168446795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160565">
+            <name>50kV - 1.hsp</name>
+            <Point id="160564">
+                <coordinates>11.903567849112317,55.452108667092084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160567">
+            <name>50kV - 1</name>
+            <Point id="160566">
+                <coordinates>11.903051843019911,55.45211475459911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160569">
+            <name>50kV - 211</name>
+            <Point id="160568">
+                <coordinates>11.902934126266157,55.452116142891505,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160571">
+            <name>50kV - 2.hsp</name>
+            <Point id="160570">
+                <coordinates>11.90341031769738,55.45211052556326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160573">
+            <name>50kV - E</name>
+            <Point id="160572">
+                <coordinates>11.230917994324747,55.666026074737346,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160575">
+            <name>50kV - 1.hsp</name>
+            <Point id="160574">
+                <coordinates>11.753011300437779,55.63571014009576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160577">
+            <name>50kV - E</name>
+            <Point id="160576">
+                <coordinates>11.592650998561394,55.66675180586002,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160579">
+            <name>50kV - 2.hsp</name>
+            <Point id="160578">
+                <coordinates>11.753107635555397,55.63569514038506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160581">
+            <name>50kV - 2</name>
+            <Point id="160580">
+                <coordinates>11.904241607649142,55.452476785196126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160583">
+            <name>50kV - H</name>
+            <Point id="160582">
+                <coordinates>11.83945199421634,55.44227990122178,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160585">
+            <name>50kV - V</name>
+            <Point id="160584">
+                <coordinates>11.839370168526594,55.442228032907735,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160587">
+            <name>50kV - 1.hsp</name>
+            <Point id="160586">
+                <coordinates>11.93311077939522,55.4585003043185,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160589">
+            <name>50kV - 1.hsp</name>
+            <Point id="160588">
+                <coordinates>11.904716196102404,55.452410612754605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160591">
+            <name>50kV - 1.hsp</name>
+            <Point id="160590">
+                <coordinates>11.839114630665279,55.4420660484144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160593">
+            <name>50kV - 1</name>
+            <Point id="160592">
+                <coordinates>11.90436140651889,55.45246002746897,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160595">
+            <name>50kV - 2.hsp</name>
+            <Point id="160594">
+                <coordinates>11.933355249270377,55.45855542895353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160597">
+            <name>50kV - 2.hsp</name>
+            <Point id="160596">
+                <coordinates>11.904611796524573,55.45242500214671,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160599">
+            <name>50kV - 2.hsp</name>
+            <Point id="160598">
+                <coordinates>11.839196082923829,55.44211768104296,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160601">
+            <name>Ikke tildelt E</name>
+            <Point id="160600">
+                <coordinates>9.597302302287336,56.358158429880156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160603">
+            <name>Ikke tildelt E</name>
+            <Point id="160602">
+                <coordinates>9.598468978106002,56.359226365002904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160605">
+            <name>Ikke tildelt E</name>
+            <Point id="160604">
+                <coordinates>8.984453664068337,56.563373452103995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160607">
+            <name>50kV - E</name>
+            <Point id="160606">
+                <coordinates>9.698004439447518,56.38191301106126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160609">
+            <name>Ikke tildelt E</name>
+            <Point id="160608">
+                <coordinates>9.114088116614456,56.537666326680224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160611">
+            <name>Ikke tildelt E</name>
+            <Point id="160610">
+                <coordinates>8.967949637494842,56.558102914851084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160613">
+            <name>50kV - H</name>
+            <Point id="160612">
+                <coordinates>10.09070809807779,56.27831633406213,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160615">
+            <name>50kV - V</name>
+            <Point id="160614">
+                <coordinates>10.090610167778477,56.278322171815184,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160617">
+            <name>Ikke tildelt E</name>
+            <Point id="160616">
+                <coordinates>9.115733842937052,56.51337686024597,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160619">
+            <name>Ikke tildelt E</name>
+            <Point id="160618">
+                <coordinates>9.323964442040223,56.452710542792595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160621">
+            <name>Ikke tildelt E</name>
+            <Point id="160620">
+                <coordinates>9.25336536976272,56.468780225843624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160623">
+            <name>Ikke tildelt E</name>
+            <Point id="160622">
+                <coordinates>8.639267937125258,56.40032852127532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160625">
+            <name>Ikke tildelt E</name>
+            <Point id="160624">
+                <coordinates>8.545243742098362,56.37206423083186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160627">
+            <name>Ikke tildelt E</name>
+            <Point id="160626">
+                <coordinates>9.568315651511687,56.350199829454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160629">
+            <name>50kV - 2.hsp</name>
+            <Point id="160628">
+                <coordinates>9.725907026334163,56.612095416806696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160631">
+            <name>50kV - 1.hsp</name>
+            <Point id="160630">
+                <coordinates>9.725818420440428,56.612087750736094,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160633">
+            <name>Ikke tildelt 3.hsp</name>
+            <Point id="160632">
+                <coordinates>12.233618990758464,55.644757611987316,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160635">
+            <name>Ikke tildelt 2.hsp</name>
+            <Point id="160634">
+                <coordinates>12.233622288819419,55.64470384261815,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160637">
+            <name>Ikke tildelt 4.hsp</name>
+            <Point id="160636">
+                <coordinates>12.233616625946507,55.644796173300676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160639">
+            <name>Ikke tildelt 1.hsp</name>
+            <Point id="160638">
+                <coordinates>12.233624642489925,55.6446654739983,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160641">
+            <name>Ikke tildelt E</name>
+            <Point id="160640">
+                <coordinates>12.129317785878982,55.52327732191299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160643">
+            <name>Ikke tildelt 1</name>
+            <Point id="160642">
+                <coordinates>12.014827013399687,55.46168766723575,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160645">
+            <name>Ikke tildelt N103&lt;&gt;N104</name>
+            <Point id="160644">
+                <coordinates>12.014905220188687,55.46172478373381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160647">
+            <name>Ikke tildelt 2</name>
+            <Point id="160646">
+                <coordinates>12.014968440284472,55.46175485992299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160649">
+            <name>50kV - H</name>
+            <Point id="160648">
+                <coordinates>11.898261804780523,55.02646611407191,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160651">
+            <name>50kV - V</name>
+            <Point id="160650">
+                <coordinates>11.898323968176001,55.02648278765388,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160653">
+            <name>50kV - 2.hsp</name>
+            <Point id="160652">
+                <coordinates>12.045124628228344,55.46575919120517,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160655">
+            <name>50kV - 1.hsp</name>
+            <Point id="160654">
+                <coordinates>12.045121165179998,55.465719609669456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160657">
+            <name>50kV - V</name>
+            <Point id="160656">
+                <coordinates>11.854848055637504,55.12702647716108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160659">
+            <name>50kV - H</name>
+            <Point id="160658">
+                <coordinates>11.854808184025492,55.12698512788137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160661">
+            <name>50kV - E</name>
+            <Point id="160660">
+                <coordinates>11.995606164882195,55.342081013073084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160663">
+            <name>50kV - H</name>
+            <Point id="160662">
+                <coordinates>11.745828156715222,55.40727537537181,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160665">
+            <name>50kV - V</name>
+            <Point id="160664">
+                <coordinates>11.745855041538208,55.407152749065844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160667">
+            <name>50kV - H</name>
+            <Point id="160666">
+                <coordinates>11.74410587863509,55.30457541247577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160669">
+            <name>50kV - V</name>
+            <Point id="160668">
+                <coordinates>11.74417473631893,55.30461367403454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160671">
+            <name>Ikke tildelt 3.hsp</name>
+            <Point id="160670">
+                <coordinates>12.157887821057956,55.64917770526805,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160673">
+            <name>Ikke tildelt 1.hsp</name>
+            <Point id="160672">
+                <coordinates>12.15775404885384,55.64908056142196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160675">
+            <name>Ikke tildelt 2.hsp</name>
+            <Point id="160674">
+                <coordinates>12.15781040679758,55.649121488013215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160677">
+            <name>Ikke tildelt 4.hsp</name>
+            <Point id="160676">
+                <coordinates>12.157944277304583,55.649218703889595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160679">
+            <name>50kV - 3</name>
+            <Point id="160678">
+                <coordinates>11.902501831048616,55.021322516109365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160681">
+            <name>50kV - 2</name>
+            <Point id="160680">
+                <coordinates>11.902567970730518,55.021333153527685,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160683">
+            <name>Ikke tildelt V</name>
+            <Point id="160682">
+                <coordinates>12.213365223527715,55.75368778796846,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160685">
+            <name>Ikke tildelt H</name>
+            <Point id="160684">
+                <coordinates>12.213359155482555,55.75372999351565,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160687">
+            <name>Ikke tildelt V</name>
+            <Point id="160686">
+                <coordinates>12.212894290777289,55.75378231351855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160689">
+            <name>Ikke tildelt H</name>
+            <Point id="160688">
+                <coordinates>12.212888154349638,55.753824973045774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160691">
+            <name>50kV - 3</name>
+            <Point id="160690">
+                <coordinates>9.631874682302248,55.546373520187935,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160693">
+            <name>50kV - 58</name>
+            <Point id="160692">
+                <coordinates>9.633290064471185,55.54579914231818,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160695">
+            <name>50kV - 53</name>
+            <Point id="160694">
+                <coordinates>9.632980142705103,55.54592491478656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160697">
+            <name>50kV - 54</name>
+            <Point id="160696">
+                <coordinates>9.633080406960028,55.5458842258126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160699">
+            <name>50kV - 4</name>
+            <Point id="160698">
+                <coordinates>9.631992792881018,55.546325590986754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160701">
+            <name>50kV - 52</name>
+            <Point id="160700">
+                <coordinates>9.632879375936286,55.5459658075549,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160703">
+            <name>50kV - 55</name>
+            <Point id="160702">
+                <coordinates>9.63320523508373,55.545833568580186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160705">
+            <name>50kV - 51</name>
+            <Point id="160704">
+                <coordinates>9.632160706326152,55.54625745089372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160707">
+            <name>50kV - 1</name>
+            <Point id="160706">
+                <coordinates>9.631804559372501,55.546401975851396,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160709">
+            <name>50kV - V</name>
+            <Point id="160708">
+                <coordinates>9.660118891921185,55.55059374468756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160711">
+            <name>50kV - V</name>
+            <Point id="160710">
+                <coordinates>9.706469451606717,55.588988003665456,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160713">
+            <name>50kV - H</name>
+            <Point id="160712">
+                <coordinates>9.707705476381095,55.5891134175952,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160715">
+            <name>50kV - H</name>
+            <Point id="160714">
+                <coordinates>9.660150067935318,55.550638510357615,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160717">
+            <name>50kV - 3</name>
+            <Point id="160716">
+                <coordinates>9.6309162440898,55.54622999283304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160719">
+            <name>50kV - 55</name>
+            <Point id="160718">
+                <coordinates>9.632317512589825,55.545702349595715,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160721">
+            <name>50kV - 53</name>
+            <Point id="160720">
+                <coordinates>9.63208268837067,55.54579077455458,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160723">
+            <name>50kV - 54</name>
+            <Point id="160722">
+                <coordinates>9.63218738267145,55.54575135112936,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160725">
+            <name>50kV - 4</name>
+            <Point id="160724">
+                <coordinates>9.631040598596817,55.546183168211535,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160727">
+            <name>50kV - 52</name>
+            <Point id="160726">
+                <coordinates>9.631976470464268,55.54583077095398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160729">
+            <name>50kV - 51</name>
+            <Point id="160728">
+                <coordinates>9.631217665619308,55.54611649548798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160731">
+            <name>50kV - 1</name>
+            <Point id="160730">
+                <coordinates>9.630841435879315,55.546258160257956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160733">
+            <name>50kV - V</name>
+            <Point id="160732">
+                <coordinates>9.705336512679123,55.58911512499398,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160735">
+            <name>50kV - H</name>
+            <Point id="160734">
+                <coordinates>9.706648383005872,55.58927508509712,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160737">
+            <name>50kV - E</name>
+            <Point id="160736">
+                <coordinates>9.565094578374433,56.350380844752856,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160739">
+            <name>Ikke tildelt E</name>
+            <Point id="160738">
+                <coordinates>9.469952000202902,56.35857187261495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160741">
+            <name>Ikke tildelt V</name>
+            <Point id="160740">
+                <coordinates>12.341208087569179,55.88827966601354,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160743">
+            <name>Ikke tildelt H</name>
+            <Point id="160742">
+                <coordinates>12.34126081340464,55.88830611411962,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160745">
+            <name>Ikke tildelt E</name>
+            <Point id="160744">
+                <coordinates>9.605249376558776,56.36296227398434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160747">
+            <name>50kV - 2</name>
+            <Point id="160746">
+                <coordinates>12.150527969748573,55.50444709083664,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160749">
+            <name>50kV - V</name>
+            <Point id="160748">
+                <coordinates>10.51122799480154,55.38128846107611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160751">
+            <name>50kV - H</name>
+            <Point id="160750">
+                <coordinates>10.511202052746043,55.381334864195416,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160753">
+            <name>Ikke tildelt 3.hsp</name>
+            <Point id="160752">
+                <coordinates>12.141087144570049,55.64835335287835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160755">
+            <name>Ikke tildelt 1.hsp</name>
+            <Point id="160754">
+                <coordinates>12.140818093223421,55.648250128902404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160757">
+            <name>Ikke tildelt 2.hsp</name>
+            <Point id="160756">
+                <coordinates>12.140935389258408,55.64829513076678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160759">
+            <name>Ikke tildelt 4.hsp</name>
+            <Point id="160758">
+                <coordinates>12.141205279433724,55.64839867643364,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160761">
+            <name>50kV - E</name>
+            <Point id="160760">
+                <coordinates>11.536104248012505,54.694541388942305,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160763">
+            <name>Ikke tildelt V</name>
+            <Point id="160762">
+                <coordinates>12.338256109778426,55.89153878592192,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160765">
+            <name>Ikke tildelt H</name>
+            <Point id="160764">
+                <coordinates>12.338317919505085,55.89155470064468,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160767">
+            <name>Ikke tildelt V</name>
+            <Point id="160766">
+                <coordinates>10.709764742954414,55.344067307108524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160769">
+            <name>Ikke tildelt H</name>
+            <Point id="160768">
+                <coordinates>10.709660305245153,55.34413868713202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160771">
+            <name>50kV - 2.hsp</name>
+            <Point id="160770">
+                <coordinates>9.249200686828647,55.469277413292446,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160773">
+            <name>50kV - 1.hsp</name>
+            <Point id="160772">
+                <coordinates>9.249163593465896,55.469316976695644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160775">
+            <name>50kV - 1</name>
+            <Point id="160774">
+                <coordinates>8.859866205131135,54.92653304774309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160777">
+            <name>50kV - AM_3c</name>
+            <Point id="160776">
+                <coordinates>8.859651709292587,54.92660803829477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160779">
+            <name>50kV - 3</name>
+            <Point id="160778">
+                <coordinates>8.859676862713926,54.92659924434812,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160781">
+            <name>50kV - 2</name>
+            <Point id="160780">
+                <coordinates>8.859778260574453,54.92656379442589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160783">
+            <name>50kV - E</name>
+            <Point id="160782">
+                <coordinates>9.346589378024788,54.84012424469975,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160785">
+            <name>50kV - 1.hsp</name>
+            <Point id="160784">
+                <coordinates>8.50128204440844,55.47316574196883,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160787">
+            <name>50kV - 2.hsp</name>
+            <Point id="160786">
+                <coordinates>8.501288706633996,55.473127602642855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160789">
+            <name>50kV - V</name>
+            <Point id="160788">
+                <coordinates>9.299159861830963,55.44397601909401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160791">
+            <name>50kV - H</name>
+            <Point id="160790">
+                <coordinates>9.299110622267957,55.44404542271173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160793">
+            <name>50kV - 2.hsp</name>
+            <Point id="160792">
+                <coordinates>9.323944761655808,55.0434025522215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160795">
+            <name>50kV - 1.hsp</name>
+            <Point id="160794">
+                <coordinates>9.323883526945524,55.04342147606564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160797">
+            <name>50kV - H</name>
+            <Point id="160796">
+                <coordinates>9.4258307796437,55.4950799449292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160799">
+            <name>50kV - V</name>
+            <Point id="160798">
+                <coordinates>9.425814282594072,55.495040553831494,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160801">
+            <name>50kV - 31</name>
+            <Point id="160800">
+                <coordinates>9.304244671588396,55.25380138885085,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160803">
+            <name>50kV - 3</name>
+            <Point id="160802">
+                <coordinates>9.30403927402974,55.25371946938642,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160805">
+            <name>50kV - 33</name>
+            <Point id="160804">
+                <coordinates>9.304381343384886,55.25385589744548,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160807">
+            <name>50kV - 12</name>
+            <Point id="160806">
+                <coordinates>9.304111995724169,55.253748473267066,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160809">
+            <name>50kV - 11</name>
+            <Point id="160808">
+                <coordinates>9.30417751540757,55.25377460512357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160811">
+            <name>50kV - 31321</name>
+            <Point id="160810">
+                <coordinates>9.304277680832847,55.253814553871855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160813">
+            <name>50kV - 32</name>
+            <Point id="160812">
+                <coordinates>9.304312755746567,55.25382854315063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160815">
+            <name>Ikke tildelt H</name>
+            <Point id="160814">
+                <coordinates>12.325236362334635,55.65492158295347,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160817">
+            <name>Ikke tildelt H</name>
+            <Point id="160816">
+                <coordinates>12.32528918849674,55.65483977729273,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160819">
+            <name>Ikke tildelt V</name>
+            <Point id="160818">
+                <coordinates>12.325259431722914,55.654885859249156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160821">
+            <name>Ikke tildelt V</name>
+            <Point id="160820">
+                <coordinates>12.325312551405586,55.65480359696674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160823">
+            <name>50kV - E</name>
+            <Point id="160822">
+                <coordinates>9.535063630908972,55.754016962048766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160825">
+            <name>50kV - E</name>
+            <Point id="160824">
+                <coordinates>8.543684308914877,55.64718113542106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160827">
+            <name>50kV - V</name>
+            <Point id="160826">
+                <coordinates>9.577652394055335,55.533694548793285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160829">
+            <name>50kV - H</name>
+            <Point id="160828">
+                <coordinates>9.577601898865973,55.53372997700287,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160831">
+            <name>50kV - 2.hsp</name>
+            <Point id="160830">
+                <coordinates>9.317978179826348,55.03488045365455,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160833">
+            <name>50kV - 1.hsp</name>
+            <Point id="160832">
+                <coordinates>9.317917288058492,55.034895163505674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160835">
+            <name>50kV - 2.hsp</name>
+            <Point id="160834">
+                <coordinates>9.293653958357158,55.00576311342042,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160837">
+            <name>50kV - 1.hsp</name>
+            <Point id="160836">
+                <coordinates>9.293618477618377,55.00580888886294,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160839">
+            <name>50kV - E</name>
+            <Point id="160838">
+                <coordinates>9.390107241528979,54.9354774992844,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160841">
+            <name>Ikke tildelt H</name>
+            <Point id="160840">
+                <coordinates>9.34862337382286,55.50107157489174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160843">
+            <name>Ikke tildelt V</name>
+            <Point id="160842">
+                <coordinates>9.348590519665645,55.50102937702453,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160845">
+            <name>50kV - E</name>
+            <Point id="160844">
+                <coordinates>8.739995272630233,55.198170202878956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160847">
+            <name>50kV - E</name>
+            <Point id="160846">
+                <coordinates>8.826877742463253,55.065224241787824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160849">
+            <name>50kV - E</name>
+            <Point id="160848">
+                <coordinates>9.38969922786207,54.935488804517384,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160851">
+            <name>Ikke tildelt 2.hsp</name>
+            <Point id="160850">
+                <coordinates>12.325464536061926,55.62856456397225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160853">
+            <name>Ikke tildelt 1.hsp</name>
+            <Point id="160852">
+                <coordinates>12.325513545885764,55.62853554458096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160855">
+            <name>50kV - E</name>
+            <Point id="160854">
+                <coordinates>10.52328692232734,55.17330819281148,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160857">
+            <name>50kV - 2.hsp</name>
+            <Point id="160856">
+                <coordinates>8.986376676498477,55.482604915967734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160859">
+            <name>50kV - 1.hsp</name>
+            <Point id="160858">
+                <coordinates>8.986579228483423,55.482620234703106,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160861">
+            <name>50kV - 1.hsp</name>
+            <Point id="160860">
+                <coordinates>9.271261382751428,55.37693519526918,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160863">
+            <name>50kV - 2.hsp</name>
+            <Point id="160862">
+                <coordinates>9.271335272207308,55.37688716075319,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160865">
+            <name>Ikke tildelt E</name>
+            <Point id="160864">
+                <coordinates>8.736370467708406,55.41639104032127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160867">
+            <name>Ikke tildelt E</name>
+            <Point id="160866">
+                <coordinates>8.458485931526928,55.601738567240794,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160869">
+            <name>50kV - V</name>
+            <Point id="160868">
+                <coordinates>9.982965041917723,55.390530396465806,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160871">
+            <name>50kV - H</name>
+            <Point id="160870">
+                <coordinates>9.982985970693091,55.390569263870304,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160873">
+            <name>50kV - 1.hsp</name>
+            <Point id="160872">
+                <coordinates>9.274614687703405,55.34958915559459,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160875">
+            <name>50kV - 2.hsp</name>
+            <Point id="160874">
+                <coordinates>9.274687042165603,55.34955261254225,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160877">
+            <name>50kV - 2.hsp</name>
+            <Point id="160876">
+                <coordinates>9.317708981408622,55.03455851901234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160879">
+            <name>50kV - 1.hsp</name>
+            <Point id="160878">
+                <coordinates>9.31764819671293,55.034573265295016,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160881">
+            <name>50kV - E</name>
+            <Point id="160880">
+                <coordinates>9.631885314452937,54.95505874153791,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160883">
+            <name>50kV - V</name>
+            <Point id="160882">
+                <coordinates>9.946322150484024,55.4144175323306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160885">
+            <name>50kV - H</name>
+            <Point id="160884">
+                <coordinates>9.946426615890998,55.41439713323668,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160887">
+            <name>Ikke tildelt E</name>
+            <Point id="160886">
+                <coordinates>8.726419536992958,55.26798492700372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160889">
+            <name>50kV - 1</name>
+            <Point id="160888">
+                <coordinates>8.439224512788863,55.538059840814306,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160891">
+            <name>50kV - 2</name>
+            <Point id="160890">
+                <coordinates>8.439324006721598,55.538070842698424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160893">
+            <name>50kV - E</name>
+            <Point id="160892">
+                <coordinates>9.352916356595262,55.768437577990795,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160895">
+            <name>50kV - 2.hsp</name>
+            <Point id="160894">
+                <coordinates>9.279509882822108,54.98666046938635,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160897">
+            <name>50kV - 1.hsp</name>
+            <Point id="160896">
+                <coordinates>9.279440697027571,54.986656951059594,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160899">
+            <name>50kV - V</name>
+            <Point id="160898">
+                <coordinates>10.624891658902214,55.35837376649084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160901">
+            <name>50kV - H</name>
+            <Point id="160900">
+                <coordinates>10.624838604808795,55.35841655066939,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160903">
+            <name>Ikke tildelt H</name>
+            <Point id="160902">
+                <coordinates>12.133392913571894,55.8074097725154,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160905">
+            <name>Ikke tildelt V</name>
+            <Point id="160904">
+                <coordinates>12.133389079284488,55.80735995950739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160907">
+            <name>50kV - V</name>
+            <Point id="160906">
+                <coordinates>10.209565917545078,55.34431485307816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160909">
+            <name>50kV - H</name>
+            <Point id="160908">
+                <coordinates>10.209528864202648,55.34435018225117,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160911">
+            <name>50kV - E</name>
+            <Point id="160910">
+                <coordinates>8.400334218256965,56.67508716317514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160913">
+            <name>50kV - E</name>
+            <Point id="160912">
+                <coordinates>8.423726497890229,56.66679673569143,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160915">
+            <name>50kV - 1.hsp</name>
+            <Point id="160914">
+                <coordinates>8.501641984016258,55.47314360451885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160917">
+            <name>50kV - 2.hsp</name>
+            <Point id="160916">
+                <coordinates>8.5016487639532,55.47310551148083,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160919">
+            <name>50kV - E</name>
+            <Point id="160918">
+                <coordinates>8.568231394596234,55.65893087152929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160921">
+            <name>50kV - 2.hsp</name>
+            <Point id="160920">
+                <coordinates>9.979598717406253,56.4752544748704,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160923">
+            <name>50kV - 1.hsp</name>
+            <Point id="160922">
+                <coordinates>9.979612269840786,56.475215009311086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160925">
+            <name>50kV - E</name>
+            <Point id="160924">
+                <coordinates>8.814556647224267,55.038694209569655,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160927">
+            <name>50kV - E</name>
+            <Point id="160926">
+                <coordinates>8.8035585561232,55.0026634513913,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160929">
+            <name>50kV - E</name>
+            <Point id="160928">
+                <coordinates>8.850678176252673,54.955674189895966,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160931">
+            <name>50kV - H</name>
+            <Point id="160930">
+                <coordinates>9.834042674275166,56.696329700508,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160933">
+            <name>50kV - V</name>
+            <Point id="160932">
+                <coordinates>9.833971437353345,56.696332436914595,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160935">
+            <name>50kV - E</name>
+            <Point id="160934">
+                <coordinates>9.48145643307579,55.76399955430744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160937">
+            <name>50kV - H</name>
+            <Point id="160936">
+                <coordinates>10.290201030753956,55.367646959388956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160939">
+            <name>50kV - V</name>
+            <Point id="160938">
+                <coordinates>10.290183987152485,55.36759901469661,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160941">
+            <name>50kV - E</name>
+            <Point id="160940">
+                <coordinates>9.182958232482255,55.931155162461444,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160943">
+            <name>50kV - E</name>
+            <Point id="160942">
+                <coordinates>9.288296703411309,54.92904058234482,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160945">
+            <name>50kV - H</name>
+            <Point id="160944">
+                <coordinates>11.747919982676938,55.43642023278473,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160947">
+            <name>50kV - V</name>
+            <Point id="160946">
+                <coordinates>11.747922962150799,55.43638069132634,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160949">
+            <name>50kV - E</name>
+            <Point id="160948">
+                <coordinates>10.567536751684937,55.076312210969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160951">
+            <name>50kV - E</name>
+            <Point id="160950">
+                <coordinates>10.574245329977325,55.072184872748025,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160953">
+            <name>50kV - 3</name>
+            <Point id="160952">
+                <coordinates>8.861088661986944,54.923610387366146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160955">
+            <name>50kV - 1</name>
+            <Point id="160954">
+                <coordinates>8.861210614307327,54.92367513362833,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160957">
+            <name>50kV - E</name>
+            <Point id="160956">
+                <coordinates>10.57551969818707,55.07141418861264,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160959">
+            <name>50kV - E</name>
+            <Point id="160958">
+                <coordinates>10.412710209328829,55.346305639270156,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160961">
+            <name>50kV - H</name>
+            <Point id="160960">
+                <coordinates>10.29225673575243,55.368360820411226,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160963">
+            <name>50kV - V</name>
+            <Point id="160962">
+                <coordinates>10.292295659767715,55.368328734465486,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160965">
+            <name>50kV - E</name>
+            <Point id="160964">
+                <coordinates>8.400049795577424,56.67534600875577,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160967">
+            <name>50kV - E</name>
+            <Point id="160966">
+                <coordinates>8.425978485924013,56.66658858908368,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160969">
+            <name>50kV - E</name>
+            <Point id="160968">
+                <coordinates>8.550895261804692,56.63742872221598,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160971">
+            <name>50kV - E</name>
+            <Point id="160970">
+                <coordinates>10.413057609123559,55.34609906848193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160973">
+            <name>50kV - V</name>
+            <Point id="160972">
+                <coordinates>9.947009491654592,55.41382783325495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160975">
+            <name>50kV - H</name>
+            <Point id="160974">
+                <coordinates>9.947114362394228,55.41380735494159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160977">
+            <name>50kV - H</name>
+            <Point id="160976">
+                <coordinates>10.29187718424801,55.368215164350175,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160979">
+            <name>50kV - V</name>
+            <Point id="160978">
+                <coordinates>10.291914691763903,55.368184346239374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160981">
+            <name>50kV - 1.hsp</name>
+            <Point id="160980">
+                <coordinates>9.306549110137965,55.18536063445882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160983">
+            <name>50kV - 2.hsp</name>
+            <Point id="160982">
+                <coordinates>9.306605914672542,55.185391956821896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160985">
+            <name>50kV - 1.hsp</name>
+            <Point id="160984">
+                <coordinates>11.933362665512897,55.5946814719626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160987">
+            <name>50kV - 1.hsp</name>
+            <Point id="160986">
+                <coordinates>11.803700335867557,55.6009602782606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160989">
+            <name>50kV - 2.hsp</name>
+            <Point id="160988">
+                <coordinates>11.803771788908946,55.60097463301343,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160991">
+            <name>50kV - 2.hsp</name>
+            <Point id="160990">
+                <coordinates>11.93328471923863,55.5947083997362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160993">
+            <name>50kV - H</name>
+            <Point id="160992">
+                <coordinates>12.043681654566575,55.60034359789988,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160995">
+            <name>50kV - V</name>
+            <Point id="160994">
+                <coordinates>12.043758428270907,55.60036530425498,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160997">
+            <name>50kV - 1.hsp</name>
+            <Point id="160996">
+                <coordinates>8.536983302160445,55.470959308971125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="160999">
+            <name>50kV - 2.hsp</name>
+            <Point id="160998">
+                <coordinates>8.536972893624144,55.47092096481811,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161001">
+            <name>50kV - V</name>
+            <Point id="161000">
+                <coordinates>9.870504478011533,56.95369810493545,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161003">
+            <name>50kV - H</name>
+            <Point id="161002">
+                <coordinates>9.831879639319796,56.69298804788527,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161005">
+            <name>50kV - H</name>
+            <Point id="161004">
+                <coordinates>9.870566114445918,56.953718951825905,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161007">
+            <name>50kV - V</name>
+            <Point id="161006">
+                <coordinates>9.831811035224709,56.6929994982493,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161009">
+            <name>50kV - V</name>
+            <Point id="161008">
+                <coordinates>9.666261239462003,55.728577655818285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161011">
+            <name>50kV - H</name>
+            <Point id="161010">
+                <coordinates>9.666388413576097,55.72856930947941,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161013">
+            <name>50kV - 1.hsp</name>
+            <Point id="161012">
+                <coordinates>8.501967841972785,55.47312356215652,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161015">
+            <name>50kV - 2.hsp</name>
+            <Point id="161014">
+                <coordinates>8.50197439457944,55.47308553197576,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161017">
+            <name>50kV - V</name>
+            <Point id="161016">
+                <coordinates>10.05860575308665,56.24605167964876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161019">
+            <name>50kV - V</name>
+            <Point id="161018">
+                <coordinates>10.05860575308665,56.24605167964876,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161021">
+            <name>50kV - H</name>
+            <Point id="161020">
+                <coordinates>10.058674213597259,56.246062199682676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161023">
+            <name>50kV - H</name>
+            <Point id="161022">
+                <coordinates>10.058674213597259,56.246062199682676,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161025">
+            <name>Ikke tildelt 1.hsp</name>
+            <Point id="161024">
+                <coordinates>9.306256002045124,55.18631942896193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161027">
+            <name>Ikke tildelt 1.hsp</name>
+            <Point id="161026">
+                <coordinates>9.306256002045124,55.18631942896193,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161029">
+            <name>Ikke tildelt 2.hsp</name>
+            <Point id="161028">
+                <coordinates>9.306327278422863,55.186303400129475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161031">
+            <name>Ikke tildelt 2.hsp</name>
+            <Point id="161030">
+                <coordinates>9.306327278422863,55.186303400129475,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
