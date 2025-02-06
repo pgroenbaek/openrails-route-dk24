@@ -1,0 +1,795 @@
+SIMISA@@@@@@@@@@JINX0T0t______
+
+TrackDB (
+	Serial ( 0 )
+	TrackNodes ( 102
+		TrackNode ( 1
+			TrVectorNode (
+				TrVectorSections ( 9 2 2 -5655 15119 24 0 1 00 -5655 15119 672.6367 0.9696426 -582.6396 0 0.214739 0 2 2 -5655 15119 23 0 1 00 -5655 15119 693.946 0.9696426 -484.9365 0 0.214739 0 47 32 -5655 15119 22 0 1 00 -5655 15119 715.2552 0.9696426 -387.2333 0 0.214739 0 47 32 -5655 15119 21 0 1 00 -5655 15119 730.1096 0.9696426 -301.2684 0 0.1274726 0 47 32 -5655 15119 20 0 1 00 -5655 15119 737.415 0.9696426 -214.3361 0 0.04020613 0 47 32 -5655 15119 19 0 1 00 -5655 15119 737.116 0.9696426 -127.0978 0 -0.04706031 0 47 32 -5655 15119 17 0 1 00 -5655 15119 729.2148 0.9696426 -40.21759 0 -0.1343268 0 2 2 -5655 15119 15 1 0 00 -5655 15119 713.7717 0.9696426 45.64341 0 6.061592 0 2 2 -5655 15119 16 0 1 00 -5655 15119 691.7933 0.9696426 143.1983 0 6.061592 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 3 1 )
+				TrPin ( 4 1 )
+			)
+		)
+		TrackNode ( 2
+			TrJunctionNode ( 0 72 0 )
+			UiD ( -5655 15119 8 0 -5655 15119 667.291 0.957177 77.7279 0 3.166593 0 )
+			TrPins ( 1 2
+				TrPin ( 0 0 )
+				TrPin ( 10 0 )
+				TrPin ( 6 0 )
+			)
+		)
+		TrackNode ( 3
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 24 0 -5655 15119 672.6367 0.9696426 -582.6396 0 3.356332 0 )
+			TrPins ( 1 0
+				TrPin ( 1 1 )
+			)
+		)
+		TrackNode ( 4
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 16 1 -5655 15119 669.8149 0.9696426 240.7531 0 -0.2215932 0 )
+			TrPins ( 1 0
+				TrPin ( 1 0 )
+			)
+		)
+		TrackNode ( 5
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 14 1 -5655 15119 669.041 1.057175 147.7054 -0.01 0.02499979 0 )
+			TrPins ( 1 0
+				TrPin ( 6 1 )
+			)
+		)
+		TrackNode ( 6
+			TrVectorNode (
+				TrVectorSections ( 3 0 0 -5655 15119 14 1 0 00 -5655 15119 669.041 1.057175 147.7054 0.01 3.166592 0 191 39814 -5655 15119 11 0 1 00 -5655 15119 668.791 0.957177 137.709 0 3.166593 0 179 72 -5655 15119 8 2 0 00 -5655 15119 668.291 0.957177 117.7154 0 3.166593 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 5 1 )
+				TrPin ( 2 0 )
+			)
+		)
+		TrackNode ( 7
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 13 0 1 00 -5655 15119 664.057 1.057175 147.8304 0.01 3.166592 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 8 1 )
+				TrPin ( 11 1 )
+			)
+		)
+		TrackNode ( 8
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 13 0 -5655 15119 664.057 1.057175 147.8304 0.01 6.308185 0 )
+			TrPins ( 1 0
+				TrPin ( 7 1 )
+			)
+		)
+		TrackNode ( 9
+			TrVectorNode (
+				TrVectorSections ( 2 179 72 -5655 15119 9 0 2 00 -5655 15119 663.807 0.957177 137.834 0 3.166592 0 191 39814 -5655 15119 12 1 0 00 -5655 15119 662.8071 0.957177 97.8465 0 3.166592 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 11 0 )
+				TrPin ( 12 1 )
+			)
+		)
+		TrackNode ( 10
+			TrVectorNode (
+				TrVectorSections ( 4 183 72 -5655 15119 9 0 1 00 -5655 15119 663.807 0.957177 137.834 0 3.166592 0 175 72 -5655 15119 9 0 1 00 -5655 15119 663.7692 0.957177 136.3239 0 3.166592 0 176 72 -5655 15119 8 1 0 00 -5655 15119 665.5493 0.957177 107.7808 0 2.99206 0 183 72 -5655 15119 8 1 0 00 -5655 15119 667.3288 0.957177 79.23801 0 3.166593 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 11 0 )
+				TrPin ( 2 0 )
+			)
+		)
+		TrackNode ( 11
+			TrJunctionNode ( 0 72 0 )
+			UiD ( -5655 15119 9 0 -5655 15119 663.807 0.957177 137.834 0 6.308185 0 )
+			TrPins ( 1 2
+				TrPin ( 7 0 )
+				TrPin ( 10 1 )
+				TrPin ( 9 1 )
+			)
+		)
+		TrackNode ( 12
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 12 0 -5655 15119 662.308 0.957177 77.85254 0 3.166593 0 )
+			TrPins ( 1 0
+				TrPin ( 9 0 )
+			)
+		)
+		TrackNode ( 13
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 25 1 -5655 15119 630.6949 1.280914 163.0641 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 14 0 )
+			)
+		)
+		TrackNode ( 14
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 25 0 1 00 -5655 15119 630.6949 1.280914 153.0641 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 15 1 )
+				TrPin ( 13 1 )
+			)
+		)
+		TrackNode ( 15
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 25 0 -5655 15119 630.6949 1.280914 153.0641 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 14 1 )
+			)
+		)
+		TrackNode ( 16
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 26 0 -5655 15119 619.959 0.977498 155.7086 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 17 1 )
+			)
+		)
+		TrackNode ( 17
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 26 0 1 00 -5655 15119 619.959 0.977498 155.7086 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 16 1 )
+				TrPin ( 18 1 )
+			)
+		)
+		TrackNode ( 18
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 26 1 -5655 15119 619.959 0.977498 165.7086 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 17 0 )
+			)
+		)
+		TrackNode ( 19
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 27 0 -5655 15119 609.854 0.975642 158.8169 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 20 1 )
+			)
+		)
+		TrackNode ( 20
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 27 0 1 00 -5655 15119 609.854 0.975642 158.8169 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 19 1 )
+				TrPin ( 21 1 )
+			)
+		)
+		TrackNode ( 21
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 27 1 -5655 15119 609.854 0.975642 168.8169 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 20 0 )
+			)
+		)
+		TrackNode ( 22
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 28 1 -5655 15119 597.476 0.9729824 173.0161 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 23 0 )
+			)
+		)
+		TrackNode ( 23
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 28 0 1 00 -5655 15119 597.476 0.9729824 163.0161 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 24 1 )
+				TrPin ( 22 1 )
+			)
+		)
+		TrackNode ( 24
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 28 0 -5655 15119 597.476 0.9729824 163.0161 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 23 1 )
+			)
+		)
+		TrackNode ( 25
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 29 0 -5655 15119 627.2366 0.9874261 180.0835 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 26 1 )
+			)
+		)
+		TrackNode ( 26
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 29 0 1 00 -5655 15119 627.2366 0.9874261 180.0835 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 25 1 )
+				TrPin ( 27 1 )
+			)
+		)
+		TrackNode ( 27
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 29 1 -5655 15119 627.2366 0.9874261 190.0835 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 26 0 )
+			)
+		)
+		TrackNode ( 28
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 30 0 -5655 15119 615.663 0.9870488 183.9637 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 29 1 )
+			)
+		)
+		TrackNode ( 29
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 30 0 1 00 -5655 15119 615.663 0.9870488 183.9637 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 28 1 )
+				TrPin ( 30 1 )
+			)
+		)
+		TrackNode ( 30
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 30 1 -5655 15119 615.663 0.9870488 193.9637 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 29 0 )
+			)
+		)
+		TrackNode ( 31
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 31 0 -5655 15119 605.2571 0.9816774 190.8756 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 32 1 )
+			)
+		)
+		TrackNode ( 32
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 31 0 1 00 -5655 15119 605.2571 0.9816774 190.8756 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 31 1 )
+				TrPin ( 33 1 )
+			)
+		)
+		TrackNode ( 33
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 31 1 -5655 15119 605.2571 0.9816774 200.8756 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 32 0 )
+			)
+		)
+		TrackNode ( 34
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 32 0 -5655 15119 593.892 0.9845451 198.9946 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 35 1 )
+			)
+		)
+		TrackNode ( 35
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 32 0 1 00 -5655 15119 593.892 0.9845451 198.9946 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 34 1 )
+				TrPin ( 36 1 )
+			)
+		)
+		TrackNode ( 36
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 32 1 -5655 15119 593.892 0.9845451 208.9946 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 35 0 )
+			)
+		)
+		TrackNode ( 37
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 33 0 -5655 15119 580.1928 0.9869878 206.8082 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 38 1 )
+			)
+		)
+		TrackNode ( 38
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 33 0 1 00 -5655 15119 580.1928 0.9869878 206.8082 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 37 1 )
+				TrPin ( 39 1 )
+			)
+		)
+		TrackNode ( 39
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 33 1 -5655 15119 580.1928 0.9869878 216.8082 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 38 0 )
+			)
+		)
+		TrackNode ( 40
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 34 0 -5655 15119 571.9125 0.9889116 214.15 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 41 1 )
+			)
+		)
+		TrackNode ( 41
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 34 0 1 00 -5655 15119 571.9125 0.9889116 214.15 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 40 1 )
+				TrPin ( 42 1 )
+			)
+		)
+		TrackNode ( 42
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 34 1 -5655 15119 571.9125 0.9889116 224.15 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 41 0 )
+			)
+		)
+		TrackNode ( 43
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 35 0 -5655 15119 561.5432 0.9848084 222.8681 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 44 1 )
+			)
+		)
+		TrackNode ( 44
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 35 0 1 00 -5655 15119 561.5432 0.9848084 222.8681 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 43 1 )
+				TrPin ( 45 1 )
+			)
+		)
+		TrackNode ( 45
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 35 1 -5655 15119 561.5432 0.9848084 232.8681 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 44 0 )
+			)
+		)
+		TrackNode ( 46
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 36 0 -5655 15119 553.5994 0.9931733 230.6642 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 47 1 )
+			)
+		)
+		TrackNode ( 47
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 36 0 1 00 -5655 15119 553.5994 0.9931733 230.6642 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 46 1 )
+				TrPin ( 48 1 )
+			)
+		)
+		TrackNode ( 48
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 36 1 -5655 15119 553.5994 0.9931733 240.6642 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 47 0 )
+			)
+		)
+		TrackNode ( 49
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 37 0 -5655 15119 543.9854 0.9789838 241.5447 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 50 1 )
+			)
+		)
+		TrackNode ( 50
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 37 0 1 00 -5655 15119 543.9854 0.9789838 241.5447 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 49 1 )
+				TrPin ( 51 1 )
+			)
+		)
+		TrackNode ( 51
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 37 1 -5655 15119 543.9854 0.9789838 251.5447 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 50 0 )
+			)
+		)
+		TrackNode ( 52
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 38 0 -5655 15119 533.2399 0.9988443 248.4643 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 53 1 )
+			)
+		)
+		TrackNode ( 53
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 38 0 1 00 -5655 15119 533.2399 0.9988443 248.4643 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 52 1 )
+				TrPin ( 54 1 )
+			)
+		)
+		TrackNode ( 54
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 38 1 -5655 15119 533.2399 0.9988443 258.4643 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 53 0 )
+			)
+		)
+		TrackNode ( 55
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 39 0 -5655 15119 521.9885 0.9881726 256.5069 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 56 1 )
+			)
+		)
+		TrackNode ( 56
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 39 0 1 00 -5655 15119 521.9885 0.9881726 256.5069 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 55 1 )
+				TrPin ( 57 1 )
+			)
+		)
+		TrackNode ( 57
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 39 1 -5655 15119 521.9885 0.9881726 266.5069 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 56 0 )
+			)
+		)
+		TrackNode ( 58
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 40 0 -5655 15119 509.3415 0.9896313 267.9633 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 59 1 )
+			)
+		)
+		TrackNode ( 59
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 40 0 1 00 -5655 15119 509.3415 0.9896313 267.9633 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 58 1 )
+				TrPin ( 60 1 )
+			)
+		)
+		TrackNode ( 60
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 40 1 -5655 15119 509.3415 0.9896313 277.9633 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 59 0 )
+			)
+		)
+		TrackNode ( 61
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 41 0 -5655 15119 499.376 0.9958497 275.0887 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 62 1 )
+			)
+		)
+		TrackNode ( 62
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 41 0 1 00 -5655 15119 499.376 0.9958497 275.0887 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 61 1 )
+				TrPin ( 63 1 )
+			)
+		)
+		TrackNode ( 63
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 41 1 -5655 15119 499.376 0.9958497 285.0887 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 62 0 )
+			)
+		)
+		TrackNode ( 64
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 42 0 -5655 15119 490.9367 0.9894424 280.763 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 65 1 )
+			)
+		)
+		TrackNode ( 65
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 42 0 1 00 -5655 15119 490.9367 0.9894424 280.763 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 64 1 )
+				TrPin ( 66 1 )
+			)
+		)
+		TrackNode ( 66
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 42 1 -5655 15119 490.9367 0.9894424 290.763 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 65 0 )
+			)
+		)
+		TrackNode ( 67
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 43 0 -5655 15119 479.3516 0.9884313 291.926 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 68 1 )
+			)
+		)
+		TrackNode ( 68
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 43 0 1 00 -5655 15119 479.3516 0.9884313 291.926 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 67 1 )
+				TrPin ( 69 1 )
+			)
+		)
+		TrackNode ( 69
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 43 1 -5655 15119 479.3516 0.9884313 301.926 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 68 0 )
+			)
+		)
+		TrackNode ( 70
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 44 0 -5655 15119 471.6355 0.9938449 297.2293 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 71 1 )
+			)
+		)
+		TrackNode ( 71
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 44 0 1 00 -5655 15119 471.6355 0.9938449 297.2293 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 70 1 )
+				TrPin ( 72 1 )
+			)
+		)
+		TrackNode ( 72
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 44 1 -5655 15119 471.6355 0.9938449 307.2293 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 71 0 )
+			)
+		)
+		TrackNode ( 73
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 45 0 -5655 15119 460.4022 0.9908823 304.8926 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 74 1 )
+			)
+		)
+		TrackNode ( 74
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 45 0 1 00 -5655 15119 460.4022 0.9908823 304.8926 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 73 1 )
+				TrPin ( 75 1 )
+			)
+		)
+		TrackNode ( 75
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 45 1 -5655 15119 460.4022 0.9908823 314.8926 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 74 0 )
+			)
+		)
+		TrackNode ( 76
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 46 0 -5655 15119 449.9117 0.9907366 313.9469 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 77 1 )
+			)
+		)
+		TrackNode ( 77
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 46 0 1 00 -5655 15119 449.9117 0.9907366 313.9469 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 76 1 )
+				TrPin ( 78 1 )
+			)
+		)
+		TrackNode ( 78
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 46 1 -5655 15119 449.9117 0.9907366 323.9469 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 77 0 )
+			)
+		)
+		TrackNode ( 79
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 47 0 -5655 15119 440.0508 0.9915318 320.4315 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 80 1 )
+			)
+		)
+		TrackNode ( 80
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 47 0 1 00 -5655 15119 440.0508 0.9915318 320.4315 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 79 1 )
+				TrPin ( 81 1 )
+			)
+		)
+		TrackNode ( 81
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 47 1 -5655 15119 440.0508 0.9915318 330.4315 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 80 0 )
+			)
+		)
+		TrackNode ( 82
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 48 0 -5655 15119 430.4088 0.972218 328.8922 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 83 1 )
+			)
+		)
+		TrackNode ( 83
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 48 0 1 00 -5655 15119 430.4088 0.972218 328.8922 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 82 1 )
+				TrPin ( 84 1 )
+			)
+		)
+		TrackNode ( 84
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 48 1 -5655 15119 430.4088 0.972218 338.8922 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 83 0 )
+			)
+		)
+		TrackNode ( 85
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 49 0 -5655 15119 420.7062 0.9885417 337.8627 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 86 1 )
+			)
+		)
+		TrackNode ( 86
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 49 0 1 00 -5655 15119 420.7062 0.9885417 337.8627 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 85 1 )
+				TrPin ( 87 1 )
+			)
+		)
+		TrackNode ( 87
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 49 1 -5655 15119 420.7062 0.9885417 347.8627 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 86 0 )
+			)
+		)
+		TrackNode ( 88
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 54 1 -5655 15119 379.3163 0.9970447 388.6736 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 89 0 )
+			)
+		)
+		TrackNode ( 89
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 54 0 1 00 -5655 15119 379.3163 0.9970447 378.6736 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 90 1 )
+				TrPin ( 88 1 )
+			)
+		)
+		TrackNode ( 90
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 54 0 -5655 15119 379.3163 0.9970447 378.6736 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 89 1 )
+			)
+		)
+		TrackNode ( 91
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 50 0 -5655 15119 412.8083 0.9934715 344.997 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 92 1 )
+			)
+		)
+		TrackNode ( 92
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 50 0 1 00 -5655 15119 412.8083 0.9934715 344.997 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 91 1 )
+				TrPin ( 93 1 )
+			)
+		)
+		TrackNode ( 93
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 50 1 -5655 15119 412.8083 0.9934715 354.997 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 92 0 )
+			)
+		)
+		TrackNode ( 94
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 51 0 -5655 15119 403.8525 0.9904729 353.139 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 95 1 )
+			)
+		)
+		TrackNode ( 95
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 51 0 1 00 -5655 15119 403.8525 0.9904729 353.139 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 94 1 )
+				TrPin ( 96 1 )
+			)
+		)
+		TrackNode ( 96
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 51 1 -5655 15119 403.8525 0.9904729 363.139 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 95 0 )
+			)
+		)
+		TrackNode ( 97
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 52 0 -5655 15119 395.0475 0.9923953 361.2808 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 98 1 )
+			)
+		)
+		TrackNode ( 98
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 52 0 1 00 -5655 15119 395.0475 0.9923953 361.2808 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 97 1 )
+				TrPin ( 99 1 )
+			)
+		)
+		TrackNode ( 99
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 52 1 -5655 15119 395.0475 0.9923953 371.2808 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 98 0 )
+			)
+		)
+		TrackNode ( 100
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 53 0 -5655 15119 386.9275 0.9931641 371.1524 0 3.141593 0 )
+			TrPins ( 1 0
+				TrPin ( 101 1 )
+			)
+		)
+		TrackNode ( 101
+			TrVectorNode (
+				TrVectorSections ( 1 0 0 -5655 15119 53 0 1 00 -5655 15119 386.9275 0.9931641 371.1524 0 0 0 )
+			)
+			TrPins ( 1 1
+				TrPin ( 100 1 )
+				TrPin ( 102 1 )
+			)
+		)
+		TrackNode ( 102
+			TrEndNode ( 0 )
+			UiD ( -5655 15119 53 1 -5655 15119 386.9275 0.9931641 381.1524 0 0 0 )
+			TrPins ( 1 0
+				TrPin ( 101 0 )
+			)
+		)
+	)
+)

@@ -1,9 +1,0 @@
-SIMISA@@@@@@@@@@JINX0D0t______
-
-terrain_desc (
-	terrain_desc_size ( 67108864 )
-	Depth ( 6 )
-	terrain_desc_tiles ( 
-		TdFile ( -12 29 )
-	) 
-) 

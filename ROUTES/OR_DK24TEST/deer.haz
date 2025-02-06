@@ -1,0 +1,13 @@
+SIMISA@@@@@@@@@@JINX0h0t______
+
+Tr_Worldfile 
+(
+FileName ( US1Deer.s )
+Distance ( 10 )
+Speed ( 10 )
+Idle_Key			( 59 178 )
+Idle_Key2			( 46 59 )
+Surprise_Key_Left	( 36 46 )
+Surprise_Key_Right	( 25 35 )
+Success_Scarper_Key ( 0 24 )
+)

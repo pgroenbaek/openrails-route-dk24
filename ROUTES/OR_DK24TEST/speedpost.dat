@@ -1,0 +1,21 @@
+SIMISA@@@@@@@@@@JINX0t1t______
+
+Speedpost_Set
+(
+  Name ( Japanese )
+  Speed_Sign_Shape ( JP1PerRedSp2.s  1
+  -0.011 1.754 -0.249 0)
+  Speed_Warning_Sign_Shape ( JP1PerRedSp.s  1
+  -0.011 1.754 -0.249 0)
+  Speed_Resume_Sign_Shape ( JP1ResumeSp.s 1 0 0 0 0 )
+	Speed_Digit_Tex ( jp1signnumbers.ace )
+  Speed_Text_Size ( 0.20 0.20 0)
+  Restricted_Shape ( JP1YelloFla.s 1 0 0 0 0 )
+  End_Restricted_Shape ( JP1GreenFla.s 1 0 0 0 0 )
+  Milepost_Shape ( JPMilepost.s 3
+0.00018 0.725 -0.15139 0
+0.0888 0.725 0.0001 -120
+-0.08959 0.725 0.0001 120 )
+  Milepost_Digit_Tex ( signnumbers.ace )
+  Milepost_Text_Size ( 0.15 0 -0.15 )
+)
