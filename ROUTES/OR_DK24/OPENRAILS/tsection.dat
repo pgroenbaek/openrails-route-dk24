@@ -8,13 +8,37 @@ _INFO ( Sections 50000+ are dynamic track )
 _INFO ( Track sections specific for DK24 )
 
 TrackSections ( 50000
-    TrackSection ( 40003
+    TrackSection ( 40000
         SectionSize ( 1.5 0 )
         SectionCurve ( 29997.500000 -0.250029 )
     )
-    TrackSection ( 40005
+    TrackSection ( 40001
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 29997.500000 0.250029 )
+    )
+    TrackSection ( 40002
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 29997.500000 -0.019097 )
+    )
+    TrackSection ( 40003
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 29997.500000 0.019097 )
+    )
+    TrackSection ( 40004
         SectionSize ( 1.5 0 )
         SectionCurve ( 30002.500000 -0.250057 )
+    )
+    TrackSection ( 40005
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 30002.500000 0.250057 )
+    )
+    TrackSection ( 40006
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 30002.500000 -0.019100 )
+    )
+    TrackSection ( 40007
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 30002.500000 0.019100 )
     )
 )
 
@@ -128,14 +152,24 @@ TrackShapes ( 50000
         SectionIdx ( 2 0 0 0 0 183 176 )
         TunnelShape ( )
     )
+    TrackShape ( 40013
+        FileName ( DB22f_a1t30000r0_02d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40002 )
+    )
     TrackShape ( 40014
         FileName ( DB22f_a1t30000r0_25d_i.s )
         NumPaths ( 1 )
-        SectionIdx ( 1 0 0 0 0 40003 )
+        SectionIdx ( 1 0 0 0 0 40000 )
+    )
+    TrackShape ( 40015
+        FileName ( DB22f_a1t30000r0_02d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40006 )
     )
     TrackShape ( 40016
         FileName ( DB22f_a1t30000r0_25d_o.s )
         NumPaths ( 1 )
-        SectionIdx ( 1 0 0 0 0 40005 )
+        SectionIdx ( 1 0 0 0 0 40004 )
     )
 )
