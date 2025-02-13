@@ -164,6 +164,32 @@ def create_nybanevestfyn_kml(output_path):
         name="Hsp 2",
         coords=[transformer.transform(x, y) for x, y in path]
     ) for path in json.loads(df.iloc[159517]["geometry.paths"])]
+
+    # TODO configure ranges of terrain/fences properly
+    df.iloc[24480:27480].apply(lambda row: [
+        kml.newpoint(
+            name="Terrain",
+            coords=[transformer.transform(path[0][0], path[0][1])]
+        ) for path in json.loads(row["geometry.paths"])
+    ], axis=1)
+    df.iloc[30752:33120].apply(lambda row: [
+        kml.newpoint(
+            name="Terrain",
+            coords=[transformer.transform(path[0][0], path[0][1])]
+        ) for path in json.loads(row["geometry.paths"])
+    ], axis=1)
+    df.iloc[85132:86443].apply(lambda row: [
+        kml.newpoint(
+            name="Terrain",
+            coords=[transformer.transform(path[0][0], path[0][1])]
+        ) for path in json.loads(row["geometry.paths"])
+    ], axis=1)
+    df.iloc[86816:88019].apply(lambda row: [
+        kml.newpoint(
+            name="Terrain",
+            coords=[transformer.transform(path[0][0], path[0][1])]
+        ) for path in json.loads(row["geometry.paths"])
+    ], axis=1)
     kml.save(output_path + "\\nybanevestfyn.kml")
 
 
@@ -204,15 +230,15 @@ def create_powerlines_kml(output_path):
 if __name__ == "__main__":
     output_path = "..\\ROUTES\\OR_DK24"
 
-    create_stations_kml(output_path)
-    create_signals_kml(output_path)
-    create_mileposts_kml(output_path)
-    create_markers_kml(output_path)
-    create_trackelevation_kml(output_path)
-    create_bridgestunnels_kml(output_path)
-    create_noisewalls_kml(output_path)
-    create_supportstructures_kml(output_path)
-    create_fences_kml(output_path)
+    # create_stations_kml(output_path)
+    # create_signals_kml(output_path)
+    # create_mileposts_kml(output_path)
+    # create_markers_kml(output_path)
+    # create_trackelevation_kml(output_path)
+    # create_bridgestunnels_kml(output_path)
+    # create_noisewalls_kml(output_path)
+    # create_supportstructures_kml(output_path)
+    # create_fences_kml(output_path)
     create_nybanevestfyn_kml(output_path)
-    create_levelcrossings_kml(output_path)
-    create_powerlines_kml(output_path)
+    # create_levelcrossings_kml(output_path)
+    # create_powerlines_kml(output_path)

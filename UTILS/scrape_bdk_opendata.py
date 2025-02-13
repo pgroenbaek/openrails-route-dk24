@@ -6,7 +6,6 @@ import pandas as pd
 export_directory = "..\\BDK_OPENDATA\\"
 base_url = "https://services1.arcgis.com/QcgJt0vVxSaqMKl7/arcgis/rest/services/"
 query_urls = [
-    "Fikspunkter_OD/FeatureServer/0/query",
     "Adgangsveje_OD/FeatureServer/0/query",
     "Afsnitsmidter_OD/FeatureServer/0/query",
     "Basisspor_OD/FeatureServer/0/query",

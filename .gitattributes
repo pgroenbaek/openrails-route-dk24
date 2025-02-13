@@ -10,4 +10,3 @@
 *.tit diff working-tree-encoding=UTF-16 linguist-detectable=false
 *.sms diff working-tree-encoding=UTF-16 linguist-detectable=false
 *.pat diff working-tree-encoding=UTF-16 linguist-detectable=false
-*.py linguist-detectable=false

@@ -1,17 +1,6 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Speedpost (
-		UiD ( 935 )
-		Speed_Digit_Tex ( signnumbers.ace )
-		Speed_Sign_Shape ( 1 0 0 0 0 )
-		Speed_Text_Size ( 0.16 0.16 0 )
-		TrItemId ( 0 226 )
-		TrItemId ( 0 227 )
-		FileName ( BK_Lf5.s )
-		Position ( -656.098 2.36955 902.93 )
-		QDirection ( 0 0.518544 0 0.855051 )
-	)
 	TrackObj (
 		UiD ( 424 )
 		SectionIdx ( 52097 )

@@ -16,7 +16,7 @@ def find_assets_to_pack(file_matches):
                     pack_assets.append((file_path, file_name))
                     print('Found %d assets.' % (len(pack_assets)), end='\r')
     return pack_assets
-¨
+
 
 def ensure_directory_exists(directory_path):
     if not os.path.exists(directory_path): 
@@ -50,8 +50,7 @@ if __name__ == "__main__":
     export_file = "%s\\%s" % (export_path, export_filename)
 
     file_matches = [
-        ("DATA", "*"),
-        ("DOCS", "*"),
+        ("DATA", "*.csv"),
         ("GLOBAL\\SHAPES", "*.s"),
         ("GLOBAL\\SHAPES", "*.sd"),
         ("GLOBAL\\TEXTURES", "*.ace"),
