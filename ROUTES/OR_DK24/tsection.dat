@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrackSections ( 26
+TrackSections ( 56
 	TrackSection ( 
 		SectionCurve ( 0 ) 50002 10 0 
 	)
@@ -49,11 +49,79 @@ TrackSections ( 26
 	TrackSection ( 
 		SectionCurve ( 0 ) 50024 49.2466 0 
 	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50026 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50028 -0.0174443 4036.55 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50029 0.0174443 4036.55 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50030 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50032 49.2487 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50034 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50036 -0.0352744 13976.7 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50037 0.0352744 13976.7 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50038 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50040 -0.03525 14078.6 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50041 0.03525 14078.6 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50042 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50044 92.4646 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50046 90.0269 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50048 0.0189819 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50050 -0.0352739 13975.9 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50051 0.0352739 13975.9 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50052 0.0349121 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50054 -0.0352498 14077.3 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50055 0.0352498 14077.3 
+	)
 )
-SectionIdx ( 6
+SectionIdx ( 14
 	TrackPath ( 50001 1 50002 ) 
 	TrackPath ( 50002 3 50004 50007 50008 ) 
 	TrackPath ( 50003 3 50010 50013 50014 ) 
 	TrackPath ( 50004 2 50016 50018 ) 
 	TrackPath ( 50005 3 50020 50022 50024 ) 
+	TrackPath ( 50006 2 50026 50028 ) 
+	TrackPath ( 50007 2 50030 50032 ) 
+	TrackPath ( 50008 2 50034 50037 ) 
+	TrackPath ( 50009 2 50038 50041 ) 
+	TrackPath ( 50010 2 50042 50044 ) 
+	TrackPath ( 50011 1 50046 ) 
+	TrackPath ( 50012 2 50048 50050 ) 
+	TrackPath ( 50013 2 50052 50054 ) 
 )

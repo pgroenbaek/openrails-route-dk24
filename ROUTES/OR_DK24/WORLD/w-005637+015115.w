@@ -1,58 +1,6 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
-		UiD ( 2972 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 50004 0 5.19882e-43
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 50007 0.03525 14078.6
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 50008 90.0098 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 4.59079e-41
-			)
-		)
-		SectionIdx ( 50002 )
-		Elevation ( 104 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( 503.662 6.80145 838.478 )
-		QDirection ( -0.00337787 -0.521358 0.00206378 0.853329 )
-	)
-	Dyntrack (
-		UiD ( 2973 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 50010 0 5.19882e-43
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 50013 0.0352744 13976.7
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 50014 92.4675 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 50003 )
-		Elevation ( 1240 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( 506.476 6.80004 834.349 )
-		QDirection ( -0.00338146 -0.521348 0.00206591 0.853335 )
-	)
 	TrackObj (
 		UiD ( 64 )
 		SectionIdx ( 39861 )
