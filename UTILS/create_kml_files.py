@@ -9,8 +9,8 @@ transformer = Transformer.from_crs("EPSG:25832", "EPSG:4326", always_xy=True)
 def create_stations_kml(output_path):
     kml = simplekml.Kml()
     df = pd.read_csv("..\\DATA\\Afsnitsmidter_OD.csv")
-    stations = df[df["attributes.AFSNITSTYPE"].isin(["Station", "Trinbræt"])]
-    stations.apply(lambda row: kml.newpoint(
+    df_stations = df[df["attributes.AFSNITSTYPE"].isin(["Station", "Trinbræt"])]
+    df_stations.apply(lambda row: kml.newpoint(
         name="%s (%s)" % (row["attributes.NAVN"], row["attributes.FORKORTELSE"]),
         coords=[(row["attributes.WGS_X"],row["attributes.WGS_Y"])]
     ), axis=1)

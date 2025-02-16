@@ -3,7 +3,7 @@ import time
 import requests
 import pandas as pd
 
-export_directory = "..\\BDK_OPENDATA\\"
+export_directory = "..\\DATA\\"
 base_url = "https://services1.arcgis.com/QcgJt0vVxSaqMKl7/arcgis/rest/services/"
 query_urls = [
     "Adgangsveje_OD/FeatureServer/0/query",
