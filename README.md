@@ -1,6 +1,9 @@
 
 # Denmark 2024 - A freeware route for Open Rails
 
+[![Open Rails 1.5.1](https://img.shields.io/badge/Open%20Rails-1.5.1-green?style=flat&labelOpen%20Rails&color=%237dc243)](https://openrails.org/)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
 
 A work in progress freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024 (with some future changes cherry-picked).
@@ -44,6 +47,8 @@ Map of the v1.0 track layout:
 
 The route itself and objects/textures named "PGA_\*" are licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+
 Blender model files and textures for the objects named "PGA_\*" are available in the [Denmark 2024 objects repository](https://github.com/pgroenbaek/openrails-route-dk24-objects).
 
 All other objects/textures used in this route belong to their respective authors under terms specified by them.
@@ -83,3 +88,8 @@ Objects and textures by:
 - Manuel Mader (vegetation and trees)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone else who I might have missed
+
+
+[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
+[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey?style=flat&logo=creative-commons&logoColor=white
