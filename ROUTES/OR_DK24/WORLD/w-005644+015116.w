@@ -3,10 +3,10 @@ SIMISA@@@@@@@@@@JINX0w0t______
 Tr_Worldfile (
 	TrackObj (
 		UiD ( 247 )
-		SectionIdx ( 50755 )
+		SectionIdx ( 0 )
 		Elevation ( 24 )
 		CollideFlags ( 39 )
-		FileName ( ..\\..\\ROUTES\\OR_DK24\\SHAPES\\DynaTrax-40758.s )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-40758.s )
 		StaticFlags ( 00200180 )
 		Position ( -935.15 11.7787 -97.5816 )
 		QDirection ( 0 -0.828756 0 0.55961 )

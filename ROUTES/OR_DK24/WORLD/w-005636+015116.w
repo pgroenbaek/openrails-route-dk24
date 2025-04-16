@@ -1,81 +1,33 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
+	TrackObj (
 		UiD ( 473 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 50056 9.97145 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 50014 )
+		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50014.s )
+		StaticFlags ( 00200180 )
 		Position ( -690.522 -1.05379 -808.518 )
 		QDirection ( -0.00221084 -0.877275 -0.00404095 -0.479966 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 474 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 50058 7.2349 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 50015 )
+		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50015.s )
+		StaticFlags ( 00200180 )
 		Position ( -691.85 -1.05577 -805.437 )
 		QDirection ( -0.00244235 -0.844006 -0.00384355 -0.536315 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 478 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 50062 34.8984 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 8.74228e-08 12.0364
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 4.59121e-41
-			)
-		)
-		SectionIdx ( 50017 )
+		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50017.s )
+		StaticFlags ( 00200180 )
 		Position ( -648.518 -1.48656 -785.108 )
 		QDirection ( -0.00379813 -0.536315 0.00241349 0.844006 )
 	)
