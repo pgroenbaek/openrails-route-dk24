@@ -2134,7 +2134,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 4542 )
 		FileName ( NR_Emb2t_Wall_WWE_concrete.s )
-		Position ( -112.513 11.9914 519.667 )
+		Position ( -112.513 11.9214 519.667 )
 		QDirection ( -0.00277325 -0.521412 0.0016946 0.853299 )
 	)
 	Static (

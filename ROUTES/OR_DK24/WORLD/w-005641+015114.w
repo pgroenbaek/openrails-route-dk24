@@ -172,42 +172,6 @@ Tr_Worldfile (
 		QDirection ( -0.0129696 0.502441 -0.00753801 0.864481 )
 	)
 	Static (
-		UiD ( 599 )
-		FileName ( NR_Ramp3t100mStrt_rgt_WWE_Terrain_H.s )
-		Position ( -834.438 -1.6746 334.276 )
-		QDirection ( -0.0455849 0.857536 0.0771859 -0.506454 )
-	)
-	Static (
-		UiD ( 600 )
-		FileName ( NR_Ramp3t100mStrt_rgt_WWE_Terrain_H.s )
-		Position ( -510.587 0.19055 124.23 )
-		QDirection ( -0.0733257 -0.506654 -0.0433056 -0.857874 )
-	)
-	Static (
-		UiD ( 604 )
-		FileName ( NR_Ramp1t90mStrt.s )
-		Position ( -594 17.4001 175.926 )
-		QDirection ( 0.001722 -0.5085 0.001017 -0.861 )
-	)
-	Static (
-		UiD ( 605 )
-		FileName ( NR_Ramp1t90mStrt.s )
-		Position ( -751.024 16.417 282.58 )
-		QDirection ( -0.001271 0.861 0.002153 -0.5085 )
-	)
-	Static (
-		UiD ( 606 )
-		FileName ( NR_WallEmb1t_End_lft.s )
-		Position ( -674.354 18.594 218.789 )
-		QDirection ( 0 -0.972908 0 0.231186 )
-	)
-	Static (
-		UiD ( 608 )
-		FileName ( NR_WallEmb1t_End_lft.s )
-		Position ( -670.474 18.5069 240.514 )
-		QDirection ( 0 0.283556 0 0.958955 )
-	)
-	Static (
 		UiD ( 814 )
 		FileName ( Br_BAB4LTS050m.s )
 		Position ( -614.857 18.6474 186.297 )
@@ -490,13 +454,13 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1176 )
 		FileName ( NR_Emb2t_Wall_WWE_concrete.s )
-		Position ( -1.70104 6.13222 -39.277 )
+		Position ( -1.70063 6.06222 -39.2771 )
 		QDirection ( 0.00188577 -0.777736 -0.00233323 0.628584 )
 	)
 	Static (
 		UiD ( 1177 )
 		FileName ( NR_Emb2t_Wall_WWE_concrete.s )
-		Position ( 13.112 6.22306 -42.377 )
+		Position ( 13.1124 6.15306 -42.3771 )
 		QDirection ( 0.00189749 -0.774562 -0.00232371 0.632491 )
 	)
 	Static (
@@ -714,19 +678,19 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1378 )
 		FileName ( NR_Emb2t_Wall_WWE_concrete.s )
-		Position ( 958.551 12.025 -37.9994 )
+		Position ( 958.354 12.025 -37.1213 )
 		QDirection ( 0 -0.624744 0 0.78083 )
 	)
 	Static (
 		UiD ( 1379 )
 		FileName ( NR_Emb2t_Wall_WWE_concrete.s )
-		Position ( 955.84 12.025 -26.3095 )
+		Position ( 955.84 11.955 -26.3095 )
 		QDirection ( 0 -0.624744 0 0.78083 )
 	)
 	Static (
 		UiD ( 1380 )
 		FileName ( NR_Emb2t_Wall_WWE_concrete.s )
-		Position ( 953.036 12.024 -13.1027 )
+		Position ( 953.036 11.954 -13.1026 )
 		QDirection ( 0.00234214 -0.624892 -0.00187469 0.780706 )
 	)
 	TrackObj (

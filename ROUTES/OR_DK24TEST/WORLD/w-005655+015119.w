@@ -432,7 +432,7 @@ Tr_Worldfile (
 		SectionIdx ( 58 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( A1t2000r20d.s )
+		FileName ( NR_Emb_AT_A1t2000r20d.s )
 		StaticFlags ( 00200180 )
 		Position ( 800.763 1.73964 -456.335 )
 		QDirection ( 0 0 0 1 )
