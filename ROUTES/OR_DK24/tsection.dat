@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrackSections ( 516
+TrackSections ( 544
 	TrackSection ( 
 		SectionCurve ( 0 ) 50002 10 0 
 	)
@@ -1090,8 +1090,74 @@ TrackSections ( 516
 	TrackSection ( 
 		SectionCurve ( 0 ) 50514 32.4996 0 
 	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50516 7.88208 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50518 -0.0872692 2078.04 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50519 0.0872692 2078.04 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50520 7.88406 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50522 -0.0872692 2083 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50523 0.0872692 2083 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50524 7.83495 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50526 -0.0872537 2083.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50527 0.0872537 2083.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50528 7.83273 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50530 -0.0872537 2078.98 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50531 0.0872537 2078.98 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50532 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50534 -0.0174519 3002.55 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50535 0.0174519 3002.55 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 50536 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50538 -0.0174519 2997.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50539 0.0174519 2997.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50540 -0.0174519 2997.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50541 0.0174519 2997.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50542 -0.0174519 3002.55 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 50543 0.0174519 3002.55 
+	)
 )
-SectionIdx ( 153
+SectionIdx ( 161
 	TrackPath ( 50001 1 50002 ) 
 	TrackPath ( 50002 3 50004 50007 50008 ) 
 	TrackPath ( 50003 3 50010 50013 50014 ) 
@@ -1244,4 +1310,12 @@ SectionIdx ( 153
 	TrackPath ( 50150 2 50508 50510 ) 
 	TrackPath ( 50151 1 50512 ) 
 	TrackPath ( 50152 1 50514 ) 
+	TrackPath ( 50153 2 50516 50518 ) 
+	TrackPath ( 50154 2 50520 50522 ) 
+	TrackPath ( 50155 2 50524 50526 ) 
+	TrackPath ( 50156 2 50528 50530 ) 
+	TrackPath ( 50157 2 50532 50534 ) 
+	TrackPath ( 50158 2 50536 50538 ) 
+	TrackPath ( 50159 1 50540 ) 
+	TrackPath ( 50160 1 50542 ) 
 )
