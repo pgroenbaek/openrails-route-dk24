@@ -2,6 +2,26 @@ SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
 	TrackObj (
+		UiD ( 47 )
+		SectionIdx ( 50165 )
+		Elevation ( 2.8026e-45 )
+		CollideFlags ( 39 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50165.s )
+		StaticFlags ( 00200180 )
+		Position ( 949.02 2.89359 -996.435 )
+		QDirection ( -0.0033445 -0.536316 0.00212523 0.844008 )
+	)
+	TrackObj (
+		UiD ( 48 )
+		SectionIdx ( 50166 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50166.s )
+		StaticFlags ( 00200180 )
+		Position ( 949.127 2.87338 -990.879 )
+		QDirection ( -0.0033434 -0.536316 0.00212453 0.844008 )
+	)
+	TrackObj (
 		UiD ( 14 )
 		SectionIdx ( 50012 )
 		Elevation ( 0 )
@@ -20,26 +40,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( 949.127 2.87338 -990.879 )
 		QDirection ( -0.00212266 -0.844008 -0.00334046 -0.536316 )
-	)
-	TrackObj (
-		UiD ( 12 )
-		SectionIdx ( 50010 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-50010.s )
-		StaticFlags ( 00200180 )
-		Position ( 949.02 2.89359 -996.435 )
-		QDirection ( -0.0033445 -0.536316 0.00212523 0.844008 )
-	)
-	TrackObj (
-		UiD ( 13 )
-		SectionIdx ( 50011 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-50011.s )
-		StaticFlags ( 00200180 )
-		Position ( 949.127 2.87338 -990.879 )
-		QDirection ( -0.0033434 -0.536316 0.00212453 0.844008 )
 	)
 	TrackObj (
 		UiD ( 11 )
@@ -68,12 +68,6 @@ Tr_Worldfile (
 		FileName ( NR_Emb2t20mstrt.s )
 		Position ( 935.478 2.93202 -1000.05 )
 		QDirection ( -0.00334073 -0.536109 0.00212168 0.84414 )
-	)
-	Static (
-		UiD ( 43 )
-		FileName ( NR_Emb2t20mstrt.s )
-		Position ( 953.576 2.77373 -991.553 )
-		QDirection ( -0.00334337 -0.536316 0.00212451 0.844008 )
 	)
 	Static (
 		UiD ( 44 )
