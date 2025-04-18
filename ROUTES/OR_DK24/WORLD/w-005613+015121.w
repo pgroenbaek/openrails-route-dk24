@@ -2,20 +2,20 @@ SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
 	TrackObj (
-		UiD ( 1 )
+		UiD ( 11 )
 		SectionIdx ( 8 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t250mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 1015.65 38.7564 -975.008 )
-		QDirection ( 0.000902724 0.798634 0.00119795 0.601815 )
+		Position ( 996.43 38.8596 -980.514 )
+		QDirection ( -0.000598977 -0.601814 0.00045136 0.798636 )
 	)
 	Static (
-		UiD ( 2 )
+		UiD ( 12 )
 		FileName ( NR_Emb2t250mStrt.s )
-		Position ( 1015.65 38.6864 -975.008 )
-		QDirection ( 0.0009027 0.7986 0.001198 0.6018 )
+		Position ( 996.43 38.7896 -980.514 )
+		QDirection ( -0.000599 -0.6018 0.0004514 0.7986 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (

@@ -82,30 +82,6 @@ Tr_Worldfile (
 		QDirection ( 0.00143893 -0.694531 -0.00138907 0.71946 )
 	)
 	Static (
-		UiD ( 17 )
-		FileName ( NR_Emb2t3000r5d.s )
-		Position ( -243.65 47.7851 465.738 )
-		QDirection ( -0.001351 0.7373 0.001475 -0.6756 )
-	)
-	Static (
-		UiD ( 18 )
-		FileName ( NR_Emb2t3000r1d.s )
-		Position ( 17.8153 48.8301 454.329 )
-		QDirection ( 0.001768 -0.7071 -0.001768 0.7071 )
-	)
-	Static (
-		UiD ( 19 )
-		FileName ( NR_Emb2t3000r1d.s )
-		Position ( 70.1719 49.0917 454.786 )
-		QDirection ( 0.00214 -0.7009 -0.002103 0.7132 )
-	)
-	Static (
-		UiD ( 20 )
-		FileName ( NR_Emb2t250mStrt.s )
-		Position ( 122.512 49.4056 456.156 )
-		QDirection ( 0.002158 -0.6947 -0.002084 0.7193 )
-	)
-	Static (
 		UiD ( 21 )
 		FileName ( NR_Emb2t250mStrt.s )
 		Position ( 372.355 50.9056 464.88 )
