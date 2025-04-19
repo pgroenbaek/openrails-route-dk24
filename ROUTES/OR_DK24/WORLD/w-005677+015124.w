@@ -96,7 +96,7 @@ Tr_Worldfile (
 		SectionIdx ( 37 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A2t1000r20d.s )
+		FileName ( DB2fb_A2t1000r20d.s )
 		StaticFlags ( 00200180 )
 		Position ( -1010.26 22.624 -211.545 )
 		QDirection ( -0.00196133 -0.828233 0.00289885 0.560372 )
@@ -1223,24 +1223,6 @@ Tr_Worldfile (
 		FileName ( NR_Emb2t10mStrt.s )
 		Position ( -868.836 21.521 -256.366 )
 		QDirection ( 0.00215231 0.78283 -0.00270784 -0.622227 )
-	)
-	Static (
-		UiD ( 481 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -859.07 21.4518 -258.628 )
-		QDirection ( 0.00216238 0.779702 -0.0026927 -0.626141 )
-	)
-	Static (
-		UiD ( 482 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -849.281 21.3827 -260.792 )
-		QDirection ( 0.00217219 0.776552 -0.0026773 -0.630043 )
-	)
-	Static (
-		UiD ( 483 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -839.472 21.3138 -262.858 )
-		QDirection ( 0.0021816 0.773383 -0.00266152 -0.63393 )
 	)
 	Static (
 		UiD ( 484 )
@@ -2394,13 +2376,13 @@ Tr_Worldfile (
 		Position ( -795.3 32.2194 -247.657 )
 		QDirection ( 2.79967e-08 -0.0818755 -2.29997e-09 0.996643 )
 	)
+	Tr_Watermark ( 7 )
 	Static (
 		UiD ( 165 )
 		FileName ( BR_BAB2L1WS100m_arc.s )
 		Position ( -809.754 32.2194 -319.715 )
 		QDirection ( 0.000286577 -0.0818773 0.0034883 0.996636 )
 	)
-	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 302 )
 		SectionIdx ( 126 )

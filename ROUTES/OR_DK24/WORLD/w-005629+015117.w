@@ -208,8 +208,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t100mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 400.324 3.59732 135.558 )
-		QDirection ( -0.000707107 0.707106 0.000707107 -0.707106 )
+		Position ( 500.324 3.79732 135.593 )
+		QDirection ( 0.000706985 -0.707228 0.000707229 -0.706984 )
 	)
 	TrackObj (
 		UiD ( 96 )

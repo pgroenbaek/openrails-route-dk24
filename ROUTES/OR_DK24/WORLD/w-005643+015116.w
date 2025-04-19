@@ -164,13 +164,13 @@ Tr_Worldfile (
 	Static (
 		UiD ( 116 )
 		FileName ( NR_Ramp2t20mstrt.s )
-		Position ( -720.512 12.886099999999999 -846.629 )
+		Position ( -720.512 12.8861 -846.629 )
 		QDirection ( 0.00132408 -0.469915 0.000704877 -0.882711 )
 	)
 	Static (
 		UiD ( 117 )
 		FileName ( NR_Emb2t_End.s )
-		Position ( -662.626 13.155199999999999 -885.589 )
+		Position ( -662.626 13.1552 -885.589 )
 		QDirection ( 0.00176543 -0.469914 0.000939837 -0.88271 )
 	)
 	Static (
