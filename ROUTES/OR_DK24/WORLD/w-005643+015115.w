@@ -1,15 +1,31 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	TrackObj (
-		UiD ( 446 )
-		SectionIdx ( 50174 )
+	Dyntrack (
+		UiD ( 447 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 51028 78.7814 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -4.85579e-06 6.30601e+08
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 50293 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-50174.s )
-		StaticFlags ( 00200180 )
-		Position ( 85.0606 21.7038 658.637 )
-		QDirection ( 0.000698674 -0.878575 -0.00128525 0.477601 )
+		StaticFlags ( 00100000 )
+		Position ( 151.171 21.9693 615.79 )
+		QDirection ( 0.00148042 -0.477599 0.000804764 -0.878576 )
 	)
 	TrackObj (
 		UiD ( 1 )
@@ -758,8 +774,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 159.564 21.9743 610.352 )
-		QDirection ( -0.00175716 0.477599 -0.000955202 0.878576 )
+		Position ( 159.563 21.9993 610.352 )
+		QDirection ( 0.00131787 -0.477599 0.000716401 -0.878576 )
 	)
 	TrackObj (
 		UiD ( 298 )
@@ -778,8 +794,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 167.956 22.0243 604.914 )
-		QDirection ( -0.00219645 0.477599 -0.001194 0.878575 )
+		Position ( 167.956 22.0293 604.914 )
+		QDirection ( 0.00131787 -0.477599 0.000716401 -0.878576 )
 	)
 	TrackObj (
 		UiD ( 302 )
@@ -809,7 +825,7 @@ Tr_Worldfile (
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 184.74 22.0793 594.038 )
-		QDirection ( -0.000878578 0.4776 -0.000477601 0.878577 )
+		QDirection ( 0.000878578 -0.4776 0.0004776 -0.878577 )
 	)
 	TrackObj (
 		UiD ( 305 )
@@ -819,7 +835,7 @@ Tr_Worldfile (
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 176.348 22.0593 599.476 )
-		QDirection ( -0.00153751 0.477599 -0.000835801 0.878576 )
+		QDirection ( 0.00131787 -0.477599 0.000716401 -0.878576 )
 	)
 	Static (
 		UiD ( 306 )
