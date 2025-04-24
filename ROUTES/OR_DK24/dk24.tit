@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrItemTable ( 6
+TrItemTable ( 16
 	CrossoverItem (
 		TrItemId ( 0 )
 		TrItemSData ( 12.50009 00000002 )
@@ -36,5 +36,65 @@ TrItemTable ( 6
 		TrItemSData ( 12.50006 00000002 )
 		TrItemRData ( 566.0653 14.25016 -85.35228 -5656 15119 )
 		CrossoverTrItemData ( 4 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 6 )
+		TrItemSData ( 235.6737 00000002 )
+		TrItemRData ( 262.125 38.75692 -497.8317 -5607 15121 )
+		CrossoverTrItemData ( 7 76 )
+	)
+	CrossoverItem (
+		TrItemId ( 7 )
+		TrItemSData ( 200.0362 00000002 )
+		TrItemRData ( 262.125 38.75711 -497.8317 -5607 15121 )
+		CrossoverTrItemData ( 6 76 )
+	)
+	CrossoverItem (
+		TrItemId ( 8 )
+		TrItemSData ( 12.49997 00000002 )
+		TrItemRData ( -775.6456 35.0215 -573.7797 -5607 15121 )
+		CrossoverTrItemData ( 9 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 9 )
+		TrItemSData ( 12.50006 00000002 )
+		TrItemRData ( -775.6456 35.02158 -573.7798 -5607 15121 )
+		CrossoverTrItemData ( 8 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 10 )
+		TrItemSData ( 12.49994 00000002 )
+		TrItemRData ( -699.405 35.32653 -578.4422 -5607 15121 )
+		CrossoverTrItemData ( 11 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 11 )
+		TrItemSData ( 12.49997 00000002 )
+		TrItemRData ( -699.405 35.32662 -578.4423 -5607 15121 )
+		CrossoverTrItemData ( 10 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 12 )
+		TrItemSData ( 12.50003 00000002 )
+		TrItemRData ( -737.5253 35.17427 -576.111 -5607 15121 )
+		CrossoverTrItemData ( 13 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 13 )
+		TrItemSData ( 12.50006 00000002 )
+		TrItemRData ( -737.5253 35.17435 -576.1111 -5607 15121 )
+		CrossoverTrItemData ( 12 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 14 )
+		TrItemSData ( 12.49994 00000002 )
+		TrItemRData ( -661.2847 35.47904 -580.7738 -5607 15121 )
+		CrossoverTrItemData ( 15 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 15 )
+		TrItemSData ( 12.49997 00000002 )
+		TrItemRData ( -661.2847 35.47896 -580.7737 -5607 15121 )
+		CrossoverTrItemData ( 14 22042 )
 	)
 )
