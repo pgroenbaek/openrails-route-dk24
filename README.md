@@ -26,16 +26,18 @@ Map of the v1.0 track layout:
 
 - Phase 1:
 	- Lay mainline tracks between Fredericia and Copenhagen
-- **Phase 2: _(currently at this stage)_**
+- Phase 2: **_(currently at this stage)_**
+	- **Rebuild TDB of existing track objects**
 	- **Lay track of yards**
-	- **Place bridges/viaducts/embankments**
-	- **Place gantry**
-	- **Place station platforms**
-	- **Place roads**
-	- **Finish tunnel entrances**
+	- **Place viaducts/embankments**
+	- Place gantry
+	- Place milepost signs
+	- Place station platforms
+	- Place roads and bridges
+	- Finish tunnel entrances
 - Phase 3:
-	- Place signals
-	- Place signs
+	- Place interactives (signals / mileposts / speedlimits / platforms / sidings)
+	- Place remaining signs
 	- Place station scenery
 - Phase 4:
 	- Place scenery close to the tracks

@@ -1631,25 +1631,25 @@ Tr_Worldfile (
 	Static (
 		UiD ( 338 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -466.054 14.0336 -346.38 )
+		Position ( -466.054 17.9336 -346.38 )
 		QDirection ( 0 0.412321 0 0.911038 )
 	)
 	Static (
 		UiD ( 340 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -505.023 14.088 -346.446 )
+		Position ( -505.023 17.988 -346.446 )
 		QDirection ( 0 0.468419 0 0.883506 )
 	)
 	Static (
 		UiD ( 349 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -186.143 14.0662 -164.012 )
+		Position ( -186.143 17.3662 -164.012 )
 		QDirection ( 0 0.112263 0 0.993677 )
 	)
 	Static (
 		UiD ( 351 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -189.704 14.0637 -149.634 )
+		Position ( -189.704 17.0637 -149.634 )
 		QDirection ( 0 0.198669 0 0.980065 )
 	)
 	TrackObj (
@@ -2001,13 +2001,13 @@ Tr_Worldfile (
 	Static (
 		UiD ( 508 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -185.057 14.1234 -133.818 )
+		Position ( -185.057 17.4234 -133.818 )
 		QDirection ( 0 0.198669 0 0.980065 )
 	)
 	Static (
 		UiD ( 511 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -174.325 14.1994 -121.156 )
+		Position ( -174.325 17.1994 -121.156 )
 		QDirection ( 0 0.198669 0 0.980065 )
 	)
 	TrackObj (
@@ -2077,7 +2077,7 @@ Tr_Worldfile (
 		SectionIdx ( 1 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2_A1t50mStrt.s )
+		FileName ( DB2b_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 1008.09 14.9437 -28.3917 )
 		QDirection ( 0 -0.708765 0 -0.705445 )
@@ -2087,7 +2087,7 @@ Tr_Worldfile (
 		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2_A1t10mStrt.s )
+		FileName ( DB2b_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 958.089 14.9437 -28.6265 )
 		QDirection ( 0 -0.708765 0 -0.705445 )
@@ -2097,7 +2097,7 @@ Tr_Worldfile (
 		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2_A1t10mStrt.s )
+		FileName ( DB2b_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 948.089 14.9437 -28.6734 )
 		QDirection ( 0 -0.708765 0 -0.705445 )
@@ -2644,7 +2644,7 @@ Tr_Worldfile (
 		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1t10mStrt.s )
+		FileName ( DB2fb_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 386.1 13.5308 -83.7 )
 		QDirection ( 0.001392 -0.718 0.001436 -0.696 )
@@ -3059,7 +3059,7 @@ Tr_Worldfile (
 		SectionIdx ( 1 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2_A1t50mStrt.s )
+		FileName ( DB2b_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 1008.09 14.9437 -28.3917 )
 		QDirection ( 0 0.705443 0 -0.708766 )
@@ -5720,37 +5720,37 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1706 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -471.993 14.0336 -353.141 )
+		Position ( -471.993 17.6336 -353.141 )
 		QDirection ( 0 0.412321 0 0.911038 )
 	)
 	Static (
 		UiD ( 1709 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -510.074 14.088 -353.896 )
+		Position ( -510.074 17.988 -353.896 )
 		QDirection ( 0 0.468419 0 0.883506 )
 	)
 	Static (
 		UiD ( 1710 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -194.429 14.0662 -165.909 )
+		Position ( -194.429 17.0662 -165.909 )
 		QDirection ( 0 0.112263 0 0.993677 )
 	)
 	Static (
 		UiD ( 1711 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -181.415 14.0637 -146.129 )
+		Position ( -181.415 17.0637 -146.129 )
 		QDirection ( 0 0.198669 0 0.980065 )
 	)
 	Static (
 		UiD ( 1712 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -176.767 14.1234 -130.313 )
+		Position ( -176.767 17.4234 -130.313 )
 		QDirection ( 0 0.198669 0 0.980065 )
 	)
 	Static (
 		UiD ( 1713 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -182.615 14.1994 -124.661 )
+		Position ( -182.615 17.4994 -124.661 )
 		QDirection ( 0 0.198669 0 0.980065 )
 	)
 	Static (
@@ -6150,7 +6150,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1895 )
 		FileName ( NR_Emb1t_End.s )
-		Position ( 256.164 13.4308 -87.7518 )
+		Position ( 256.164 13.3608 -87.7518 )
 		QDirection ( 0 -0.718 0 -0.696 )
 	)
 	Static (
@@ -6354,7 +6354,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 2795 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -484.892 13.9979 -347.173 )
+		Position ( -484.892 17.5979 -347.173 )
 		QDirection ( 0 0.412321 0 0.911038 )
 	)
 	Static (
@@ -6366,7 +6366,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 3180 )
 		FileName ( NR_Bridge1t_Pier10m.s )
-		Position ( -490.832 13.9979 -353.935 )
+		Position ( -490.832 17.8979 -353.935 )
 		QDirection ( 0 0.412321 0 0.911038 )
 	)
 	Static (
@@ -7840,7 +7840,7 @@ Tr_Worldfile (
 		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1t10mStrt.s )
+		FileName ( DB2fb_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 376.105 13.4908 -84.0117 )
 		QDirection ( 0.001044 -0.718044 0.00107707 -0.695996 )
@@ -9623,7 +9623,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 6655 )
 		FileName ( PGA_DKMilepost_161_0.s )
-		Position ( 314.064 12.6429 -80.6982 )
+		Position ( 314.07 12.6429 -81.1982 )
 		QDirection ( 0.00142209 -0.703146 -0.0014063 0.711042 )
 	)
 	Static (
@@ -10245,6 +10245,48 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -1008.96 11.7448 -923.848 )
 		QDirection ( 0.00380077 -0.894433 0.00760317 -0.44712 )
+	)
+	Static (
+		UiD ( 6761 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 266.159 13.3608 -87.4407 )
+		QDirection ( 0 -0.718 0 -0.696 )
+	)
+	Static (
+		UiD ( 6762 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 276.154 13.3608 -87.129 )
+		QDirection ( 0 -0.718 0 -0.696 )
+	)
+	Static (
+		UiD ( 6763 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 286.149 13.3608 -86.8173 )
+		QDirection ( 0 -0.718 0 -0.696 )
+	)
+	Static (
+		UiD ( 6764 )
+		FileName ( NR_Emb1t50mStrt.s )
+		Position ( 336.125 13.3608 -85.2587 )
+		QDirection ( 0 -0.718 0 -0.696 )
+	)
+	Static (
+		UiD ( 6765 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 346.12 13.3608 -84.947 )
+		QDirection ( 0 -0.718 0 -0.696 )
+	)
+	Static (
+		UiD ( 6766 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 366.11 13.3908 -84.3235 )
+		QDirection ( 0.000696 -0.718 0.000718 -0.696 )
+	)
+	Static (
+		UiD ( 6767 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 356.115 13.3708 -84.6353 )
+		QDirection ( 0.000348 -0.718 0.000359 -0.696 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (
