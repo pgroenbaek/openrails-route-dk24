@@ -220,13 +220,13 @@ Tr_Worldfile (
 	Static (
 		UiD ( 296 )
 		FileName ( NR_WallEmb1t_End_lft.s )
-		Position ( 821.85 18.0335 930.976 )
+		Position ( 821.85 16.8335 930.976 )
 		QDirection ( -0.00188204 0.268852 0.00674238 0.963156 )
 	)
 	Static (
 		UiD ( 297 )
 		FileName ( NR_WallEmb1t_End_rgt.s )
-		Position ( 867.174 17.3597 948.81 )
+		Position ( 867.174 15.5597 948.81 )
 		QDirection ( -0.0019894 0.284188 0.00671149 0.958743 )
 	)
 	Static (
@@ -3682,18 +3682,6 @@ Tr_Worldfile (
 		FileName ( NR_Emb1t_Start_WWE_terrain.s )
 		Position ( -784.449 24.7135 208.728 )
 		QDirection ( -0.003004 0.7993 -0.003997 0.6009 )
-	)
-	Static (
-		UiD ( 2266 )
-		FileName ( PGA_DK_Sign_SignalType_VU.s )
-		Position ( -704.493 27.3888 181.97 )
-		QDirection ( 0 0.5536 0 -0.8328 )
-	)
-	Static (
-		UiD ( 2273 )
-		FileName ( I-skilt120.s )
-		Position ( 71.5211 25.3949 564.168 )
-		QDirection ( 0 0.8463 0 0.5326 )
 	)
 	TrackObj (
 		UiD ( 2274 )
