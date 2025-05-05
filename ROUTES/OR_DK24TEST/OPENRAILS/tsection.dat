@@ -45,9 +45,33 @@ TrackSections ( 50000
 _INFO ( Shapes 0-39999 are from the standardised global tsection.dat )
 _INFO ( Shapes 40000-49999 are custom shapes specific for DK24 )
 
-_INFO ( Track shapes specific for DK24 )
-
 TrackShapes ( 50000
+
+    _INFO ( Doppelte Kreuzungsweiche by Laci1959 )
+
+    TrackShape ( 22599
+        FileName ( A1tDKW7_5d.s )
+        NumPaths ( 10 )
+        MainRoute ( 0 )
+        ClearanceDist ( 35 )
+        SectionIdx ( 1  0 0 -10 0 0 )
+        SectionIdx ( 1  0 0 0 0 39870 )
+        SectionIdx ( 1  0 0 15 180 0 )
+        SectionIdx ( 1  -1.6316 0 14.893 172.5 0 )
+        SectionIdx ( 1  0.3264 0 0.0214 -7.5 39870 )
+        SectionIdx ( 1  1.6316 0 -9.8931 -7.5 0 )
+        SectionIdx ( 1  0 0 -10 0 28842 )
+        SectionIdx ( 1  -1.6316 0 14.893 172.5 28843 )
+        SectionIdx ( 1  0 0 15 180 28842 )
+        SectionIdx ( 1  1.6316 0 -9.8931 -7.5 28843 )
+        CrossoverShape ( )
+            XoverPts ( 1
+            XoverPt ( 0 0 2.5 )
+        )
+    )
+
+    _INFO ( Track shapes specific for DK24 )
+
     TrackShape ( 40000
         FileName ( A1tPnt2_5dLftDiv.s )
         NumPaths ( 2 )

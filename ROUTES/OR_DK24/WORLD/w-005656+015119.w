@@ -2,6 +2,16 @@ SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
 	TrackObj (
+		UiD ( 665 )
+		SectionIdx ( 22042 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A1tDblSlip7_5d.s )
+		StaticFlags ( 00200180 )
+		Position ( 563.583 14.2402 -85.0539 )
+		QDirection ( 0.00132714 -0.748115 -0.00149624 0.663566 )
+	)
+	TrackObj (
 		UiD ( 6430 )
 		SectionIdx ( 50447 )
 		Elevation ( 200969 )
@@ -2387,16 +2397,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( 553.566 14.2002 -85.4931 )
 		QDirection ( 0.00142215 -0.703116 -0.00140624 0.711072 )
-	)
-	TrackObj (
-		UiD ( 665 )
-		SectionIdx ( 22042 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1tDblSlip7_5d.s )
-		StaticFlags ( 00200180 )
-		Position ( 563.583 14.2402 -85.0539 )
-		QDirection ( 0.00132714 -0.748115 -0.00149624 0.663566 )
 	)
 	TrackObj (
 		UiD ( 668 )
@@ -6014,7 +6014,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1798 )
 		FileName ( NR_Emb1t2000r1d.s )
-		Position ( -786.173 13.3748 -709.706 )
+		Position ( -786.173 13.3048 -709.706 )
 		QDirection ( 0.003295 0.3368 -0.001179 -0.9416 )
 	)
 	Static (
@@ -6152,18 +6152,6 @@ Tr_Worldfile (
 		FileName ( NR_Emb1t_End.s )
 		Position ( 256.164 13.3608 -87.7518 )
 		QDirection ( 0 -0.718 0 -0.696 )
-	)
-	Static (
-		UiD ( 1921 )
-		FileName ( NR_Emb1t2000r1d.s )
-		Position ( -1013.31 9.46366 -927.399 )
-		QDirection ( -0.005361 0.4491 0.002694 -0.8935 )
-	)
-	Static (
-		UiD ( 1922 )
-		FileName ( NR_Emb1t2000r1d.s )
-		Position ( -1013.31 9.46366 -927.399 )
-		QDirection ( 0.002919 -0.8935 0.005808 -0.4491 )
 	)
 	TrackObj (
 		UiD ( 1926 )
@@ -6360,7 +6348,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 3178 )
 		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -764.586 13.2004 -695.031 )
+		Position ( -764.586 13.1304 -695.031 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
@@ -6416,48 +6404,6 @@ Tr_Worldfile (
 		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
 		Position ( -134.087 12.4569 -87.8946 )
 		QDirection ( -0.00375905 0.824867 -0.00548519 0.565288 )
-	)
-	Static (
-		UiD ( 3360 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -886.373 15.6493 -797.805 )
-		QDirection ( 0.000214293 0.921288 0.000507678 0.38888 )
-	)
-	Static (
-		UiD ( 3361 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -906.805 15.6812 -817.704 )
-		QDirection ( -0.000418341 0.915549 -0.000952277 0.402206 )
-	)
-	Static (
-		UiD ( 3362 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -927.808 15.6208 -837.004 )
-		QDirection ( -0.00115241 0.909613 -0.00252318 0.415448 )
-	)
-	Static (
-		UiD ( 3363 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -949.362 15.4598 -855.685 )
-		QDirection ( -0.00185706 0.903519 -0.00391549 0.428527 )
-	)
-	Static (
-		UiD ( 3364 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -971.56 15.2084 -873.826 )
-		QDirection ( -0.00229696 0.899192 -0.0047207 0.437522 )
-	)
-	Static (
-		UiD ( 3365 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -994.188 14.9038 -891.575 )
-		QDirection ( -0.00264141 0.895988 -0.00532989 0.444037 )
-	)
-	Static (
-		UiD ( 3366 )
-		FileName ( NR_Emb1t30mStrt_WWE_terrain.s )
-		Position ( -1017.17 14.5588 -909.069 )
-		QDirection ( -0.00284376 0.894468 -0.00568939 0.447087 )
 	)
 	Static (
 		UiD ( 3526 )
@@ -9865,55 +9811,55 @@ Tr_Worldfile (
 	Static (
 		UiD ( 6701 )
 		FileName ( NR_Emb2t2000r5d.s )
-		Position ( -909.778 14.7721 -866.175 )
+		Position ( -909.778 14.7021 -866.175 )
 		QDirection ( 0.003252 0.3695 -0.001293 -0.9292 )
 	)
 	Static (
 		UiD ( 6702 )
 		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -770.792 13.2704 -702.871 )
+		Position ( -770.792 13.2004 -702.871 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6703 )
 		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -776.999 13.3404 -710.711 )
+		Position ( -776.999 13.2704 -710.711 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6704 )
 		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -783.206 13.4104 -718.552 )
+		Position ( -783.206 13.3404 -718.552 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6705 )
 		FileName ( NR_Emb2t10mStrt.s )
-		Position ( -789.413 13.4804 -726.392 )
+		Position ( -789.413 13.4104 -726.392 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6707 )
 		FileName ( NR_Emb1t50mStrt.s )
-		Position ( -708.404 12.5005 -611.968 )
+		Position ( -708.404 12.4305 -611.968 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6708 )
 		FileName ( NR_Emb1t20mstrt.s )
-		Position ( -739.439 12.8505 -651.169 )
+		Position ( -739.439 12.7805 -651.169 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6709 )
 		FileName ( NR_Emb1t20mstrt.s )
-		Position ( -751.854 12.9905 -666.849 )
+		Position ( -751.854 12.9205 -666.849 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	Static (
 		UiD ( 6710 )
 		FileName ( NR_Emb2t100mStrt.s )
-		Position ( -702.518 12.5005 -616.627 )
+		Position ( -702.518 12.4305 -616.627 )
 		QDirection ( -0.00115 -0.9445 -0.003306 -0.3286 )
 	)
 	TrackObj (

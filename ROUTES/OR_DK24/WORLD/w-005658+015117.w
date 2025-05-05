@@ -22,16 +22,6 @@ Tr_Worldfile (
 		QDirection ( -0.00469456 -0.88292 0.00882992 0.469417 )
 	)
 	TrackObj (
-		UiD ( 3 )
-		SectionIdx ( 18804 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( BAB_emb_4LT2000r02d.s )
-		StaticFlags ( 00200180 )
-		Position ( -828.678 46.5142 666.87 )
-		QDirection ( -0.00484794 -0.874593 0.00874665 0.484754 )
-	)
-	TrackObj (
 		UiD ( 4 )
 		SectionIdx ( 18804 )
 		Elevation ( 0 )

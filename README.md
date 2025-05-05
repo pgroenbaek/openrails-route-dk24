@@ -61,6 +61,7 @@ Those objects/textures were obtained from the following freeware packs:
 - NewRoads 4.0: https://the-train.de/downloads/entry/7912-newroads-v4-0-grundversion/?highlight=newroads
 - NewRoads 4.0 Autobahn Texturen: https://the-train.de/downloads/entry/7887-newroads-v4-0-autobahn-texturen-update-f%C3%BCr-streckenbauer/
 - DBTracks: https://the-train.de/downloads/entry/11252-dbtracks/
+- DBTracks Doppelte Kreuzungsweiche: https://the-train.de/downloads/entry/11283-dbtracks-doppelte-kreuzungsweiche-dkw-7-5/
 - Danske Signaler: https://www.routebuilders.dk/download/msts/signaler/
 - MM Vegetation 7.1: https://the-train.de/downloads/entry/9534-mm-vegetation-v7-1/
 - Relæhytter: https://www.routebuilders.dk/download/msts/signaler/
@@ -83,14 +84,17 @@ Special thanks to:
 - All other XTracks 3.20 and Newroads 4.0 authors
 
 Objects and textures by:
-- Peter Grønbæk Andersen (everything named "PGA_*")
+- Peter Grønbæk Andersen (anything named "PGA_*")
 - Norbert Rieger (tracks, embankments, motorways, bridges, and more)
 - Stig Christensen (danish signals, danish level crossings)
 - Henrik Fredborg (Fredericia station roof, some danish buildings)
 - Manuel Mader (vegetation and trees)
+- Laci1959 (double crossing switches)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone else who I might have missed
 
+Sounds by:
+- Jan Riffel (track sounds)
 
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png

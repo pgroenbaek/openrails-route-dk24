@@ -1,6 +1,58 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Dyntrack (
+		UiD ( 937 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 52522 5.36892 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 52524 -0.0348984 741.631
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 50727 )
+		Elevation ( 11.7504 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -605.558 2.58918 876.977 )
+		QDirection ( -0.00191031 0.488765 -0.00107024 0.872413 )
+	)
+	Dyntrack (
+		UiD ( 938 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 52526 8.40368 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 52528 -0.0523532 1093.75
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 50728 )
+		Elevation ( 1184 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -578.718 2.69373 854.584 )
+		QDirection ( 0.00161159 -0.481133 0.000884498 -0.876646 )
+	)
 	TrackObj (
 		UiD ( 424 )
 		SectionIdx ( 0 )
@@ -420,26 +472,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -453.189 3.18848 757.643 )
 		QDirection ( 0.000166025 0.480973 9.10806e-05 0.876736 )
-	)
-	TrackObj (
-		UiD ( 494 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-42140.s )
-		StaticFlags ( 00200180 )
-		Position ( -578.718 2.69372 854.584 )
-		QDirection ( 0.00161153 -0.481134 0.000884466 -0.876645 )
-	)
-	TrackObj (
-		UiD ( 495 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-42141.s )
-		StaticFlags ( 00200180 )
-		Position ( -605.558 2.58918 876.977 )
-		QDirection ( -0.0019103 0.488765 -0.00107024 0.872413 )
 	)
 	TrackObj (
 		UiD ( 543 )

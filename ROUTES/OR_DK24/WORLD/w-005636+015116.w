@@ -965,12 +965,6 @@ Tr_Worldfile (
 		QDirection ( 0 -0.845032 0 -0.534716 )
 	)
 	Static (
-		UiD ( 368 )
-		FileName ( NR_Emb2t100mStrt_WWE_terrain.s )
-		Position ( -218.062 -6.37288 -547.542 )
-		QDirection ( 0 -0.845032 0 -0.534716 )
-	)
-	Static (
 		UiD ( 369 )
 		FileName ( NR_Emb2t100mStrt_WWE_terrain.s )
 		Position ( 557.424 -6.37286 -255.904 )

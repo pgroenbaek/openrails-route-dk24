@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrItemTable ( 16
+TrItemTable ( 21
 	CrossoverItem (
 		TrItemId ( 0 )
 		TrItemSData ( 12.50009 00000002 )
@@ -28,13 +28,13 @@ TrItemTable ( 16
 	CrossoverItem (
 		TrItemId ( 4 )
 		TrItemSData ( 12.50006 00000002 )
-		TrItemRData ( 566.0653 14.25025 -85.35238 -5656 15119 )
+		TrItemRData ( 566.0651 14.25029 -85.35237 -5656 15119 )
 		CrossoverTrItemData ( 5 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 5 )
 		TrItemSData ( 12.50006 00000002 )
-		TrItemRData ( 566.0653 14.25016 -85.35228 -5656 15119 )
+		TrItemRData ( 566.0651 14.2502 -85.35228 -5656 15119 )
 		CrossoverTrItemData ( 4 22042 )
 	)
 	CrossoverItem (
@@ -96,5 +96,20 @@ TrItemTable ( 16
 		TrItemSData ( 12.49997 00000002 )
 		TrItemRData ( -661.2847 35.47896 -580.7737 -5607 15121 )
 		CrossoverTrItemData ( 14 22042 )
+	)
+	EmptyItem (
+		TrItemId ( 16 )
+	)
+	EmptyItem (
+		TrItemId ( 17 )
+	)
+	EmptyItem (
+		TrItemId ( 18 )
+	)
+	EmptyItem (
+		TrItemId ( 19 )
+	)
+	EmptyItem (
+		TrItemId ( 20 )
 	)
 )

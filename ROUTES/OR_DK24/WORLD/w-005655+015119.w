@@ -1357,7 +1357,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 384 )
 		FileName ( NR_Emb3t_End.s )
-		Position ( -8.74164 14.8903 38.8276 )
+		Position ( -9.53556 14.8903 38.7291 )
 		QDirection ( 0 -0.66217 0 0.749354 )
 	)
 	TrackObj (

@@ -45,9 +45,10 @@ TrackSections ( 50000
 _INFO ( Shapes 0-39999 are from the standardised global tsection.dat )
 _INFO ( Shapes 40000-49999 are custom shapes specific for DK24 )
 
-_INFO ( Track shapes specific for DK24 )
-
 TrackShapes ( 50000
+
+    _INFO ( Track shapes specific for DK24 )
+
     TrackShape ( 40000
         FileName ( A1tPnt2_5dLftDiv.s )
         NumPaths ( 2 )
