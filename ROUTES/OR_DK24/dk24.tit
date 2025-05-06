@@ -97,11 +97,17 @@ TrItemTable ( 21
 		TrItemRData ( -661.2847 35.47896 -580.7737 -5607 15121 )
 		CrossoverTrItemData ( 14 22042 )
 	)
-	EmptyItem (
+	CrossoverItem (
 		TrItemId ( 16 )
+		TrItemSData ( 385.3964 00000002 )
+		TrItemRData ( -384.1255 24.3046 -963.304 -5677 15126 )
+		CrossoverTrItemData ( 17 75 )
 	)
-	EmptyItem (
+	CrossoverItem (
 		TrItemId ( 17 )
+		TrItemSData ( 175.0361 00000002 )
+		TrItemRData ( -384.1252 24.3045 -963.304 -5677 15126 )
+		CrossoverTrItemData ( 16 75 )
 	)
 	EmptyItem (
 		TrItemId ( 18 )

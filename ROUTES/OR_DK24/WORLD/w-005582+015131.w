@@ -20,7 +20,7 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 50741 )
+		SectionIdx ( -1 )
 		Elevation ( 1.90128e-41 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
@@ -46,7 +46,7 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 50742 )
+		SectionIdx ( -1 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
@@ -72,7 +72,7 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 50743 )
+		SectionIdx ( -1 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
@@ -98,8 +98,8 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 50744 )
-		Elevation ( -1.11361e+23 )
+		SectionIdx ( -1 )
+		Elevation ( 21.8864 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
 		Position ( -854.845 1.77573 -98.0179 )

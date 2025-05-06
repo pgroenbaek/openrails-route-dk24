@@ -90,6 +90,7 @@ Objects and textures by:
 - Henrik Fredborg (Fredericia station roof, some danish buildings)
 - Manuel Mader (vegetation and trees)
 - Laci1959 (double crossing switches)
+- Jan Riffel (double crossing switches)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone else who I might have missed
 

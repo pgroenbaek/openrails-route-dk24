@@ -1150,12 +1150,6 @@ Tr_Worldfile (
 		QDirection ( -0.00122758 -0.838051 0.00188562 0.545588 )
 	)
 	Static (
-		UiD ( 494 )
-		FileName ( PGA_DKMilepost_158_0.s )
-		Position ( -591.075 9.19466 -285.412 )
-		QDirection ( 0.00054559 -0.838052 -0.000838053 0.54559 )
-	)
-	Static (
 		UiD ( 495 )
 		FileName ( PGA_DKMilepost_158_0.s )
 		Position ( -585.389 9.19737 -275.916 )
@@ -1358,6 +1352,12 @@ Tr_Worldfile (
 		FileName ( PGA_DKMilepost_156_4.s )
 		Position ( 854.149 15.2413 -924.943 )
 		QDirection ( 0 -0.838052 0 0.54559 )
+	)
+	Static (
+		UiD ( 556 )
+		FileName ( PGA_DKMilepost_158_0.s )
+		Position ( -589.821 9.1974 -285.967 )
+		QDirection ( 0.00054559 -0.838052 -0.000838053 0.54559 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (
