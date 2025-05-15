@@ -1,15 +1,6 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Transfer (
-		UiD ( 181 )
-		Width ( 10 )
-		Height ( 10 )
-		FileName ( shadwrct.ace )
-		StaticFlags ( 00000000 )
-		Position ( -2598.56 -1443.82 477.346 )
-		QDirection ( 0 0 0 1 )
-	)
 	TrackObj (
 		UiD ( 136 )
 		SectionIdx ( 234 )

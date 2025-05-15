@@ -5,7 +5,7 @@ def find_world_files(search_directory):
   world_files = []
   for file_name in os.listdir(search_directory):
       if fnmatch.fnmatch(file_name, "*.w"):
-          world_files.append("%s\\%s" % (search_directory, file_name))
+          world_files.append(f"{search_directory}/{file_name}")
   return world_files
 
 
@@ -53,7 +53,7 @@ def translate_heights(world_file, shape_name_match, delta_height):
 
 
 if __name__ == "__main__":
-    search_path = "..\\ROUTES\\OR_DK24\\WORLD"
+    search_path = "../ROUTES/OR_DK24/WORLD"
     shape_name_match = "NR_*"
     delta_height = -0.07
     

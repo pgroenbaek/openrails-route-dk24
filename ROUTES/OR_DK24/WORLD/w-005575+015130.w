@@ -2436,7 +2436,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 695 )
-		FileName ( NR_Ramp1t100mStrt.s )
+		FileName ( NR_RWall_100mStrt_lft.s )
 		Position ( 761.923 -0.724647 217.865 )
 		QDirection ( -0.003324 -0.8801 0.006161 0.4748 )
 	)
@@ -2454,7 +2454,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 698 )
-		FileName ( NR_Ramp1t50mStrt.s )
+		FileName ( NR_RWall_50mStrt_lft.s )
 		Position ( 720.138 -0.024594 245.321 )
 		QDirection ( -0.003324 -0.8801 0.006161 0.4748 )
 	)

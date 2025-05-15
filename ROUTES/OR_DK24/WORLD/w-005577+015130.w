@@ -398,7 +398,7 @@ Tr_Worldfile (
 		SectionIdx ( 119 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2s_A1t10mStrtTun_HalfRgt.s )
+		FileName ( DB2s_A1t10mStrtTun_HalfLft.s )
 		StaticFlags ( 00200180 )
 		Position ( 41.734 -5.61388 195.442 )
 		QDirection ( 0 -0.719231 0 -0.694771 )

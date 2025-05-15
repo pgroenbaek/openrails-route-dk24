@@ -87,4 +87,28 @@ Tr_Worldfile (
 		Position ( 1007.89 2.29838 -966.07 )
 		QDirection ( -0.00334337 -0.536316 0.00212451 0.844008 )
 	)
+	Static (
+		UiD ( 52 )
+		FileName ( PGA_DK_Gantry_N2t6m_R.s )
+		Position ( 919.187 3.07451 -1007.73 )
+		QDirection ( -0.00334097 -0.535912 0.00212074 0.844265 )
+	)
+	Static (
+		UiD ( 53 )
+		FileName ( PGA_DK_Gantry_N2t6m_L.s )
+		Position ( 958.997 2.72629 -989.009 )
+		QDirection ( -0.00334336 -0.536317 0.00212451 0.844008 )
+	)
+	Static (
+		UiD ( 54 )
+		FileName ( PGA_DK_Gantry_N2t6m_R.s )
+		Position ( 998.831 2.3777 -970.322 )
+		QDirection ( -0.00334335 -0.536316 0.0021245 0.844008 )
+	)
+	Static (
+		UiD ( 55 )
+		FileName ( PGA_DKMilepost_120_2.s )
+		Position ( 1001.72 2.10194 -962.889 )
+		QDirection ( -0.00334339 -0.536316 0.00212453 0.844008 )
+	)
 )

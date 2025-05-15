@@ -151,19 +151,19 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 113 )
-		FileName ( NR_Bridge2t50mStrt.s )
-		Position ( -679.042 13.0761 -874.522 )
-		QDirection ( 0.00176543 -0.469914 0.000939836 -0.88271 )
+		FileName ( NR_Bridge4t20mStrt.s )
+		Position ( -685.106 13.0573 -875.119 )
+		QDirection ( -0.00154815 0.288676 -0.0012662 0.957424 )
 	)
 	Static (
 		UiD ( 115 )
-		FileName ( NR_Ramp2t20mstrt.s )
+		FileName ( NR_WallEmb2t20mStrt_rgt.s )
 		Position ( -662.479 13.156 -885.689 )
 		QDirection ( 0.00176543 -0.469914 0.000939837 -0.88271 )
 	)
 	Static (
 		UiD ( 116 )
-		FileName ( NR_Ramp2t20mstrt.s )
+		FileName ( NR_WallEmb2t20mStrt_lft.s )
 		Position ( -720.512 12.8861 -846.629 )
 		QDirection ( 0.00132408 -0.469915 0.000704877 -0.882711 )
 	)
@@ -214,6 +214,12 @@ Tr_Worldfile (
 		FileName ( NR_Emb2t20mstrt.s )
 		Position ( -629.411 13.3154 -907.945 )
 		QDirection ( 0.00176543 -0.469914 0.000939837 -0.88271 )
+	)
+	Static (
+		UiD ( 144 )
+		FileName ( NR_Bridge4t20mStrt.s )
+		Position ( -703.211 12.9692 -862.573 )
+		QDirection ( -0.00154773 0.288637 -0.00126669 0.957421 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (

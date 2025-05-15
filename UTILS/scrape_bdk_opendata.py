@@ -47,7 +47,7 @@ if __name__ == "__main__":
     if not os.path.exists(export_directory): 
         os.makedirs(export_directory)
 
-    for query_url in query_urls:
+    for idx, query_url in enumerate(query_urls):
         layer_url = base_url + query_url
         params = {
             "where": "1=1",
@@ -74,4 +74,4 @@ if __name__ == "__main__":
         df = pd.json_normalize(all_features)
         df.to_csv(csv_filename, index=False)
 
-        print("Query %d of %d completed. Saved as %s" % (query_urls.index(query_url) + 1, len(query_urls), csv_filename))
+        print(f"Query {idx + 1} of {len(query_urls)} completed. Saved as {csv_filename}"))

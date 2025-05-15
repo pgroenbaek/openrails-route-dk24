@@ -433,6 +433,22 @@ Tr_Worldfile (
 		Position ( 1000.32 4.72732 135.765 )
 		QDirection ( -0.0007072 0.707 0.000707 -0.7072 )
 	)
+	TrackObj (
+		UiD ( 129 )
+		SectionIdx ( 7 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A2t100mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( -929.336 3.53732 7.74774 )
+		QDirection ( 0.000605409 -0.795914 0.000795915 -0.605409 )
+	)
+	Static (
+		UiD ( 130 )
+		FileName ( NR_Emb2t100mStrt.s )
+		Position ( -929.336 3.46732 7.74778 )
+		QDirection ( 0.0006054 -0.7959 0.0007959 -0.6054 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 34 )

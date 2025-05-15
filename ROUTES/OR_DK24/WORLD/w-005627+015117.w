@@ -592,7 +592,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 243 )
 		FileName ( NR_Emb2t1_5mstrt.s )
-		Position ( -725.437 4.30183 136.077 )
+		Position ( -725.437 4.23183 136.077 )
 		QDirection ( -0.000706985 -0.707228 -0.000707229 -0.706984 )
 	)
 	Static (

@@ -29,12 +29,12 @@ def find_world_files(search_directory: str) -> List[str]:
     world_files = []
     for file_name in os.listdir(search_directory):
         if fnmatch.fnmatch(file_name, "*.w"):
-            world_files.append("%s\\%s" % (search_directory, file_name))
+            world_files.append(f"{search_directory}\{file_name}")
     return world_files
 
 
 if __name__ == "__main__":
-    search_path = "..\\ROUTES\\OR_DK24\\WORLD"
+    search_path = "../ROUTES/OR_DK24/WORLD"
     replace_greater_than = 49999
     replace_with = 0
     

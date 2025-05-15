@@ -14,7 +14,6 @@ The aim for v1.0 is to build the mainline between Fredericia and Copenhagen. Inc
 
 The route will also contain the following railway projects under construction in 2024 as if they were already finished:
 - The new high speed railway line between Odense and Kauslunde.
-- Electrification north of Fredericia.
 - The new DJM depot in Marslev.
 - The new IC5 depot in Copenhagen.
 
@@ -79,7 +78,7 @@ Route created by:
 Special thanks to:
 - Norbert Rieger (DBtracks, BAB, NR Bahntrasse, Newroads 4.0)
 - Piotr Gadecki (developing the TSRE5 route editor)
-- Eric (maintaining the TSRE5 route editor fork)
+- Eric Olesen (maintaining the TSRE5 route editor fork)
 - Stig Christensen (danish signals)
 - All other XTracks 3.20 and Newroads 4.0 authors
 
@@ -91,11 +90,14 @@ Objects and textures by:
 - Manuel Mader (vegetation and trees)
 - Laci1959 (double crossing switches)
 - Jan Riffel (double crossing switches)
+- QJ-6811 (gravel roads)
 - Kuju / Microsoft (default MSTS objects)
 - Anyone else who I might have missed
 
 Sounds by:
 - Jan Riffel (track sounds)
+
+And finally thanks to everyone who has provided good advice on route building, modelling, etc.
 
 [cc-by-nc-sa]: https://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png

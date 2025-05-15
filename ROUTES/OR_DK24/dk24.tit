@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrItemTable ( 21
+TrItemTable ( 34
 	CrossoverItem (
 		TrItemId ( 0 )
 		TrItemSData ( 12.50009 00000002 )
@@ -99,23 +99,104 @@ TrItemTable ( 21
 	)
 	CrossoverItem (
 		TrItemId ( 16 )
-		TrItemSData ( 385.3964 00000002 )
-		TrItemRData ( -384.1255 24.3046 -963.304 -5677 15126 )
-		CrossoverTrItemData ( 17 75 )
+		TrItemSData ( 247.8274 00000002 )
+		TrItemRData ( -380.1396 24.33941 -980.3411 -5677 15126 )
+		CrossoverTrItemData ( 17 76 )
 	)
 	CrossoverItem (
 		TrItemId ( 17 )
-		TrItemSData ( 175.0361 00000002 )
-		TrItemRData ( -384.1252 24.3045 -963.304 -5677 15126 )
-		CrossoverTrItemData ( 16 75 )
+		TrItemSData ( 210.8475 00000002 )
+		TrItemRData ( -380.1396 24.3396 -980.3411 -5677 15126 )
+		CrossoverTrItemData ( 16 76 )
 	)
-	EmptyItem (
+	CrossoverItem (
 		TrItemId ( 18 )
+		TrItemSData ( 170.1433 00000002 )
+		TrItemRData ( -276.0332 0.9305381 -131.149 -5578 15132 )
+		CrossoverTrItemData ( 19 22055 )
 	)
-	EmptyItem (
+	CrossoverItem (
 		TrItemId ( 19 )
+		TrItemSData ( 50.69192 00000002 )
+		TrItemRData ( -276.0332 0.93072 -131.1489 -5578 15132 )
+		CrossoverTrItemData ( 18 22055 )
+	)
+	CrossoverItem (
+		TrItemId ( 20 )
+		TrItemSData ( 12.5 00000002 )
+		TrItemRData ( -194.6658 0.6323101 24.62062 -5578 15132 )
+		CrossoverTrItemData ( 21 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 21 )
+		TrItemSData ( 12.50001 00000002 )
+		TrItemRData ( -194.6657 0.6322727 24.62059 -5578 15132 )
+		CrossoverTrItemData ( 20 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 22 )
+		TrItemSData ( 12.5 00000002 )
+		TrItemRData ( -183.5072 0.56753 61.14608 -5578 15132 )
+		CrossoverTrItemData ( 23 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 23 )
+		TrItemSData ( 12.49999 00000002 )
+		TrItemRData ( -183.5073 0.5675672 61.14611 -5578 15132 )
+		CrossoverTrItemData ( 22 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 24 )
+		TrItemSData ( 12.5 00000002 )
+		TrItemRData ( -312.6242 0.9592271 -106.1061 -5578 15132 )
+		CrossoverTrItemData ( 25 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 25 )
+		TrItemSData ( 12.5 00000002 )
+		TrItemRData ( -312.6241 0.9591907 -106.1061 -5578 15132 )
+		CrossoverTrItemData ( 24 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 26 )
+		TrItemSData ( 76.69955 00000002 )
+		TrItemRData ( -344.543 1.039449 -140.8657 -5578 15132 )
+		CrossoverTrItemData ( 27 22055 )
+	)
+	CrossoverItem (
+		TrItemId ( 27 )
+		TrItemSData ( 12.50002 00000002 )
+		TrItemRData ( -344.543 1.039631 -140.8657 -5578 15132 )
+		CrossoverTrItemData ( 26 22055 )
+	)
+	CrossoverItem (
+		TrItemId ( 28 )
+		TrItemSData ( 12.5 00000002 )
+		TrItemRData ( -143.4704 0.5464811 51.40288 -5578 15132 )
+		CrossoverTrItemData ( 29 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 29 )
+		TrItemSData ( 12.5 00000002 )
+		TrItemRData ( -143.4704 0.5464447 51.40285 -5578 15132 )
+		CrossoverTrItemData ( 28 22042 )
+	)
+	CrossoverItem (
+		TrItemId ( 30 )
+		TrItemSData ( 31.59547 00000002 )
+		TrItemRData ( -121.6211 0.4973827 95.36864 -5578 15132 )
+		CrossoverTrItemData ( 31 22033 )
+	)
+	CrossoverItem (
+		TrItemId ( 31 )
+		TrItemSData ( 49.56078 00000002 )
+		TrItemRData ( -121.6208 0.497381 95.36946 -5578 15132 )
+		CrossoverTrItemData ( 30 22033 )
 	)
 	EmptyItem (
-		TrItemId ( 20 )
+		TrItemId ( 32 )
+	)
+	EmptyItem (
+		TrItemId ( 33 )
 	)
 )

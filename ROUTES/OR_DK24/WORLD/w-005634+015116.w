@@ -185,4 +185,16 @@ Tr_Worldfile (
 		Position ( 905.147 75.6494 206.885 )
 		QDirection ( -0.005752 -0.6418 0.004814 0.7668 )
 	)
+	Static (
+		UiD ( 50 )
+		FileName ( GreatBeltDistanceTest.s )
+		Position ( -491.077 -0.0533741 -62.0029 )
+		QDirection ( 0 0.0749289 0 0.997186 )
+	)
+	Static (
+		UiD ( 51 )
+		FileName ( GreatBeltDistanceTest.s )
+		Position ( -495.668 -0.049574 -26.5331 )
+		QDirection ( 0 0.0749289 0 0.997186 )
+	)
 )

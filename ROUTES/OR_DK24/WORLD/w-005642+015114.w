@@ -1508,6 +1508,36 @@ Tr_Worldfile (
 		Position ( 510.464 2.14256 703.069 )
 		QDirection ( 0 0.527205 0 0.849738 )
 	)
+	Static (
+		UiD ( 620 )
+		FileName ( PGA_DK_Gantry_N2t6m_L.s )
+		Position ( 926.741 2.08279 479.322 )
+		QDirection ( -1.9294e-08 0.860961 3.26564e-08 -0.508671 )
+	)
+	Static (
+		UiD ( 621 )
+		FileName ( PGA_DK_Gantry_N2t6m_R.s )
+		Position ( 965.28 2.08279 458.091 )
+		QDirection ( 2.75628e-09 0.860962 -4.66521e-09 -0.50867 )
+	)
+	Static (
+		UiD ( 622 )
+		FileName ( PGA_DK_Gantry_N2t6m_L.s )
+		Position ( 1003.82 2.08279 436.861 )
+		QDirection ( -1.9294e-08 0.860961 3.26564e-08 -0.508671 )
+	)
+	Static (
+		UiD ( 623 )
+		FileName ( PGA_DKMilepost_130_0.s )
+		Position ( 962.022 1.85279 453.624 )
+		QDirection ( 0 -0.860961 0 0.508671 )
+	)
+	Static (
+		UiD ( 626 )
+		FileName ( PGA_DKMilepost_130_0.s )
+		Position ( 968.271 1.85279 462.723 )
+		QDirection ( 0 -0.860961 0 0.508671 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 292 )
