@@ -6,10 +6,10 @@ TrackPDPs (
 	TrackPDP ( -5577 15130 31.739985 -5.6138811 195.09612 1 1 )
 )
 TrackPath (
-	TrPathName ( 1278 )
-	Name ( endNode_1278 )
-	TrPathStart ( endNode_1278 )
-	TrPathEnd ( endNode_1278 )
+	TrPathName ( 967 )
+	Name ( endNode_967 )
+	TrPathStart ( endNode_967 )
+	TrPathEnd ( endNode_967 )
 	TrPathNodes ( 2
 		TrPathNode ( 00000000 1 4294967295 0 )
 		TrPathNode ( 00000000 4294967295 4294967295 1 )

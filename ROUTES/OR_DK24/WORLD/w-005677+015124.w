@@ -1,81 +1,33 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
+	TrackObj (
 		UiD ( 1337 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 53160 14 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 50911 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fw_DynaTrax-50911.s )
+		StaticFlags ( 00200180 )
 		Position ( 555.609 13.666 -298.855 )
 		QDirection ( -0.000705837 -0.708374 0.000708375 0.705837 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 1338 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 54858 13.56 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 51438 )
-		Elevation ( -2.03502e+38 )
+		Elevation ( 35.965 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fw_DynaTrax-51438.s )
+		StaticFlags ( 00200180 )
 		Position ( 555.496 13.666 -300.486 )
 		QDirection ( -0.000657996 -0.753021 0.000753022 0.657995 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 1339 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 5.19882e-43
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 54860 -0.130928 430.794
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 54862 30.2398 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 51439 )
-		Elevation ( -2.03502e+38 )
+		Elevation ( 35.965 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-51439.s )
+		StaticFlags ( 00200180 )
 		Position ( 656.076 13.4531 -302.901 )
 		QDirection ( -0.000803994 -0.657991 -0.000702528 -0.753025 )
 	)

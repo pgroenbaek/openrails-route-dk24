@@ -1,4 +1,18 @@
 SIMISA@@@@@@@@@@JINX0t1t______
 
-1
-TrackType ( "Default" 			"USATrack0In.sms" "USATrack0Ex.sms"	)
+15
+TrackType ( "Standart" 			"0In.sms" 	"0Ex.sms")
+TrackType ( "Kurve"	 		     "1In.sms"	     "1Ex.sms")
+TrackType ( "Weichen"			"2In.sms" 	"2Ex.sms")
+TrackType ( "Bahnsteig"			"3In.sms"	     "3Ex.sms")
+TrackType ( "Bahnsteigkurve"		"4In.sms" 	"4Ex.sms")
+TrackType ( "Unter Bruecke" 		"5In.sms"	     "5Ex.sms")
+TrackType ( "Metall Bruecke" 		"6In.sms" 	"6Ex.sms")
+TrackType ( "Betonbruecke"		"7In.sms" 	"7Ex.sms")
+TrackType ( "Betonbrueckekurve"	"8In.sms"  	"8Ex.sms")
+TrackType ( "Tunnel" 			"9In.sms" 	"9Ex.sms")
+TrackType ( "Tunnelkurve" 	    "10In.sms"	    "10Ex.sms")
+TrackType ( "Schranke"		    "11In.sms"     "11Ex.sms")
+TrackType ( "Zahnstange"		    "12In.sms"     "12Ex.sms")
+TrackType ( "Schiff"		    "13In.sms"     "13Ex.sms")
+TrackType ( "Switch" "switchtrackin.sms" "switchtrackex.sms"     )

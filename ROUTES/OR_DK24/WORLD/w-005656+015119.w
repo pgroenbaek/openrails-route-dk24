@@ -1573,7 +1573,7 @@ Tr_Worldfile (
 		Elevation ( 0 )
 		JNodePosn ( -5656 15119 -211.51 6.80656 -167.872 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1tPnt7_5dRgt.s )
+		FileName ( DB2f_A1tPnt7_5dRgt_M2.s )
 		StaticFlags ( 00200180 )
 		Position ( -211.51 10.1066 -167.872 )
 		QDirection ( 0 0.554605 0 -0.832114 )

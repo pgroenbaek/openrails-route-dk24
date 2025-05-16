@@ -2,20 +2,90 @@ SIMISA@@@@@@@@@@JINX0t1t______
 
 Speedpost_Set
 (
-  Name ( Japanese )
-  Speed_Sign_Shape ( JP1PerRedSp2.s  1
-  -0.011 1.754 -0.249 0)
-  Speed_Warning_Sign_Shape ( JP1PerRedSp.s  1
-  -0.011 1.754 -0.249 0)
-  Speed_Resume_Sign_Shape ( JP1ResumeSp.s 1 0 0 0 0 )
-	Speed_Digit_Tex ( jp1signnumbers.ace )
-  Speed_Text_Size ( 0.20 0.20 0)
-  Restricted_Shape ( JP1YelloFla.s 1 0 0 0 0 )
-  End_Restricted_Shape ( JP1GreenFla.s 1 0 0 0 0 )
-  Milepost_Shape ( JPMilepost.s 3
-0.00018 0.725 -0.15139 0
-0.0888 0.725 0.0001 -120
--0.08959 0.725 0.0001 120 )
+  Name ( "DK Milepost" )
+  Speed_Sign_Shape (  )
+  Speed_Warning_Sign_Shape (  )
+  Speed_Resume_Sign_Shape (  )
+  Speed_Digit_Tex ( signnumbers.ace )
+  Speed_Text_Size ( 0.18 0.15 0 )
+  Milepost_Shape ( PGA_DKMilepost_000_0.s 1
+	0.00018 1.625 -0.15139 -180 )
   Milepost_Digit_Tex ( signnumbers.ace )
-  Milepost_Text_Size ( 0.15 0 -0.15 )
+  Milepost_Text_Size ( 0.16 0.125 0 )
+)
+Speedpost_Set
+(
+  Name ( "GER Lf 4+5" )
+	Speed_Sign_Shape ( BK_Lf5.s 1 0 0 0 0 )
+	Speed_Warning_Sign_Shape ( BK_Lf4.s 1 -0.100 2.25 -0.075 0 )
+	Speed_Resume_Sign_Shape ( BK_Lf0.s 1 0 0 0 0 )
+	Speed_Digit_Tex ( signnumbers.ace )
+	Speed_Text_Size ( 0.16 0.16 0 )
+  Milepost_Shape ( BK_Mstone.s 1 0.001 0.5 -0.11 0 )
+  Milepost_Digit_Tex ( signnumbers.ace )
+  Milepost_Text_Size ( 0.18 0.12 0.0 )
+)
+Speedpost_Set
+(
+  Name ( "GER Lf 1-3" )
+	Speed_Sign_Shape ( BK_Lf2.s 1 0 0 0 0 )
+	Speed_Warning_Sign_Shape ( BK_Lf1.s 1 -0.100 2.25 -0.075 0 )
+	Speed_Resume_Sign_Shape ( BK_Lf3.s 1 0 0 0 0 )
+	Speed_Digit_Tex ( signnumbers.ace )
+	Speed_Text_Size ( 0.16 0.16 0 )
+  Milepost_Shape ( BK_Mmetal.s 1 0.001 0.75 -0.05 0 )
+  Milepost_Digit_Tex ( signnumbers.ace )
+  Milepost_Text_Size ( 0.18 0.12 0.0 )
+)
+Speedpost_Set
+(
+  Name ( CHENummerntafel_u )
+    Speed_Sign_Shape ( 				)
+    Speed_Warning_Sign_Shape ( CHENummerntafel_u.s  1 
+  0.31  2.54 -0.05 0  )
+    Speed_Resume_Sign_Shape ( 			)
+    Speed_Digit_Tex (CHETafelZiffern.ace )
+  Speed_Text_Size ( 0.18 0.15 0)
+  Milepost_Shape (                          )
+  Milepost_Digit_Tex ( CHXXKmZiffern.ace )
+  Milepost_Text_Size ( 0.16 0.125 0 )
+)
+Speedpost_Set
+(
+  Name ( CHENummerntafel_x )
+    Speed_Sign_Shape ( 				)
+    Speed_Warning_Sign_Shape ( CHENummerntafel_x.s  1 
+  0.31  2.54 -0.05 0  )
+    Speed_Resume_Sign_Shape ( 			)
+    Speed_Digit_Tex (CHETafelZiffern.ace )
+  Speed_Text_Size ( 0.18 0.15 0)
+  Milepost_Shape (                          )
+  Milepost_Digit_Tex ( CHXXKmZiffern.ace )
+  Milepost_Text_Size ( 0.16 0.125 0 )
+)
+Speedpost_Set
+(
+  Name ( CHENummerntafel_w )
+    Speed_Sign_Shape ( 				)
+    Speed_Warning_Sign_Shape ( CHENummerntafel_w.s  1 
+  0.31  2.54 -0.05 0  )
+    Speed_Resume_Sign_Shape ( 			)
+    Speed_Digit_Tex (CHETafelZiffern.ace )
+  Speed_Text_Size ( 0.18 0.15 0)
+  Milepost_Shape (                          )
+  Milepost_Digit_Tex ( CHXXKmZiffern.ace )
+  Milepost_Text_Size ( 0.16 0.125 0 )
+)
+Speedpost_Set
+(
+  Name ( CHENummerntafel_t )
+    Speed_Sign_Shape ( 				)
+    Speed_Warning_Sign_Shape ( CHENummerntafel_t.s  1 
+  0.31  2.54 -0.05 0  )
+    Speed_Resume_Sign_Shape ( 			)
+    Speed_Digit_Tex (CHETafelZiffern.ace )
+  Speed_Text_Size ( 0.18 0.15 0)
+  Milepost_Shape (                          )
+  Milepost_Digit_Tex ( CHXXKmZiffern.ace )
+  Milepost_Text_Size ( 0.16 0.125 0 )
 )
