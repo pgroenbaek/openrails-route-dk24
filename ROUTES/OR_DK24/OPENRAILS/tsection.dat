@@ -5,40 +5,265 @@ _INFO ( Sections 0-39999 are from the standardised global tsection.dat )
 _INFO ( Sections 40000-49999 are custom sections specific for DK24 )
 _INFO ( Sections 50000+ are dynamic track )
 
-_INFO ( Track sections specific for DK24 )
-
 TrackSections ( 50000
+
+    _INFO ( Track sections specific for DK24 )
+
     TrackSection ( 40000
         SectionSize ( 1.5 0 )
-        SectionCurve ( 29997.500000 -0.250029 )
+        SectionCurve ( 29997.5 -0.250029 )
     )
     TrackSection ( 40001
         SectionSize ( 1.5 0 )
-        SectionCurve ( 29997.500000 0.250029 )
+        SectionCurve ( 29997.5 0.250029 )
     )
     TrackSection ( 40002
         SectionSize ( 1.5 0 )
-        SectionCurve ( 29997.500000 -0.019097 )
+        SectionCurve ( 29997.5 -0.019097 )
     )
     TrackSection ( 40003
         SectionSize ( 1.5 0 )
-        SectionCurve ( 29997.500000 0.019097 )
+        SectionCurve ( 29997.5 0.019097 )
     )
     TrackSection ( 40004
         SectionSize ( 1.5 0 )
-        SectionCurve ( 30002.500000 -0.250057 )
+        SectionCurve ( 30002.5 -0.250057 )
     )
     TrackSection ( 40005
         SectionSize ( 1.5 0 )
-        SectionCurve ( 30002.500000 0.250057 )
+        SectionCurve ( 30002.5 0.250057 )
     )
     TrackSection ( 40006
         SectionSize ( 1.5 0 )
-        SectionCurve ( 30002.500000 -0.019100 )
+        SectionCurve ( 30002.5 -0.019100 )
     )
     TrackSection ( 40007
         SectionSize ( 1.5 0 )
-        SectionCurve ( 30002.500000 0.019100 )
+        SectionCurve ( 30002.5 0.019100 )
+    )
+    TrackSection ( 40008
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 997.5075 -0.5 )
+    )
+    TrackSection ( 40009
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 997.5075 0.5 )
+    )
+    TrackSection ( 40010
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1002.4925 -0.5 )
+    )
+    TrackSection ( 40011
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1002.4925 0.5 )
+    )
+    TrackSection ( 40012
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1497.5075 -0.25 )
+    )
+    TrackSection ( 40013
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1497.5075 0.25 )
+    )
+    TrackSection ( 40014
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1502.4925 -0.25 )
+    )
+    TrackSection ( 40015
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1502.4925 0.25 )
+    )
+    TrackSection ( 40016
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1497.5075 -0.5 )
+    )
+    TrackSection ( 40017
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1497.5075 0.5 )
+    )
+    TrackSection ( 40018
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1502.4925 -0.5 )
+    )
+    TrackSection ( 40019
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1502.4925 0.5 )
+    )
+    TrackSection ( 40020
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1997.5075 -0.25 )
+    )
+    TrackSection ( 40021
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1997.5075 0.25 )
+    )
+    TrackSection ( 40022
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2002.4925 -0.25 )
+    )
+    TrackSection ( 40023
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2002.4925 0.25 )
+    )
+    TrackSection ( 40024
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1997.5075 -0.5 )
+    )
+    TrackSection ( 40025
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 1997.5075 0.5 )
+    )
+    TrackSection ( 40026
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2002.4925 -0.5 )
+    )
+    TrackSection ( 40027
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2002.4925 0.5 )
+    )
+    TrackSection ( 40028
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2997.5075 -0.25 )
+    )
+    TrackSection ( 40029
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2997.5075 0.25 )
+    )
+    TrackSection ( 40030
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3002.4925 -0.25 )
+    )
+    TrackSection ( 40031
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3002.4925 0.25 )
+    )
+    TrackSection ( 40032
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2997.5075 -0.5 )
+    )
+    TrackSection ( 40033
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 2997.5075 0.5 )
+    )
+    TrackSection ( 40034
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3002.4925 -0.5 )
+    )
+    TrackSection ( 40035
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3002.4925 0.5 )
+    )
+    TrackSection ( 40036
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3997.5075 -0.125 )
+    )
+    TrackSection ( 40037
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3997.5075 0.125 )
+    )
+    TrackSection ( 40038
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 4002.4925 -0.125 )
+    )
+    TrackSection ( 40039
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 4002.4925 0.125 )
+    )
+    TrackSection ( 40040
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3997.5075 -0.25 )
+    )
+    TrackSection ( 40041
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3997.5075 0.25 )
+    )
+    TrackSection ( 40042
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 4002.4925 -0.25 )
+    )
+    TrackSection ( 40043
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 4002.4925 0.25 )
+    )
+    TrackSection ( 40044
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3997.5075 -0.5 )
+    )
+    TrackSection ( 40045
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 3997.5075 0.5 )
+    )
+    TrackSection ( 40046
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 4002.4925 -0.5 )
+    )
+    TrackSection ( 40047
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 4002.4925 0.5 )
+    )
+    TrackSection ( 40048
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5997.5075 -0.125 )
+    )
+    TrackSection ( 40049
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5997.5075 0.125 )
+    )
+    TrackSection ( 40050
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 6002.4925 -0.125 )
+    )
+    TrackSection ( 40051
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 6002.4925 0.125 )
+    )
+    TrackSection ( 40052
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5997.5075 -0.25 )
+    )
+    TrackSection ( 40053
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5997.5075 0.25 )
+    )
+    TrackSection ( 40054
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 6002.4925 -0.25 )
+    )
+    TrackSection ( 40055
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 6002.4925 0.25 )
+    )
+    TrackSection ( 40056
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 7997.5075 -0.125 )
+    )
+    TrackSection ( 40057
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 7997.5075 0.125 )
+    )
+    TrackSection ( 40058
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 8002.4925 -0.125 )
+    )
+    TrackSection ( 40059
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 8002.4925 0.125 )
+    )
+    TrackSection ( 40060
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 7997.5075 -0.25 )
+    )
+    TrackSection ( 40061
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 7997.5075 0.25 )
+    )
+    TrackSection ( 40062
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 8002.4925 -0.25 )
+    )
+    TrackSection ( 40063
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 8002.4925 0.25 )
     )
 )
 
@@ -154,23 +379,163 @@ TrackShapes ( 50000
         TunnelShape ( )
     )
     TrackShape ( 40013
-        FileName ( DB22f_a1t30000r0_02d_i.s )
+        FileName ( DB22f_A1t30000r0_02d_i.s )
         NumPaths ( 1 )
         SectionIdx ( 1 0 0 0 0 40002 )
     )
     TrackShape ( 40014
-        FileName ( DB22f_a1t30000r0_25d_i.s )
+        FileName ( DB22f_A1t30000r0_25d_i.s )
         NumPaths ( 1 )
         SectionIdx ( 1 0 0 0 0 40000 )
     )
     TrackShape ( 40015
-        FileName ( DB22f_a1t30000r0_02d_o.s )
+        FileName ( DB22f_A1t30000r0_02d_o.s )
         NumPaths ( 1 )
         SectionIdx ( 1 0 0 0 0 40006 )
     )
     TrackShape ( 40016
-        FileName ( DB22f_a1t30000r0_25d_o.s )
+        FileName ( DB22f_A1t30000r0_25d_o.s )
         NumPaths ( 1 )
         SectionIdx ( 1 0 0 0 0 40004 )
+    )
+    TrackShape ( 40017
+        FileName ( DB2f_A1t1000r0_5d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40008 )
+    )
+    TrackShape ( 40018
+        FileName ( DB2f_A1t1000r0_5d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40010 )
+    )
+    TrackShape ( 40019
+        FileName ( DB2f_A1t1500r0_25d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40012 )
+    )
+    TrackShape ( 40020
+        FileName ( DB2f_A1t1500r0_25d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40014 )
+    )
+    TrackShape ( 40021
+        FileName ( DB2f_A1t1500r0_5d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40016 )
+    )
+    TrackShape ( 40022
+        FileName ( DB2f_A1t1500r0_5d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40018 )
+    )
+    TrackShape ( 40023
+        FileName ( DB2f_A1t2000r0_25d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40020 )
+    )
+    TrackShape ( 40024
+        FileName ( DB2f_A1t2000r0_25d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40022 )
+    )
+    TrackShape ( 40025
+        FileName ( DB2f_A1t2000r0_5d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40024 )
+    )
+    TrackShape ( 40026
+        FileName ( DB2f_A1t2000r0_5d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40026 )
+    )
+    TrackShape ( 40027
+        FileName ( DB2f_A1t3000r0_25d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40028 )
+    )
+    TrackShape ( 40028
+        FileName ( DB2f_A1t3000r0_25d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40030 )
+    )
+    TrackShape ( 40029
+        FileName ( DB2f_A1t3000r0_5d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40032 )
+    )
+    TrackShape ( 40030
+        FileName ( DB2f_A1t3000r0_5d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40034 )
+    )
+    TrackShape ( 40031
+        FileName ( DB2f_A1t4000r0_125d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40036 )
+    )
+    TrackShape ( 40032
+        FileName ( DB2f_A1t4000r0_125d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40038 )
+    )
+    TrackShape ( 40033
+        FileName ( DB2f_A1t4000r0_25d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40040 )
+    )
+    TrackShape ( 40034
+        FileName ( DB2f_A1t4000r0_25d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40042 )
+    )
+    TrackShape ( 40035
+        FileName ( DB2f_A1t4000r0_5d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40044 )
+    )
+    TrackShape ( 40036
+        FileName ( DB2f_A1t4000r0_5d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40046 )
+    )
+    TrackShape ( 40037
+        FileName ( DB2f_A1t6000r0_125d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40048 )
+    )
+    TrackShape ( 40038
+        FileName ( DB2f_A1t6000r0_125d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40050 )
+    )
+    TrackShape ( 40039
+        FileName ( DB2f_A1t6000r0_25d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40052 )
+    )
+    TrackShape ( 40040
+        FileName ( DB2f_A1t6000r0_25d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40054 )
+    )
+    TrackShape ( 40041
+        FileName ( DB2f_A1t8000r0_125d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40056 )
+    )
+    TrackShape ( 40042
+        FileName ( DB2f_A1t8000r0_125d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40058 )
+    )
+    TrackShape ( 40043
+        FileName ( DB2f_A1t8000r0_25d_i.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40060 )
+    )
+    TrackShape ( 40044
+        FileName ( DB2f_A1t8000r0_25d_o.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40062 )
     )
 )

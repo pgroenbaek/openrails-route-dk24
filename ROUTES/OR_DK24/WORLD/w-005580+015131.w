@@ -1,32 +1,6 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
-		UiD ( 998 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 5.19882e-43
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 54848 -0.0180012 949.767
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 51435 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( -628.973 2.46424 890.983 )
-		QDirection ( 0.00129578 -0.503679 0.000755487 -0.863889 )
-	)
 	TrackObj (
 		UiD ( 989 )
 		SectionIdx ( 51343 )
@@ -46,6 +20,16 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -59.4113 3.15338 448.419 )
 		QDirection ( 0.00211543 0.392185 0.000901896 0.919884 )
+	)
+	TrackObj (
+		UiD ( 998 )
+		SectionIdx ( 51435 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB22fb_DynaTrax-51435.s )
+		StaticFlags ( 00200180 )
+		Position ( -628.973 2.46424 890.983 )
+		QDirection ( 0.00129578 -0.503679 0.000755487 -0.863889 )
 	)
 	TrackObj (
 		UiD ( 964 )
@@ -2262,7 +2246,7 @@ Tr_Worldfile (
 		SectionIdx ( 22032 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1tFrog7_5dRgt.s )
+		FileName ( DB22f_A1tFrog7_5dRgt.s )
 		StaticFlags ( 00200180 )
 		Position ( -670.049 2.31421 919.601 )
 		QDirection ( -0.00131201 0.484714 -0.000727073 0.874671 )
@@ -2303,7 +2287,7 @@ Tr_Worldfile (
 		Elevation ( 0 )
 		JNodePosn ( -5580 15131 -648.85 2.38921 906.349 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1tPnt7_5dRgt_M2.s )
+		FileName ( DB22f_A1tPnt7_5dRgt_M2.s )
 		StaticFlags ( 00200180 )
 		Position ( -648.85 2.38921 906.349 )
 		QDirection ( -0.00131201 0.484714 -0.000727073 0.874671 )
@@ -3324,7 +3308,7 @@ Tr_Worldfile (
 		SectionIdx ( 0 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1t10mStrt.s )
+		FileName ( DB22f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( -689.437 2.25561 931.722 )
 		QDirection ( 0.000484715 -0.874672 -0.000874673 0.484714 )

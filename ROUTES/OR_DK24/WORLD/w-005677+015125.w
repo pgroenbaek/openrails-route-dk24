@@ -2009,6 +2009,42 @@ Tr_Worldfile (
 		Position ( -254.961 30.2619 -302.599 )
 		QDirection ( 0 -0.319907 0 0.947449 )
 	)
+	Static (
+		UiD ( 1445 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( -905.737 30.3319 -946.775 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
+	Static (
+		UiD ( 1446 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( -902.253 30.3319 -950.361 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
+	Static (
+		UiD ( 1447 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( -722.915 30.3319 -776.184 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
+	Static (
+		UiD ( 1448 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( -726.399 30.3319 -772.598 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
+	Static (
+		UiD ( 1449 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( -547.06 30.3319 -598.42 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
+	Static (
+		UiD ( 1450 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( -543.576 30.3319 -602.006 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 673 )

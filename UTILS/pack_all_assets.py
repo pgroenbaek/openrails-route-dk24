@@ -13,7 +13,9 @@ def find_assets_to_pack(search_path, file_matches):
         for directory in [x[0] for x in os.walk(f"{search_path}/{file_path}")]:
             for file_name in os.listdir(directory):
                 if fnmatch.fnmatch(file_name, file_match):
-                    pack_assets.append((directory.replace('\\', '/'), file_name))
+                    source_file = f"{directory}/{file_name}"
+                    destination_file = f"{directory}/{file_name}".replace(f"{search_path}/", "")
+                    pack_assets.append((source_file, destination_file))
                     print(f"Found {len(pack_assets)} assets.", end='\r')
     return pack_assets
 
@@ -32,10 +34,8 @@ def pack_assets(assets_to_pack):
     assets_to_pack = list(set(assets_to_pack))
 
     with zipfile.ZipFile(export_file, "a", compression=zipfile.ZIP_DEFLATED, allowZip64=True) as zipf:
-        for idx, (file_path, file_name) in enumerate(assets_to_pack):
+        for idx, (source_file, destination_file) in enumerate(assets_to_pack):
             print(f"Packed {idx + 1} of {len(assets_to_pack)} assets.", end='\r')
-            source_file = f"{file_path}/{file_name}"
-            destination_file = f"{file_path}/{file_name}"
             try:
                 zipf.write(source_file, destination_file)
             except FileNotFoundError:

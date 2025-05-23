@@ -921,6 +921,17 @@ Tr_Worldfile (
 		Position ( -1021.96 48.7656 316.047 )
 		QDirection ( 0.0002809 -0.8272 0.0004136 -0.5618 )
 	)
+	Tr_Watermark ( 6 )
+	TrackObj (
+		UiD ( 521 )
+		SectionIdx ( 38073 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( gr1l100mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 385.262 45.3459 1001.48 )
+		QDirection ( 0 -0.423676 0 0.905813 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 345 )

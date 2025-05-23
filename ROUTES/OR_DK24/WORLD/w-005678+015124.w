@@ -1747,6 +1747,18 @@ Tr_Worldfile (
 		Position ( 816.456 24.5789 -74.1881 )
 		QDirection ( 0.001428 0.913 -0.003195 -0.4081 )
 	)
+	Static (
+		UiD ( 895 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( 962.924 30.3319 927.048 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
+	Static (
+		UiD ( 896 )
+		FileName ( NR_Wire_250mStrt.s )
+		Position ( 966.408 30.3319 923.462 )
+		QDirection ( 0 0.3894 0 -0.9211 )
+	)
 	Tr_Watermark ( 7 )
 	Static (
 		UiD ( 377 )

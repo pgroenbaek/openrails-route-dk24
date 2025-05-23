@@ -41,7 +41,9 @@ def find_files_to_pack(search_path, file_matches):
         for directory in [x[0] for x in os.walk(f"{search_path}/{file_path}")]:
             for file_name in os.listdir(directory):
                 if fnmatch.fnmatch(file_name, file_match):
-                    pack_files.append((directory.replace('\\', '/'), file_name))
+                    source_file = f"{directory}/{file_name}"
+                    destination_file = f"{directory}/{file_name}".replace(f"{search_path}/", "")
+                    pack_assets.append((source_file, destination_file))
                     print(f"Found {len(pack_files)} files.", end='\r')
     return pack_files
 
@@ -60,10 +62,8 @@ def pack_files(files_to_pack):
     files_to_pack = list(set(files_to_pack))
 
     with zipfile.ZipFile(export_file, "a", compression=zipfile.ZIP_DEFLATED, allowZip64=True) as zipf:
-        for idx, (file_path, file_name) in enumerate(files_to_pack):
+        for idx, (source_file, destination_file) in enumerate(files_to_pack):
             print(f"Packed {idx + 1} of {len(files_to_pack)} files.", end='\r')
-            source_file = f"{file_path}/{file_name}"
-            destination_file = f"{file_path}/{file_name}"
             try:
                 zipf.write(source_file, destination_file)
             except FileNotFoundError:
@@ -135,5 +135,5 @@ if __name__ == "__main__":
     ensure_directory_exists(export_path)
     remove_file_if_exists(export_file)
     
-    files_to_pack = find_files_to_pack(file_matches)
+    files_to_pack = find_files_to_pack(search_path, file_matches)
     pack_files(files_to_pack)

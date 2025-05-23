@@ -21,7 +21,7 @@ Tr_Worldfile (
 		FileName ( dk4indsigM.s )
 		Position ( 71.9192 0.975499 100.211 )
 		QDirection ( 0 2.38419e-07 0 1 )
-		SignalSubObj ( 00000023 )
+		SignalSubObj ( 00000033 )
 		SignalUnits ( 2
 			SignalUnit ( 0
 				TrItemId ( 0 10 )
