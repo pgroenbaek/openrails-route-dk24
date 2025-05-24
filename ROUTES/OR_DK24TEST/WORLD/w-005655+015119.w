@@ -175,6 +175,15 @@ Tr_Worldfile (
 			)
 		)
 	)
+	Transfer (
+		UiD ( 185 )
+		Width ( 10 )
+		Height ( 10 )
+		FileName ( shadwrct.ace )
+		StaticFlags ( 00000000 )
+		Position ( 430.114 0.930525 -206.788 )
+		QDirection ( 0 0 0 1 )
+	)
 	TrackObj (
 		UiD ( 89 )
 		SectionIdx ( 21987 )

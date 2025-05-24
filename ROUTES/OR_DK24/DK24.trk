@@ -2,13 +2,15 @@ SIMISA@@@@@@@@@@JINX0r1t______
 
 Tr_RouteFile (
 	RouteID ( DK24 )
-	Name ( "Denmark 2024 v0.1 DEV" )
+	Name ( "Denmark 2024 v0.1.001" )
 	Description ( "A route based on the danish rail network in 2024.\n\n"+
 		"Parts of the route use the new ETCS L2 signalling system according to its rollout status in 2024. The rest uses the old signals and ATC.\n\n"+
 		"Version 1.0 includes:\n"+
 		"- Copenhagen - Fredericia mainline\n"+
 		"- Ringsted - Vigerslev high speed line\n"+
-		"- Høje Taastrup - Klampenborg S-train line" )
+		"- Copenhagen - Høje Taastrup S-train line (part of the B line)\n"+
+		"- Copenhagen - Klampenborg S-train line (part of the C line)\n"+
+		"- Taulov Kombiterminal and CPH Lufthavn" )
 	Graphic ( graphic.ace )
 	LoadingScreen ( load.ace )
 	FileName ( DK24 )
