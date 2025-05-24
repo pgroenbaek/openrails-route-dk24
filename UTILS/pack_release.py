@@ -23,13 +23,17 @@ def find_files(search_directory, match_files):
     return files
 
 
+def find_matches_within_text(text, pattern):
+    matches = [match.group(0) for match in pattern.finditer(text)]
+
+    return matches
+
+
 def find_matches_within_file(file_path, pattern):
     with open(file_path, 'r', encoding='utf-16-le') as f:
         text = f.read()
 
-    matches = [match.group(0) for match in pattern.finditer(text)]
-
-    return matches
+    return find_matches_within_text(text, pattern)
 
 
 def find_files_to_pack(search_path, file_matches):
@@ -72,62 +76,63 @@ def pack_files(files_to_pack):
 
 if __name__ == "__main__":
     version = "v0.1.001"
+    ffeditc_path = "./ffeditc_unicode.exe"
     search_path = ".."
+    route_path = "ROUTES/OR_DK24"
     export_path = ".."
     export_filename = f"DK24_{version}.zip"
     export_file = f"{export_path}/{export_filename}"
-    shape_folders = ["GLOBAL/SHAPES", "ROUTES/OR_DK24/SHAPES"]
-    texture_folders = ["GLOBAL/TEXTURES", "ROUTES/OR_DK24/TEXTURES"]
+    shape_folders = ["GLOBAL/SHAPES", f"{route_path}/SHAPES"]
+    texture_folders = [f"{route_path}/TEXTURES"]
 
     file_matches = [
         ("", "LICENSE"),
         ("", "README.md"),
         ("", "CONTRIBUTING.md"),
         ("GLOBAL", "tsection.dat"),
-        ("ROUTES/OR_DK24", "*.haz"),
-        ("ROUTES/OR_DK24", "carspawn.dat"),
-        ("ROUTES/OR_DK24", "DK24_small.png"),
-        ("ROUTES/OR_DK24", "DK24.png"),
-        ("ROUTES/OR_DK24", "DK24.rdb"),
-        ("ROUTES/OR_DK24", "DK24.ref"),
-        ("ROUTES/OR_DK24", "dk24.rit"),
-        ("ROUTES/OR_DK24", "DK24.tdb"),
-        ("ROUTES/OR_DK24", "dk24.tit"),
-        ("ROUTES/OR_DK24", "DK24.trk"),
-        ("ROUTES/OR_DK24", "forests.dat"),
-        ("ROUTES/OR_DK24", "graphic.ace"),
-        ("ROUTES/OR_DK24", "load.ace"),
-        ("ROUTES/OR_DK24", "Map_whitebg.png"),
-        ("ROUTES/OR_DK24", "Map.png"),
-        ("ROUTES/OR_DK24", "MirelDb.xml"),
-        ("ROUTES/OR_DK24", "MirelDbVersion.ini"),
-        ("ROUTES/OR_DK24", "PowerSupplyStations.xml"),
-        ("ROUTES/OR_DK24", "PowerSupplyStationsDbVersion.ini"),
-        ("ROUTES/OR_DK24", "sigcfg.dat"),
-        ("ROUTES/OR_DK24", "sigscr.dat"),
-        ("ROUTES/OR_DK24", "speedpost.dat"),
-        ("ROUTES/OR_DK24", "ssource.dat"),
-        ("ROUTES/OR_DK24", "telepole.dat"),
-        ("ROUTES/OR_DK24", "tsection.dat"),
-        ("ROUTES/OR_DK24", "ttype.dat"),
-        ("ROUTES/OR_DK24", "VoltageChangeMarkers.xml"),
-        ("ROUTES/OR_DK24", "VoltageChangeMarkersDbVersion.ini"),
-        ("ROUTES/OR_DK24/ENVFILES", "*.ace"),
-        ("ROUTES/OR_DK24/ENVFILES", "*.env"),
-        ("ROUTES/OR_DK24/PATHS", "*.pat"),
-        ("ROUTES/OR_DK24/TD", "*.dat"),
-        ("ROUTES/OR_DK24/TD", "*.td"),
-        ("ROUTES/OR_DK24/SOUND", "*.sms"),
-        ("ROUTES/OR_DK24/SOUND", "*.wav"),
-        ("ROUTES/OR_DK24/TERRTEX", "*.ace"),
-        ("ROUTES/OR_DK24/TERRTEX", "*.dds"),
-        ("ROUTES/OR_DK24/TEXTURES", "*.ace"),
-        ("ROUTES/OR_DK24/TEXTURES", "*.dds"),
-        ("ROUTES/OR_DK24/TILES", "*.t"),
-        ("ROUTES/OR_DK24/TILES", "*.raw"),
-        ("ROUTES/OR_DK24/TRACKPROFILES", "*.stf"),
-        ("ROUTES/OR_DK24/WORLD", "*.w"),
-        ("ROUTES/OR_DK24/WORLD", "*.ws"),
+        (route_path, "*.haz"),
+        (route_path, "carspawn.dat"),
+        (route_path, "DK24_small.png"),
+        (route_path, "DK24.png"),
+        (route_path, "DK24.rdb"),
+        (route_path, "DK24.ref"),
+        (route_path, "dk24.rit"),
+        (route_path, "DK24.tdb"),
+        (route_path, "dk24.tit"),
+        (route_path, "DK24.trk"),
+        (route_path, "forests.dat"),
+        (route_path, "graphic.ace"),
+        (route_path, "load.ace"),
+        (route_path, "Map_whitebg.png"),
+        (route_path, "Map.png"),
+        (route_path, "MirelDb.xml"),
+        (route_path, "MirelDbVersion.ini"),
+        (route_path, "PowerSupplyStations.xml"),
+        (route_path, "PowerSupplyStationsDbVersion.ini"),
+        (route_path, "sigcfg.dat"),
+        (route_path, "sigscr.dat"),
+        (route_path, "speedpost.dat"),
+        (route_path, "ssource.dat"),
+        (route_path, "telepole.dat"),
+        (route_path, "tsection.dat"),
+        (route_path, "ttype.dat"),
+        (route_path, "VoltageChangeMarkers.xml"),
+        (route_path, "VoltageChangeMarkersDbVersion.ini"),
+        (f"{route_path}/ENVFILES", "*.ace"),
+        (f"{route_path}/ENVFILES", "*.env"),
+        (f"{route_path}/OPENRAILS", "tsection.dat"),
+        (f"{route_path}/PATHS", "*.pat"),
+        (f"{route_path}/TD", "*.dat"),
+        (f"{route_path}/TD", "*.td"),
+        (f"{route_path}/SOUND", "*.sms"),
+        (f"{route_path}/SOUND", "*.wav"),
+        (f"{route_path}/TERRTEX", "*.ace"),
+        (f"{route_path}/TERRTEX", "*.dds"),
+        (f"{route_path}/TILES", "*.t"),
+        (f"{route_path}/TILES", "*.raw"),
+        (f"{route_path}/TRACKPROFILES", "*.stf"),
+        (f"{route_path}/WORLD", "*.w"),
+        (f"{route_path}/WORLD", "*.ws"),
         ("SOUND", "*.sms"),
         ("SOUND", "*.wav"),
         ("TRAINS/CONSISTS", "*.con"),
@@ -135,38 +140,32 @@ if __name__ == "__main__":
     
     ensure_directory_exists(export_path)
     remove_file_if_exists(export_file)
-    
-    referenced_shapes = []
-    referenced_shapes += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/carspawn.dat", s_file_pattern)
-    referenced_shapes += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/forests.dat", s_file_pattern)
-    referenced_shapes += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/sigcfg.dat", s_file_pattern)
-    referenced_shapes += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/speedpost.dat", s_file_pattern)
-    referenced_shapes += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/telepole.dat", s_file_pattern)
 
-    for hazard_file in find_files(f"{search_path}/ROUTES/OR_DK24", "*.haz"):
+    # Find files other than textures and shapes.
+    files_to_pack = find_files_to_pack(search_path, file_matches)
+    
+    # Find shapes that are used in the route.
+    referenced_shapes = []
+    referenced_shapes += find_matches_within_file(f"{search_path}/{route_path}/carspawn.dat", s_file_pattern)
+    referenced_shapes += find_matches_within_file(f"{search_path}/{route_path}/forests.dat", s_file_pattern)
+    referenced_shapes += find_matches_within_file(f"{search_path}/{route_path}/sigcfg.dat", s_file_pattern)
+    referenced_shapes += find_matches_within_file(f"{search_path}/{route_path}/speedpost.dat", s_file_pattern)
+    referenced_shapes += find_matches_within_file(f"{search_path}/{route_path}/telepole.dat", s_file_pattern)
+
+    for hazard_file in find_files(f"{search_path}/{route_path}", "*.haz"):
         referenced_shapes += find_matches_within_file(hazard_file, s_file_pattern)
     
-    for world_file in find_files(f"{search_path}/ROUTES/OR_DK24/WORLD", "*.w"):
+    for world_file in find_files(f"{search_path}/{route_path}/WORLD", "*.w"):
         referenced_shapes += find_matches_within_file(world_file, s_file_pattern)
-    
-    referenced_textures = []
-    referenced_textures += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/forests.dat", ace_dds_pattern)
-    referenced_textures += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/sigcfg.dat", ace_dds_pattern)
-    referenced_textures += find_matches_within_file(f"{search_path}/ROUTES/OR_DK24/speedpost.dat", ace_dds_pattern)
-
-    for world_file in find_files(f"{search_path}/ROUTES/OR_DK24/WORLD", "*.w"):
-        referenced_textures += find_matches_within_file(world_file, ace_dds_pattern)
     
     referenced_shapes = [os.path.split(s)[1] for s in referenced_shapes]
     referenced_shapes = list(set(referenced_shapes))
     
-    files_to_pack = find_files_to_pack(search_path, file_matches)
-    
-    print(f"Found {len(referenced_shapes)} shapes referenced in the route.")
+    print(f"Found {len(referenced_shapes)} shapes used in the route.")
 
     for shape in referenced_shapes:
         if not any([os.path.exists(f"{search_path}/{folder}/{shape}") for folder in shape_folders]):
-            print(f"Warning: Shape '{shape}' was not found in any shape folder.")
+            print(f"\tWarning: Shape '{shape}' was not found in any shape folder.")
             continue
         
         for shape_folder in shape_folders:
@@ -175,4 +174,39 @@ if __name__ == "__main__":
                 destination_file = f"{shape_folder}/{shape}"
                 files_to_pack.append((source_file, destination_file))
 
+    # Find textures that are used in the route.
+    referenced_textures = []
+    referenced_textures += find_matches_within_file(f"{search_path}/{route_path}/forests.dat", ace_dds_pattern)
+    referenced_textures += find_matches_within_file(f"{search_path}/{route_path}/sigcfg.dat", ace_dds_pattern)
+    referenced_textures += find_matches_within_file(f"{search_path}/{route_path}/speedpost.dat", ace_dds_pattern)
+
+    for world_file in find_files(f"{search_path}/{route_path}/WORLD", "*.w"):
+        referenced_textures += find_matches_within_file(world_file, ace_dds_pattern)
+
+    # Find textures that are referenced by shapes used in the route.
+    for idx, shape in enumerate(referenced_shapes):
+        print(f"Finding textures in shape {idx + 1} of {len(referenced_shapes)}.", end='\r')
+
+        for shape_folder in shape_folders:
+            if os.path.exists(f"{search_path}/{shape_folder}/{shape}"):
+                shape = tsu.load_shape(shape, f"{search_path}/{shape_folder}")
+                shape.decompress(ffeditc_path)
+
+                referenced_textures += find_matches_within_text("\n".join(shape.lines), ace_dds_pattern)
+                
+                shape.compress(ffeditc_path)
+
+    referenced_textures = list(set(referenced_textures))
+
+    print(f"Found {len(referenced_textures)} textures used in the route.")
+
+    for texture in referenced_textures:
+        if not any([os.path.exists(f"{search_path}/{folder}/{texture}") for folder in texture_folders]):
+            print(f"\tWarning: Texture '{texture}' was not found in any texture folder.")
+    
+    for texture_folder in texture_folders:
+        textures_to_find = [(texture_folder, item) for item in referenced_textures]
+        files_to_pack += find_files_to_pack(search_path, textures_to_find)
+
+    files_to_pack = list(set(files_to_pack))
     pack_files(files_to_pack)
