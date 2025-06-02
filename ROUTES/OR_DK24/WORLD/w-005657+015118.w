@@ -1,6 +1,18 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 3230 )
+		FileName ( dkamsigH.s )
+		Position ( 704.563 18.5331 857.122 )
+		QDirection ( 0 0.529501 0 -0.848309 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 48 )
+			)
+		)
+	)
 	TrackObj (
 		UiD ( 3044 )
 		SectionIdx ( 51459 )
@@ -3470,6 +3482,96 @@ Tr_Worldfile (
 		FileName ( NR_Emb1t10mStrt.s )
 		Position ( -230.215 23.6549 411.85 )
 		QDirection ( -0.00211584 -0.53263 0.00133156 0.846345 )
+	)
+	Static (
+		UiD ( 3226 )
+		FileName ( PGA_DKMilepost_002_4.s )
+		Position ( 857.246 7.4105 962.39 )
+		QDirection ( 0.00198894 -0.943443 0.00566083 -0.33148 )
+	)
+	Static (
+		UiD ( 3227 )
+		FileName ( PGA_DKMilepost_002_6.s )
+		Position ( 763.681 6.77199 788.73 )
+		QDirection ( 0 -0.985127 0 -0.171828 )
+	)
+	Static (
+		UiD ( 3228 )
+		FileName ( PGA_DKMilepost_002_8.s )
+		Position ( 737.168 6.62859 612.471 )
+		QDirection ( -2.10024e-05 -0.999117 0.000499559 0.0420048 )
+	)
+	Static (
+		UiD ( 3229 )
+		FileName ( PGA_DKMilepost_003_0.s )
+		Position ( 789.276 6.45848 450.431 )
+		QDirection ( -0.000132938 -0.964007 0.000482004 0.265876 )
+	)
+	Static (
+		UiD ( 3231 )
+		FileName ( PGA_DKGantry_N2t6m_L.s )
+		Position ( 930.998 16.6876 999.441 )
+		QDirection ( -0.00311956 -0.453416 0.00158698 0.891292 )
+	)
+	Static (
+		UiD ( 3232 )
+		FileName ( PGA_DKGantry_N2t6m_L.s )
+		Position ( 892.726 17.0123 972.463 )
+		QDirection ( -0.00309441 -0.467273 0.00163547 0.884106 )
+	)
+	Static (
+		UiD ( 3233 )
+		FileName ( PGA_DKGantry_N2t6m_L.s )
+		Position ( 705.119 18.5132 863.518 )
+		QDirection ( -0.00254625 -0.528797 0.0015864 0.848743 )
+	)
+	Static (
+		UiD ( 3234 )
+		FileName ( PGA_DKGantry_N2t6m_K.s )
+		Position ( 648.716 18.8445 836.364 )
+		QDirection ( -0.00211588 -0.532629 0.00133158 0.846345 )
+	)
+	Static (
+		UiD ( 3240 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 856.895 17.3039 951.731 )
+		QDirection ( -0.00307157 -0.479417 0.00167798 0.877581 )
+	)
+	Static (
+		UiD ( 3241 )
+		FileName ( PGA_DKGantry_N1t6m_KR.s )
+		Position ( 852.694 17.3572 943.136 )
+		QDirection ( -0.00306699 -0.481803 0.00168633 0.876272 )
+	)
+	Static (
+		UiD ( 3243 )
+		FileName ( PGA_DKGantry_N1t6m_KR.s )
+		Position ( 754.539 18.1508 885.948 )
+		QDirection ( -0.00300105 -0.514586 0.00180107 0.857432 )
+	)
+	Static (
+		UiD ( 3245 )
+		FileName ( PGA_DKGantry_N1t6m_KR.s )
+		Position ( 803.407 17.7596 913.177 )
+		QDirection ( -0.00303406 -0.498534 0.00174489 0.866863 )
+	)
+	Static (
+		UiD ( 3246 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 818.987 17.615 928.18 )
+		QDirection ( -0.00304622 -0.49244 0.00172356 0.870339 )
+	)
+	Static (
+		UiD ( 3247 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 742.865 18.2255 885.416 )
+		QDirection ( -0.00299468 -0.517604 0.00181164 0.855613 )
+	)
+	Static (
+		UiD ( 3248 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 782.892 17.9068 907.174 )
+		QDirection ( -0.00302189 -0.504529 0.00176587 0.863388 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (

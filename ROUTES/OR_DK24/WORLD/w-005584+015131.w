@@ -2343,4 +2343,22 @@ Tr_Worldfile (
 		Position ( 1010.58 9.60666 -924.072 )
 		QDirection ( -0.00155949 -0.693864 0.00150267 0.720103 )
 	)
+	Static (
+		UiD ( 655 )
+		FileName ( PGA_DKGantry_PSxe4t6m.s )
+		Position ( 221.898 6.16735 -878.091 )
+		QDirection ( 0.00222786 -0.669712 0.00200915 -0.742615 )
+	)
+	Static (
+		UiD ( 657 )
+		FileName ( PGA_DKGantry_USxhp1t5m_KL.s )
+		Position ( 221.639 6.1671 -880.562 )
+		QDirection ( 0.00222787 -0.669709 0.00200915 -0.742617 )
+	)
+	Static (
+		UiD ( 658 )
+		FileName ( PGA_DKGantry_USxhp1t5m_LR.s )
+		Position ( 222.148 6.1673 -875.603 )
+		QDirection ( 0.00222786 -0.669713 0.00200916 -0.742614 )
+	)
 )

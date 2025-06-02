@@ -208,5 +208,4 @@ if __name__ == "__main__":
         textures_to_find = [(texture_folder, item) for item in referenced_textures]
         files_to_pack += find_files_to_pack(search_path, textures_to_find)
 
-    files_to_pack = list(set(files_to_pack))
     pack_files(files_to_pack)
