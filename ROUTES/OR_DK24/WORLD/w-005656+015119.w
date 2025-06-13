@@ -4,7 +4,7 @@ Tr_Worldfile (
 	Signal (
 		UiD ( 7254 )
 		FileName ( dk4indsig.s )
-		Position ( 654.752 20.0034 -72.1104 )
+		Position ( 654.752 19.7034 -72.1104 )
 		QDirection ( 0 0.703148 0 -0.711044 )
 		SignalSubObj ( 00000023 )
 		SignalUnits ( 2
@@ -117,6 +117,210 @@ Tr_Worldfile (
 				TrItemId ( 0 51 )
 			)
 		)
+	)
+	Signal (
+		UiD ( 7267 )
+		FileName ( DKpusig.s )
+		Position ( 1040.27 19.4603 -64.5401 )
+		QDirection ( 0 0.694972 0 -0.719037 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 54 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7268 )
+		FileName ( dk3udsigM.s )
+		Position ( -53.0895 11.0135 -84.2899 )
+		QDirection ( 0 0.789169 0 0.614176 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 55 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7269 )
+		FileName ( dk3udsigM.s )
+		Position ( -51.9094 10.8947 -90.7826 )
+		QDirection ( 0 0.7916 0 0.61104 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 56 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7278 )
+		FileName ( DKpusig.s )
+		Position ( 782.822 19.4228 -60.0028 )
+		QDirection ( 0 0.71104 0 0.703151 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 97 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7279 )
+		FileName ( DKpusig.s )
+		Position ( 570.392 18.469 -62.3713 )
+		QDirection ( 0 0.711032 0 0.703159 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 98 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7280 )
+		FileName ( DKpusig.s )
+		Position ( 785.971 19.1603 -50.7346 )
+		QDirection ( 0 0.719052 0 0.694957 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 99 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7281 )
+		FileName ( DKpusigM.s )
+		Position ( 745.177 14.9182 -46.6375 )
+		QDirection ( 0 0.719041 0 0.694968 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 100 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7284 )
+		FileName ( DKpusig.s )
+		Position ( 629.172 19.9179 -81.7033 )
+		QDirection ( 0 0.7072 0 0.707014 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 105 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7285 )
+		FileName ( DKpusig.s )
+		Position ( 590.945 20.0501 -77.5913 )
+		QDirection ( 0 0.711042 0 0.70315 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 103 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7286 )
+		FileName ( DKpusig.s )
+		Position ( 567.185 19.6679 -72.8648 )
+		QDirection ( 0 0.711066 0 0.703125 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 104 )
+			)
+		)
+	)
+	Speedpost (
+		UiD ( 7270 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.16 0.125 0 )
+		TrItemId ( 0 61 )
+		TrItemId ( 0 63 )
+		FileName ( Invisible.s )
+		Position ( -646.299 11.9428 -536.759 )
+		QDirection ( 0 0.944606 0 0.328205 )
+	)
+	Speedpost (
+		UiD ( 7271 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.16 0.125 0 )
+		TrItemId ( 0 62 )
+		FileName ( Invisible.s )
+		Position ( -865.916 13.7771 -796.156 )
+		QDirection ( 0 0.92776 0 0.373177 )
+	)
+	Speedpost (
+		UiD ( 7272 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.16 0.125 0 )
+		TrItemId ( 0 64 )
+		TrItemId ( 0 65 )
+		FileName ( Invisible.s )
+		Position ( -35.2815 11.0124 -86.5671 )
+		QDirection ( 0 0.786835 0 0.617163 )
+	)
+	Speedpost (
+		UiD ( 7273 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.16 0.125 0 )
+		TrItemId ( 0 66 )
+		TrItemId ( 0 69 )
+		TrItemId ( 0 70 )
+		FileName ( Invisible.s )
+		Position ( 318.538 13.2615 -65.1773 )
+		QDirection ( 0 0.711044 0 0.703148 )
+	)
+	Speedpost (
+		UiD ( 7274 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 90 )
+		FileName ( Invisible.s )
+		Position ( 314.343 13.2447 -65.2242 )
+		QDirection ( 0 0.711044 0 0.703148 )
+	)
+	Speedpost (
+		UiD ( 7275 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 91 )
+		FileName ( Invisible.s )
+		Position ( -514.371 11.2243 -367.802 )
+		QDirection ( 0 0.938552 0 0.345137 )
+	)
+	Speedpost (
+		UiD ( 7276 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 94 )
+		FileName ( Invisible.s )
+		Position ( 311.463 13.2327 -76.242 )
+		QDirection ( 0 0.703148 0 -0.711044 )
+	)
+	Speedpost (
+		UiD ( 7277 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 95 )
+		FileName ( Invisible.s )
+		Position ( -506.008 11.0745 -378.688 )
+		QDirection ( 0 0.344042 0 -0.938954 )
 	)
 	TrackObj (
 		UiD ( 6793 )
@@ -11180,7 +11384,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 6975 )
 		FileName ( PGA_DKGantry_N1t6m_LR.s )
-		Position ( 548.322 14.1808 -60.6314 )
+		Position ( 557.665 14.2181 -60.5273 )
 		QDirection ( 0.00140632 -0.711032 0.00142207 -0.703157 )
 	)
 	Static (

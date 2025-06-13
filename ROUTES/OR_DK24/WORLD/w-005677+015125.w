@@ -2045,6 +2045,48 @@ Tr_Worldfile (
 		Position ( -543.576 30.3319 -602.006 )
 		QDirection ( 0 0.3894 0 -0.9211 )
 	)
+	Static (
+		UiD ( 1452 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -361.237 30.3319 -421.404 )
+		QDirection ( 0 -0.387889 0 0.921706 )
+	)
+	Static (
+		UiD ( 1453 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -262.898 30.3319 -312.873 )
+		QDirection ( 0 -0.32605 0 0.945352 )
+	)
+	Static (
+		UiD ( 1454 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -312.77 30.3319 -371.744 )
+		QDirection ( 0 -0.362278 0 0.93207 )
+	)
+	Static (
+		UiD ( 1455 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -295.491 30.3319 -352.375 )
+		QDirection ( 0 -0.350151 0 0.936693 )
+	)
+	Static (
+		UiD ( 1456 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -279.035 30.3319 -332.946 )
+		QDirection ( 0 -0.338197 0 0.941075 )
+	)
+	Static (
+		UiD ( 1457 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -329.281 30.3319 -389.343 )
+		QDirection ( 0 -0.373498 0 0.927631 )
+	)
+	Static (
+		UiD ( 1458 )
+		FileName ( PGA_DKGantry_Gg2t6m_LR.s )
+		Position ( -345.04 30.3319 -405.386 )
+		QDirection ( 0 -0.382634 0 0.9239 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 673 )

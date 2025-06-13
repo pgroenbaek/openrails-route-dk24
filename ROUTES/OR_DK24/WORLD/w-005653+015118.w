@@ -1,6 +1,41 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 659 )
+		FileName ( dkamsigH.s )
+		Position ( -463.118 12.3848 811.711 )
+		QDirection ( 0 0.545591 0 0.838052 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 59 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 660 )
+		FileName ( dkamsigH.s )
+		Position ( -558.411 12.8815 841.867 )
+		QDirection ( 0 0.838052 0 -0.545591 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 60 )
+			)
+		)
+	)
+	Speedpost (
+		UiD ( 661 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.16 0.125 0 )
+		TrItemId ( 0 81 )
+		TrItemId ( 0 82 )
+		FileName ( Invisible.s )
+		Position ( 84.88 11.2913 582.408 )
+		QDirection ( 0 0.577746 0 0.816216 )
+	)
 	TrackObj (
 		UiD ( 2 )
 		SectionIdx ( 7 )
@@ -1549,5 +1584,17 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -529.276 9.07297 890.275 )
 		QDirection ( 0.00182566 -0.683166 0.00170793 -0.730259 )
+	)
+	Static (
+		UiD ( 655 )
+		FileName ( dkrelae3.s )
+		Position ( -591.162 12.7584 855.266 )
+		QDirection ( -0.000517004 0.2068 -0.00244597 -0.97838 )
+	)
+	Static (
+		UiD ( 656 )
+		FileName ( dkrelae3.s )
+		Position ( -423.49 11.8703 795.268 )
+		QDirection ( 0.00244597 0.97838 -0.000517004 0.2068 )
 	)
 )
