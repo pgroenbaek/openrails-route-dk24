@@ -8,39 +8,40 @@ SKIP (
 	16-08-2004  Stig Christensen	
 
 	Modifications by Peter Grønbæk Andersen:
-	- use new Open Rails features (SPEED signals and OR_SPEEDRESET).
-	- adjust colors, sizes and textures of lights/signals.
+	- use new Open Rails features (SPEED signals, OR_SPEEDRESET and light glow).
+	- adjusted colors, sizes and textures of lights/signals.
+	- fixed flickering issues due to transparent parts of light textures overlapping
 
 	---
 
 	ETCS L2 configuration
 )
-LightTextures ( 25
-	LightTex ( "dk_ltex_hv"			"siglight_hv.ace"			0 0 1 1 )
-	LightTex ( "dk_ltex_ld"			"siglight.ace"			0 0 1 1 )
-	LightTex ( "dk_ltex"			"siglight1.ace"			0 0 1 1 )
-	LightTex ( "dk_ltex1"			"siglight1.ace"			0 0 1 1 )
-	LightTex ( "dk_ltex2"			"siglight2.ace"			0 0 1 1 )
-	LightTex ( "dk_ltex_a"			"dk_light_A.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_b"			"dk_light_B.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_c"			"dk_light_C.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_d"			"dk_light_D.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_e"			"DK_Light_E.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_f"			"DK_Light_F.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_g"			"DK_Light_G.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_h"			"dk_light_H.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_k"			"dk_light_K.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_l"			"dk_light_L.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_m"			"DK_Light_M.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_n"			"DK_Light_N.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_o"			"DK_Light_O.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_p"			"DK_Light_P.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_r"			"DK_Light_R.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_s"			"DK_Light_S.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_t"			"DK_Light_T.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_u"			"DK_Light_U.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_v"			"DK_Light_V.ace"		0 0 1 1 )
-	LightTex ( "dk_ltex_oe"			"dk_light_OE.ace"		0 0 1 1 )
+LightTextures ( 26
+	LightTex ( "dk_ltex_hv"			"DK_SigLight_hv.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_ld"			"DK_SigLight.ace"			0 0 1 1 )
+	LightTex ( "dk_ltex"			"DK_SigLight1.ace"			0 0 1 1 )
+	LightTex ( "dk_ltex1"			"DK_SigLight1.ace"			0 0 1 1 )
+	LightTex ( "dk_ltex2"			"DK_SigLight2.ace"			0 0 1 1 )
+	LightTex ( "dk_ltex_a"			"DK_BogvisLight_A.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_b"			"DK_BogvisLight_B.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_c"			"DK_BogvisLight_C.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_d"			"DK_BogvisLight_D.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_e"			"DK_BogvisLight_E.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_f"			"DK_BogvisLight_F.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_g"			"DK_BogvisLight_G.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_h"			"DK_BogvisLight_H.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_k"			"DK_BogvisLight_K.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_l"			"DK_BogvisLight_L.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_m"			"DK_BogvisLight_M.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_n"			"DK_BogvisLight_N.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_o"			"DK_BogvisLight_O.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_p"			"DK_BogvisLight_P.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_r"			"DK_BogvisLight_R.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_s"			"DK_BogvisLight_S.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_t"			"DK_BogvisLight_T.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_u"			"DK_BogvisLight_U.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_v"			"DK_BogvisLight_V.ace"		0 0 1 1 )
+	LightTex ( "dk_ltex_oe"			"DK_BogvisLight_OE.ace"		0 0 1 1 )
 )
 
 
@@ -51,7 +52,7 @@ LightsTab ( 7
 	)
 	LightsTabEntry (
 		"DK Red Light Dim"
-		colour ( 255 187 48 48 )
+		colour ( 255 159 51 51 )
 	)
 	LightsTabEntry (
 		"DK Amber Light"
@@ -563,22 +564,24 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( -0.21 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 0.21 0.52 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.78 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0.26 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 6
@@ -660,22 +663,24 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( -0.21 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 0.21 0.52 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.78 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0.26 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 7
@@ -742,26 +747,28 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( -0.215 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 0.215 0.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.75 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0.25 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 6
@@ -939,7 +946,7 @@ SignalTypes ( 91
 		SignalLights ( 1
 			SignalLight ( 0 "DK White Light"
 				Position ( 0 0.35 0.05 )
-				Radius ( 0.3 )
+				Radius ( 0.30 )
 			)
 		)
 		SignalDrawStates ( 2
@@ -1481,197 +1488,199 @@ SignalTypes ( 91
 
 		SignalFnType ( SPEED )
 		SignalLightTex ( "dk_ltex_hv" )
+		ORTSDayGlow ( 4.0 )
+		ORTSNightGlow ( 6.5 )
 		SignalLights ( 46
 
 			SignalLight ( 0 "DK White Light"
 				Position ( 0 0.94 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 1 "DK White Light"
 				Position ( 0 0.86 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 2 "DK White Light"
 				Position ( 0 0.78 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 3 "DK White Light"
 				Position ( 0 0.7 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 4 "DK White Light"
 				Position ( 0 0.62 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 5 "DK White Light"
 				Position ( 0 0.54 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 6 "DK White Light"
 				Position ( 0 0.46 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 7 "DK White Light"
 				Position ( 0 0.38 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 8 "DK White Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 9 "DK White Light"
 				Position ( 0 0.22 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 10 "DK White Light"
 				Position ( 0 0.14 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 11 "DK White Light"
 				Position ( 0 0.06 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 
 			SignalLight ( 12 "DK White Light"
 				Position ( 0.06 0.6 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 13 "DK White Light"
 				Position ( -0.06 0.6 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 14 "DK White Light"
 				Position ( 0.12 0.66 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 15 "DK White Light"
 				Position ( -0.12 0.66 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 16 "DK White Light"
 				Position ( 0.18 0.72 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 17 "DK White Light"
 				Position ( -0.18 0.72 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 18 "DK White Light"
 				Position ( 0.24 0.78 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 19 "DK White Light"
 				Position ( -0.24 0.78 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 20 "DK White Light"
 				Position ( 0.3 0.84 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 21 "DK White Light"
 				Position ( -0.3 0.84 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 22 "DK White Light"
 				Position ( 0.36 0.90 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 23 "DK White Light"
 				Position ( -0.36 0.90 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 
 			SignalLight ( 24 "DK White Light"
 				Position ( 0.06 0.48 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 25 "DK White Light"
 				Position ( -0.06 0.48 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 26 "DK White Light"
 				Position ( 0.12 0.42 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 27 "DK White Light"
 				Position ( -0.12 0.42 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 28 "DK White Light"
 				Position ( 0.18 0.36 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 29 "DK White Light"
 				Position ( -0.18 0.36 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 30 "DK White Light"
 				Position ( 0.24 0.30 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 31 "DK White Light"
 				Position ( -0.24 0.30 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 32 "DK White Light"
 				Position ( 0.3 0.24 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 33 "DK White Light"
 				Position ( -0.3 0.24 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 34 "DK White Light"
 				Position ( 0.36 0.18 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 35 "DK White Light"
 				Position ( -0.36 0.18 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 36 "DK White Light"
 				Position ( -0.12 0.54 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 37 "DK White Light"
 				Position ( 0.12 0.54 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 38 "DK White Light"
 				Position ( -0.18 0.60 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 39 "DK White Light"
 				Position ( 0.18 0.48 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 40 "DK White Light"
 				Position ( -0.24 0.66 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 41 "DK White Light"
 				Position ( 0.24 0.42 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 42 "DK White Light"
 				Position ( -0.3 0.72 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 43 "DK White Light"
 				Position ( 0.3 0.36 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 44 "DK White Light"
 				Position ( -0.36 0.78 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 45 "DK White Light"
 				Position ( 0.36 0.30 0.05 )
-				Radius ( 0.16 )
+				Radius ( 0.04 )
 			)
 
 		)
-		SignalDrawStates ( 5
+		SignalDrawStates ( 6
 			SignalDrawState (0
 				"SLUKKET"
 			)
@@ -1743,9 +1752,39 @@ SignalTypes ( 91
 					DrawLight ( 45 )
 				)
 			)
+			SignalDrawState ( 5
+				"kryds"
+				DrawLights ( 24
+					DrawLight ( 12 )
+					DrawLight ( 13 )
+					DrawLight ( 14 )
+					DrawLight ( 15 )
+					DrawLight ( 16 )
+					DrawLight ( 17 )
+					DrawLight ( 18 )
+					DrawLight ( 19 )
+					DrawLight ( 20 )
+					DrawLight ( 21 )
+					DrawLight ( 22 )
+					DrawLight ( 23 )
+					DrawLight ( 24 )
+					DrawLight ( 25 )
+					DrawLight ( 26 )
+					DrawLight ( 27 )
+					DrawLight ( 28 )
+					DrawLight ( 29 )
+					DrawLight ( 30 )
+					DrawLight ( 31 )
+					DrawLight ( 32 )
+					DrawLight ( 33 )
+					DrawLight ( 34 )
+					DrawLight ( 35 )
+				)
+			)
 		)
-		SignalAspects ( 5
+		SignalAspects ( 6
 			SignalAspect ( STOP		"SLUKKET"		SpeedKPH (  0 )	)
+			SignalAspect ( RESTRICTING	"kryds"		SpeedKPH (  30 ) )
 			SignalAspect ( APPROACH_1	"pil ned"		SpeedKPH ( 40 )	)
 			SignalAspect ( APPROACH_2	"pil op"		SpeedKPH ( 60 )	)
 			SignalAspect ( APPROACH_3	"br arm"				)
@@ -1758,23 +1797,25 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Red Light Dim"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -1817,15 +1858,17 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.01 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.01 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -1870,15 +1913,17 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.01 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.01 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -1907,15 +1952,17 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.01 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.01 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -1956,19 +2003,21 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -2007,19 +2056,21 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2056,23 +2107,25 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.5 0 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2117,19 +2170,21 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2166,23 +2221,25 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2228,23 +2285,25 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 -0.10 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Red Light"
 				Position ( 0 0.3 -.1 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.1 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Amber Light"
 				Position ( -1.061 1.061 0.1 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2284,23 +2343,25 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Amber Light"
 				Position ( -1.275 1.275 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2340,27 +2401,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( -1.061 1.061 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2406,15 +2469,17 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( -1.061 1.061 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2447,27 +2512,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( -1.275 1.275 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2513,15 +2580,17 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( -1.275 1.275 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2555,27 +2624,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( -1.276 1.276 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2621,19 +2692,21 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( -1.276 1.276 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( -1.06 1.06 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2675,27 +2748,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( -1.485 1.485 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2741,19 +2816,21 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( -1.485 1.485 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( -1.252 1.252 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2795,23 +2872,25 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Amber Light"
 				Position ( 1.061 1.061 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2850,23 +2929,25 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 4
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Amber Light"
 				Position ( 1.275 1.275 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -2906,27 +2987,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( 1.061 1.061 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -2973,27 +3056,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( 1.275 1.275 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -3038,15 +3123,17 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 1.061 1.061 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -3080,15 +3167,17 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 1.275 1.275 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -3122,27 +3211,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( -1.276 1.276 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -3188,19 +3279,21 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 1.276 1.276 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 1.06 1.06 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -3242,27 +3335,29 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 5
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.8 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 3 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 4 "DK Amber Light"
 				Position ( -1.485 1.485 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -3308,19 +3403,21 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 2.1 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 1.485 1.485 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 1.252 1.252 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -3363,31 +3460,33 @@ SignalTypes ( 91
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
 		SigFlashDuration ( 0.5 0.5 )
+		ORTSDayGlow ( 10.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 6
 			SignalLight ( 0 "DK Red Light"
 				Position ( -0.25 0 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 1 "DK White Light"
 				Position ( 0 0.5 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 2 "DK White Light"
 				Position ( -0.180 0.435 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 3 "DK White Light"
 				Position ( 0 0.25 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 4 "DK White Light"
 				Position ( -0.25 0.25 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 
 			SignalLight ( 5 "DK Green Light"
 				Position ( 0 0 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 		)
 		SignalDrawStates ( 6
@@ -3448,26 +3547,28 @@ SignalTypes ( 91
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
 		SigFlashDuration ( 0.5 0.5 )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 5
 			SignalLight ( 0 "DK Red Light"
 				Position ( -0.25 0 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 0 0.5 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 2 "DK White Light"
 				Position ( 0 0.25 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 3 "DK White Light"
 				Position ( -0.25 0.25 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 4 "DK Green Light"
 				Position ( 0 0 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -3505,27 +3606,29 @@ SignalTypes ( 91
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
 		SigFlashDuration ( 0.5 0.5 )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 5
 			SignalLight ( 0 "DK Red Light"
 				Position ( -0.25 0 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 0 0.5 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 2 "DK White Light"
 				Position ( 0 0.25 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 			SignalLight ( 3 "DK White Light"
 				Position ( -0.25 0.25 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 
 			SignalLight ( 4 "DK Green Light"
 				Position ( 0 0 0.01 )
-				Radius ( 0.48 )
+				Radius ( 0.0534 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -3564,11 +3667,13 @@ SignalTypes ( 91
 		SignalFnType ( DISTANCE )
 		SignalLightTex ( "dk_ltex_ld" )
 		SigFlashDuration ( 0.5 0.5 )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 1
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 1
@@ -3590,15 +3695,17 @@ SignalTypes ( 91
 		SignalFnType ( DISTANCE )
 		SignalLightTex ( "dk_ltex_ld" )
 		SigFlashDuration ( 0.5 0.5 )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -3632,19 +3739,21 @@ SignalTypes ( 91
 		SignalFnType ( DISTANCE )
 		SignalLightTex ( "dk_ltex_ld" )
 		SigFlashDuration ( 0.5 0.5 )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Amber Light"
 				Position ( 0 0.75 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -3685,15 +3794,17 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			
 		)
@@ -3727,15 +3838,17 @@ SignalTypes ( 91
 
 		SignalFnType ( INFO )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 0.3 0.09 )
-				Radius ( 0.36 )
+				Radius ( 0.04 )
 			)
 			SignalLight ( 1 "DK Blue Light"
 				Position ( 0 0 0.09 )
-				Radius ( 0.36 )
+				Radius ( 0.04 )
 			)
 			
 		)
@@ -3786,22 +3899,24 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 		SignalLights ( 4
 			SignalLight ( 0 "DK White Light"
 				Position ( 0 0.25 0.01 )
-				Radius ( 0.45 )
+				Radius ( 0.05 )
 			)
 			SignalLight ( 1 "DK White Light"
 				Position ( -0.180 0.180 0.01 )
-				Radius ( 0.45 )
+				Radius ( 0.05 )
 			)
 			SignalLight ( 2 "DK White Light"
 				Position ( 0 0 0.01 )
-				Radius ( 0.45 )
+				Radius ( 0.05 )
 			)
 			SignalLight ( 3 "DK White Light"
 				Position ( -0.25 0 0.01 )
-				Radius ( 0.45 )
+				Radius ( 0.05 )
 			)
 		)
 		SignalDrawStates ( 4
@@ -4014,19 +4129,21 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 3
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 2 "DK Amber Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 3
@@ -4062,15 +4179,17 @@ SignalTypes ( 91
 
 		SignalFnType ( NORMAL )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Red Light"
 				Position ( 0 0.3 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 0 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 2
@@ -4098,15 +4217,17 @@ SignalTypes ( 91
 
 		SignalFnType ( Repeater )
 		SignalLightTex ( "dk_ltex_ld" )
+		ORTSDayGlow ( 6.0 )
+		ORTSNightGlow ( 10.0 )
 
 		SignalLights ( 2
 			SignalLight ( 0 "DK Amber Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 			SignalLight ( 1 "DK Green Light"
 				Position ( 0 1.5 0.05 )
-				Radius ( 1.0 )
+				Radius ( 0.1113 )
 			)
 		)
 		SignalDrawStates ( 2
