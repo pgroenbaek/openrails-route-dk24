@@ -4,31 +4,31 @@ Tr_Worldfile (
 	Static (
 		UiD ( 283 )
 		FileName ( Br_BAB_oS_2L1WS070m.s )
-		Position ( 485.885 18.3056 945.007 )
+		Position ( 485.885 19.5056 945.007 )
 		QDirection ( 0 -0.33963 0 0.940557 )
 	)
 	Static (
 		UiD ( 285 )
 		FileName ( BAB_oS_emb_1L1W_Start.s )
-		Position ( 523.577 18.0056 990.402 )
+		Position ( 523.577 19.2056 990.402 )
 		QDirection ( 0 -0.3396 0 0.9406 )
 	)
 	Static (
 		UiD ( 286 )
 		FileName ( BAB_oS_emb_1L1W_End.s )
-		Position ( 494.829 18.0056 955.779 )
+		Position ( 494.829 19.2056 955.779 )
 		QDirection ( 0 -0.3396 0 0.9406 )
 	)
 	Static (
 		UiD ( 287 )
 		FileName ( NR_Bridge1t_Pier40m.s )
-		Position ( 514.553 15.4392 979.43 )
+		Position ( 514.553 16.9392 979.43 )
 		QDirection ( 0.00148943 0.982067 -0.000177873 0.188521 )
 	)
 	Static (
 		UiD ( 288 )
 		FileName ( NR_Bridge1t_Pier40m.s )
-		Position ( 504.354 15.4573 967.347 )
+		Position ( 504.354 16.9573 967.347 )
 		QDirection ( 0.00148943 0.982067 -0.000177873 0.188521 )
 	)
 	TrackObj (
@@ -151,7 +151,7 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( Road2LStrt50m.s )
 		StaticFlags ( 00200180 )
-		Position ( 485.885 18.3056 945.007 )
+		Position ( 485.885 19.5056 945.007 )
 		QDirection ( 0 -0.3396 0 0.9406 )
 	)
 	TrackObj (

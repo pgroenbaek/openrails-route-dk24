@@ -102,16 +102,6 @@ Tr_Worldfile (
 		QDirection ( 0.00138417 -0.998759 -0.000577998 -0.0497507 )
 	)
 	TrackObj (
-		UiD ( 451 )
-		SectionIdx ( 5 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 994.577 16.977 -338.568 )
-		QDirection ( 0.00188595 0.656438 0.0016411 0.754376 )
-	)
-	TrackObj (
 		UiD ( 452 )
 		SectionIdx ( 5 )
 		Elevation ( 0 )
@@ -320,12 +310,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -986.606 22.2947 -169.092 )
 		QDirection ( -0.000733976 0.679176 -0.000679176 0.733975 )
-	)
-	Static (
-		UiD ( 473 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( 994.577 16.907 -338.568 )
-		QDirection ( 0.001886 0.6564 0.001641 0.7544 )
 	)
 	Static (
 		UiD ( 474 )
