@@ -1286,4 +1286,10 @@ Tr_Worldfile (
 		Position ( 464.225 5.73221 988.226 )
 		QDirection ( -0.00238442 -0.30055 0.000751381 0.953763 )
 	)
+	Static (
+		UiD ( 262 )
+		FileName ( V4_2tEmbK_Strt_020m.s )
+		Position ( 479.319 5.60051 1009.81 )
+		QDirection ( 0.000751371 0.953763 0.00238439 0.30055 )
+	)
 )

@@ -1343,4 +1343,28 @@ Tr_Worldfile (
 		Position ( -713.289 9.12504 -71.7715 )
 		QDirection ( 0.00053183 -0.645989 -0.000450066 0.763347 )
 	)
+	Static (
+		UiD ( 265 )
+		FileName ( V4_2tBaseK_Strt_010m.s )
+		Position ( -680.888 9.16078 -66.3377 )
+		QDirection ( 0.000161513 -0.763348 0.000190856 -0.645987 )
+	)
+	Static (
+		UiD ( 267 )
+		FileName ( V4_2tBaseK_Strt_001m.s )
+		Position ( -690.736 9.15579 -67.9894 )
+		QDirection ( 0.000161513 -0.763348 0.000190856 -0.645987 )
+	)
+	Static (
+		UiD ( 268 )
+		FileName ( V4_2tBaseK_Strt_001m.s )
+		Position ( -691.717 9.15478 -68.1539 )
+		QDirection ( 0.000322994 -0.763347 0.000381674 -0.645989 )
+	)
+	Static (
+		UiD ( 269 )
+		FileName ( V4_2tBaseK_Strt_001m.s )
+		Position ( -692.651 9.15383 -68.3105 )
+		QDirection ( 0.000322994 -0.763347 0.000381674 -0.645989 )
+	)
 )
