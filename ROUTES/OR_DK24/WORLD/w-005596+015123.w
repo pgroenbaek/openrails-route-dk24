@@ -875,4 +875,28 @@ Tr_Worldfile (
 		Position ( 1017.39 13.0498 -403.072 )
 		QDirection ( -0.00142405 -0.700604 0.00139822 0.713547 )
 	)
+	Static (
+		UiD ( 146 )
+		FileName ( V4_2tbr2_Strt_020m_A2Beton_GreyRailing.s )
+		Position ( 183.89 16.4067 -494.197 )
+		QDirection ( -0.00154585 -0.6345 0.00126901 0.77292 )
+	)
+	Static (
+		UiD ( 147 )
+		FileName ( V4_2tbr2_Strt_020m_A2Beton_GreyRailing.s )
+		Position ( 164.258 16.4867 -498.148 )
+		QDirection ( -0.00154902 -0.632564 0.00126513 0.774506 )
+	)
+	Static (
+		UiD ( 148 )
+		FileName ( V4_2tEmbEnd.s )
+		Position ( 203.506 16.3267 -490.301 )
+		QDirection ( -0.001546 -0.6345 0.001269 0.7729 )
+	)
+	Static (
+		UiD ( 149 )
+		FileName ( V4_2tEmbEnd.s )
+		Position ( 164.258 16.4867 -498.148 )
+		QDirection ( -0.001549 -0.6326 0.001265 0.7745 )
+	)
 )
