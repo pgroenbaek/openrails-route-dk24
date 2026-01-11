@@ -42,16 +42,6 @@ Tr_Worldfile (
 		QDirection ( 0.000463623 0.374455 -0.000187227 -0.927245 )
 	)
 	TrackObj (
-		UiD ( 77 )
-		SectionIdx ( 3 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB22fb_A1t250mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 1004.2 0.681111 958.192 )
-		QDirection ( 0 0.339348 0 0.940661 )
-	)
-	TrackObj (
 		UiD ( 78 )
 		SectionIdx ( 33291 )
 		Elevation ( 0 )
