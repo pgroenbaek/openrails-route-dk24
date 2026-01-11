@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrItemTable ( 106
+TrItemTable ( 121
 	CrossoverItem (
 		TrItemId ( 0 )
 		TrItemSData ( 12.50009 00000002 )
@@ -678,5 +678,95 @@ TrItemTable ( 106
 		TrItemSData ( 50.61126 00000002 )
 		TrItemRData ( 629.1729 14.51785 -84.70325 -5656 15119 )
 		TrSignalType ( 00000000 1 1.570534 dkpusig )
+	)
+	SignalItem (
+		TrItemId ( 106 )
+		TrItemSData ( 8305.85 00000002 )
+		TrItemRData ( -613.0849 15.12427 -107.0137 -5651 15118 )
+		TrSignalType ( 00000200 0 5.041727 dk4ind_old )
+	)
+	SignalItem (
+		TrItemId ( 107 )
+		TrItemSData ( 8305.85 00000002 )
+		TrItemRData ( -613.0849 15.12427 -107.0137 -5651 15118 )
+		TrSignalType ( 00000200 0 5.041727 dkhviser )
+	)
+	SignalItem (
+		TrItemId ( 108 )
+		TrItemSData ( 8383.633 00000002 )
+		TrItemRData ( -610.9996 15.12577 -102.4584 -5651 15118 )
+		TrSignalType ( 00000000 0 5.041727 dkvisig )
+	)
+	SignalItem (
+		TrItemId ( 109 )
+		TrItemSData ( 8515.296 00000002 )
+		TrItemRData ( -486.4129 15.51875 -145.0401 -5651 15118 )
+		TrSignalType ( 00000000 1 1.900134 dk3ud )
+	)
+	SignalItem (
+		TrItemId ( 110 )
+		TrItemSData ( 8437.933 00000002 )
+		TrItemRData ( -488.101 15.51855 -149.7313 -5651 15118 )
+		TrSignalType ( 00000000 1 1.900134 dkvusig )
+	)
+	SignalItem (
+		TrItemId ( 111 )
+		TrItemSData ( 18.11782 00000002 )
+		TrItemRData ( -164.976 15.5837 -248.5052 -5651 15118 )
+		TrSignalType ( 00000000 0 1.891298 dkpusig )
+	)
+	SignalItem (
+		TrItemId ( 112 )
+		TrItemSData ( 809.4705 00000002 )
+		TrItemRData ( -152.362 15.5837 -258.9823 -5651 15118 )
+		TrSignalType ( 00000000 0 1.892747 dkpusig )
+	)
+	SignalItem (
+		TrItemId ( 113 )
+		TrItemSData ( 556.2125 00000002 )
+		TrItemRData ( 245.0822 15.59235 -402.4002 -5651 15118 )
+		TrSignalType ( 00000000 1 5.068019 dkpusig )
+	)
+	SignalItem (
+		TrItemId ( 114 )
+		TrItemSData ( 255.238 00000002 )
+		TrItemRData ( 522.1597 15.60738 -519.6763 -5651 15118 )
+		TrSignalType ( 00000000 1 5.153368 dkpusig )
+	)
+	SignalItem (
+		TrItemId ( 115 )
+		TrItemSData ( 115.2183 00000002 )
+		TrItemRData ( 500 15.60738 -497.0869 -5651 15118 )
+		TrSignalType ( 00000000 1 5.153367 dkpusig )
+	)
+	SignalItem (
+		TrItemId ( 116 )
+		TrItemSData ( 7.489968 00000002 )
+		TrItemRData ( 759.7538 15.60738 -631.8151 -5651 15118 )
+		TrSignalType ( 00000000 0 5.153367 dk3ud )
+	)
+	SignalItem (
+		TrItemId ( 117 )
+		TrItemSData ( 157.8848 00000002 )
+		TrItemRData ( 762.2385 15.60738 -627.4755 -5651 15118 )
+		TrSignalType ( 00000000 0 5.153367 dkvusig )
+	)
+	SignalItem (
+		TrItemId ( 118 )
+		TrItemSData ( 247.1508 00000002 )
+		TrItemRData ( 842.9648 15.60739 -665.5764 -5651 15118 )
+		TrSignalType ( 00000200 1 2.011774 dk4ind_old )
+	)
+	SignalItem (
+		TrItemId ( 119 )
+		TrItemSData ( 247.1508 00000002 )
+		TrItemRData ( 842.9648 15.60739 -665.5764 -5651 15118 )
+		TrSignalType ( 00000200 1 2.011774 dkhviser )
+	)
+	SignalItem (
+		TrItemId ( 120 )
+		TrItemSData ( 96.16518 00000002 )
+		TrItemRData ( 839.9459 15.60739 -669.6638 -5651 15118 )
+		TrSignalType ( 00000000 1 2.011774 dkvisig )
 	)
 )

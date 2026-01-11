@@ -12851,6 +12851,24 @@ Tr_Worldfile (
 		Position ( 669.594 14.6492 -72.2327 )
 		QDirection ( -0.001064 0.7046 -0.001057 0.7096 )
 	)
+	Static (
+		UiD ( 7287 )
+		FileName ( PGA_DKSign_Location_Odense.s )
+		Position ( -512.666 15.0035 -385.829 )
+		QDirection ( 0 0.341 0 -0.9401 )
+	)
+	Static (
+		UiD ( 7288 )
+		FileName ( PGA_DKSign_Location_Odense.s )
+		Position ( -579.547 15.4623 -443.022 )
+		QDirection ( 0 -0.3221 0 0.9467 )
+	)
+	Static (
+		UiD ( 7289 )
+		FileName ( PGA_DKSign_Location_Odense.s )
+		Position ( 654.612 19.1034 -72.112 )
+		QDirection ( 0 0.7031 0 -0.711 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 1432 )
