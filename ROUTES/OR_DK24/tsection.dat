@@ -1,6 +1,6 @@
 SIMISA@@@@@@@@@@JINX0T0t______
 
-TrackSections ( 5506
+TrackSections ( 5894
 	TrackSection ( 
 		SectionCurve ( 0 ) 50002 10 0 
 	)
@@ -12484,8 +12484,872 @@ TrackSections ( 5506
 	TrackSection ( 
 		SectionCurve ( 0 ) 55504 8.20015 0 
 	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55506 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55508 -0.0436436 3354.07 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55509 0.0436436 3354.07 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55510 1.61789 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55512 8.38433 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55514 -0.0436432 3428.18 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55515 0.0436432 3428.18 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55516 8.43777 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55518 -0.0436432 3421.97 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55519 0.0436432 3421.97 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55520 -0.06 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55521 0.06 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55522 -0.04 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55523 0.04 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55524 -0.074536 1531.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55525 0.074536 1531.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55526 10.015 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55528 70.6071 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55530 -0.0436321 1091.13 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55531 0.0436321 1091.13 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55532 -0.07 1467.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55533 0.07 1467.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55534 -0.065 1467.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55535 0.065 1467.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55536 -0.0699979 1467.68 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55537 0.0699979 1467.68 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55538 9.72411 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55540 22.8934 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55542 -0.0872656 2734.87 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55543 0.0872656 2734.87 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55544 10.02 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55546 -0.07454 1531.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55547 0.07454 1531.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55548 -0.04 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55549 0.04 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55550 -0.06 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55551 0.06 1531.48 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55552 -0.1 1023.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55553 0.1 1023.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55554 1.02309 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55556 -0.1 1023.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55557 0.1 1023.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55558 -0.09 1023.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55559 0.09 1023.46 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55560 -0.0767068 1023.45 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55561 0.0767068 1023.45 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55562 1.02314 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55564 -0.1 970.502 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55565 0.1 970.502 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55566 -0.09 970.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55567 0.09 970.5 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55568 -0.0792567 970.488 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55569 0.0792567 970.488 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55570 39.6341 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55572 23.8154 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55574 2.86475 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55576 -0.07 753.38 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55577 0.07 753.38 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55578 -0.0598971 753.385 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55579 0.0598971 753.385 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55580 9.86331 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55582 -0.051356 257.159 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55583 0.051356 257.159 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55584 2.89715 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55586 10.3703 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55588 -0.129899 190.096 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55589 0.129899 190.096 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55590 27.7164 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55592 -0.0499992 472.684 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55593 0.0499992 472.684 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55594 27.7245 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55596 -0.0872661 472.612 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55597 0.0872661 472.612 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55598 13.1923 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55600 9.99974 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55602 12.5329 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55604 71.548 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55606 71.5488 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55608 -0.0513559 257.206 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55609 0.0513559 257.206 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55610 2.89487 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55612 3.53311 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55614 -0.0523582 238.993 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55615 0.0523582 238.993 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55616 -0.07 778.329 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55617 0.07 778.329 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55618 -0.0608994 778.335 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55619 0.0608994 778.335 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55620 5.80737 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55622 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55624 -0.0523578 3135.16 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55625 0.0523578 3135.16 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55626 33.707 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55628 -0.0523578 3135.16 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55629 0.0523578 3135.16 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55630 33.707 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55632 -0.083031 702.477 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55633 0.083031 702.477 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55634 2.86249 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55636 -0.0830292 1510.45 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55637 0.0830292 1510.45 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55638 8.33273 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55640 0.959106 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55642 -0.0830325 1186.98 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55643 0.0830325 1186.98 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55644 8.85476 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55646 -0.0830304 1181.66 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55647 0.0830304 1181.66 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55648 6.71466 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55650 -0.0830304 1176.73 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55651 0.0830304 1176.73 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55652 27.7245 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55654 -0.05727 472.612 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55655 0.05727 472.612 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55656 -0.03 472.612 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55657 0.03 472.612 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55658 11 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55660 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55662 9.00006 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55664 12.8652 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55666 -0.0249085 1465.62 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55667 0.0249085 1465.62 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55668 1.19754 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55670 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55672 -0.0249101 1144.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55673 0.0249101 1144.69 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55674 5.57263 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55676 15.1092 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55678 25.0002 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55680 1.47815 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55682 20.0024 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55684 15 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55686 5.00259 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55688 -0.0299975 1500.05 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55689 0.0299975 1500.05 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55690 9.10954 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55692 -0.005 961.787 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55693 0.005 961.787 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55694 -0.025 961.787 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55695 0.025 961.787 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55696 9.0523 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55698 -0.0830285 1160.83 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55699 0.0830285 1160.83 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55700 6.9082 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55702 -0.0830285 1165.92 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55703 0.0830285 1165.92 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55704 4.78304 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55706 -0.0830285 1170.8 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55707 0.0830285 1170.8 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55708 -0.0830308 874.716 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55709 0.0830308 874.716 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55710 7.0988 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55712 3.69922 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55714 2.13464 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55716 11.9921 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55718 -0.1309 169.447 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55719 0.1309 169.447 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55720 1.0622 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55722 -0.130899 798.125 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55723 0.130899 798.125 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55724 12.9935 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55726 -0.130899 793.002 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55727 0.130899 793.002 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55728 8.01275 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55730 -0.130899 788.093 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55731 0.130899 788.093 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55732 8.00242 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55734 12.8645 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55736 -0.12 205 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55737 0.12 205 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55738 -0.0800001 204.97 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55739 0.0800001 204.97 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55740 -0.0599996 239.543 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55741 0.0599996 239.543 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55742 4.75109 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55744 -0.0599998 319.344 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55745 0.0599998 319.344 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55746 4.84115 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55748 -0.0599996 317.4 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55749 0.0599996 317.4 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55750 11.4652 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55752 14.2616 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55754 15.7242 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55756 15.72 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55758 0 5.19882e-43 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55760 -0.07 220 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55761 0.07 220 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55762 15.7295 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55764 33.5071 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55766 -0.0699994 234.494 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55767 0.0699994 234.494 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55768 2.17981 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55770 11.7575 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55772 -0.0699998 499.817 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55773 0.0699998 499.817 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55774 0.0130978 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55776 2.22105 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55778 -0.130899 363.073 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55779 0.130899 363.073 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55780 63.4844 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55782 -0.1918 273.822 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55783 0.1918 273.822 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55784 14.2013 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55786 17.9154 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55788 -0.0609004 630.822 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55789 0.0609004 630.822 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55790 -0.0608985 1213.9 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55791 0.0608985 1213.9 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55792 7.09406 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55794 17.9156 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55796 -0.0459 630.819 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55797 0.0459 630.819 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55798 -0.015 630.819 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55799 0.015 630.819 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55800 -0.0500008 799.914 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55801 0.0500008 799.914 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55802 27.3501 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55804 -0.13027 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55805 0.13027 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55806 -0.007 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55807 0.007 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55808 27.3501 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55810 -0.09 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55811 0.09 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55812 -0.04 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55813 0.04 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55814 -0.04027 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55815 0.04027 1463.86 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55816 -0.09 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55817 0.09 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55818 48.8924 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55820 -0.09 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55821 0.09 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55822 -0.091 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55823 0.091 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55824 -0.04 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55825 0.04 1082.94 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55826 -0.0844332 1082.95 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55827 0.0844332 1082.95 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55828 8.89123 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55830 26.03 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55832 -0.01501 3909.09 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55833 0.01501 3909.09 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55834 0.148077 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55836 -0.0150096 3987.81 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55837 0.0150096 3987.81 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55838 -0.06727 379.497 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55839 0.06727 379.497 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55840 -0.02 379.497 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55841 0.02 379.497 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55842 1.62 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55844 -0.02 379.497 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55845 0.02 379.497 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55846 1.63 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55848 1.80322 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55850 12.8654 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55852 -0.0349046 499.275 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55853 0.0349046 499.275 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55854 0.0255117 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55856 -0.07 190.711 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55857 0.07 190.711 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55858 -0.191799 190.711 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55859 0.191799 190.711 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55860 -0.0349065 499.478 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55861 0.0349065 499.478 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55862 0.017066 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55864 17.5906 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55866 9.073 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55868 -0.0599998 419.799 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55869 0.0599998 419.799 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55870 0.0116558 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55872 -0.055 300 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55873 0.055 300 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55874 -0.0449952 300.015 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55875 0.0449952 300.015 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55876 -0.130901 264.227 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55877 0.130901 264.227 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55878 2.47093 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55880 3.00024 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55882 1.51065 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55884 -0.0699994 234.442 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55885 0.0699994 234.442 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55886 9.5002 0 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55888 -0.1309 195.678 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55889 0.1309 195.678 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55890 -0.3 123.823 
+	)
+	TrackSection ( 
+		SectionCurve ( 1 ) 55891 0.3 123.823 
+	)
+	TrackSection ( 
+		SectionCurve ( 0 ) 55892 10.0027 0 
+	)
 )
-SectionIdx ( 1651
+SectionIdx ( 1777
 	TrackPath ( 50001 1 50002 ) 
 	TrackPath ( 50002 3 50004 50007 50008 ) 
 	TrackPath ( 50003 3 50010 50013 50014 ) 
@@ -14135,4 +14999,130 @@ SectionIdx ( 1651
 	TrackPath ( 51648 2 55496 55498 ) 
 	TrackPath ( 51649 1 55500 ) 
 	TrackPath ( 51650 2 55502 55504 ) 
+	TrackPath ( 51651 3 55506 55508 55510 ) 
+	TrackPath ( 51652 2 55512 55514 ) 
+	TrackPath ( 51653 2 55516 55518 ) 
+	TrackPath ( 51654 1 55521 ) 
+	TrackPath ( 51655 1 55523 ) 
+	TrackPath ( 51656 2 55525 55526 ) 
+	TrackPath ( 51657 2 55528 55530 ) 
+	TrackPath ( 51658 1 55532 ) 
+	TrackPath ( 51659 1 55534 ) 
+	TrackPath ( 51660 2 55536 55538 ) 
+	TrackPath ( 51661 2 55540 55542 ) 
+	TrackPath ( 51662 2 55544 55546 ) 
+	TrackPath ( 51663 1 55548 ) 
+	TrackPath ( 51664 1 55550 ) 
+	TrackPath ( 51665 2 55552 55554 ) 
+	TrackPath ( 51666 1 55556 ) 
+	TrackPath ( 51667 1 55558 ) 
+	TrackPath ( 51668 2 55560 55562 ) 
+	TrackPath ( 51669 1 55564 ) 
+	TrackPath ( 51670 1 55566 ) 
+	TrackPath ( 51671 2 55568 55570 ) 
+	TrackPath ( 51672 1 55572 ) 
+	TrackPath ( 51673 1 55574 ) 
+	TrackPath ( 51674 1 55576 ) 
+	TrackPath ( 51675 2 55578 55580 ) 
+	TrackPath ( 51676 2 55582 55584 ) 
+	TrackPath ( 51677 2 55586 55588 ) 
+	TrackPath ( 51678 2 55590 55592 ) 
+	TrackPath ( 51679 2 55594 55596 ) 
+	TrackPath ( 51680 1 55598 ) 
+	TrackPath ( 51681 1 55600 ) 
+	TrackPath ( 51682 1 55602 ) 
+	TrackPath ( 51683 1 55604 ) 
+	TrackPath ( 51684 1 55606 ) 
+	TrackPath ( 51685 2 55608 55610 ) 
+	TrackPath ( 51686 2 55612 55614 ) 
+	TrackPath ( 51687 1 55616 ) 
+	TrackPath ( 51688 2 55618 55620 ) 
+	TrackPath ( 51689 3 55622 55624 55626 ) 
+	TrackPath ( 51690 2 55628 55630 ) 
+	TrackPath ( 51691 2 55632 55634 ) 
+	TrackPath ( 51692 2 55636 55638 ) 
+	TrackPath ( 51693 2 55640 55642 ) 
+	TrackPath ( 51694 2 55644 55646 ) 
+	TrackPath ( 51695 2 55648 55650 ) 
+	TrackPath ( 51696 2 55652 55654 ) 
+	TrackPath ( 51697 1 55656 ) 
+	TrackPath ( 51698 1 55658 ) 
+	TrackPath ( 51699 2 55660 55662 ) 
+	TrackPath ( 51700 1 55664 ) 
+	TrackPath ( 51701 2 55666 55668 ) 
+	TrackPath ( 51702 3 55670 55672 55674 ) 
+	TrackPath ( 51703 1 55676 ) 
+	TrackPath ( 51704 1 55678 ) 
+	TrackPath ( 51705 1 55680 ) 
+	TrackPath ( 51706 1 55682 ) 
+	TrackPath ( 51707 1 55684 ) 
+	TrackPath ( 51708 2 55686 55688 ) 
+	TrackPath ( 51709 2 55690 55692 ) 
+	TrackPath ( 51710 1 55694 ) 
+	TrackPath ( 51711 2 55696 55698 ) 
+	TrackPath ( 51712 2 55700 55702 ) 
+	TrackPath ( 51713 2 55704 55706 ) 
+	TrackPath ( 51714 2 55708 55710 ) 
+	TrackPath ( 51715 1 55712 ) 
+	TrackPath ( 51716 1 55714 ) 
+	TrackPath ( 51717 1 55716 ) 
+	TrackPath ( 51718 2 55718 55720 ) 
+	TrackPath ( 51719 2 55722 55724 ) 
+	TrackPath ( 51720 2 55726 55728 ) 
+	TrackPath ( 51721 2 55730 55732 ) 
+	TrackPath ( 51722 1 55734 ) 
+	TrackPath ( 51723 1 55736 ) 
+	TrackPath ( 51724 1 55738 ) 
+	TrackPath ( 51725 1 55740 ) 
+	TrackPath ( 51726 2 55742 55744 ) 
+	TrackPath ( 51727 2 55746 55748 ) 
+	TrackPath ( 51728 1 55750 ) 
+	TrackPath ( 51729 1 55752 ) 
+	TrackPath ( 51730 1 55754 ) 
+	TrackPath ( 51731 1 55756 ) 
+	TrackPath ( 51732 2 55758 55760 ) 
+	TrackPath ( 51733 1 55762 ) 
+	TrackPath ( 51734 2 55764 55766 ) 
+	TrackPath ( 51735 1 55768 ) 
+	TrackPath ( 51736 1 55770 ) 
+	TrackPath ( 51737 2 55772 55774 ) 
+	TrackPath ( 51738 2 55776 55778 ) 
+	TrackPath ( 51739 1 55780 ) 
+	TrackPath ( 51740 2 55782 55784 ) 
+	TrackPath ( 51741 2 55786 55788 ) 
+	TrackPath ( 51742 2 55790 55792 ) 
+	TrackPath ( 51743 2 55794 55796 ) 
+	TrackPath ( 51744 1 55798 ) 
+	TrackPath ( 51745 1 55800 ) 
+	TrackPath ( 51746 2 55802 55804 ) 
+	TrackPath ( 51747 1 55806 ) 
+	TrackPath ( 51748 2 55808 55810 ) 
+	TrackPath ( 51749 1 55812 ) 
+	TrackPath ( 51750 1 55814 ) 
+	TrackPath ( 51751 2 55816 55818 ) 
+	TrackPath ( 51752 1 55820 ) 
+	TrackPath ( 51753 1 55822 ) 
+	TrackPath ( 51754 1 55824 ) 
+	TrackPath ( 51755 2 55826 55828 ) 
+	TrackPath ( 51756 2 55830 55832 ) 
+	TrackPath ( 51757 2 55834 55836 ) 
+	TrackPath ( 51758 1 55838 ) 
+	TrackPath ( 51759 2 55840 55842 ) 
+	TrackPath ( 51760 2 55844 55846 ) 
+	TrackPath ( 51761 1 55848 ) 
+	TrackPath ( 51762 1 55850 ) 
+	TrackPath ( 51763 2 55852 55854 ) 
+	TrackPath ( 51764 1 55856 ) 
+	TrackPath ( 51765 1 55858 ) 
+	TrackPath ( 51766 2 55860 55862 ) 
+	TrackPath ( 51767 1 55864 ) 
+	TrackPath ( 51768 1 55866 ) 
+	TrackPath ( 51769 2 55868 55870 ) 
+	TrackPath ( 51770 1 55872 ) 
+	TrackPath ( 51771 1 55874 ) 
+	TrackPath ( 51772 2 55876 55878 ) 
+	TrackPath ( 51773 1 55880 ) 
+	TrackPath ( 51774 2 55882 55884 ) 
+	TrackPath ( 51775 2 55886 55888 ) 
+	TrackPath ( 51776 2 55890 55892 ) 
 )

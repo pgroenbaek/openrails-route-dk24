@@ -105,7 +105,7 @@ TrItemTable ( 121
 	)
 	CrossoverItem (
 		TrItemId ( 17 )
-		TrItemSData ( 210.8475 00000002 )
+		TrItemSData ( 3034.948 00000002 )
 		TrItemRData ( -380.1396 24.3396 -980.3411 -5677 15126 )
 		CrossoverTrItemData ( 16 76 )
 	)
@@ -682,13 +682,13 @@ TrItemTable ( 121
 	SignalItem (
 		TrItemId ( 106 )
 		TrItemSData ( 8305.85 00000002 )
-		TrItemRData ( -613.0849 15.12427 -107.0137 -5651 15118 )
+		TrItemRData ( -613.085 15.12427 -107.0137 -5651 15118 )
 		TrSignalType ( 00000200 0 5.041727 dk4ind_old )
 	)
 	SignalItem (
 		TrItemId ( 107 )
 		TrItemSData ( 8305.85 00000002 )
-		TrItemRData ( -613.0849 15.12427 -107.0137 -5651 15118 )
+		TrItemRData ( -613.085 15.12427 -107.0137 -5651 15118 )
 		TrSignalType ( 00000200 0 5.041727 dkhviser )
 	)
 	SignalItem (
@@ -705,7 +705,7 @@ TrItemTable ( 121
 	)
 	SignalItem (
 		TrItemId ( 110 )
-		TrItemSData ( 8437.933 00000002 )
+		TrItemSData ( 8437.935 00000002 )
 		TrItemRData ( -488.101 15.51855 -149.7313 -5651 15118 )
 		TrSignalType ( 00000000 1 1.900134 dkvusig )
 	)
@@ -730,7 +730,7 @@ TrItemTable ( 121
 	SignalItem (
 		TrItemId ( 114 )
 		TrItemSData ( 255.238 00000002 )
-		TrItemRData ( 522.1597 15.60738 -519.6763 -5651 15118 )
+		TrItemRData ( 522.1595 15.60738 -519.6763 -5651 15118 )
 		TrSignalType ( 00000000 1 5.153368 dkpusig )
 	)
 	SignalItem (
@@ -765,7 +765,7 @@ TrItemTable ( 121
 	)
 	SignalItem (
 		TrItemId ( 120 )
-		TrItemSData ( 96.16518 00000002 )
+		TrItemSData ( 96.16516 00000002 )
 		TrItemRData ( 839.9459 15.60739 -669.6638 -5651 15118 )
 		TrSignalType ( 00000000 1 2.011774 dkvisig )
 	)

@@ -2598,7 +2598,7 @@ Tr_Worldfile (
 		SectionIdx ( 79 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2_A1tBuffer.s )
+		FileName ( DB2_A1tUSBuffer.s )
 		StaticFlags ( 00200180 )
 		Position ( -134.308 15.6523 -68.0846 )
 		QDirection ( 0 -0.774398 0 -0.632699 )
@@ -6401,7 +6401,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1851 )
 		FileName ( NR_Bridge1t_Pier40m.s )
-		Position ( -867.961 18.7964 -796.879 )
+		Position ( -867.961 21.1964 -796.879 )
 		QDirection ( 0 0.405152 0 0.914248 )
 	)
 	Static (
@@ -6419,19 +6419,19 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1854 )
 		FileName ( NR_Bridge1t_Pier40m.s )
-		Position ( -872.663 18.7964 -802.064 )
+		Position ( -872.663 21.1964 -802.064 )
 		QDirection ( 0 0.405152 0 0.914248 )
 	)
 	Static (
 		UiD ( 1855 )
 		FileName ( NR_Bridge1t_Pier40m.s )
-		Position ( -877.365 18.7964 -807.25 )
+		Position ( -877.365 21.1964 -807.25 )
 		QDirection ( 0 0.405152 0 0.914248 )
 	)
 	Static (
 		UiD ( 1856 )
 		FileName ( NR_Bridge1t_Pier40m.s )
-		Position ( -882.067 18.7964 -812.436 )
+		Position ( -882.067 21.1964 -812.436 )
 		QDirection ( 0 0.405152 0 0.914248 )
 	)
 	Static (
@@ -12866,7 +12866,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 7289 )
 		FileName ( PGA_DKSign_Location_Odense.s )
-		Position ( 654.612 19.1034 -72.112 )
+		Position ( 654.594 19.1034 -72.2622 )
 		QDirection ( 0 0.7031 0 -0.711 )
 	)
 	Tr_Watermark ( 7 )
@@ -13393,5 +13393,17 @@ Tr_Worldfile (
 		FileName ( dkrelae3.s )
 		Position ( -852.812 9.67729 -780.962 )
 		QDirection ( 0.00252276 0.917323 0.00109492 -0.398134 )
+	)
+	Static (
+		UiD ( 7290 )
+		FileName ( dkrelae3.s )
+		Position ( -498.976 10.7894 -379.59 )
+		QDirection ( -0.000629693 0.419795 0.00136143 0.907618 )
+	)
+	Static (
+		UiD ( 7291 )
+		FileName ( dkrelae3.s )
+		Position ( -835.452 13.4291 -761.453 )
+		QDirection ( 0.00136719 0.911457 0.000617089 -0.411392 )
 	)
 )
