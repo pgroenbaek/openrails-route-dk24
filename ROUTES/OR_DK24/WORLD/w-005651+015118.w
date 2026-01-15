@@ -4,7 +4,7 @@ Tr_Worldfile (
 	Signal (
 		UiD ( 1055 )
 		FileName ( dk4indsigH.s )
-		Position ( -614.055 15.1243 -109.852 )
+		Position ( -614.055 14.8243 -109.852 )
 		QDirection ( 0 0.813455 0 -0.581629 )
 		SignalSubObj ( 00000023 )
 		SignalUnits ( 2
@@ -139,7 +139,7 @@ Tr_Worldfile (
 	Signal (
 		UiD ( 1075 )
 		FileName ( dk4indsigH.s )
-		Position ( 844.245 15.6074 -662.863 )
+		Position ( 844.245 15.3074 -662.863 )
 		QDirection ( 0 0.535339 0 0.844637 )
 		SignalSubObj ( 00000023 )
 		SignalUnits ( 2
@@ -3366,13 +3366,13 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1077 )
 		FileName ( PGA_DKSign_Location_Marslev.s )
-		Position ( 844.322 19.5074 -662.899 )
+		Position ( 844.322 19.2074 -662.899 )
 		QDirection ( 0 0.5353 0 0.8446 )
 	)
 	Static (
 		UiD ( 1078 )
 		FileName ( PGA_DKSign_Location_Marslev.s )
-		Position ( -614.135 19.0243 -109.825 )
+		Position ( -614.135 18.7243 -109.825 )
 		QDirection ( 0 0.8135 0 -0.5816 )
 	)
 	Tr_Watermark ( 7 )

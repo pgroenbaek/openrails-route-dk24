@@ -27,6 +27,32 @@ Tr_Worldfile (
 		Position ( -397.224 3.29163 741.83 )
 		QDirection ( -0.00132381 0.470623 -0.0007061 0.882333 )
 	)
+	Dyntrack (
+		UiD ( 1004 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 5.19882e-43
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 56470 -0.100162 1225.77
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 56472 75.9771 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 51957 )
+		Elevation ( 1.54074e-33 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -180.935 4.09272 601.772 )
+		QDirection ( -0.00141638 0.432468 -0.000679358 0.901648 )
+	)
 	TrackObj (
 		UiD ( 989 )
 		SectionIdx ( 51343 )
@@ -96,16 +122,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -93.8753 4.45642 524.433 )
 		QDirection ( -0.00144179 0.386864 -0.000604876 0.922135 )
-	)
-	TrackObj (
-		UiD ( 988 )
-		SectionIdx ( 51342 )
-		Elevation ( -1.90709e-21 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-51342.s )
-		StaticFlags ( 00200180 )
-		Position ( -180.935 4.09272 601.772 )
-		QDirection ( -0.00140697 0.432468 -0.00067484 0.901648 )
 	)
 	TrackObj (
 		UiD ( 997 )
@@ -3260,16 +3276,6 @@ Tr_Worldfile (
 		QDirection ( 0.000676896 -0.89239 -0.00133859 0.451263 )
 	)
 	TrackObj (
-		UiD ( 982 )
-		SectionIdx ( 33264 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB22fb_A1t2000r1d.s )
-		StaticFlags ( 00200180 )
-		Position ( -373.515 3.36392 733.858 )
-		QDirection ( 0.0013183 -0.477063 0.000715596 -0.878868 )
-	)
-	TrackObj (
 		UiD ( 991 )
 		SectionIdx ( 0 )
 		Elevation ( 0 )
@@ -3338,5 +3344,15 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -407.827 3.24663 752.729 )
 		QDirection ( -0.000676948 0.89239 0.00133869 -0.451263 )
+	)
+	TrackObj (
+		UiD ( 1002 )
+		SectionIdx ( 33265 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB22fb_A1t4000r1d.s )
+		StaticFlags ( 00200180 )
+		Position ( -344.08 3.46863 715.096 )
+		QDirection ( -0.00131831 0.477063 -0.000715595 0.878868 )
 	)
 )

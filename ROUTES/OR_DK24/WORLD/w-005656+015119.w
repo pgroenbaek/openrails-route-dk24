@@ -19,7 +19,7 @@ Tr_Worldfile (
 	Signal (
 		UiD ( 7256 )
 		FileName ( dk3udsig.s )
-		Position ( 149.846 18.4267 -67.0785 )
+		Position ( 149.846 18.1267 -67.0785 )
 		QDirection ( 0 0.721136 0 0.692794 )
 		SignalSubObj ( 00000001 )
 		SignalUnits ( 1

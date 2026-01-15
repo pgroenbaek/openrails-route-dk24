@@ -168,4 +168,10 @@ Tr_Worldfile (
 		Position ( 200.583 33.7233 -277.836 )
 		QDirection ( 0 0.250757 0 0.968106 )
 	)
+	Static (
+		UiD ( 116 )
+		FileName ( BR_BAB3L1WS100m_arc4.s )
+		Position ( 144.627 42.0219 -215.619 )
+		QDirection ( 0 0 0 1 )
+	)
 )

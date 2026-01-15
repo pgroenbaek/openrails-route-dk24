@@ -91,4 +91,11 @@ Tr_Worldfile (
 		Position ( 967.989 46.0703 -754.683 )
 		QDirection ( -0.001792 -0.444 0.0008879 0.896 )
 	)
+	Tr_Watermark ( 7 )
+	Static (
+		UiD ( 16 )
+		FileName ( BR_BAB3L1WS100m_arc4.s )
+		Position ( 580.933 53.8322 -1018.87 )
+		QDirection ( 0 0 0 1 )
+	)
 )
