@@ -28,110 +28,6 @@ Tr_Worldfile (
 		QDirection ( 0 -0.843942 0 -0.536435 )
 	)
 	Dyntrack (
-		UiD ( 181 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 10 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 56518 -0.02 4008
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 51973 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( 949.47 38.1705 -106.867 )
-		QDirection ( -0.000170253 -0.732274 -0.000183068 -0.68101 )
-	)
-	Dyntrack (
-		UiD ( 182 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 10 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 56520 -0.02 4003
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 51974 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( 949.832 38.1705 -111.839 )
-		QDirection ( -0.000170253 -0.732274 -0.000183068 -0.68101 )
-	)
-	Dyntrack (
-		UiD ( 183 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 10 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 56522 -0.02 3997
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 51975 )
-		Elevation ( 1.09112e+25 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( 950.277 38.1705 -117.901 )
-		QDirection ( -0.000170195 -0.732487 -0.000183122 -0.680781 )
-	)
-	Dyntrack (
-		UiD ( 184 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 10 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 56524 -0.02 3992
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 51976 )
-		Elevation ( 1976 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( 950.641 38.1705 -122.872 )
-		QDirection ( -0.000170195 -0.732487 -0.000183122 -0.680781 )
-	)
-	Dyntrack (
 		UiD ( 186 )
 		TrackSections (
 			TrackSection (
@@ -2285,26 +2181,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( -630.386 42.3957 -560.867 )
 		QDirection ( -0.00169323 -0.532207 0.00106442 0.846612 )
-	)
-	TrackObj (
-		UiD ( 179 )
-		SectionIdx ( 6 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t50mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 999.52 38.1705 -105.73 )
-		QDirection ( 0 -0.732274 0 -0.68101 )
-	)
-	TrackObj (
-		UiD ( 180 )
-		SectionIdx ( 6 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t50mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 1000.33 38.1705 -116.733 )
-		QDirection ( 0 -0.732487 0 -0.680781 )
 	)
 	TrackObj (
 		UiD ( 242 )

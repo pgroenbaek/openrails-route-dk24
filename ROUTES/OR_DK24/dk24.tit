@@ -1000,13 +1000,13 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 159 )
 		TrItemSData ( 12.5 00000002 )
-		TrItemRData ( 671.172 9.471481 617.6163 -5676 15127 )
+		TrItemRData ( 671.172 9.471467 617.6163 -5676 15127 )
 		CrossoverTrItemData ( 160 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 160 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 671.1721 9.471524 617.6163 -5676 15127 )
+		TrItemRData ( 671.1721 9.47151 617.6163 -5676 15127 )
 		CrossoverTrItemData ( 159 22042 )
 	)
 	CrossoverItem (
@@ -1024,13 +1024,13 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 163 )
 		TrItemSData ( 6.595909 00000002 )
-		TrItemRData ( 680.7428 9.50951 634.1404 -5676 15127 )
+		TrItemRData ( 680.7428 9.509501 634.1404 -5676 15127 )
 		CrossoverTrItemData ( 164 22036 )
 	)
 	CrossoverItem (
 		TrItemId ( 164 )
 		TrItemSData ( 31.59591 00000002 )
-		TrItemRData ( 680.7429 9.50951 634.1404 -5676 15127 )
+		TrItemRData ( 680.7429 9.509501 634.1404 -5676 15127 )
 		CrossoverTrItemData ( 163 22036 )
 	)
 	CrossoverItem (
@@ -1048,13 +1048,13 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 167 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 669.9169 9.497421 631.9523 -5676 15127 )
+		TrItemRData ( 669.9169 9.497406 631.9523 -5676 15127 )
 		CrossoverTrItemData ( 168 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 168 )
 		TrItemSData ( 12.49997 00000002 )
-		TrItemRData ( 669.9172 9.497464 631.9523 -5676 15127 )
+		TrItemRData ( 669.9172 9.49745 631.9523 -5676 15127 )
 		CrossoverTrItemData ( 167 22042 )
 	)
 	CrossoverItem (
@@ -1120,37 +1120,37 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 179 )
 		TrItemSData ( 12.49996 00000002 )
-		TrItemRData ( 462.8669 9.572581 -771.4985 -5676 15128 )
+		TrItemRData ( 462.8669 9.572566 -771.4985 -5676 15128 )
 		CrossoverTrItemData ( 180 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 180 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 462.8669 9.572581 -771.4982 -5676 15128 )
+		TrItemRData ( 462.8669 9.572566 -771.4982 -5676 15128 )
 		CrossoverTrItemData ( 179 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 181 )
 		TrItemSData ( 12.49996 00000002 )
-		TrItemRData ( 427.6769 9.572581 -734.9573 -5676 15128 )
+		TrItemRData ( 427.6769 9.572566 -734.9573 -5676 15128 )
 		CrossoverTrItemData ( 182 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 182 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 427.6769 9.572581 -734.9572 -5676 15128 )
+		TrItemRData ( 427.6769 9.572566 -734.9572 -5676 15128 )
 		CrossoverTrItemData ( 181 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 183 )
 		TrItemSData ( 12.50004 00000002 )
-		TrItemRData ( 315.7369 9.572583 -645.6633 -5676 15128 )
+		TrItemRData ( 315.7369 9.572568 -645.6633 -5676 15128 )
 		CrossoverTrItemData ( 184 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 184 )
 		TrItemSData ( 12.49997 00000002 )
-		TrItemRData ( 315.7369 9.572583 -645.6631 -5676 15128 )
+		TrItemRData ( 315.7369 9.572568 -645.6631 -5676 15128 )
 		CrossoverTrItemData ( 183 22042 )
 	)
 	CrossoverItem (
@@ -1186,7 +1186,7 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 190 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( -109.1635 43.1356 756.4624 -5595 15130 )
+		TrItemRData ( -109.1635 43.1356 756.4625 -5595 15130 )
 		CrossoverTrItemData ( 189 22042 )
 	)
 	CrossoverItem (
@@ -1210,7 +1210,7 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 194 )
 		TrItemSData ( 12.50001 00000002 )
-		TrItemRData ( -15.28655 43.1356 798.0174 -5595 15130 )
+		TrItemRData ( -15.28655 43.1356 798.0175 -5595 15130 )
 		CrossoverTrItemData ( 193 22042 )
 	)
 	CrossoverItem (
@@ -1234,7 +1234,7 @@ TrItemTable ( 207
 	CrossoverItem (
 		TrItemId ( 198 )
 		TrItemSData ( 12.50004 00000002 )
-		TrItemRData ( 168.3495 43.1356 887.7624 -5595 15130 )
+		TrItemRData ( 168.3495 43.1356 887.7625 -5595 15130 )
 		CrossoverTrItemData ( 197 22042 )
 	)
 	CrossoverItem (

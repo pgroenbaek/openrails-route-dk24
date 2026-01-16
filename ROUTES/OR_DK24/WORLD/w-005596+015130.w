@@ -2,13 +2,13 @@ SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
 	Dyntrack (
-		UiD ( 115 )
+		UiD ( 119 )
 		TrackSections (
 			TrackSection (
-				SectionCurve ( 0 ) 56684 2.35828 0
+				SectionCurve ( 0 ) 56790 2.00218 0
 			)
 			TrackSection (
-				SectionCurve ( 1 ) 56686 -0.0400507 5412.19
+				SectionCurve ( 1 ) 56792 -0.0400535 5420.07
 			)
 			TrackSection (
 				SectionCurve ( 0 ) 4294967295 0 0
@@ -20,21 +20,21 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 52049 )
+		SectionIdx ( 52076 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
 		Position ( 57.0073 43.2142 -679.133 )
-		QDirection ( -3.43493e-08 -0.898766 -7.04152e-08 -0.438428 )
+		QDirection ( 3.40021e-05 -0.898766 6.97035e-05 -0.438428 )
 	)
 	Dyntrack (
-		UiD ( 116 )
+		UiD ( 120 )
 		TrackSections (
 			TrackSection (
-				SectionCurve ( 0 ) 56688 2.35906 0
+				SectionCurve ( 0 ) 56794 2.00298 0
 			)
 			TrackSection (
-				SectionCurve ( 1 ) 56690 -0.0400507 5407.19
+				SectionCurve ( 1 ) 56796 -0.0400535 5415.06
 			)
 			TrackSection (
 				SectionCurve ( 0 ) 4294967295 0 0
@@ -46,21 +46,21 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 52050 )
-		Elevation ( 0 )
+		SectionIdx ( 52077 )
+		Elevation ( 8.18358e-43 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
 		Position ( 60.0758 43.2142 -683.062 )
-		QDirection ( -3.43806e-08 -0.898766 -7.04795e-08 -0.438428 )
+		QDirection ( 3.40331e-05 -0.898766 6.9767e-05 -0.438428 )
 	)
 	Dyntrack (
-		UiD ( 117 )
+		UiD ( 121 )
 		TrackSections (
 			TrackSection (
-				SectionCurve ( 0 ) 56692 2.35977 0
+				SectionCurve ( 0 ) 56798 2.00376 0
 			)
 			TrackSection (
-				SectionCurve ( 1 ) 56694 -0.0400507 5402.19
+				SectionCurve ( 1 ) 56800 -0.0400535 5410.06
 			)
 			TrackSection (
 				SectionCurve ( 0 ) 4294967295 0 0
@@ -72,22 +72,12 @@ Tr_Worldfile (
 				SectionCurve ( 0 ) 4294967295 0 0
 			)
 		)
-		SectionIdx ( 52051 )
-		Elevation ( 1.4013e-45 )
+		SectionIdx ( 52078 )
+		Elevation ( 52.5082 )
 		CollideFlags ( 39 )
 		StaticFlags ( 00100000 )
 		Position ( 63.1444 43.2142 -686.99 )
-		QDirection ( -3.4412e-08 -0.898766 -7.05438e-08 -0.438428 )
-	)
-	TrackObj (
-		UiD ( 105 )
-		SectionIdx ( 14400 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( A3t3000r1d.s )
-		StaticFlags ( 00200180 )
-		Position ( -301.806 43.2142 -998.982 )
-		QDirection ( 9.50912e-05 0.924837 0.000231209 0.380365 )
+		QDirection ( 3.40642e-05 -0.898766 6.98307e-05 -0.438428 )
 	)
 	TrackObj (
 		UiD ( 106 )
@@ -96,8 +86,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( A3t3000r1d.s )
 		StaticFlags ( 00200180 )
-		Position ( -264.645 43.2142 -962.096 )
-		QDirection ( 0 0.921482 0 0.388421 )
+		Position ( -264.62 43.1802 -962.086 )
+		QDirection ( 0 0.921483 0 0.388419 )
 	)
 	TrackObj (
 		UiD ( 107 )
@@ -106,8 +96,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( A3t3000r1d.s )
 		StaticFlags ( 00200180 )
-		Position ( -226.846 43.2142 -925.864 )
-		QDirection ( 0 0.918058 0 0.396447 )
+		Position ( -226.822 43.1802 -925.854 )
+		QDirection ( 0 0.918058 0 0.396446 )
 	)
 	TrackObj (
 		UiD ( 108 )
@@ -116,8 +106,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( A3t3000r1d.s )
 		StaticFlags ( 00200180 )
-		Position ( -188.421 43.2142 -890.297 )
-		QDirection ( 0 0.914563 0 0.404444 )
+		Position ( -188.397 43.1802 -890.287 )
+		QDirection ( 0 0.914564 0 0.404442 )
 	)
 	TrackObj (
 		UiD ( 109 )
@@ -126,8 +116,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( A3t3000r1d.s )
 		StaticFlags ( 00200180 )
-		Position ( -149.381 43.2142 -855.406 )
-		QDirection ( 0 0.910999 0 0.412409 )
+		Position ( -149.357 43.1802 -855.396 )
+		QDirection ( 0 0.910999 0 0.412408 )
 	)
 	TrackObj (
 		UiD ( 111 )
@@ -136,8 +126,18 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( A3t3000r1d.s )
 		StaticFlags ( 00200180 )
-		Position ( -109.738 43.2142 -821.202 )
-		QDirection ( 0 0.907365 0 0.420343 )
+		Position ( -109.714 43.1802 -821.192 )
+		QDirection ( 0 0.907366 0 0.420342 )
+	)
+	TrackObj (
+		UiD ( 118 )
+		SectionIdx ( 14400 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( A3t3000r1d.s )
+		StaticFlags ( 00200180 )
+		Position ( -301.781 43.1802 -998.972 )
+		QDirection ( -9.50909e-05 0.924837 -0.000231209 0.380363 )
 	)
 	TrackObj (
 		UiD ( 77 )

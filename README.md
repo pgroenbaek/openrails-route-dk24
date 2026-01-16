@@ -1,7 +1,7 @@
 
 # Denmark 2024 - A freeware route for Open Rails
 
-[![Open Rails 1.5.1](https://img.shields.io/badge/Open%20Rails-1.5.1-green?style=flat&labelOpen%20Rails&color=%237dc243)](https://openrails.org/)
+[![Open Rails 1.6](https://img.shields.io/badge/Open%20Rails-1.6-green?style=flat&labelOpen%20Rails&color=%237dc243)](https://openrails.org/)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 ![Denmark 2024](./ROUTES/OR_DK24/DK24_small.png)
