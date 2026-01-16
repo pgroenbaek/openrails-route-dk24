@@ -1,6 +1,318 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Dyntrack (
+		UiD ( 249 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 5.19882e-43
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -0.000304548 228567
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 57324 1.6 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52289 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 116.411 27.3781 -132.673 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
+	)
+	Dyntrack (
+		UiD ( 277 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 10 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 57286 -0.00872 15000
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52272 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -267.705 28.5504 -205.37 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
+	)
+	Dyntrack (
+		UiD ( 278 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 10 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 57290 -0.00872 14995
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52274 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -268.458 28.5504 -200.442 )
+		QDirection ( 0.00113798 0.651497 -0.000977248 -0.75865 )
+	)
+	Dyntrack (
+		UiD ( 279 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 10 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 57292 -0.00872 14989
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52275 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -269.365 28.5502 -194.511 )
+		QDirection ( 0.00113798 0.651497 -0.000977248 -0.75865 )
+	)
+	Dyntrack (
+		UiD ( 280 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 10 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 57294 -0.00872 14984
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52276 )
+		Elevation ( 9.53673e-08 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( -270.118 28.5502 -189.583 )
+		QDirection ( 0.00113798 0.651497 -0.000977248 -0.75865 )
+	)
+	Dyntrack (
+		UiD ( 304 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57312 3.32898 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -1.50996e-07 4.2845e+09
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52283 )
+		Elevation ( 1072 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 111.874 27.3931 -135.932 )
+		QDirection ( -0.00109893 -0.680781 0.00102136 0.732485 )
+	)
+	Dyntrack (
+		UiD ( 305 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57314 3.32886 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -1.50996e-07 4.90726e+10
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52284 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 112.036 27.3931 -136.934 )
+		QDirection ( -0.00119735 -0.614351 0.000932273 0.789032 )
+	)
+	Dyntrack (
+		UiD ( 312 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57322 1.59985 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -1.50996e-07 1.57673e+10
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52288 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 117.37 27.3781 -138.596 )
+		QDirection ( -0.00114287 -0.648183 0.000972824 0.761483 )
+	)
+	Dyntrack (
+		UiD ( 313 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57328 3.33 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -1.75635e-06 8.56538e+09
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52291 )
+		Elevation ( 22.9387 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 120.18 27.3681 -135.323 )
+		QDirection ( 0.00108292 0.680782 -0.00100649 -0.732484 )
+	)
+	Dyntrack (
+		UiD ( 314 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57328 3.33 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 1.50996e-07 1.44273e+12
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52291 )
+		Elevation ( 728 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 120.111 27.368 -134.893 )
+		QDirection ( 0.00115212 0.614351 -0.000897057 -0.789032 )
+	)
+	Dyntrack (
+		UiD ( 316 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57348 21.6 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -1.50996e-07 1.75157e+10
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52297 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 256.368 26.9581 -121.157 )
+		QDirection ( -0.0011387 -0.648183 0.000969277 0.761483 )
+	)
+	Dyntrack (
+		UiD ( 317 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 57350 21.5998 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 -1.50996e-07 6.49555e+09
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52298 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 253.817 26.9579 -105.392 )
+		QDirection ( -0.00113511 -0.648183 0.000966218 0.761483 )
+	)
 	TrackObj (
 		UiD ( 30 )
 		SectionIdx ( 22066 )
@@ -62,226 +374,136 @@ Tr_Worldfile (
 		QDirection ( 0.00151743 0.65149 -0.00130308 -0.758655 )
 	)
 	TrackObj (
-		UiD ( 130 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41415.s )
-		StaticFlags ( 00200180 )
-		Position ( -292.011 29.079 -196.829 )
-		QDirection ( 0.00120441 0.651493 -0.00103429 -0.758653 )
-	)
-	TrackObj (
-		UiD ( 131 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41418.s )
-		StaticFlags ( 00200180 )
-		Position ( -292.765 29.079 -191.901 )
-		QDirection ( 0.00120442 0.651493 -0.00103429 -0.758653 )
-	)
-	TrackObj (
-		UiD ( 97 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41406.s )
-		StaticFlags ( 00200180 )
-		Position ( 296.007 26.8567 -114.996 )
-		QDirection ( -0.00152298 -0.648176 0.00129636 0.761488 )
-	)
-	TrackObj (
-		UiD ( 98 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41407.s )
-		StaticFlags ( 00200180 )
-		Position ( 283.381 26.8963 -99.5712 )
-		QDirection ( -0.00152298 -0.648174 0.00129635 0.761489 )
-	)
-	TrackObj (
-		UiD ( 60 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41395.s )
-		StaticFlags ( 00200180 )
-		Position ( 126.233 27.5366 -130.05 )
-		QDirection ( -0.00152298 -0.648175 0.00129636 0.761489 )
-	)
-	TrackObj (
-		UiD ( 61 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41396.s )
-		StaticFlags ( 00200180 )
-		Position ( 127.395 27.5369 -137.229 )
-		QDirection ( -0.00152298 -0.648176 0.00129636 0.761488 )
-	)
-	TrackObj (
-		UiD ( 125 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41409.s )
-		StaticFlags ( 00200180 )
-		Position ( 147.872 27.4523 -131.391 )
-		QDirection ( -0.00136156 -0.732491 -0.00146499 -0.680774 )
-	)
-	TrackObj (
-		UiD ( 126 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DynaTrax-41408.s )
-		StaticFlags ( 00200180 )
-		Position ( 147.506 27.4511 -129.133 )
-		QDirection ( -0.00122869 -0.789037 -0.00157808 -0.614343 )
-	)
-	TrackObj (
-		UiD ( 19 )
-		SectionIdx ( 33298 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t15000r0_5d.s )
-		StaticFlags ( 00200180 )
-		Position ( -238.431 29.0204 -198.369 )
-		QDirection ( -0.00151731 -0.651494 0.00130299 0.758651 )
-	)
-	TrackObj (
 		UiD ( 20 )
 		SectionIdx ( 70 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 -108.726 28.4967 -180.486 )
+		JNodePosn ( -5589 15131 -118.752 28.0981 -181.848 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dLft.s )
 		StaticFlags ( 00200180 )
-		Position ( -108.726 28.4967 -180.486 )
-		QDirection ( -0.00152298 -0.648177 0.00129636 0.761487 )
+		Position ( -118.752 28.0981 -181.848 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 21 )
 		SectionIdx ( 70 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 38.551 27.8969 -151.605 )
+		JNodePosn ( -5589 15131 28.5252 27.6481 -152.97 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dLft.s )
 		StaticFlags ( 00200180 )
-		Position ( 38.551 27.8969 -151.605 )
-		QDirection ( -0.00129636 -0.761487 -0.00152298 -0.648177 )
+		Position ( 28.5252 27.6481 -152.97 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 	TrackObj (
 		UiD ( 27 )
 		SectionIdx ( 70 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 48.4225 27.8569 -150.008 )
+		JNodePosn ( -5589 15131 38.3968 27.6181 -151.373 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dLft.s )
 		StaticFlags ( 00200180 )
-		Position ( 48.4225 27.8569 -150.008 )
-		QDirection ( -0.00152298 -0.648176 0.00129636 0.761488 )
+		Position ( 38.3968 27.6181 -151.373 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 28 )
 		SectionIdx ( 70 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 221.144 27.152 -114.692 )
+		JNodePosn ( -5589 15131 196.963 27.1333 -119.64 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dLft.s )
 		StaticFlags ( 00200180 )
-		Position ( 221.144 27.152 -114.692 )
-		QDirection ( -0.00129636 -0.761489 -0.00152298 -0.648175 )
+		Position ( 196.963 27.1333 -119.64 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 	TrackObj (
 		UiD ( 32 )
 		SectionIdx ( 71 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 47.2609 27.8566 -142.829 )
+		JNodePosn ( -5589 15131 37.4385 27.6181 -145.45 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dRgt.s )
 		StaticFlags ( 00200180 )
-		Position ( 47.2609 27.8566 -142.829 )
-		QDirection ( 0.00152298 0.648175 -0.00129636 -0.761488 )
+		Position ( 37.4385 27.6181 -145.45 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 33 )
 		SectionIdx ( 71 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 222.306 27.1523 -121.871 )
+		JNodePosn ( -5589 15131 197.922 27.1333 -125.563 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dRgt.s )
 		StaticFlags ( 00200180 )
-		Position ( 222.306 27.1523 -121.871 )
-		QDirection ( -0.00129636 -0.761488 -0.00152298 -0.648176 )
+		Position ( 197.922 27.1333 -125.563 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 	TrackObj (
 		UiD ( 39 )
 		SectionIdx ( 71 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 232.178 27.1123 -120.274 )
+		JNodePosn ( -5589 15131 207.793 27.1033 -123.966 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dRgt.s )
 		StaticFlags ( 00200180 )
-		Position ( 232.178 27.1123 -120.274 )
-		QDirection ( -0.00152298 -0.648175 0.00129636 0.761489 )
+		Position ( 207.793 27.1033 -123.966 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 40 )
 		SectionIdx ( 71 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 381.047 26.5121 -101.236 )
+		JNodePosn ( -5589 15131 356.663 26.6535 -104.93 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dRgt.s )
 		StaticFlags ( 00200180 )
-		Position ( 381.047 26.5121 -101.236 )
-		QDirection ( -0.00129636 -0.761488 -0.00152298 -0.648176 )
+		Position ( 356.663 26.6535 -104.93 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 	TrackObj (
 		UiD ( 41 )
 		SectionIdx ( 70 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 231.016 27.112 -113.095 )
+		JNodePosn ( -5589 15131 206.835 27.1033 -118.043 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dLft.s )
 		StaticFlags ( 00200180 )
-		Position ( 231.016 27.112 -113.095 )
-		QDirection ( -0.00152298 -0.648175 0.00129635 0.761489 )
+		Position ( 206.835 27.1033 -118.043 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 42 )
 		SectionIdx ( 70 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 378.292 26.5118 -84.2131 )
+		JNodePosn ( -5589 15131 354.113 26.6535 -89.1646 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dLft.s )
 		StaticFlags ( 00200180 )
-		Position ( 378.292 26.5118 -84.2131 )
-		QDirection ( -0.00129635 -0.761489 -0.00152298 -0.648174 )
+		Position ( 354.113 26.6535 -89.1646 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 	TrackObj (
 		UiD ( 44 )
 		SectionIdx ( 71 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 37.3893 27.8966 -144.426 )
+		JNodePosn ( -5589 15131 27.567 27.6481 -147.047 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dRgt.s )
 		StaticFlags ( 00200180 )
-		Position ( 37.3893 27.8966 -144.426 )
-		QDirection ( -0.00129636 -0.761488 -0.00152298 -0.648175 )
+		Position ( 27.567 27.6481 -147.047 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 	TrackObj (
 		UiD ( 45 )
 		SectionIdx ( 71 )
 		Elevation ( 0 )
-		JNodePosn ( -5589 15131 -111.48 28.4963 -163.465 )
+		JNodePosn ( -5589 15131 -121.303 28.0979 -166.083 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1tPnt5dRgt.s )
 		StaticFlags ( 00200180 )
-		Position ( -111.48 28.4963 -163.465 )
-		QDirection ( 0.00152298 0.648175 -0.00129636 -0.761489 )
+		Position ( -121.303 28.0979 -166.083 )
+		QDirection ( 0.00114223 0.648183 -0.000972277 -0.761483 )
 	)
 	TrackObj (
 		UiD ( 48 )
@@ -356,8 +578,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t250mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -32.5076 28.1763 -150.686 )
-		QDirection ( -0.00152298 -0.648175 0.00129636 0.761489 )
+		Position ( -42.3303 27.8579 -153.306 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 91 )
@@ -366,8 +588,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t250mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -29.7534 28.1767 -167.707 )
-		QDirection ( -0.00152298 -0.648177 0.00129636 0.761487 )
+		Position ( -39.7797 27.8581 -169.071 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 110 )
@@ -488,88 +710,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t100mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -782.11 31.6704 -281.476 )
-		QDirection ( -0.00189664 -0.651494 0.00162875 0.75865 )
-	)
-	TrackObj (
-		UiD ( 4 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -1019.35 32.4304 -317.742 )
-		QDirection ( 0.000379326 -0.651496 -0.000325748 0.758652 )
-	)
-	TrackObj (
-		UiD ( 5 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -999.582 32.4504 -314.72 )
-		QDirection ( 0 -0.651496 0 0.758652 )
-	)
-	TrackObj (
-		UiD ( 6 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -979.812 32.4504 -311.697 )
-		QDirection ( -0.000379326 -0.651496 0.000325748 0.758652 )
-	)
-	TrackObj (
-		UiD ( 7 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -960.042 32.4304 -308.675 )
-		QDirection ( -0.000758653 -0.651495 0.000651496 0.758652 )
-	)
-	TrackObj (
-		UiD ( 8 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -940.271 32.3904 -305.653 )
-		QDirection ( -0.00113798 -0.651495 0.000977245 0.758651 )
-	)
-	TrackObj (
-		UiD ( 9 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -920.501 32.3304 -302.631 )
-		QDirection ( -0.00151731 -0.651495 0.00130299 0.75865 )
-	)
-	TrackObj (
-		UiD ( 10 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -900.731 32.2504 -299.609 )
-		QDirection ( -0.00151731 -0.651495 0.00130299 0.758651 )
-	)
-	TrackObj (
-		UiD ( 11 )
-		SectionIdx ( 7 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t100mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -880.961 32.1704 -296.587 )
-		QDirection ( -0.00189664 -0.651494 0.00162874 0.75865 )
+		Position ( -791.994 30.1404 -282.99 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 12 )
@@ -578,8 +720,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t250mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -683.259 31.1704 -266.366 )
-		QDirection ( 0.00189664 0.651494 -0.00162875 -0.75865 )
+		Position ( -693.143 29.8404 -267.88 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 14 )
@@ -588,8 +730,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -337.283 29.4204 -213.48 )
-		QDirection ( -0.00151731 -0.651496 0.001303 0.75865 )
+		Position ( -347.163 28.7904 -214.994 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 15 )
@@ -598,8 +740,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -317.512 29.3404 -210.458 )
-		QDirection ( -0.0015173 -0.651496 0.00130299 0.758649 )
+		Position ( -327.393 28.7304 -211.972 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 16 )
@@ -608,8 +750,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -297.742 29.2604 -207.436 )
-		QDirection ( 0.00151731 0.651494 -0.00130299 -0.758651 )
+		Position ( -307.622 28.6704 -208.95 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 17 )
@@ -618,18 +760,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -277.972 29.1804 -204.414 )
-		QDirection ( 0.00151731 0.651494 -0.00130299 -0.758651 )
-	)
-	TrackObj (
-		UiD ( 18 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -258.202 29.1004 -201.392 )
-		QDirection ( 0.00151731 0.651494 -0.00130299 -0.758651 )
+		Position ( -287.852 28.6104 -205.928 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 22 )
@@ -638,8 +770,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 38.551 27.8969 -151.605 )
-		QDirection ( 0.00152298 0.648176 -0.00129636 -0.761488 )
+		Position ( 28.5252 27.6481 -152.97 )
+		QDirection ( 0.00114223 0.648183 -0.000972277 -0.761483 )
 	)
 	TrackObj (
 		UiD ( 36 )
@@ -648,8 +780,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t100mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -436.133 29.9204 -228.59 )
-		QDirection ( -0.00189664 -0.651494 0.00162875 0.758649 )
+		Position ( -446.014 29.0904 -230.104 )
+		QDirection ( -0.00113798 -0.651497 0.000977248 0.75865 )
 	)
 	TrackObj (
 		UiD ( 37 )
@@ -658,8 +790,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 222.306 27.1523 -121.871 )
-		QDirection ( 0.00152298 0.648175 -0.00129636 -0.761488 )
+		Position ( 197.922 27.1333 -125.563 )
+		QDirection ( 0.00114223 0.648183 -0.000972277 -0.761483 )
 	)
 	TrackObj (
 		UiD ( 38 )
@@ -668,18 +800,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 221.144 27.152 -114.692 )
-		QDirection ( 0.00152298 0.648175 -0.00129636 -0.761489 )
-	)
-	TrackObj (
-		UiD ( 43 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 47.2609 27.8566 -142.829 )
-		QDirection ( -0.00129636 -0.761488 -0.00152298 -0.648175 )
+		Position ( 196.963 27.1333 -119.64 )
+		QDirection ( 0.00114223 0.648183 -0.000972277 -0.761483 )
 	)
 	TrackObj (
 		UiD ( 46 )
@@ -722,84 +844,14 @@ Tr_Worldfile (
 		QDirection ( -0.00152298 -0.648175 0.00129636 0.761489 )
 	)
 	TrackObj (
-		UiD ( 62 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -1014 32.269 -304.674 )
-		QDirection ( 0 -0.651496 0 0.758652 )
-	)
-	TrackObj (
-		UiD ( 63 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -994.228 32.269 -301.652 )
-		QDirection ( -0.000379326 -0.651496 0.000325748 0.758652 )
-	)
-	TrackObj (
-		UiD ( 64 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -974.458 32.249 -298.63 )
-		QDirection ( -0.000758653 -0.651495 0.000651496 0.758652 )
-	)
-	TrackObj (
-		UiD ( 65 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -954.687 32.209 -295.608 )
-		QDirection ( -0.00113798 -0.651495 0.000977245 0.758651 )
-	)
-	TrackObj (
-		UiD ( 66 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -934.917 32.149 -292.586 )
-		QDirection ( -0.00151731 -0.651495 0.00130299 0.75865 )
-	)
-	TrackObj (
-		UiD ( 67 )
-		SectionIdx ( 38097 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -915.147 32.069 -289.564 )
-		QDirection ( -0.00189664 -0.651494 0.00162874 0.75865 )
-	)
-	TrackObj (
-		UiD ( 68 )
-		SectionIdx ( 7 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t100mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -895.377 31.969 -286.542 )
-		QDirection ( -0.00189664 -0.651494 0.00162875 0.75865 )
-	)
-	TrackObj (
 		UiD ( 69 )
 		SectionIdx ( 7 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t100mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -796.526 31.469 -271.431 )
-		QDirection ( -0.00151733 -0.651495 0.00130301 0.75865 )
+		Position ( -694.803 29.8402 -257.02 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
 	)
 	TrackObj (
 		UiD ( 70 )
@@ -808,8 +860,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t250mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -697.675 31.069 -256.32 )
-		QDirection ( -0.00189664 -0.651492 0.00162874 0.758652 )
+		Position ( -447.674 29.0902 -219.245 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
 	)
 	TrackObj (
 		UiD ( 71 )
@@ -818,8 +870,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t100mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -450.549 29.819 -218.543 )
-		QDirection ( -0.00189664 -0.651492 0.00162874 0.758651 )
+		Position ( -348.823 28.7902 -204.135 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
 	)
 	TrackObj (
 		UiD ( 72 )
@@ -828,8 +880,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -351.699 29.319 -203.432 )
-		QDirection ( -0.00151731 -0.651493 0.00130299 0.758652 )
+		Position ( -329.053 28.7302 -201.113 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
 	)
 	TrackObj (
 		UiD ( 73 )
@@ -838,8 +890,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -331.928 29.239 -200.41 )
-		QDirection ( -0.00151731 -0.651493 0.00130299 0.758652 )
+		Position ( -309.282 28.6702 -198.091 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
 	)
 	TrackObj (
 		UiD ( 74 )
@@ -848,8 +900,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -312.158 29.159 -197.387 )
-		QDirection ( -0.00151731 -0.651492 0.00130299 0.758652 )
+		Position ( -289.512 28.6102 -195.069 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
 	)
 	TrackObj (
 		UiD ( 85 )
@@ -858,18 +910,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -41.5828 28.2166 -157.205 )
-		QDirection ( -0.00129636 -0.761488 -0.00152298 -0.648175 )
-	)
-	TrackObj (
-		UiD ( 87 )
-		SectionIdx ( 39814 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -90.9404 28.4166 -165.191 )
-		QDirection ( -0.00129636 -0.761488 -0.00152298 -0.648175 )
+		Position ( -100.764 28.0381 -167.81 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 89 )
@@ -878,8 +920,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -89.7788 28.4169 -172.37 )
-		QDirection ( -0.00152298 -0.648177 0.00129636 0.761487 )
+		Position ( -99.8054 28.0381 -173.733 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 90 )
@@ -888,8 +930,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t20mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -109.522 28.4969 -175.564 )
-		QDirection ( -0.00152298 -0.648177 0.00129636 0.761487 )
+		Position ( -119.549 28.0981 -176.927 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 92 )
@@ -898,8 +940,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 217.035 27.1767 -127.775 )
-		QDirection ( -0.00152298 -0.648177 0.00129636 0.761487 )
+		Position ( 207.01 27.1081 -129.142 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 93 )
@@ -908,38 +950,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 214.28 27.1763 -110.753 )
-		QDirection ( -0.00152298 -0.648175 0.00129635 0.761489 )
-	)
-	TrackObj (
-		UiD ( 94 )
-		SectionIdx ( 39814 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 266.392 26.9767 -119.788 )
-		QDirection ( -0.00152298 -0.648176 0.00129636 0.761488 )
-	)
-	TrackObj (
-		UiD ( 95 )
-		SectionIdx ( 39814 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t20mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 263.638 26.9763 -102.766 )
-		QDirection ( -0.00152298 -0.648175 0.00129635 0.761489 )
-	)
-	TrackObj (
-		UiD ( 96 )
-		SectionIdx ( 0 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 286.135 26.8967 -116.594 )
-		QDirection ( -0.00152298 -0.648176 0.00129636 0.761488 )
+		Position ( 204.459 27.1079 -113.377 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 99 )
@@ -968,8 +980,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 309.988 26.792 -100.316 )
-		QDirection ( -0.00152298 -0.648175 0.00129635 0.761489 )
+		Position ( 285.808 26.8633 -105.266 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 103 )
@@ -978,8 +990,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 311.15 26.7923 -107.495 )
-		QDirection ( -0.00152298 -0.648175 0.00129636 0.761489 )
+		Position ( 286.766 26.8633 -111.189 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
 	)
 	TrackObj (
 		UiD ( 105 )
@@ -1502,5 +1514,93 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( 520.73 26.1183 -29.0602 )
 		QDirection ( -0.00130298 -0.758658 -0.00151732 -0.651486 )
+	)
+	TrackObj (
+		UiD ( 254 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 27.567 27.6481 -147.047 )
+		QDirection ( 0.00114223 0.648183 -0.000972277 -0.761483 )
+	)
+	TrackObj (
+		UiD ( 256 )
+		SectionIdx ( 38097 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A2t20mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( -269.742 28.5502 -192.047 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
+	)
+	TrackObj (
+		UiD ( 265 )
+		SectionIdx ( 38097 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A2t20mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( -120.905 28.0981 -168.544 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
+	)
+	TrackObj (
+		UiD ( 281 )
+		SectionIdx ( 38097 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A2t20mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( -138.894 28.1581 -182.582 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
+	)
+	TrackObj (
+		UiD ( 286 )
+		SectionIdx ( 22067 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( A1tXover10d5m.s )
+		StaticFlags ( 00200180 )
+		Position ( 115.194 27.3831 -135.689 )
+		QDirection ( -0.00109873 -0.680782 0.00102117 0.732485 )
+	)
+	TrackObj (
+		UiD ( 296 )
+		SectionIdx ( 39814 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A1t20mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( -120.507 28.0981 -171.004 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
+	)
+	Static (
+		UiD ( 297 )
+		FileName ( PGA_DKGantry_N2t6m_KC.s )
+		Position ( -295.729 28.6304 -198.526 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
+	)
+	Static (
+		UiD ( 298 )
+		FileName ( PGA_DKGantry_N2t6m_KC.s )
+		Position ( 48.8223 27.5865 -149.686 )
+		QDirection ( -0.00114223 -0.648183 0.000972277 0.761483 )
+	)
+	TrackObj (
+		UiD ( 315 )
+		SectionIdx ( 8 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A2t250mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( -793.654 30.1402 -272.13 )
+		QDirection ( -0.000977248 -0.75865 -0.00113798 -0.651497 )
+	)
+	Static (
+		UiD ( 318 )
+		FileName ( PGA_DKGantry_N2t6m_KC.s )
+		Position ( 194.787 27.1399 -119.992 )
+		QDirection ( -0.000972277 -0.761483 -0.00114223 -0.648183 )
 	)
 )
