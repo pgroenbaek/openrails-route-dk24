@@ -48,6 +48,7 @@ Tr_RouteFile (
 	DefaultDieselTowerSMS ( dtower.sms )
 	TempRestrictedSpeed ( 11.111111 )
 	ORTSUserPreferenceForestClearDistance ( 0 )
+	ORTSEnableVisualTunnelSuperElevation ( 1 )
 	ORTSSuperElevation(
 		MaxFreightUnderbalance ( 12.7mm )
 		MaxPassengerUnderbalance ( 50.8mm )

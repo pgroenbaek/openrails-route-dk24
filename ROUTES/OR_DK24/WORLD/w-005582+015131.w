@@ -126,7 +126,7 @@ Tr_Worldfile (
 		SectionIdx ( 22072 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( V4hs2tTunS_Strt_050m.s )
+		FileName ( DB1fbTun_a2t50mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 976.244 -0.139804 301.3 )
 		QDirection ( -0.00154765 -0.785342 -0.00196337 -0.619057 )
@@ -196,7 +196,8 @@ Tr_Worldfile (
 	Static (
 		UiD ( 59 )
 		FileName ( SFS_2tTunS_Entr1Sg.s )
-		Position ( 927.638 14.3784 289.634 )
+		StaticFlags ( 00040000 )
+		Position ( 927.638 -0.0216062 289.634 )
 		QDirection ( -0.0031414 -0.619056 0.00247626 0.785337 )
 	)
 	TrackObj (
@@ -1366,5 +1367,12 @@ Tr_Worldfile (
 		FileName ( V4_2tBaseK_Strt_001m.s )
 		Position ( -692.651 9.15383 -68.3105 )
 		QDirection ( 0.000322994 -0.763347 0.000381674 -0.645989 )
+	)
+	Static (
+		UiD ( 271 )
+		FileName ( V4hs2tTunS_Strt_050m_nt.s )
+		StaticFlags ( 00040000 )
+		Position ( 976.244 -0.139804 301.3 )
+		QDirection ( -0.001548 -0.7853 -0.001963 -0.6191 )
 	)
 )

@@ -64,7 +64,7 @@ Tr_Worldfile (
 		SectionIdx ( 5 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( A2t10mStrt.s )
+		FileName ( DB2f_A2t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 344.156 1432.8 94.5052 )
 		QDirection ( 0 0 0 1 )
