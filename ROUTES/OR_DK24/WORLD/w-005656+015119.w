@@ -57,7 +57,7 @@ Tr_Worldfile (
 		FileName ( dk4indsigM.s )
 		Position ( -512.589 11.1035 -385.737 )
 		QDirection ( 0 0.341021 0 -0.940056 )
-		SignalSubObj ( 00000023 )
+		SignalSubObj ( 00000063 )
 		SignalUnits ( 2
 			SignalUnit ( 0
 				TrItemId ( 0 42 )
@@ -135,7 +135,7 @@ Tr_Worldfile (
 		FileName ( dk3udsigM.s )
 		Position ( -53.0895 11.0135 -84.2899 )
 		QDirection ( 0 0.789169 0 0.614176 )
-		SignalSubObj ( 00000001 )
+		SignalSubObj ( 00000005 )
 		SignalUnits ( 1
 			SignalUnit ( 0
 				TrItemId ( 0 55 )
@@ -147,7 +147,7 @@ Tr_Worldfile (
 		FileName ( dk3udsigM.s )
 		Position ( -51.9094 10.8947 -90.7826 )
 		QDirection ( 0 0.7916 0 0.61104 )
-		SignalSubObj ( 00000001 )
+		SignalSubObj ( 00000005 )
 		SignalUnits ( 1
 			SignalUnit ( 0
 				TrItemId ( 0 56 )

@@ -16,7 +16,7 @@ Tr_Worldfile (
 		SectionIdx ( 60 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2fb_A2t2000r10d.s )
+		FileName ( DB22fb_A2t2000r10d.s )
 		StaticFlags ( 00200180 )
 		Position ( 665.826 38.2485 -910.006 )
 		QDirection ( 0.00195719 -0.829032 0.00290165 -0.55919 )
