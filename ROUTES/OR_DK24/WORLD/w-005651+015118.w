@@ -3375,6 +3375,18 @@ Tr_Worldfile (
 		Position ( -614.135 18.7243 -109.825 )
 		QDirection ( 0 0.8135 0 -0.5816 )
 	)
+	Static (
+		UiD ( 1085 )
+		FileName ( PGA_DKGantry_N2t6m_K.s )
+		Position ( 972.757 15.6074 -729.6 )
+		QDirection ( 0 -0.844637 0 0.535339 )
+	)
+	Static (
+		UiD ( 1086 )
+		FileName ( PGA_DKGantry_N2t6m_L.s )
+		Position ( 1015.34 15.6074 -749.7 )
+		QDirection ( 0 -0.844637 0 0.535339 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 538 )

@@ -24,14 +24,13 @@ Map of the v1.0 track layout:
 	- **Rebuild TDB of existing track objects**
 	- **Lay track of yards**
 	- **Place viaducts/embankments**
-	- Place gantry
-	- Place milepost signs
-	- Place station platforms
-	- Place roads and bridges
-	- Finish tunnel entrances
+	- **Place gantry**
+	- **Place station platforms**
+	- **Place roads and bridges**
+	- **Finish tunnels and tunnel entrances**
 - Phase 3:
 	- Place interactives (signals / mileposts / speedlimits / platforms / sidings)
-	- Place remaining signs
+	- Place signs and mileposts
 	- Place station scenery
 - Phase 4:
 	- Place scenery close to the tracks
