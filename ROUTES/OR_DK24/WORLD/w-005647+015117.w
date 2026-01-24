@@ -1,29 +1,13 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
+	TrackObj (
 		UiD ( 609 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 5.19882e-43
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 57950 -0.130899 307.631
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 57952 4.73968 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52505 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-52505.s )
+		StaticFlags ( 00200180 )
 		Position ( 417.977 11.6 -564.815 )
 		QDirection ( 1.33708e-07 0.799643 -1.78057e-07 -0.600476 )
 	)
@@ -1410,7 +1394,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 697 )
-		FileName ( PGA_DKGantry_Us1t6m_LR.s )
+		FileName ( PGA_DKGantry_Us1t6m_KR.s )
 		Position ( 633.068 11.6 -601.051 )
 		QDirection ( 0 -0.761906 0 0.647687 )
 	)
@@ -1422,7 +1406,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 699 )
-		FileName ( PGA_DKGantry_Us1t6m_LR.s )
+		FileName ( PGA_DKGantry_Us1t6m_KR.s )
 		Position ( 733.057 11.4909 -617.363 )
 		QDirection ( -0.000647688 -0.761906 0.000761908 0.647687 )
 	)
@@ -1440,7 +1424,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 702 )
-		FileName ( PGA_DKGantry_Us1t6m_LL.s )
+		FileName ( PGA_DKGantry_Us1t6m_KL.s )
 		Position ( 634.858 11.6 -590.245 )
 		QDirection ( 0 -0.762496 0 0.646992 )
 	)
@@ -1452,7 +1436,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 704 )
-		FileName ( PGA_DKGantry_Us1t6m_LL.s )
+		FileName ( PGA_DKGantry_Us1t6m_KL.s )
 		Position ( 734.759 11.4831 -606.918 )
 		QDirection ( -0.000712312 -0.762141 0.000838544 0.64741 )
 	)
@@ -1464,7 +1448,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 706 )
-		FileName ( PGA_DKGantry_Us1t6m_LL.s )
+		FileName ( PGA_DKGantry_Us1t6m_KL.s )
 		Position ( 851.667 11.2227 -625.309 )
 		QDirection ( -0.000717664 -0.757982 0.000833969 0.652274 )
 	)
@@ -1476,7 +1460,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 708 )
-		FileName ( PGA_DKGantry_Uhp1t5m_LR.s )
+		FileName ( PGA_DKGantry_Uhp1t5m_KR.s )
 		Position ( 634.034 11.6 -595.161 )
 		QDirection ( 0 -0.762496 0 0.646993 )
 	)
@@ -1488,7 +1472,7 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 710 )
-		FileName ( PGA_DKGantry_Uhp1t5m_LR.s )
+		FileName ( PGA_DKGantry_Uhp1t5m_KR.s )
 		Position ( 733.935 11.4831 -611.835 )
 		QDirection ( -0.000711928 -0.762141 0.000838093 0.64741 )
 	)
@@ -1500,20 +1484,92 @@ Tr_Worldfile (
 	)
 	Static (
 		UiD ( 712 )
-		FileName ( PGA_DKGantry_Uhp1t5m_LR.s )
+		FileName ( PGA_DKGantry_Uhp1t5m_KR.s )
 		Position ( 850.926 11.2227 -630.238 )
 		QDirection ( -0.000717277 -0.757982 0.00083352 0.652274 )
 	)
 	Static (
 		UiD ( 713 )
-		FileName ( PGA_DKGantry_Uhl1t5m_LR.s )
+		FileName ( PGA_DKGantry_Uhl1t5m_KR.s )
 		Position ( 850.017 11.1958 -636.442 )
 		QDirection ( -0.000971532 -0.761906 0.00114286 0.647686 )
 	)
 	Static (
 		UiD ( 714 )
-		FileName ( PGA_DKGantry_Uhp1t5m_LR.s )
+		FileName ( PGA_DKGantry_Uhp1t5m_KR.s )
 		Position ( 909.534 11.0924 -638.883 )
 		QDirection ( -0.000719942 -0.75589 0.000831219 0.654698 )
+	)
+	Static (
+		UiD ( 732 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 968.69 10.9626 -642.187 )
+		QDirection ( -0.000722981 -0.753796 0.000829363 0.657107 )
+	)
+	Static (
+		UiD ( 733 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 1020.92 10.8523 -649.272 )
+		QDirection ( -0.000658088 -0.752941 0.000752942 0.658087 )
+	)
+	Static (
+		UiD ( 734 )
+		FileName ( PGA_DKGantry_N1t10m_LR.s )
+		Position ( 1020.52 10.8517 -654.249 )
+		QDirection ( -0.000658088 -0.752941 0.000752942 0.658087 )
+	)
+	Static (
+		UiD ( 735 )
+		FileName ( PGA_DKGantry_N1t6m_KR.s )
+		Position ( 968.105 10.9624 -647.139 )
+		QDirection ( -0.000722596 -0.753793 0.000828913 0.657111 )
+	)
+	Static (
+		UiD ( 736 )
+		FileName ( PGA_DKGantry_N1t6m_KL.s )
+		Position ( 1015.54 10.8227 -663.444 )
+		QDirection ( -0.000594147 -0.761906 0.000698924 0.647687 )
+	)
+	Static (
+		UiD ( 737 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 963.541 10.9239 -654.962 )
+		QDirection ( -0.000647688 -0.761906 0.000761906 0.647687 )
+	)
+	Static (
+		UiD ( 738 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 418.275 11.53 -564.902 )
+		QDirection ( -1.33798e-07 -0.79934 1.77989e-07 0.600879 )
+	)
+	Static (
+		UiD ( 739 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 428.072 11.53 -567.562 )
+		QDirection ( -1.36717e-07 -0.789317 1.75758e-07 0.613986 )
+	)
+	Static (
+		UiD ( 740 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 437.698 11.53 -569.841 )
+		QDirection ( -1.39525e-07 -0.779344 1.73537e-07 0.626597 )
+	)
+	Static (
+		UiD ( 741 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 447.605 11.53 -571.849 )
+		QDirection ( -1.42357e-07 -0.768943 1.71221e-07 0.639317 )
+	)
+	Static (
+		UiD ( 742 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 457.476 11.53 -573.517 )
+		QDirection ( -1.45067e-07 -0.758658 1.68931e-07 0.651489 )
+	)
+	Static (
+		UiD ( 744 )
+		FileName ( NR_Emb1t50mStrt.s )
+		Position ( 467.322 11.53 -575.022 )
+		QDirection ( 0 -0.758658 0 0.651489 )
 	)
 )
