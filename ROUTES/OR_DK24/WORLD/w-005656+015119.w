@@ -250,18 +250,6 @@ Tr_Worldfile (
 		)
 	)
 	Signal (
-		UiD ( 7459 )
-		FileName ( dk2udsigM.s )
-		Position ( -443.574 10.9186 -286.714 )
-		QDirection ( 0 0.91035 0 0.413839 )
-		SignalSubObj ( 00000001 )
-		SignalUnits ( 1
-			SignalUnit ( 0
-				TrItemId ( 0 55 )
-			)
-		)
-	)
-	Signal (
 		UiD ( 7571 )
 		FileName ( dk3indsigM.s )
 		Position ( -539.394 11.3427 -390.539 )
@@ -273,6 +261,18 @@ Tr_Worldfile (
 			)
 			SignalUnit ( 1
 				TrItemId ( 0 33 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 7575 )
+		FileName ( dk2udsigM.s )
+		Position ( -431.032 10.8692 -276.045 )
+		QDirection ( 0 0.905049 0 0.425308 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 55 )
 			)
 		)
 	)

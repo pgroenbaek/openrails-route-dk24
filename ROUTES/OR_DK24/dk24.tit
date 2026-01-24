@@ -339,9 +339,9 @@ TrItemTable ( 221
 	)
 	SignalItem (
 		TrItemId ( 55 )
-		TrItemSData ( 45.24136 00000002 )
-		TrItemRData ( -441.6019 10.91855 -288.9742 -5656 15119 )
-		TrSignalType ( 00000000 0 0.8533341 dk2ud )
+		TrItemSData ( 28.85029 00000002 )
+		TrItemRData ( -429.1169 10.86921 -278.3547 -5656 15119 )
+		TrSignalType ( 00000000 0 0.8786046 dk2ud )
 	)
 	SpeedPostItem (
 		TrItemId ( 56 )
@@ -1001,13 +1001,13 @@ TrItemTable ( 221
 	CrossoverItem (
 		TrItemId ( 159 )
 		TrItemSData ( 12.5 00000002 )
-		TrItemRData ( 671.172 9.471439 617.6163 -5676 15127 )
+		TrItemRData ( 671.172 9.471436 617.6163 -5676 15127 )
 		CrossoverTrItemData ( 160 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 160 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 671.1721 9.471483 617.6163 -5676 15127 )
+		TrItemRData ( 671.1721 9.471481 617.6163 -5676 15127 )
 		CrossoverTrItemData ( 159 22042 )
 	)
 	CrossoverItem (
@@ -1055,7 +1055,7 @@ TrItemTable ( 221
 	CrossoverItem (
 		TrItemId ( 168 )
 		TrItemSData ( 12.49997 00000002 )
-		TrItemRData ( 669.9172 9.497422 631.9523 -5676 15127 )
+		TrItemRData ( 669.9172 9.49742 631.9523 -5676 15127 )
 		CrossoverTrItemData ( 167 22042 )
 	)
 	CrossoverItem (
@@ -1121,37 +1121,37 @@ TrItemTable ( 221
 	CrossoverItem (
 		TrItemId ( 179 )
 		TrItemSData ( 12.49996 00000002 )
-		TrItemRData ( 462.8669 9.572537 -771.4985 -5676 15128 )
+		TrItemRData ( 462.8669 9.572535 -771.4985 -5676 15128 )
 		CrossoverTrItemData ( 180 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 180 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 462.8669 9.572537 -771.4982 -5676 15128 )
+		TrItemRData ( 462.8669 9.572535 -771.4982 -5676 15128 )
 		CrossoverTrItemData ( 179 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 181 )
 		TrItemSData ( 12.49996 00000002 )
-		TrItemRData ( 427.6769 9.572537 -734.9573 -5676 15128 )
+		TrItemRData ( 427.6769 9.572535 -734.9573 -5676 15128 )
 		CrossoverTrItemData ( 182 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 182 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 427.6769 9.572537 -734.9572 -5676 15128 )
+		TrItemRData ( 427.6769 9.572535 -734.9572 -5676 15128 )
 		CrossoverTrItemData ( 181 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 183 )
 		TrItemSData ( 12.50004 00000002 )
-		TrItemRData ( 315.7369 9.57254 -645.6633 -5676 15128 )
+		TrItemRData ( 315.7369 9.572537 -645.6633 -5676 15128 )
 		CrossoverTrItemData ( 184 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 184 )
 		TrItemSData ( 12.49997 00000002 )
-		TrItemRData ( 315.7369 9.57254 -645.6631 -5676 15128 )
+		TrItemRData ( 315.7369 9.572537 -645.6631 -5676 15128 )
 		CrossoverTrItemData ( 183 22042 )
 	)
 	CrossoverItem (
