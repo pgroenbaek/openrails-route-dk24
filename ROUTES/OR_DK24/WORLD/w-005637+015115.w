@@ -2,26 +2,6 @@ SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
 	TrackObj (
-		UiD ( 64 )
-		SectionIdx ( 39861 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t0_3mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -165.948 -2121.32 -259.417 )
-		QDirection ( 0 0 0 1 )
-	)
-	TrackObj (
-		UiD ( 65 )
-		SectionIdx ( 39861 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A1t0_3mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( -488.084 -1122.23 -289.556 )
-		QDirection ( 0 0 0 1 )
-	)
-	TrackObj (
 		UiD ( 1998 )
 		SectionIdx ( 19040 )
 		Elevation ( 0 )

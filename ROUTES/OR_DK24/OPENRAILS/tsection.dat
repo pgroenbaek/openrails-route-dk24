@@ -265,6 +265,46 @@ TrackSections ( 50000
         SectionSize ( 1.5 0 )
         SectionCurve ( 8002.4925 0.25 )
     )
+    TrackSection ( 40064
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5800.0 -0.9998114 )
+    )
+    TrackSection ( 40065
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5800.0 0.9998114 )
+    )
+    TrackSection ( 40066
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5812.0 -0.9998114 )
+    )
+    TrackSection ( 40067
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5812.0 0.9998114 )
+    )
+    TrackSection ( 40068
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5800.0 -0.50019216 )
+    )
+    TrackSection ( 40069
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5800.0 0.50019216 )
+    )
+    TrackSection ( 40070
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5812.0 -0.50019216 )
+    )
+    TrackSection ( 40071
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 5812.0 0.50019216 )
+    )
+    TrackSection ( 40072
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 14988.0 -0.4999999851 )
+    )
+    TrackSection ( 40073
+        SectionSize ( 1.5 0 )
+        SectionCurve ( 14988.0 0.4999999851 )
+    )
 )
 
 _INFO ( Shapes 0-39999 are from the standardised global tsection.dat )
@@ -537,5 +577,65 @@ TrackShapes ( 50000
         FileName ( DB2f_A1t8000r0_25d_o.s )
         NumPaths ( 1 )
         SectionIdx ( 1 0 0 0 0 40062 )
+    )
+    TrackShape ( 40045
+        FileName ( DB1fbTun_A1t5800r1d.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40064 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40046
+        FileName ( DB1fbTun_A1t5812r1d.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40066 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40047
+        FileName ( DB1fbTun_A1t15000r0_5d.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 39883 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40048
+        FileName ( DB1fbTun_A1t10mStrt.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 0 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40049
+        FileName ( DB1fbTun_A1t50mStrt.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 1 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40050
+        FileName ( DB1fbTun_A1t100mStrt.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 2 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40051
+        FileName ( DB1fbTun_A1t250mStrt.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 3 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40052
+        FileName ( DB1fbTun_A1t5800r0_5d.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40068 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40053
+        FileName ( DB1fbTun_A1t5812r0_5d.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40070 )
+        TunnelShape ( )
+    )
+    TrackShape ( 40054
+        FileName ( DB1fbTun_A1t14988r0_5d.s )
+        NumPaths ( 1 )
+        SectionIdx ( 1 0 0 0 0 40072 )
+        TunnelShape ( )
     )
 )
