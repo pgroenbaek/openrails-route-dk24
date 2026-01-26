@@ -2781,6 +2781,18 @@ Tr_Worldfile (
 		Position ( 799.125 3.92025 976.823 )
 		QDirection ( -0.00335665 -0.53125 0.00210482 0.847206 )
 	)
+	Static (
+		UiD ( 4785 )
+		FileName ( PGA_DKSign_Location_Sprogoe.s )
+		Position ( -379.216 17.6019 378.336 )
+		QDirection ( 0 0.5256 0 -0.8508 )
+	)
+	Static (
+		UiD ( 4786 )
+		FileName ( PGA_DKSign_Location_Sprogoe.s )
+		Position ( -384.177 17.6 388.129 )
+		QDirection ( 0 0.5256 0 -0.8508 )
+	)
 	Tr_Watermark ( 7 )
 	Static (
 		UiD ( 4183 )

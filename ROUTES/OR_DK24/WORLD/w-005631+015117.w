@@ -1,55 +1,23 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
+	TrackObj (
 		UiD ( 315 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 58344 11.4685 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 6.27833e-07 15.82
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52656 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fw_DynaTrax-52656.s )
+		StaticFlags ( 00200180 )
 		Position ( 411.977 -4.74225 -747.787 )
 		QDirection ( 0.00246997 -0.834503 0.00374092 -0.550986 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 316 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 5.19882e-43
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 8.02679e-07 12.3647
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 58346 11.4734 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52657 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fw_DynaTrax-52657.s )
+		StaticFlags ( 00200180 )
 		Position ( 540.269 -3.52725 -705.78 )
 		QDirection ( 0.00351153 -0.621621 -0.0027867 0.783306 )
 	)

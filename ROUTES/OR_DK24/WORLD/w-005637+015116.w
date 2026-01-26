@@ -58,7 +58,7 @@ Tr_Worldfile (
 		SectionIdx ( 79 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2f_A1tBuffer.s )
+		FileName ( DB2fb_A1tBuffer.s )
 		StaticFlags ( 00200180 )
 		Position ( 1008.33 2.44083 -977.458 )
 		QDirection ( -0.00241347 -0.844006 -0.0037981 -0.536315 )
@@ -114,8 +114,8 @@ Tr_Worldfile (
 	Static (
 		UiD ( 54 )
 		FileName ( PGA_DKGantry_N2t6m_L.s )
-		Position ( 998.831 2.3777 -970.322 )
-		QDirection ( -0.00334335 -0.536316 0.0021245 0.844008 )
+		Position ( 1001.18 2.42716 -969.221 )
+		QDirection ( -0.00334339 -0.536316 0.00212453 0.844008 )
 	)
 	Static (
 		UiD ( 55 )
@@ -128,5 +128,11 @@ Tr_Worldfile (
 		FileName ( dkmast440.s )
 		Position ( 916.766 3.18763 -1015.07 )
 		QDirection ( -0.0033468 -0.535195 0.00212046 0.844719 )
+	)
+	Static (
+		UiD ( 59 )
+		FileName ( PGA_DKGantry_Us1t10m_LR.s )
+		Position ( 1005.64 2.46764 -978.723 )
+		QDirection ( -0.00241347 -0.844006 -0.0037981 -0.536315 )
 	)
 )
