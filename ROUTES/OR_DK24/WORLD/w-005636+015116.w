@@ -1086,12 +1086,6 @@ Tr_Worldfile (
 		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
 	)
 	Static (
-		UiD ( 782 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 981.873 -21.4704 -24.1907 )
-		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
-	)
-	Static (
 		UiD ( 783 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 972.821 -21.3304 -28.4375 )
@@ -1119,12 +1113,6 @@ Tr_Worldfile (
 		UiD ( 787 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 936.612 -20.7704 -45.4248 )
-		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
-	)
-	Static (
-		UiD ( 788 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 927.559 -20.6304 -49.6716 )
 		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
 	)
 	Static (
@@ -1158,12 +1146,6 @@ Tr_Worldfile (
 		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
 	)
 	Static (
-		UiD ( 794 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 873.245 -19.7904 -75.1525 )
-		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
-	)
-	Static (
 		UiD ( 795 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 864.193 -19.6504 -79.3993 )
@@ -1191,12 +1173,6 @@ Tr_Worldfile (
 		UiD ( 799 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 827.983 -19.0904 -96.3866 )
-		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
-	)
-	Static (
-		UiD ( 800 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 818.931 -18.9504 -100.633 )
 		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
 	)
 	Static (
@@ -1230,12 +1206,6 @@ Tr_Worldfile (
 		QDirection ( -0.00362352 -0.843686 -0.00569512 -0.536795 )
 	)
 	Static (
-		UiD ( 806 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 764.606 -18.1241 -126.091 )
-		QDirection ( -0.00362542 -0.843507 -0.00569391 -0.537076 )
-	)
-	Static (
 		UiD ( 807 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 755.544 -17.9891 -130.319 )
@@ -1264,12 +1234,6 @@ Tr_Worldfile (
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 719.27 -17.4491 -147.168 )
 		QDirection ( -0.00363491 -0.84261 -0.00568786 -0.538482 )
-	)
-	Static (
-		UiD ( 812 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 710.194 -17.3141 -151.365 )
-		QDirection ( -0.0036368 -0.842431 -0.00568665 -0.538762 )
 	)
 	Static (
 		UiD ( 813 )
@@ -1332,12 +1296,6 @@ Tr_Worldfile (
 		QDirection ( -0.00570692 -0.534029 0.00360483 0.845439 )
 	)
 	Static (
-		UiD ( 823 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 720.112 -17.5363 -133.751 )
-		QDirection ( -0.00570572 -0.534311 0.00360673 0.845261 )
-	)
-	Static (
 		UiD ( 824 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 729.146 -17.6713 -129.465 )
@@ -1368,12 +1326,6 @@ Tr_Worldfile (
 		QDirection ( -0.0056997 -0.535719 0.00361624 0.844369 )
 	)
 	Static (
-		UiD ( 829 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 774.357 -18.3463 -108.122 )
-		QDirection ( -0.0056985 -0.536001 0.00361814 0.844191 )
-	)
-	Static (
 		UiD ( 830 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 783.408 -18.4813 -103.872 )
@@ -1401,12 +1353,6 @@ Tr_Worldfile (
 		UiD ( 834 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 819.617 -19.0409 -86.8844 )
-		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
-	)
-	Static (
-		UiD ( 835 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 828.67 -19.1809 -82.6376 )
 		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
 	)
 	Static (
@@ -1440,12 +1386,6 @@ Tr_Worldfile (
 		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
 	)
 	Static (
-		UiD ( 841 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 882.984 -20.0209 -57.1568 )
-		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
-	)
-	Static (
 		UiD ( 842 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 892.036 -20.1609 -52.91 )
@@ -1473,12 +1413,6 @@ Tr_Worldfile (
 		UiD ( 846 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 928.246 -20.7208 -35.9227 )
-		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
-	)
-	Static (
-		UiD ( 847 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 937.298 -20.8608 -31.6759 )
 		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
 	)
 	Static (
@@ -1512,12 +1446,6 @@ Tr_Worldfile (
 		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
 	)
 	Static (
-		UiD ( 853 )
-		FileName ( DBs_a1t10mStrtRndTun_nt.s )
-		Position ( 991.612 -21.7008 -6.19505 )
-		QDirection ( -0.00590821 -0.536306 0.00375431 0.843994 )
-	)
-	Static (
 		UiD ( 854 )
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 1000.66 -21.8408 -1.94826 )
@@ -1534,6 +1462,186 @@ Tr_Worldfile (
 		FileName ( DBs_a1t10mStrtRndTun_nt.s )
 		Position ( 1018.77 -22.1254 6.54538 )
 		QDirection ( -0.00611925 -0.536305 0.00388841 0.843993 )
+	)
+	Static (
+		UiD ( 881 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 981.911 -21.4707 -24.1728 )
+		QDirection ( 0.00375428 0.843994 0.00590818 0.536306 )
+	)
+	Static (
+		UiD ( 882 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 927.597 -20.6307 -49.6537 )
+		QDirection ( 0.00375428 0.843994 0.00590818 0.536306 )
+	)
+	Static (
+		UiD ( 883 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 873.283 -19.7907 -75.1347 )
+		QDirection ( 0.00375428 0.843994 0.00590817 0.536306 )
+	)
+	Static (
+		UiD ( 884 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 818.968 -18.9507 -100.616 )
+		QDirection ( 0.00369442 0.843881 0.00581124 0.536486 )
+	)
+	Static (
+		UiD ( 885 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 764.642 -18.1244 -126.074 )
+		QDirection ( 0.00363107 0.842969 0.0056902 0.53792 )
+	)
+	Static (
+		UiD ( 886 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 710.231 -17.3144 -151.348 )
+		QDirection ( 0.00364077 0.842043 0.00568384 0.539368 )
+	)
+	Static (
+		UiD ( 916 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 720.149 -17.5366 -133.734 )
+		QDirection ( -0.00570196 -0.535159 0.00361237 0.844724 )
+	)
+	Static (
+		UiD ( 917 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 774.395 -18.3466 -108.105 )
+		QDirection ( -0.00587003 -0.536277 0.00372975 0.844013 )
+	)
+	Static (
+		UiD ( 918 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 828.708 -19.1812 -82.6198 )
+		QDirection ( -0.00590817 -0.536307 0.00375428 0.843994 )
+	)
+	Static (
+		UiD ( 919 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 883.022 -20.0211 -57.139 )
+		QDirection ( -0.00590818 -0.536307 0.00375429 0.843994 )
+	)
+	Static (
+		UiD ( 920 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 937.336 -20.8611 -31.6581 )
+		QDirection ( -0.00590818 -0.536307 0.00375429 0.843994 )
+	)
+	Static (
+		UiD ( 921 )
+		FileName ( DBs_a1t10mStrtRndTun_l_nt.s )
+		Position ( 991.651 -21.7011 -6.17685 )
+		QDirection ( -0.0060458 -0.536305 0.00384173 0.843994 )
+	)
+	Static (
+		UiD ( 922 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 1022.61 -22.1042 -5.07999 )
+		QDirection ( -0.0038884 -0.843993 -0.00611925 -0.536305 )
+	)
+	Static (
+		UiD ( 923 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 981.873 -21.4704 -24.1907 )
+		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
+	)
+	Static (
+		UiD ( 924 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 941.138 -20.8404 -43.3013 )
+		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
+	)
+	Static (
+		UiD ( 925 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 900.402 -20.2104 -62.412 )
+		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
+	)
+	Static (
+		UiD ( 926 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 859.667 -19.5804 -81.5227 )
+		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
+	)
+	Static (
+		UiD ( 927 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 818.931 -18.9504 -100.633 )
+		QDirection ( -0.0037543 -0.843995 -0.00590821 -0.536306 )
+	)
+	Static (
+		UiD ( 928 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 778.193 -18.3266 -119.74 )
+		QDirection ( -0.00362257 -0.843775 -0.00569572 -0.536655 )
+	)
+	Static (
+		UiD ( 929 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 737.412 -17.7191 -138.755 )
+		QDirection ( -0.00363111 -0.842969 -0.00569028 -0.53792 )
+	)
+	Static (
+		UiD ( 930 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 696.576 -17.1116 -157.649 )
+		QDirection ( -0.00363964 -0.842161 -0.00568483 -0.539184 )
+	)
+	Static (
+		UiD ( 931 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 665.971 -16.7264 -159.597 )
+		QDirection ( -0.00571292 -0.53262 0.00359531 0.846328 )
+	)
+	Static (
+		UiD ( 932 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 706.567 -17.3338 -140.192 )
+		QDirection ( -0.00570752 -0.533888 0.00360388 0.845528 )
+	)
+	Static (
+		UiD ( 933 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 747.222 -17.9413 -120.909 )
+		QDirection ( -0.00570211 -0.535156 0.00361244 0.844726 )
+	)
+	Static (
+		UiD ( 934 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 787.934 -18.5509 -101.748 )
+		QDirection ( -0.00590821 -0.536307 0.00375431 0.843994 )
+	)
+	Static (
+		UiD ( 935 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 828.67 -19.1809 -82.6376 )
+		QDirection ( -0.00590821 -0.536307 0.00375431 0.843994 )
+	)
+	Static (
+		UiD ( 936 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 869.405 -19.8109 -63.527 )
+		QDirection ( -0.00590821 -0.536307 0.00375431 0.843994 )
+	)
+	Static (
+		UiD ( 937 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 910.141 -20.4409 -44.4164 )
+		QDirection ( -0.00590821 -0.536307 0.00375431 0.843994 )
+	)
+	Static (
+		UiD ( 938 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 950.877 -21.0708 -25.3057 )
+		QDirection ( -0.00590821 -0.536307 0.00375431 0.843994 )
+	)
+	Static (
+		UiD ( 939 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 991.612 -21.7008 -6.1951 )
+		QDirection ( -0.00590821 -0.536307 0.00375431 0.843994 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (
