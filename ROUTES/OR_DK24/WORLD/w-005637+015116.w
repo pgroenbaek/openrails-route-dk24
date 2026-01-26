@@ -1,6 +1,18 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 56 )
+		FileName ( DKdvsigs.s )
+		Position ( 1027.54 1.89645 -956.853 )
+		QDirection ( 0 0.53632 0 -0.844014 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 242 )
+			)
+		)
+	)
 	TrackObj (
 		UiD ( 47 )
 		SectionIdx ( 50165 )
@@ -110,5 +122,11 @@ Tr_Worldfile (
 		FileName ( PGA_DKMilepost_120_2.s )
 		Position ( 1001.72 2.10194 -962.889 )
 		QDirection ( -0.00334339 -0.536316 0.00212453 0.844008 )
+	)
+	Static (
+		UiD ( 58 )
+		FileName ( dkmast440.s )
+		Position ( 916.766 3.18763 -1015.07 )
+		QDirection ( -0.0033468 -0.535195 0.00212046 0.844719 )
 	)
 )

@@ -1,6 +1,54 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 8714 )
+		FileName ( dkamsigM.s )
+		Position ( 943.879 17.1317 514.647 )
+		QDirection ( 0 0.597115 0 -0.802156 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 254 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 8715 )
+		FileName ( dkamsigM.s )
+		Position ( 940.734 17.1317 525.172 )
+		QDirection ( 0 0.597115 0 -0.802156 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 255 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 8716 )
+		FileName ( dkamsigM.s )
+		Position ( -919.154 13.0883 32.5488 )
+		QDirection ( 0 0.782592 0 0.622535 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 256 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 8717 )
+		FileName ( dkamsigM.s )
+		Position ( -916.747 13.088 21.8252 )
+		QDirection ( 0 0.782591 0 0.622536 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 257 )
+			)
+		)
+	)
 	Static (
 		UiD ( 5281 )
 		FileName ( V4_2tbr2_Strt_020m_A2Beton_GreyRailing.s )

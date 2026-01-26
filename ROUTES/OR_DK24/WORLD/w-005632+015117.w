@@ -1,6 +1,18 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 90 )
+		FileName ( dkamsigH.s )
+		Position ( -905.562 -34.0259 -1011.4 )
+		QDirection ( 0 0.754003 0 -0.656871 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 220 )
+			)
+		)
+	)
 	Transfer (
 		UiD ( 24 )
 		Width ( 10 )

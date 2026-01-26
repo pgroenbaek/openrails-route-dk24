@@ -1,6 +1,30 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 8536 )
+		FileName ( dkamsigM.s )
+		Position ( -857.405 17.1317 -731.862 )
+		QDirection ( 0 0.825687 0 0.564129 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 248 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 8537 )
+		FileName ( dkamsigM.s )
+		Position ( -853.204 17.1317 -742.014 )
+		QDirection ( 0 0.825689 0 0.564125 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 249 )
+			)
+		)
+	)
 	Static (
 		UiD ( 5448 )
 		FileName ( V4_2tbr2_Strt_020m_A2Beton_GreyRailing.s )

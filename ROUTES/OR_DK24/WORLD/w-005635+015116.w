@@ -1,6 +1,54 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 1355 )
+		FileName ( dkamsigH.s )
+		Position ( -288.655 -37.9012 357.844 )
+		QDirection ( 0 0.844015 0 0.53632 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 223 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1356 )
+		FileName ( dkamsigH.s )
+		Position ( -381.643 -36.3603 314.22 )
+		QDirection ( 0 0.53632 0 -0.844015 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 224 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1357 )
+		FileName ( dkamsigH.s )
+		Position ( 153.574 -45.1436 551.885 )
+		QDirection ( 0 -0.536319 0 0.844015 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 225 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1358 )
+		FileName ( dkamsigH.s )
+		Position ( 274.136 -47.1414 608.446 )
+		QDirection ( 0 0.844015 0 0.536319 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 226 )
+			)
+		)
+	)
 	TrackObj (
 		UiD ( 55 )
 		SectionIdx ( 19040 )

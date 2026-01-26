@@ -1,6 +1,72 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Signal (
+		UiD ( 4776 )
+		FileName ( dk4indsigM.s )
+		Position ( -379.109 13.7019 378.39 )
+		QDirection ( 0 0.525557 0 -0.850758 )
+		SignalSubObj ( 00000023 )
+		SignalUnits ( 2
+			SignalUnit ( 0
+				TrItemId ( 0 235 )
+			)
+			SignalUnit ( 1
+				TrItemId ( 0 236 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 4778 )
+		FileName ( dk4indsigM.s )
+		Position ( -384.07 13.7 388.183 )
+		QDirection ( 0 0.525559 0 -0.850757 )
+		SignalSubObj ( 00000023 )
+		SignalUnits ( 2
+			SignalUnit ( 0
+				TrItemId ( 0 237 )
+			)
+			SignalUnit ( 1
+				TrItemId ( 0 238 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 4780 )
+		FileName ( dk3udsigM.s )
+		Position ( -177.256 12.4087 492.692 )
+		QDirection ( 0 0.852781 0 0.522269 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 239 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 4781 )
+		FileName ( dk3udsigM.s )
+		Position ( -172.346 12.4116 482.876 )
+		QDirection ( 0 0.852781 0 0.522269 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 240 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 4784 )
+		FileName ( DKpusig.s )
+		Position ( 916.621 7.68547 1033 )
+		QDirection ( 0 0.535208 0 -0.84472 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 245 )
+			)
+		)
+	)
 	TrackObj (
 		UiD ( 1998 )
 		SectionIdx ( 19040 )
