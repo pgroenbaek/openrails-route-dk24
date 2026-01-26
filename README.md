@@ -8,9 +8,9 @@
 
 A work in progress freeware route for the [Open Rails simulator](https://www.openrails.org/) based on the danish rail network in 2024.
 
-The route is currently in a state where the track layout is mostly done, but otherwise it is very unfinished.
+The route is currently in a state where the track layout is mostly done, but otherwise the route is very unfinished.
 
-The aim for version 1.0 is to build the mainline between Fredericia and Copenhagen. Including the new Ringsted-Vigerslev high speed railway line, the great belt fixed link and the old little belt bridge.
+The aim for version 1.0 is to build the mainline between Fredericia and Copenhagen. Including the Ringsted-Vigerslev high speed railway line, the great belt fixed link and the old little belt bridge.
 
 ## Development of v1.0:
 
