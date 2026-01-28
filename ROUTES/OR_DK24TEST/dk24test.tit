@@ -54,12 +54,18 @@ TrItemTable ( 24
 		TrItemSData ( 231.6163 00000002 )
 		TrItemRData ( 63.93415 0.9754991 645.0833 -5655 15119 )
 		TrSignalType ( 00000200 0 1.748456e-07 dk4ind )
+		TrSignalDirs ( 1
+			TrSignalRDir ( 63.93413 0.9754991 569.4665 -5655 15119 6.283185 )
+		)
 	)
 	SignalItem (
 		TrItemId ( 9 )
 		TrItemSData ( 231.6163 00000002 )
 		TrItemRData ( 63.93415 0.9754991 645.0833 -5655 15119 )
 		TrSignalType ( 00000200 0 1.748456e-07 dkhviser )
+		TrSignalDirs ( 1
+			TrSignalRDir ( 63.93413 0.9754991 569.4665 -5655 15119 6.283185 )
+		)
 	)
 	SignalItem (
 		TrItemId ( 10 )

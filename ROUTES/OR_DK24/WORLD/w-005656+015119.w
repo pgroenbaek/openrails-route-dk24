@@ -14202,4 +14202,10 @@ Tr_Worldfile (
 		Position ( 113.788 12.0384 -51.2524 )
 		QDirection ( -0.0034776 0.998954 -0.000158718 -0.0455924 )
 	)
+	Static (
+		UiD ( 7580 )
+		FileName ( dkrelae1.s )
+		Position ( 448.499 13.384 -46.477 )
+		QDirection ( 0 0 0 1 )
+	)
 )

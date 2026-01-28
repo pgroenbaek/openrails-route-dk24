@@ -3937,12 +3937,6 @@ Tr_Worldfile (
 		Position ( -980.021 41.0789 -635.387 )
 		QDirection ( -0.00325338 -0.581786 0.00232718 0.813332 )
 	)
-	Static (
-		UiD ( 2949 )
-		FileName ( PGA_DKGantry_Uhl1t3m_KL.s )
-		Position ( 2836.74 183.947 -549.582 )
-		QDirection ( 0.629293 -0.588988 -0.000294494 0.808141 )
-	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 1643 )

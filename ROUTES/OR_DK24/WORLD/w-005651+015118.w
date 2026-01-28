@@ -175,16 +175,6 @@ Tr_Worldfile (
 		QDirection ( 0 0.60951 0 0.792778 )
 	)
 	TrackObj (
-		UiD ( 926 )
-		SectionIdx ( 51527 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( ..\\..\\routes\\OR_DK24\\shapes\\DynaTrax-51527.s )
-		StaticFlags ( 00200180 )
-		Position ( 195.259 15.5837 -281.202 )
-		QDirection ( 0 0.688786 0 0.724965 )
-	)
-	TrackObj (
 		UiD ( 876 )
 		SectionIdx ( 51518 )
 		Elevation ( 2.8026e-45 )
