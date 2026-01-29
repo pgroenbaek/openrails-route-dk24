@@ -1419,6 +1419,16 @@ Tr_Worldfile (
 		Position ( 984.525 22.1661 -163.129 )
 		QDirection ( 0.000169794 -0.733976 -0.000183494 0.679175 )
 	)
+	TrackObj (
+		UiD ( 634 )
+		SectionIdx ( 33267 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( A1t15000r0_5d.s )
+		StaticFlags ( 00200180 )
+		Position ( 147.218 20.5192 -14.7709 )
+		QDirection ( 0.000605182 -0.796087 -0.000796088 0.605181 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 247 )

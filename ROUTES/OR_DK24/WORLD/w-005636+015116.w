@@ -1607,12 +1607,6 @@ Tr_Worldfile (
 		QDirection ( -0.00363964 -0.842161 -0.00568483 -0.539184 )
 	)
 	Static (
-		UiD ( 931 )
-		FileName ( DBs_RndTunGantry.s )
-		Position ( 665.971 -16.7264 -159.597 )
-		QDirection ( -0.00571292 -0.53262 0.00359531 0.846328 )
-	)
-	Static (
 		UiD ( 932 )
 		FileName ( DBs_RndTunGantry.s )
 		Position ( 706.567 -17.3338 -140.192 )
@@ -2080,6 +2074,12 @@ Tr_Worldfile (
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
 		Position ( 322.724 -11.976 -329.492 )
 		QDirection ( -0.00506115 -0.537096 0.00322268 0.8435 )
+	)
+	Static (
+		UiD ( 1113 )
+		FileName ( DBs_RndTunGantry.s )
+		Position ( 674.188 -16.8494 -155.657 )
+		QDirection ( -0.00571183 -0.532877 0.00359705 0.846166 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (
