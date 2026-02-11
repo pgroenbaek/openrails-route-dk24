@@ -62,16 +62,6 @@ Tr_Worldfile (
 		QDirection ( 0 -0.921062 0 -0.389416 )
 	)
 	TrackObj (
-		UiD ( 113 )
-		SectionIdx ( 30283 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( BAB_oS_br_2L1WS200m.s )
-		StaticFlags ( 00200180 )
-		Position ( -773.576 30.3665 -810.982 )
-		QDirection ( 0 -0.921062 0 -0.389416 )
-	)
-	TrackObj (
 		UiD ( 114 )
 		SectionIdx ( 30283 )
 		Elevation ( 0 )

@@ -4736,6 +4736,12 @@ Tr_Worldfile (
 		Position ( -1004.17 14.9603 -61.4172 )
 		QDirection ( 0 -0.694972 0 0.719037 )
 	)
+	Static (
+		UiD ( 2711 )
+		FileName ( NR_Emb2t100mStrt.s )
+		Position ( 955.107 11.3592 -57.3521 )
+		QDirection ( -0.00163443 -0.837907 0.00250915 0.545804 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 724 )

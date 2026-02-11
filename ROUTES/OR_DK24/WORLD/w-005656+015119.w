@@ -6272,16 +6272,10 @@ Tr_Worldfile (
 		QDirection ( -0.001056 -0.7102 -0.001065 -0.704 )
 	)
 	Static (
-		UiD ( 1751 )
-		FileName ( NR_Emb1t10mStrt.s )
-		Position ( 502.349 13.9379 -46.1869 )
-		QDirection ( 0.00142208 -0.703184 -0.00140644 0.711005 )
-	)
-	Static (
 		UiD ( 1752 )
 		FileName ( NR_Emb1t10mStrt.s )
-		Position ( 498.467 13.9224 -46.2298 )
-		QDirection ( 0.00142208 -0.703184 -0.00140644 0.711005 )
+		Position ( 498.236 13.9814 -45.2699 )
+		QDirection ( 0.00142041 -0.703996 -0.001408 0.710201 )
 	)
 	Static (
 		UiD ( 1753 )

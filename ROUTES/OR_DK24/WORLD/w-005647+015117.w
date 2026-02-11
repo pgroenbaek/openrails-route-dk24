@@ -771,24 +771,6 @@ Tr_Worldfile (
 		QDirection ( 0 -0.758658 0 0.651489 )
 	)
 	Static (
-		UiD ( 565 )
-		FileName ( NR_Emb3t10mStrt.s )
-		Position ( 517.229 11.53 -576.597 )
-		QDirection ( 0 -0.7587 0 0.6515 )
-	)
-	Static (
-		UiD ( 566 )
-		FileName ( NR_Emb3t50mStrt.s )
-		Position ( 527.115 11.53 -578.108 )
-		QDirection ( 0 -0.7587 0 0.6515 )
-	)
-	Static (
-		UiD ( 567 )
-		FileName ( NR_Emb3t50mStrt.s )
-		Position ( 576.54 11.53 -585.664 )
-		QDirection ( 0 -0.7587 0 0.6515 )
-	)
-	Static (
 		UiD ( 568 )
 		FileName ( PGA_DKGantry_N2t6m_K.s )
 		Position ( -1020.43 16.8103 -343.298 )

@@ -176,7 +176,7 @@ Tr_Worldfile (
 		SectionIdx ( 7 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2fb_A2t100mStrt.s )
+		FileName ( DB2f_A2t100mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( 90.1483 21.1147 -252.731 )
 		QDirection ( 0.000733979 0.679172 0.000679173 0.733978 )
@@ -700,6 +700,12 @@ Tr_Worldfile (
 		FileName ( PGA_DKGantry_N2t6m_K.s )
 		Position ( 967.741 17.1125 -334.85 )
 		QDirection ( -0.00164312 -0.753675 0.0018842 0.657243 )
+	)
+	Static (
+		UiD ( 540 )
+		FileName ( NR_Emb2t100mStrt.s )
+		Position ( 90.1482 21.0447 -252.731 )
+		QDirection ( 0.000734 0.6792 0.0006792 0.734 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (

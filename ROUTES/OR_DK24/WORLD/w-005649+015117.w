@@ -1,25 +1,161 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	TrackObj (
-		UiD ( 285 )
-		SectionIdx ( 50187 )
+	Dyntrack (
+		UiD ( 650 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58466 -0.08 2389.48
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 28.6707 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52705 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50187.s )
-		StaticFlags ( 00200180 )
-		Position ( 388.057 22.1647 -71.0656 )
-		QDirection ( 0 -0.796086 0 0.605183 )
+		StaticFlags ( 00100000 )
+		Position ( 662.042 22.1803 -132.907 )
+		QDirection ( -2.65887e-05 -0.760548 3.11452e-05 0.649281 )
 	)
-	TrackObj (
-		UiD ( 286 )
-		SectionIdx ( 50188 )
+	Dyntrack (
+		UiD ( 651 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58464 -0.06 2389.43
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 28.6758 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52704 )
+		Elevation ( 0.002 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 521.211 22.192 -106.185 )
+		QDirection ( -2.56e-05 -0.779682 3.18757e-05 0.626176 )
+	)
+	Dyntrack (
+		UiD ( 653 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 58452 28.6723 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58454 -0.0620175 2389.48
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52700 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-50188.s )
-		StaticFlags ( 00200180 )
-		Position ( 293.035 22.1647 -39.5115 )
-		QDirection ( 0 -0.796086 0 0.605183 )
+		StaticFlags ( 00100000 )
+		Position ( 350.038 22.2065 -61.8283 )
+		QDirection ( -2.45852e-05 -0.798721 3.26352e-05 0.601702 )
+	)
+	Dyntrack (
+		UiD ( 655 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58456 -0.08 2989.56
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 32.9565 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52701 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 350.848 22.2047 -55.5619 )
+		QDirection ( -1.98554e-05 -0.796087 2.61187e-05 0.605183 )
+	)
+	Dyntrack (
+		UiD ( 656 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58458 -0.06 2989.55
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 32.9569 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52702 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 583.609 22.189 -110.259 )
+		QDirection ( -2.08526e-05 -0.771249 2.52658e-05 0.636534 )
+	)
+	Dyntrack (
+		UiD ( 657 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58460 -0.0532858 2989.61
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 58462 32.9539 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52703 )
+		Elevation ( -0.00900012 )
+		CollideFlags ( 39 )
+		StaticFlags ( 00100000 )
+		Position ( 760.641 22.1773 -138.975 )
+		QDirection ( -2.15905e-05 -0.751809 2.46169e-05 0.659381 )
 	)
 	TrackObj (
 		UiD ( 1 )
@@ -30,26 +166,6 @@ Tr_Worldfile (
 		StaticFlags ( 00200180 )
 		Position ( 99.6578 21.8147 11.5886 )
 		QDirection ( -0.000796087 0.605182 -0.000605182 0.796087 )
-	)
-	TrackObj (
-		UiD ( 2 )
-		SectionIdx ( 7 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB22f_A2t100mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 244.191 22.1147 -28.5377 )
-		QDirection ( -0.000796087 0.605182 -0.000605182 0.796087 )
-	)
-	TrackObj (
-		UiD ( 8 )
-		SectionIdx ( 2 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2fb_A1t100mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 291.702 22.1647 -44.3148 )
-		QDirection ( 0 -0.796086 0 0.605183 )
 	)
 	TrackObj (
 		UiD ( 9 )
@@ -252,56 +368,6 @@ Tr_Worldfile (
 		QDirection ( 0 0.679175 0 0.733976 )
 	)
 	TrackObj (
-		UiD ( 293 )
-		SectionIdx ( 5 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 292.369 22.1647 -41.9132 )
-		QDirection ( 0 -0.605183 0 -0.796087 )
-	)
-	TrackObj (
-		UiD ( 294 )
-		SectionIdx ( 5 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 282.733 22.1647 -39.2381 )
-		QDirection ( -0.000199022 0.605182 -0.000151296 0.796087 )
-	)
-	TrackObj (
-		UiD ( 295 )
-		SectionIdx ( 5 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 273.097 22.1597 -36.563 )
-		QDirection ( -0.000398044 0.605182 -0.000302591 0.796087 )
-	)
-	TrackObj (
-		UiD ( 296 )
-		SectionIdx ( 5 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 263.462 22.1497 -33.8879 )
-		QDirection ( -0.000597065 0.605182 -0.000453887 0.796086 )
-	)
-	TrackObj (
-		UiD ( 297 )
-		SectionIdx ( 5 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		FileName ( DB2f_A2t10mStrt.s )
-		StaticFlags ( 00200180 )
-		Position ( 253.826 22.1347 -31.2128 )
-		QDirection ( -0.000796087 0.605182 -0.000605182 0.796087 )
-	)
-	TrackObj (
 		UiD ( 298 )
 		SectionIdx ( 6 )
 		Elevation ( 0 )
@@ -476,42 +542,6 @@ Tr_Worldfile (
 		FileName ( NR_Emb2t10mStrt.s )
 		Position ( 961.694 22.0947 -161.348 )
 		QDirection ( 0 0.6792 0 0.734 )
-	)
-	Static (
-		UiD ( 319 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( 292.369 22.0947 -41.9132 )
-		QDirection ( 0 -0.6052 0 -0.7961 )
-	)
-	Static (
-		UiD ( 320 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( 282.733 22.0947 -39.2381 )
-		QDirection ( -0.000199 0.6052 -0.0001513 0.7961 )
-	)
-	Static (
-		UiD ( 321 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( 273.097 22.0897 -36.563 )
-		QDirection ( -0.000398 0.6052 -0.0003026 0.7961 )
-	)
-	Static (
-		UiD ( 322 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( 263.462 22.0797 -33.8879 )
-		QDirection ( -0.0005971 0.6052 -0.0004539 0.7961 )
-	)
-	Static (
-		UiD ( 323 )
-		FileName ( NR_Emb2t10mStrt.s )
-		Position ( 253.826 22.0647 -31.2128 )
-		QDirection ( -0.0007961 0.6052 -0.0006052 0.7961 )
-	)
-	Static (
-		UiD ( 324 )
-		FileName ( NR_Emb2t100mStrt.s )
-		Position ( 244.191 22.0447 -28.5377 )
-		QDirection ( -0.0007961 0.6052 -0.0006052 0.7961 )
 	)
 	Static (
 		UiD ( 325 )
@@ -1260,8 +1290,8 @@ Tr_Worldfile (
 	Static (
 		UiD ( 600 )
 		FileName ( PGA_DKGantry_Ng1t6m_KR.s )
-		Position ( 200.112 22.0246 -18.8872 )
-		QDirection ( 0.000605182 -0.796087 -0.000796088 0.605181 )
+		Position ( 200.069 22.0246 -18.9796 )
+		QDirection ( 0.000603723 -0.797194 -0.000797195 0.603723 )
 	)
 	Static (
 		UiD ( 601 )
@@ -1272,8 +1302,8 @@ Tr_Worldfile (
 	Static (
 		UiD ( 602 )
 		FileName ( PGA_DKGantry_Ng1t10m_LR.s )
-		Position ( 242.116 22.1118 -30.5487 )
-		QDirection ( 0.000605182 -0.796087 -0.000796088 0.605181 )
+		Position ( 242.181 22.1121 -30.9032 )
+		QDirection ( 0.000602559 -0.798074 -0.000798075 0.602559 )
 	)
 	Static (
 		UiD ( 603 )
@@ -1282,136 +1312,124 @@ Tr_Worldfile (
 		QDirection ( 0.000605182 -0.796087 -0.000796087 0.605182 )
 	)
 	Static (
-		UiD ( 604 )
-		FileName ( PGA_DKGantry_N2t6m_L.s )
-		Position ( 288.651 22.1647 -40.8889 )
-		QDirection ( 0 -0.796087 0 0.605183 )
-	)
-	Static (
-		UiD ( 605 )
-		FileName ( PGA_DKGantry_N2t6m_L.s )
-		Position ( 342.437 22.1647 -55.7245 )
-		QDirection ( 0 -0.79382 0 0.608153 )
-	)
-	Static (
 		UiD ( 606 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 453.465 22.1647 -88.8505 )
-		QDirection ( 0 -0.790702 0 0.612202 )
+		Position ( 453.279 22.1978 -90.1266 )
+		QDirection ( -2.51171e-05 -0.788745 3.22276e-05 0.61472 )
 	)
 	Static (
 		UiD ( 607 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 397.192 22.1647 -67.4107 )
-		QDirection ( 0 -0.788686 0 0.614797 )
+		Position ( 397.017 22.2016 -67.9827 )
+		QDirection ( -2.00636e-05 -0.791222 2.59591e-05 0.611529 )
 	)
 	Static (
 		UiD ( 608 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 395.408 22.1647 -73.1062 )
-		QDirection ( 0 -0.796087 0 0.605183 )
+		Position ( 394.638 22.2027 -74.5624 )
+		QDirection ( -2.47059e-05 -0.796486 3.25439e-05 0.604657 )
 	)
 	Static (
 		UiD ( 609 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 449.888 22.1647 -80.2169 )
-		QDirection ( 0 -0.783653 0 0.621199 )
+		Position ( 449.94 22.198 -81.2532 )
+		QDirection ( -2.02996e-05 -0.785609 2.57749e-05 0.618724 )
 	)
 	Static (
 		UiD ( 610 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 512.937 22.1647 -103.393 )
-		QDirection ( 0 -0.782494 0 0.622658 )
+		Position ( 512.708 22.1928 -104.289 )
+		QDirection ( -2.5527e-05 -0.780822 3.19039e-05 0.624753 )
 	)
 	Static (
 		UiD ( 611 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 565.361 22.1647 -114.834 )
-		QDirection ( 0 -0.775188 0 0.631731 )
+		Position ( 565.375 22.1884 -115.509 )
+		QDirection ( -2.58999e-05 -0.773733 3.16325e-05 0.633512 )
 	)
 	Static (
 		UiD ( 612 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 622.104 22.1647 -125.787 )
-		QDirection ( 0 -0.7672 0 0.641408 )
+		Position ( 622.069 22.1837 -126.21 )
+		QDirection ( -2.62799e-05 -0.766028 3.13175e-05 0.642807 )
 	)
 	Static (
 		UiD ( 613 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 682.163 22.1647 -135.782 )
-		QDirection ( 0 -0.758655 0 0.651493 )
+		Position ( 682.222 22.1787 -136.024 )
+		QDirection ( -2.67215e-05 -0.757767 3.10313e-05 0.652525 )
 	)
 	Static (
 		UiD ( 614 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 740.21 22.1647 -143.901 )
-		QDirection ( 0 -0.750303 0 0.661094 )
+		Position ( 740.248 22.1739 -144.007 )
+		QDirection ( -2.70999e-05 -0.749713 3.07015e-05 0.661763 )
 	)
 	Static (
 		UiD ( 615 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 799.591 22.1647 -150.656 )
-		QDirection ( 0 -0.741662 0 0.670774 )
+		Position ( 799.72 22.169 -150.692 )
+		QDirection ( -2.74822e-05 -0.741367 3.03597e-05 0.6711 )
 	)
 	Static (
 		UiD ( 616 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 511.091 22.1647 -93.9564 )
-		QDirection ( 0 -0.777766 0 0.628554 )
+		Position ( 510.722 22.1939 -95.2371 )
+		QDirection ( -2.05674e-05 -0.779112 2.55618e-05 0.626885 )
 	)
 	Static (
 		UiD ( 617 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 571.009 22.1647 -106.242 )
-		QDirection ( 0 -0.77196 0 0.635671 )
+		Position ( 570.762 22.1899 -107.748 )
+		QDirection ( -2.08285e-05 -0.772641 2.53495e-05 0.634844 )
 	)
 	Static (
 		UiD ( 618 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 625.701 22.1647 -116.459 )
-		QDirection ( 0 -0.766622 0 0.642099 )
+		Position ( 625.384 22.1862 -118.021 )
+		QDirection ( -2.10316e-05 -0.766706 2.5117e-05 0.641998 )
 	)
 	Static (
 		UiD ( 619 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 683.517 22.1647 -126.236 )
-		QDirection ( 0 -0.760938 0 0.648824 )
+		Position ( 683.279 22.1824 -127.766 )
+		QDirection ( -2.12772e-05 -0.760365 2.49093e-05 0.649496 )
 	)
 	Static (
 		UiD ( 620 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 741.456 22.1647 -134.988 )
-		QDirection ( 0 -0.7552 0 0.655495 )
+		Position ( 741.264 22.1786 -136.361 )
+		QDirection ( -2.15204e-05 -0.753961 2.46995e-05 0.656919 )
 	)
 	Static (
 		UiD ( 621 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 800.634 22.1647 -142.854 )
-		QDirection ( 0 -0.749293 0 0.662239 )
+		Position ( 799.145 22.1747 -143.786 )
+		QDirection ( -2.17498e-05 -0.747514 2.44762e-05 0.664246 )
 	)
 	Static (
 		UiD ( 622 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 859.916 22.1647 -149.656 )
-		QDirection ( 0 -0.743328 0 0.668927 )
+		Position ( 859.831 22.1708 -150.342 )
+		QDirection ( -2.19985e-05 -0.740694 2.42529e-05 0.671843 )
 	)
 	Static (
 		UiD ( 623 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 859.263 22.1647 -155.891 )
+		Position ( 859.23 22.1647 -155.889 )
 		QDirection ( 0 -0.733976 0 0.679176 )
 	)
 	Static (
 		UiD ( 624 )
 		FileName ( PGA_DKGantry_N1t6m_KR.s )
-		Position ( 918.624 22.1647 -160.502 )
+		Position ( 918.544 22.1647 -160.496 )
 		QDirection ( 0 -0.733976 0 0.679176 )
 	)
 	Static (
 		UiD ( 625 )
 		FileName ( PGA_DKGantry_N1t6m_LL.s )
-		Position ( 918.989 22.1648 -155.365 )
-		QDirection ( 0 -0.737337 0 0.675525 )
+		Position ( 918.909 22.1669 -155.524 )
+		QDirection ( -2.2238e-05 -0.733994 2.40335e-05 0.679156 )
 	)
 	Static (
 		UiD ( 628 )
@@ -1424,10 +1442,168 @@ Tr_Worldfile (
 		SectionIdx ( 33267 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( A1t15000r0_5d.s )
+		FileName ( DB22f_A1t15000r0_5d.s )
 		StaticFlags ( 00200180 )
-		Position ( 147.218 20.5192 -14.7709 )
-		QDirection ( 0.000605182 -0.796087 -0.000796088 0.605181 )
+		Position ( 273.143 22.1765 -39.7555 )
+		QDirection ( 0.000798721 -0.601702 0.000601702 -0.79872 )
+	)
+	TrackObj (
+		UiD ( 637 )
+		SectionIdx ( 2 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB22f_A1t100mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 148.502 21.9147 0.614809 )
+		QDirection ( 0.000605182 -0.796087 -0.000796088 0.605182 )
+	)
+	TrackObj (
+		UiD ( 638 )
+		SectionIdx ( 39814 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A1t20mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 264.128 22.1547 -31.4862 )
+		QDirection ( 0.000796087 -0.605183 0.000605183 -0.796086 )
+	)
+	TrackObj (
+		UiD ( 639 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2f_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 273.764 22.1747 -34.1613 )
+		QDirection ( 0.000796087 -0.605183 0.000605183 -0.796086 )
+	)
+	TrackObj (
+		UiD ( 640 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 282.755 22.1915 -42.5146 )
+		QDirection ( 0.00059904 -0.601702 0.000451277 -0.79872 )
+	)
+	TrackObj (
+		UiD ( 641 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 292.367 22.2015 -45.2737 )
+		QDirection ( 0.00039936 -0.601702 0.000300851 -0.798721 )
+	)
+	TrackObj (
+		UiD ( 642 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 301.979 22.2065 -48.0328 )
+		QDirection ( 0.00019968 -0.601702 0.000150426 -0.798721 )
+	)
+	TrackObj (
+		UiD ( 643 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 283.399 22.1897 -36.8363 )
+		QDirection ( 0.000597065 -0.605183 0.000453887 -0.796086 )
+	)
+	TrackObj (
+		UiD ( 644 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 293.035 22.1997 -39.5114 )
+		QDirection ( 0.000398043 -0.605183 0.000302592 -0.796086 )
+	)
+	TrackObj (
+		UiD ( 645 )
+		SectionIdx ( 0 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t10mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 302.671 22.2047 -42.1865 )
+		QDirection ( 0.000199022 -0.605183 0.000151296 -0.796086 )
+	)
+	TrackObj (
+		UiD ( 647 )
+		SectionIdx ( 1 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t50mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 301.979 22.2065 -48.0328 )
+		QDirection ( 0 -0.798721 0 0.601702 )
+	)
+	TrackObj (
+		UiD ( 648 )
+		SectionIdx ( 1 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( DB2fb_A1t50mStrt.s )
+		StaticFlags ( 00200180 )
+		Position ( 302.671 22.2047 -42.1865 )
+		QDirection ( 0 -0.796087 0 0.605183 )
+	)
+	Static (
+		UiD ( 658 )
+		FileName ( PGA_DKGantry_N1t6m_KR.s )
+		Position ( 287.758 22.1967 -43.9508 )
+		QDirection ( 0.000300851 -0.798721 -0.00039936 0.601702 )
+	)
+	Static (
+		UiD ( 659 )
+		FileName ( PGA_DKGantry_N1t6m_KR.s )
+		Position ( 341.447 22.2065 -59.3622 )
+		QDirection ( 0 -0.798721 0 0.601702 )
+	)
+	Static (
+		UiD ( 660 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 342.969 22.2047 -53.3743 )
+		QDirection ( 0 -0.796087 0 0.605183 )
+	)
+	Static (
+		UiD ( 661 )
+		FileName ( PGA_DKGantry_N1t6m_LL.s )
+		Position ( 289.167 22.1957 -38.4375 )
+		QDirection ( 0.000302592 -0.796086 -0.000398043 0.605183 )
+	)
+	Static (
+		UiD ( 662 )
+		FileName ( NR_Emb1t100mStrt.s )
+		Position ( 148.502 21.8447 0.614772 )
+		QDirection ( 0.0006052 -0.7961 -0.0007961 0.6052 )
+	)
+	Static (
+		UiD ( 663 )
+		FileName ( NR_Emb1t15000r0_5d.s )
+		Position ( 273.143 22.1065 -39.7555 )
+		QDirection ( 0.0007987 -0.6017 0.0006017 -0.7987 )
+	)
+	Static (
+		UiD ( 664 )
+		FileName ( NR_Emb1t10mStrt.s )
+		Position ( 273.764 22.1047 -34.1613 )
+		QDirection ( 0.0007961 -0.6052 0.0006052 -0.7961 )
+	)
+	Static (
+		UiD ( 665 )
+		FileName ( NR_Emb1t20mstrt.s )
+		Position ( 264.128 22.0847 -31.4862 )
+		QDirection ( 0.0007961 -0.6052 0.0006052 -0.7961 )
 	)
 	Tr_Watermark ( 7 )
 	TrackObj (

@@ -28,8 +28,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2f_A2t250mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( -73.1039 15.6574 845.424 )
-		QDirection ( 0 0.535339 0 0.844637 )
+		Position ( -73.1039 15.6574 845.423 )
+		QDirection ( 0 -0.535339 0 -0.844637 )
 	)
 	Static (
 		UiD ( 201 )
