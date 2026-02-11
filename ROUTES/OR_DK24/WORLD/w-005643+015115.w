@@ -1,81 +1,33 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
+	TrackObj (
 		UiD ( 593 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 58540 40.4901 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58542 -0.0174522 10869
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 2.94273e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52728 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-52728.s )
+		StaticFlags ( 00200180 )
 		Position ( -124.62 19.3441 797.311 )
 		QDirection ( 0.00250611 -0.882699 -0.0047076 0.469909 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 689 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58544 -0.017455 10949.4
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 58546 18.6938 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 2.94273e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52729 )
 		Elevation ( -0.00999874 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-52729.s )
+		StaticFlags ( 00200180 )
 		Position ( -254.566 17.7361 890.782 )
 		QDirection ( 0.0023441 -0.882701 -0.00440327 0.469909 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 694 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 3.90212e-06 1.30209e+07
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 58548 239.993 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 2.94273e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52730 )
 		Elevation ( -0.0017 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-52730.s )
+		StaticFlags ( 00200180 )
 		Position ( 1019.91 10.4105 62.9554 )
 		QDirection ( 0.00345935 0.477597 0.00188053 0.87857 )
 	)

@@ -1,159 +1,63 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
+	TrackObj (
 		UiD ( 650 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58466 -0.08 2389.48
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 28.6707 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52705 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52705.s )
+		StaticFlags ( 00200180 )
 		Position ( 662.042 22.1803 -132.907 )
 		QDirection ( -2.65887e-05 -0.760548 3.11452e-05 0.649281 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 651 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58464 -0.06 2389.43
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 28.6758 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52704 )
 		Elevation ( 0.002 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52704.s )
+		StaticFlags ( 00200180 )
 		Position ( 521.211 22.192 -106.185 )
 		QDirection ( -2.56e-05 -0.779682 3.18757e-05 0.626176 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 653 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 58452 28.6723 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58454 -0.0620175 2389.48
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52700 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52700.s )
+		StaticFlags ( 00200180 )
 		Position ( 350.038 22.2065 -61.8283 )
 		QDirection ( -2.45852e-05 -0.798721 3.26352e-05 0.601702 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 655 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58456 -0.08 2989.56
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 32.9565 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52701 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52701.s )
+		StaticFlags ( 00200180 )
 		Position ( 350.848 22.2047 -55.5619 )
 		QDirection ( -1.98554e-05 -0.796087 2.61187e-05 0.605183 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 656 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58458 -0.06 2989.55
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 32.9569 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52702 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52702.s )
+		StaticFlags ( 00200180 )
 		Position ( 583.609 22.189 -110.259 )
 		QDirection ( -2.08526e-05 -0.771249 2.52658e-05 0.636534 )
 	)
-	Dyntrack (
+	TrackObj (
 		UiD ( 657 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 58460 -0.0532858 2989.61
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 58462 32.9539 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 8.40779e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
 		SectionIdx ( 52703 )
 		Elevation ( -0.00900012 )
 		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52703.s )
+		StaticFlags ( 00200180 )
 		Position ( 760.641 22.1773 -138.975 )
 		QDirection ( -2.15905e-05 -0.751809 2.46169e-05 0.659381 )
 	)

@@ -1,58 +1,6 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	Dyntrack (
-		UiD ( 580 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 58532 128.834 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 -1.99477e-06 4.19423e+07
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 2.94273e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 52725 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( -975.451 10.6513 -112.039 )
-		QDirection ( -0.00252344 -0.545587 -0.00164281 -0.838049 )
-	)
-	Dyntrack (
-		UiD ( 581 )
-		TrackSections (
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 -1.0411e-06 5.78574e+07
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 58534 128.833 0
-			)
-			TrackSection (
-				SectionCurve ( 1 ) 4294967295 0 2.94273e-44
-			)
-			TrackSection (
-				SectionCurve ( 0 ) 4294967295 0 0
-			)
-		)
-		SectionIdx ( 52726 )
-		Elevation ( 0 )
-		CollideFlags ( 39 )
-		StaticFlags ( 00100000 )
-		Position ( -973.433 10.6513 -107.481 )
-		QDirection ( -0.00251637 -0.545587 -0.0016382 -0.838049 )
-	)
 	Signal (
 		UiD ( 557 )
 		FileName ( dkamsigH.s )
@@ -98,6 +46,26 @@ Tr_Worldfile (
 		FileName ( Invisible.s )
 		Position ( 315.572 13.5209 -674.604 )
 		QDirection ( 0 0.54559 0 0.838052 )
+	)
+	TrackObj (
+		UiD ( 580 )
+		SectionIdx ( 52725 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-52725.s )
+		StaticFlags ( 00200180 )
+		Position ( -975.451 10.6513 -112.039 )
+		QDirection ( -0.00252344 -0.545587 -0.00164281 -0.838049 )
+	)
+	TrackObj (
+		UiD ( 581 )
+		SectionIdx ( 52726 )
+		Elevation ( 0 )
+		CollideFlags ( 39 )
+		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2f_DynaTrax-52726.s )
+		StaticFlags ( 00200180 )
+		Position ( -973.433 10.6513 -107.481 )
+		QDirection ( -0.00251637 -0.545587 -0.0016382 -0.838049 )
 	)
 	TrackObj (
 		UiD ( 5 )
