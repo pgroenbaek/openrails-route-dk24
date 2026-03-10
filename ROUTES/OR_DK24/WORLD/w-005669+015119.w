@@ -33,4 +33,16 @@ Tr_Worldfile (
 		Position ( -1011.27 51.0279 -975.295 )
 		QDirection ( -0.0008672 0.9379 0.002345 -0.3469 )
 	)
+	Static (
+		UiD ( 16 )
+		FileName ( PGA_DKGantry_N2t6m_K.s )
+		Position ( -1023.2 51.0058 -961.246 )
+		QDirection ( 0.000856348 -0.939501 -0.00234877 0.342537 )
+	)
+	Static (
+		UiD ( 17 )
+		FileName ( PGA_DKGantry_N2t6m_K.s )
+		Position ( -991.939 51.245 -997.528 )
+		QDirection ( 0.000884409 -0.935332 -0.00233835 0.353761 )
+	)
 )
