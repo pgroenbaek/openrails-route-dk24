@@ -1,15 +1,31 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
-	TrackObj (
-		UiD ( 663 )
-		SectionIdx ( 52619 )
-		Elevation ( 2.78858e-43 )
+	Dyntrack (
+		UiD ( 666 )
+		TrackSections (
+			TrackSection (
+				SectionCurve ( 0 ) 58622 0 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 58624 -0.024995 7018.35
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 58626 66.9657 0
+			)
+			TrackSection (
+				SectionCurve ( 1 ) 4294967295 0 1.9478e-43
+			)
+			TrackSection (
+				SectionCurve ( 0 ) 4294967295 0 0
+			)
+		)
+		SectionIdx ( 52755 )
+		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( ../../ROUTES/OR_DK24/SHAPES/DB2fb_DynaTrax-52619.s )
-		StaticFlags ( 00200180 )
-		Position ( 621.499 48.9772 -431.912 )
-		QDirection ( 5.9399e-05 -0.951567 -0.000183847 0.30744 )
+		StaticFlags ( 00100000 )
+		Position ( 621.499 48.9488 -431.912 )
+		QDirection ( 7.7406e-05 -0.951567 -0.000239581 0.30744 )
 	)
 	TrackObj (
 		UiD ( 664 )
@@ -970,7 +986,7 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2fb_A1t5mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 612.722 48.9597 -419.747 )
+		Position ( 612.722 48.9338 -419.748 )
 		QDirection ( 0.00023058 -0.951567 -0.000713676 0.30744 )
 	)
 	TrackObj (
@@ -1000,8 +1016,8 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2fb_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 583.467 48.8847 -379.199 )
-		QDirection ( 0.000951568 -0.30744 0.00030744 -0.951567 )
+		Position ( 554.212 48.7588 -338.652 )
+		QDirection ( 0.000307441 -0.951567 -0.000951568 0.30744 )
 	)
 	TrackObj (
 		UiD ( 657 )
@@ -1010,7 +1026,7 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2fb_A1t50mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 583.467 48.8847 -379.199 )
+		Position ( 583.467 48.8588 -379.2 )
 		QDirection ( 0.00023058 -0.951567 -0.000713676 0.30744 )
 	)
 	TrackObj (
@@ -1020,7 +1036,7 @@ Tr_Worldfile (
 		CollideFlags ( 39 )
 		FileName ( DB2fb_A1t10mStrt.s )
 		StaticFlags ( 00200180 )
-		Position ( 615.648 48.9672 -423.802 )
+		Position ( 615.648 48.9388 -423.802 )
 		QDirection ( 0.00015372 -0.951567 -0.000475784 0.30744 )
 	)
 	TrackObj (
