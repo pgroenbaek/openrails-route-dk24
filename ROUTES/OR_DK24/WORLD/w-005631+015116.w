@@ -1,6 +1,28 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Speedpost (
+		UiD ( 329 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 267 )
+		TrItemId ( 0 268 )
+		FileName ( Invisible.s )
+		Position ( -854.507 -15.6561 985.115 )
+		QDirection ( 0 0.74936 0 0.662163 )
+	)
+	Speedpost (
+		UiD ( 330 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 269 )
+		TrItemId ( 0 270 )
+		FileName ( Invisible.s )
+		Position ( -849.3 -15.6247 979.717 )
+		QDirection ( 0 -0.661812 0 0.74967 )
+	)
 	TrackObj (
 		UiD ( 255 )
 		SectionIdx ( 52653 )

@@ -81,7 +81,7 @@ Tr_Worldfile (
 	Signal (
 		UiD ( 1062 )
 		FileName ( DKpusigM.s )
-		Position ( -151.413 15.5837 -256.136 )
+		Position ( -151.476 15.5837 -256.326 )
 		QDirection ( 0 0.584629 0 0.811301 )
 		SignalSubObj ( 00000001 )
 		SignalUnits ( 1
@@ -103,10 +103,46 @@ Tr_Worldfile (
 		)
 	)
 	Signal (
-		UiD ( 1066 )
+		UiD ( 1135 )
 		FileName ( DKpusigM.s )
-		Position ( 498.72 15.6074 -499.8 )
+		Position ( -159.725 15.5837 -247.404 )
+		QDirection ( 0 0.585217 0 0.810877 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 64 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1137 )
+		FileName ( DKpusigM.s )
+		Position ( 243.968 15.592 -404.424 )
+		QDirection ( 0 -0.821827 0 0.569737 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 313 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1138 )
+		FileName ( DKpusigM.s )
+		Position ( 519.409 15.6074 -509.344 )
 		QDirection ( 0 -0.844637 0 0.535339 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 314 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1139 )
+		FileName ( dk3udsigH.s )
+		Position ( 795.331 15.6074 -651.923 )
+		QDirection ( 0 0.844637 0 -0.535339 )
 		SignalSubObj ( 00000001 )
 		SignalUnits ( 1
 			SignalUnit ( 0
@@ -115,14 +151,41 @@ Tr_Worldfile (
 		)
 	)
 	Signal (
-		UiD ( 1135 )
-		FileName ( DKpusigM.s )
-		Position ( -159.63 15.5837 -247.119 )
-		QDirection ( 0 0.585217 0 0.810877 )
+		UiD ( 1140 )
+		FileName ( dk4indsigH.s )
+		Position ( 889.326 15.6074 -684.14 )
+		QDirection ( 0 0.535339 0 0.844637 )
+		SignalSubObj ( 00000023 )
+		SignalUnits ( 2
+			SignalUnit ( 0
+				TrItemId ( 0 315 )
+			)
+			SignalUnit ( 1
+				TrItemId ( 0 316 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1142 )
+		FileName ( DKvusig.s )
+		Position ( 797.98 15.3074 -647.109 )
+		QDirection ( 0 0.844637 0 -0.535339 )
 		SignalSubObj ( 00000001 )
 		SignalUnits ( 1
 			SignalUnit ( 0
-				TrItemId ( 0 64 )
+				TrItemId ( 0 317 )
+			)
+		)
+	)
+	Signal (
+		UiD ( 1144 )
+		FileName ( DKvisig.s )
+		Position ( 887.169 15.3074 -689.187 )
+		QDirection ( 0 0.535339 0 0.844637 )
+		SignalSubObj ( 00000001 )
+		SignalUnits ( 1
+			SignalUnit ( 0
+				TrItemId ( 0 318 )
 			)
 		)
 	)
@@ -3338,6 +3401,12 @@ Tr_Worldfile (
 		Position ( -194.54 15.5837 -239.822 )
 		QDirection ( 0 -0.6131 0 -0.79 )
 	)
+	Static (
+		UiD ( 1141 )
+		FileName ( PGA_DKSign_Location_Marslev.s )
+		Position ( 889.401 19.5074 -684.175 )
+		QDirection ( 0 0.5353 0 0.8446 )
+	)
 	Tr_Watermark ( 7 )
 	TrackObj (
 		UiD ( 538 )
@@ -3352,7 +3421,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1079 )
 		FileName ( dkrelae3.s )
-		Position ( 878.026 15.3074 -677.701 )
+		Position ( 920.862 15.3074 -697.919 )
 		QDirection ( 0 0.975791 0 0.218707 )
 	)
 	Static (
@@ -3370,7 +3439,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 1082 )
 		FileName ( dkrelae3.s )
-		Position ( 714.736 15.3074 -614.991 )
+		Position ( 772.838 15.2574 -642.413 )
 		QDirection ( 0 0.218707 0 -0.975791 )
 	)
 )

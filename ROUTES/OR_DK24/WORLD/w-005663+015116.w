@@ -1,6 +1,33 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Platform (
+		UiD ( 777 )
+		PlatformData ( 00000002 )
+		TrItemId ( 0 303 )
+		TrItemId ( 0 304 )
+		StaticFlags ( 00000100 )
+		Position ( 34.7229 57.8561 866.456 )
+		QDirection ( 0 0 0 1 )
+	)
+	Platform (
+		UiD ( 778 )
+		PlatformData ( 00000002 )
+		TrItemId ( 0 305 )
+		TrItemId ( 0 306 )
+		StaticFlags ( 00000100 )
+		Position ( -50.9026 57.7348 933.078 )
+		QDirection ( 0 0 0 1 )
+	)
+	Platform (
+		UiD ( 779 )
+		PlatformData ( 00000002 )
+		TrItemId ( 0 307 )
+		TrItemId ( 0 308 )
+		StaticFlags ( 00000100 )
+		Position ( -55.6107 57.7346 929.322 )
+		QDirection ( 0 0 0 1 )
+	)
 	TrackObj (
 		UiD ( 507 )
 		SectionIdx ( 50820 )

@@ -25,6 +25,17 @@ Tr_Worldfile (
 			)
 		)
 	)
+	Speedpost (
+		UiD ( 7200 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.16 0.125 0 )
+		TrItemId ( 0 293 )
+		TrItemId ( 0 294 )
+		FileName ( Invisible.s )
+		Position ( 75.5351 17.1317 906.288 )
+		QDirection ( 0 0.814353 0 0.580369 )
+	)
 	Static (
 		UiD ( 5150 )
 		FileName ( V4_2tbr2_Strt_020m_A2Beton_GreyRailing.s )
