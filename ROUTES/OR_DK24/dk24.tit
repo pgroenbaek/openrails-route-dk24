@@ -1015,7 +1015,7 @@ TrItemTable ( 321
 	CrossoverItem (
 		TrItemId ( 160 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 671.1721 9.471409 617.6163 -5676 15127 )
+		TrItemRData ( 671.1721 9.471408 617.6163 -5676 15127 )
 		CrossoverTrItemData ( 159 22042 )
 	)
 	CrossoverItem (
@@ -1129,37 +1129,37 @@ TrItemTable ( 321
 	CrossoverItem (
 		TrItemId ( 179 )
 		TrItemSData ( 12.49996 00000002 )
-		TrItemRData ( 462.8669 9.57246 -771.4985 -5676 15128 )
+		TrItemRData ( 462.8669 9.572459 -771.4985 -5676 15128 )
 		CrossoverTrItemData ( 180 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 180 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 462.8669 9.57246 -771.4982 -5676 15128 )
+		TrItemRData ( 462.8669 9.572459 -771.4982 -5676 15128 )
 		CrossoverTrItemData ( 179 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 181 )
 		TrItemSData ( 12.49996 00000002 )
-		TrItemRData ( 427.6769 9.57246 -734.9573 -5676 15128 )
+		TrItemRData ( 427.6769 9.572459 -734.9573 -5676 15128 )
 		CrossoverTrItemData ( 182 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 182 )
 		TrItemSData ( 12.50003 00000002 )
-		TrItemRData ( 427.6769 9.57246 -734.9572 -5676 15128 )
+		TrItemRData ( 427.6769 9.572459 -734.9572 -5676 15128 )
 		CrossoverTrItemData ( 181 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 183 )
 		TrItemSData ( 12.50004 00000002 )
-		TrItemRData ( 315.7369 9.572462 -645.6633 -5676 15128 )
+		TrItemRData ( 315.7369 9.572461 -645.6633 -5676 15128 )
 		CrossoverTrItemData ( 184 22042 )
 	)
 	CrossoverItem (
 		TrItemId ( 184 )
 		TrItemSData ( 12.49997 00000002 )
-		TrItemRData ( 315.7369 9.572462 -645.6631 -5676 15128 )
+		TrItemRData ( 315.7369 9.572461 -645.6631 -5676 15128 )
 		CrossoverTrItemData ( 183 22042 )
 	)
 	CrossoverItem (
@@ -1701,8 +1701,8 @@ TrItemTable ( 321
 	SpeedPostItem (
 		TrItemId ( 272 )
 		TrItemSData ( 2741.493 00000006 )
-		TrItemPData ( 862.5497 -332.0069 -5676 15123 )
-		TrItemRData ( 862.5497 19.37254 -332.0069 -5676 15123 )
+		TrItemPData ( 862.5496 -332.0069 -5676 15123 )
+		TrItemRData ( 862.5496 19.37254 -332.0069 -5676 15123 )
 		SpeedpostTrItemData ( 130 170 6.250052 )
 	)
 	SpeedPostItem (
@@ -1766,7 +1766,7 @@ TrItemTable ( 321
 		TrItemSData ( 3654.087 00000006 )
 		TrItemPData ( -245.0699 -293.6038 -5677 15125 )
 		TrItemRData ( -245.0699 30.3319 -293.6038 -5677 15125 )
-		SpeedpostTrItemData ( 130 130 0.9326516 )
+		SpeedpostTrItemData ( 130 130 0.9326515 )
 	)
 	SpeedPostItem (
 		TrItemId ( 282 )
@@ -1833,7 +1833,7 @@ TrItemTable ( 321
 	)
 	SpeedPostItem (
 		TrItemId ( 291 )
-		TrItemSData ( 4400.878 00000006 )
+		TrItemSData ( 4400.877 00000006 )
 		TrItemPData ( 1031.206 549.2875 -5640 15114 )
 		TrItemRData ( 1031.206 17.13171 549.2875 -5640 15114 )
 		SpeedpostTrItemData ( 640 126 3.435709 )
@@ -1854,7 +1854,7 @@ TrItemTable ( 321
 	)
 	SpeedPostItem (
 		TrItemId ( 294 )
-		TrItemSData ( 5704.355 00000006 )
+		TrItemSData ( 5704.354 00000006 )
 		TrItemPData ( 78.14126 898.7396 -5639 15114 )
 		TrItemRData ( 78.14126 17.13171 898.7396 -5639 15114 )
 		SpeedpostTrItemData ( 128 125 3.474025 )
@@ -1868,7 +1868,7 @@ TrItemTable ( 321
 	)
 	SpeedPostItem (
 		TrItemId ( 296 )
-		TrItemSData ( 6855.337 00000006 )
+		TrItemSData ( 6855.336 00000006 )
 		TrItemPData ( -889.3599 -752.8769 -5638 15115 )
 		TrItemRData ( -889.3599 17.1317 -752.8769 -5638 15115 )
 		SpeedpostTrItemData ( 128 124 3.512387 )
@@ -1896,7 +1896,7 @@ TrItemTable ( 321
 	)
 	SpeedPostItem (
 		TrItemId ( 300 )
-		TrItemSData ( 9145.628 00000006 )
+		TrItemSData ( 9145.627 00000006 )
 		TrItemPData ( -836.4495 157.6472 -5637 15115 )
 		TrItemRData ( -836.4495 15.81158 157.6472 -5637 15115 )
 		SpeedpostTrItemData ( 128 122 3.588723 )
@@ -1912,7 +1912,7 @@ TrItemTable ( 321
 		TrItemId ( 302 )
 		TrItemSData ( 10289.99 00000006 )
 		TrItemPData ( 186.6013 670.2799 -5637 15115 )
-		TrItemRData ( 186.6013 9.676074 670.2799 -5637 15115 )
+		TrItemRData ( 186.6013 9.676073 670.2799 -5637 15115 )
 		SpeedpostTrItemData ( 128 121 3.615495 )
 	)
 	PlatformItem (
@@ -1968,7 +1968,7 @@ TrItemTable ( 321
 	PlatformItem (
 		TrItemId ( 308 )
 		TrItemSData ( 363.4062 00000002 )
-		TrItemRData ( 9.756744 57.82449 863.1038 -5663 15116 )
+		TrItemRData ( 9.756743 57.82449 863.1038 -5663 15116 )
 		PlatformTrItemData ( ffff0000 307 )
 		PlatformName ( "Tommerup, Spor 1" )
 		Station ( "Tommerup" )
@@ -1979,7 +1979,7 @@ TrItemTable ( 321
 		TrItemId ( 309 )
 		TrItemSData ( 402.1657 00000006 )
 		TrItemPData ( -838.2712 -868.6213 -5636 15116 )
-		TrItemRData ( -838.2712 0.3796115 -868.6213 -5636 15116 )
+		TrItemRData ( -838.2712 0.3796116 -868.6213 -5636 15116 )
 		SpeedpostTrItemData ( 640 120 3.580245 )
 	)
 	SpeedPostItem (
@@ -2011,7 +2011,7 @@ TrItemTable ( 321
 	)
 	SignalItem (
 		TrItemId ( 314 )
-		TrItemSData ( 92.43411 00000002 )
+		TrItemSData ( 92.4341 00000002 )
 		TrItemRData ( 520.6046 15.60738 -506.8118 -5651 15118 )
 		TrSignalType ( 00000000 1 5.153367 dkpusig )
 	)

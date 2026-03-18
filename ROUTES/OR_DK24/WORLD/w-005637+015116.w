@@ -126,7 +126,7 @@ Tr_Worldfile (
 	Static (
 		UiD ( 58 )
 		FileName ( dkmast440.s )
-		Position ( 916.766 3.18763 -1015.07 )
+		Position ( 916.638 3.18763 -1014.8 )
 		QDirection ( -0.0033468 -0.535195 0.00212046 0.844719 )
 	)
 	Static (

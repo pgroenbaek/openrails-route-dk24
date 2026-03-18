@@ -58,7 +58,7 @@ Tr_Worldfile (
 	Signal (
 		UiD ( 4784 )
 		FileName ( DKpusig.s )
-		Position ( 916.621 7.68547 1033 )
+		Position ( 916.493 7.68547 1033.27 )
 		QDirection ( 0 0.535208 0 -0.84472 )
 		SignalSubObj ( 00000001 )
 		SignalUnits ( 1
