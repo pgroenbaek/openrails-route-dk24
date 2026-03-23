@@ -1,6 +1,26 @@
 SIMISA@@@@@@@@@@JINX0w0t______
 
 Tr_Worldfile (
+	Speedpost (
+		UiD ( 126 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 322 )
+		FileName ( Invisible.s )
+		Position ( -367.008 43.8214 -825.499 )
+		QDirection ( 0 0.760404 0 -0.649451 )
+	)
+	Speedpost (
+		UiD ( 127 )
+		Speed_Digit_Tex ( Transparent.ace )
+		Speed_Sign_Shape ( 1 0.00018 1.625 -0.15139 -3.14159 )
+		Speed_Text_Size ( 0.18 0.15 0 )
+		TrItemId ( 0 323 )
+		FileName ( Invisible.s )
+		Position ( -364.655 43.8214 -814.749 )
+		QDirection ( 0 0.649451 0 0.760403 )
+	)
 	TrackObj (
 		UiD ( 121 )
 		SectionIdx ( 50155 )
@@ -136,7 +156,7 @@ Tr_Worldfile (
 		SectionIdx ( 8 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2fb_A2t250mStrt.s )
+		FileName ( DB2f_A2t250mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( -122.009 43.8214 -858.739 )
 		QDirection ( 0 -0.649452 0 -0.760402 )
@@ -206,7 +226,7 @@ Tr_Worldfile (
 		SectionIdx ( 5 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2fb_A2t10mStrt.s )
+		FileName ( DB2f_A2t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( -378.808 43.8114 -818.069 )
 		QDirection ( 0.000324726 -0.760402 -0.000380201 0.649452 )
@@ -216,7 +236,7 @@ Tr_Worldfile (
 		SectionIdx ( 5 )
 		Elevation ( 0 )
 		CollideFlags ( 39 )
-		FileName ( DB2fb_A2t10mStrt.s )
+		FileName ( DB2f_A2t10mStrt.s )
 		StaticFlags ( 00200180 )
 		Position ( -378.808 43.8114 -818.069 )
 		QDirection ( 0.000760403 -0.649452 0.000649453 -0.760402 )
