@@ -4,7 +4,6 @@ import math
 import json
 import numpy as np
 import trackshapeutils as tsu
-from shapeio.shape import Point
 
 GLOBAL_TSECTION = "../GLOBAL/tsection.dat"
 GLOBAL_TSECTIONEXT = "../ROUTES/OR_DK24/OPENRAILS/tsection.dat" # Set to None if not used.
@@ -13,10 +12,10 @@ LOCAL_TSECTION = "../ROUTES/OR_DK24/tsection.dat"
 TIT_FILE = "../ROUTES/OR_DK24/dk24.tit"
 TDB_FILE = "../ROUTES/OR_DK24/DK24.tdb"
 WORLD_FOLDER = "../ROUTES/OR_DK24/WORLD"
-OUTPUT_FOLDER = "./stations/"
+OUTPUT_FOLDER = "../DATA/trackcenters"
 
-STATION_NAME = "Tommerup"
-ONLY_PLATFORMS = True
+STATION_NAME = "EmbankmentTest"
+TRIM_TRVECTORS_TO_PLATFORMS = True
 DYNTRACK_SECTIONIDX_START = 50000
 TILE_SIZE = 2048
 NUM_POINTS_PER_METER = 0.3
@@ -239,7 +238,7 @@ def generate_platform_trackcenters(platforms, tr_vector_sections, station_tit_it
 
 
 def trim_platform_trackcenters(platforms, platform_trackcenters, station_tit_items, ref_local_x, ref_local_y, ref_local_z, ref_tile_x, ref_tile_y):
-    if not ONLY_PLATFORMS:
+    if not TRIM_TRVECTORS_TO_PLATFORMS:
         return
     for platform, trackcenter in zip(platforms, platform_trackcenters):
         points = trackcenter.centerpoints
