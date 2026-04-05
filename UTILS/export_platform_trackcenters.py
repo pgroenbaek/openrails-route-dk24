@@ -22,6 +22,7 @@ import json
 import numpy as np
 import trackshapeutils as tsu
 
+
 GLOBAL_TSECTION = "../GLOBAL/tsection.dat"
 GLOBAL_TSECTIONEXT = "../ROUTES/OR_DK24/OPENRAILS/tsection.dat" # Set to None if not used.
 LOCAL_TSECTION = "../ROUTES/OR_DK24/tsection.dat"
