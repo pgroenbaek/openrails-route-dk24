@@ -21,7 +21,7 @@ import requests
 import pandas as pd
 
 
-EXPORT_FOLDER = "..\DATA\"
+EXPORT_FOLDER = '..\DATA\'
 BASE_URL = 'https://services1.arcgis.com/QcgJt0vVxSaqMKl7/arcgis/rest/services/'
 QUERY_URLS = [
     "Adgangsveje_OD/FeatureServer/0/query",
