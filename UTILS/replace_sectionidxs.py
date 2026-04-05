@@ -20,7 +20,13 @@ import re
 import fnmatch
 
 
-def replace_sectionidx(world_file: str, replace_greater_than: int = 49999, replace_with: int = 0) -> None:
+SEARCH_PATH = "../ROUTES/OR_DK24/WORLD"
+
+REPLACE_GREATER_THAN = 49999
+REPLACE_WITH = 0
+
+
+def replace_sectionidx(world_file: str, REPLACE_GREATER_THAN: int = 49999, replace_with: int = 0) -> None:
     pattern = r"(SectionIdx\s*\(\s*)(\d+)(\s*\))"
 
     print(f"Processing {world_file}")
@@ -51,11 +57,7 @@ def find_world_files(search_directory: str) -> List[str]:
 
 
 if __name__ == "__main__":
-    search_path = "../ROUTES/OR_DK24/WORLD"
-    replace_greater_than = 49999
-    replace_with = 0
-    
-    world_files = find_world_files(search_path)
+    world_files = find_world_files(SEARCH_PATH)
 
     for world_file in world_files:
-      replace_sectionidx(world_file, replace_greater_than, replace_with)
+      replace_sectionidx(world_file, REPLACE_GREATER_THAN, REPLACE_WITH)

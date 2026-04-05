@@ -1,3 +1,20 @@
+"""
+Copyright (C) 2026 Peter Grønbæk Andersen <peter@grnbk.io>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+"""
+
 import re
 import os
 import math
@@ -12,11 +29,18 @@ RIT_FILE = "../ROUTES/OR_DK24/dk24.rit"
 RDB_FILE = "../ROUTES/OR_DK24/DK24.rdb"
 OUTPUT_FOLDER = "../DATA/roadcenters"
 
-ROADCENTERS_OUTPUT_NAME = "Test"
-CARSPAWNER_TRITEM_IDS = [1, 3] # Only need to put one of the TrItem id's from each spawner.
+ROADCENTERS_OUTPUT_NAME = "DKEmb_Bred_181_8"
+CARSPAWNER_TRITEM_IDS = [0, 2] # Only need to put a single TrItem ID from each carspawner.
 TRIM_TRVECTORS_TO_CARSPAWNERS = True
 TILE_SIZE = 2048
 NUM_POINTS_PER_METER = 0.3
+
+# Optional manual reference point override
+REFERENCE_TILE_X = -5666
+REFERENCE_TILE_Y = 15118
+REFERENCE_LOCAL_X = 702.968
+REFERENCE_LOCAL_Y = 50.62607
+REFERENCE_LOCAL_Z = -552.1223
 
 
 def read_file(path, encoding='utf-16-le'):
@@ -114,8 +138,16 @@ def parse_tr_vector_sections(carspawner_tr_ids, tdb_text):
 def generate_carspawner_roadcenters(tr_item_ids, tr_vector_sections, carspawner_rit_items, global_tsection_text):
     carspawner_roadcenters = []
     ref_tritemid = tr_item_ids[0][0]
-    ref_local_x, ref_local_y, ref_local_z = carspawner_rit_items[ref_tritemid]["TrItemRData"][:3]
-    ref_tile_x, ref_tile_y = carspawner_rit_items[ref_tritemid]["TrItemRData"][3:5]
+    if REFERENCE_TILE_X is not None:
+        ref_tile_x = REFERENCE_TILE_X
+        ref_tile_y = REFERENCE_TILE_Y
+        ref_local_x = REFERENCE_LOCAL_X
+        ref_local_y = REFERENCE_LOCAL_Y
+        ref_local_z = REFERENCE_LOCAL_Z
+    else:
+        ref_tritemid = tr_item_ids[0][0]
+        ref_local_x, ref_local_y, ref_local_z = carspawner_rit_items[ref_tritemid]["TrItemRData"][:3]
+        ref_tile_x, ref_tile_y = carspawner_rit_items[ref_tritemid]["TrItemRData"][3:5]
 
     for sections in tr_vector_sections:
         roadcenter = tsu.generate_empty_centerpoints()

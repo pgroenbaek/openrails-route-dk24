@@ -1,3 +1,20 @@
+"""
+Copyright (C) 2026 Peter Grønbæk Andersen <peter@grnbk.io>
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+"""
+
 import re
 import os
 import math
@@ -14,11 +31,18 @@ TDB_FILE = "../ROUTES/OR_DK24/DK24.tdb"
 WORLD_FOLDER = "../ROUTES/OR_DK24/WORLD"
 OUTPUT_FOLDER = "../DATA/trackcenters"
 
-STATION_NAME = "EmbankmentTest"
+STATION_NAME = "DKEmb_Bred_181_8"
 TRIM_TRVECTORS_TO_PLATFORMS = True
 DYNTRACK_SECTIONIDX_START = 50000
 TILE_SIZE = 2048
 NUM_POINTS_PER_METER = 0.3
+
+# Optional manual reference point override
+REFERENCE_TILE_X = None
+REFERENCE_TILE_Y = None
+REFERENCE_LOCAL_X = None
+REFERENCE_LOCAL_Y = None
+REFERENCE_LOCAL_Z = None
 
 
 def read_file(path, encoding='utf-16-le'):
@@ -155,8 +179,16 @@ def parse_tr_vector_sections(platforms, tdb_text):
 def generate_platform_trackcenters(platforms, tr_vector_sections, station_tit_items, global_tsection_text, local_tsection_text):
     platform_trackcenters = []
     ref_tritemid = platforms[0]["TrItemIds"][0]
-    ref_local_x, ref_local_y, ref_local_z = station_tit_items[ref_tritemid]["TrItemRData"][:3]
-    ref_tile_x, ref_tile_y = station_tit_items[ref_tritemid]["TrItemRData"][3:5]
+    if REFERENCE_TILE_X is not None:
+        ref_tile_x = REFERENCE_TILE_X
+        ref_tile_y = REFERENCE_TILE_Y
+        ref_local_x = REFERENCE_LOCAL_X
+        ref_local_y = REFERENCE_LOCAL_Y
+        ref_local_z = REFERENCE_LOCAL_Z
+    else:
+        ref_tritemid = tr_item_ids[0][0]
+        ref_local_x, ref_local_y, ref_local_z = carspawner_rit_items[ref_tritemid]["TrItemRData"][:3]
+        ref_tile_x, ref_tile_y = carspawner_rit_items[ref_tritemid]["TrItemRData"][3:5]
 
     for platform in platforms:
         tr_itemid = platform["TrItemIds"][0]

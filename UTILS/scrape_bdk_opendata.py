@@ -20,9 +20,9 @@ import time
 import requests
 import pandas as pd
 
-export_directory = "..\DATA\"
-base_url = "https://services1.arcgis.com/QcgJt0vVxSaqMKl7/arcgis/rest/services/"
-query_urls = [
+EXPORT_FOLDER = "..\DATA\"
+BASE_URL = "https://services1.arcgis.com/QcgJt0vVxSaqMKl7/arcgis/rest/services/"
+QUERY_URLS = [
     "Adgangsveje_OD/FeatureServer/0/query",
     "Afsnitsmidter_OD/FeatureServer/0/query",
     "Basisspor_OD/FeatureServer/0/query",
@@ -61,11 +61,11 @@ query_urls = [
 
 
 if __name__ == "__main__":
-    if not os.path.exists(export_directory): 
-        os.makedirs(export_directory)
+    if not os.path.exists(EXPORT_FOLDER): 
+        os.makedirs(EXPORT_FOLDER)
 
-    for idx, query_url in enumerate(query_urls):
-        layer_url = base_url + query_url
+    for idx, query_url in enumerate(QUERY_URLS):
+        layer_url = BASE_URL + query_url
         params = {
             "where": "1=1",
             "outFields": "*",
@@ -87,8 +87,8 @@ if __name__ == "__main__":
             params["resultOffset"] += params["resultRecordCount"]
             time.sleep(10)
 
-        csv_filename = export_directory + query_url.split("/")[0] + ".csv"
+        csv_filename = EXPORT_FOLDER + query_url.split("/")[0] + ".csv"
         df = pd.json_normalize(all_features)
         df.to_csv(csv_filename, index=False)
 
-        print(f"Query {idx + 1} of {len(query_urls)} completed. Saved as {csv_filename}"))
+        print(f"Query {idx + 1} of {len(QUERY_URLS)} completed. Saved as {csv_filename}"))

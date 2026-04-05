@@ -18,6 +18,12 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 import os
 import fnmatch
 
+
+SEARCH_PATH = "../ROUTES/OR_DK24/WORLD"
+SHAPE_NAME_MATCH = "NR_*"
+DELTA_HEIGHT = -0.07
+
+
 def find_world_files(search_directory):
   world_files = []
   for file_name in os.listdir(search_directory):
@@ -70,11 +76,7 @@ def translate_heights(world_file, shape_name_match, delta_height):
 
 
 if __name__ == "__main__":
-    search_path = "../ROUTES/OR_DK24/WORLD"
-    shape_name_match = "NR_*"
-    delta_height = -0.07
-    
-    world_files = find_world_files(search_path)
+    world_files = find_world_files(SEARCH_PATH)
 
     for world_file in world_files:
-      translate_heights(world_file, shape_name_match, delta_height)
+      translate_heights(world_file, SHAPE_NAME_MATCH, DELTA_HEIGHT)
